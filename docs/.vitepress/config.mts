@@ -4,6 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '一人公司 · AI 实验室',
   description: '一人公司 & AI 工具、自动化、创业思维',
+  head: [
+      // Google adsense 自动广告代码
+      ['script', {
+          async: 'async',
+          // 替换成你的专属src（从谷歌广告后台获取）
+          src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8064419215200010',
+          crossorigin: 'anonymous',
+      }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
