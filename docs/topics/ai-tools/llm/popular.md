@@ -9,6 +9,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-03-23
+- **[Google 测试 macOS 版 Gemini 应用](https://www.theverge.com/ai-artificial-intelligence)** 据报道 Google 正在测试 macOS 版 Gemini 应用，进一步扩展其 AI 助手桌面端能力
+- **[Microsoft 推出 MAI-Image-2 第二代 AI 图像模型](https://microsoft.ai/news/introducing-MAI-Image-2/)** MAI-Image-2 提供增强的照片级真实感和更可靠的图像文字生成功能，现已在 Copilot 和 Bing Image Creator 中推出
+- **[Signal 创始人帮助 Meta 加密 AI 服务](https://confer.to/blog/2026/03/encrypted-meta/)** Moxie Marlinspike 宣布正在与 Meta 合作，将 Confer 的隐私技术整合到 Meta AI 底层
+
 ### 2026-03-22
 - **[Google 测试 macOS 版 Gemini 应用](https://www.theverge.com/ai-artificial-intelligence)** 据报道 Google 正在测试 macOS 版 Gemini 应用，进一步扩展其 AI 助手桌面端能力
 - **[Microsoft 推出 MAI-Image-2 第二代 AI 图像模型](https://microsoft.ai/news/introducing-MAI-Image-2/)** MAI-Image-2 提供增强的照片级真实感和更可靠的图像文字生成功能，现已在 Copilot 和 Bing Image Creator 中推出

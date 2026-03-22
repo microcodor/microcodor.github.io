@@ -9,6 +9,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-23
+- **[WordPress MCP 集成：AI Agent 自动化内容发布](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)** WordPress.com 开放 MCP 协议，Claude、ChatGPT 等 AI Agent 可直接起草、审核并发布博客内容，开启 AI 驱动的内容自动化新范式
+- **[Google Stitch 设计工具语音化](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** Google Stitch AI UI 设计工具加入语音能力，降低设计自动化门槛
+
 ### 2026-03-22
 - **[WordPress MCP 集成：AI Agent 自动化内容发布](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)** WordPress.com 开放 MCP 协议，Claude、ChatGPT 等 AI Agent 可直接起草、审核并发布博客内容，开启 AI 驱动的内容自动化新范式
 

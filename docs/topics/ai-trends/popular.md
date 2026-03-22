@@ -9,6 +9,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-03-23
+- **[Samsung 投资 730 亿美元扩展 AI 芯片产能](https://www.theverge.com/ai-artificial-intelligence)** Samsung 计划增加 22% 的生产和研发投资，目标超越 SK Hynix 成为 Nvidia 主要内存供应商，AI Agent 需求推动订单激增
+- **[Amazon Alexa Plus 英国发布](https://www.aboutamazon.com/news/devices/alexa-plus-international-launch/)** Alexa AI 升级版首次在欧洲推出，早期免费，之后每月 £19.99，Prime 会员免费
+- **[Sony 开发反 Ghibli 侵权 AI 技术](https://www.theverge.com/ai-artificial-intelligence)** Sony 训练专属"Protective AI"模型识别宫崎骏作品风格的 AI 生成内容，打击侵权"slop"
+- **[AI 生成瓦利·基尔默电影](https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/)** 已故演员 Val Kilmer 将以 AI 生成形象出演新电影
+
 ### 2026-03-22
 - **[Amazon Alexa Plus 英国发布](https://www.aboutamazon.com/news/devices/alexa-plus-international-launch/)** Alexa AI 升级版首次在欧洲推出，早期免费，之后每月 £19.99，Prime 会员免费
 - **[Samsung 投资 730 亿美元扩展 AI 芯片产能](https://www.theverge.com/ai-artificial-intelligence)** Samsung 计划增加 22% 的生产和研发投资，目标超越 SK Hynix 成为 Nvidia 主要内存供应商，AI Agent 需求推动订单激增

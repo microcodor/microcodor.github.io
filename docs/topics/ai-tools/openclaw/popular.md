@@ -9,6 +9,9 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-03-23
+- **[Nvidia 推出 NemoClaw 安全版 AI Agent 平台](https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw)** Nvidia 宣布推出 NemoClaw，这是一个基于 OpenCLAW 的安全版本，通过隔离沙箱环境提供隐私和安全保障，使用 Nvidia Agent Toolkit 优化
+
 ### 2026-03-22
 - **[OpenCLAW 飞书集成持续完善](https://github.com/clawhouse/openclaw)** OpenCLAW 支持飞书文档、wiki、云盘、权限管理等企业级集成能力
 
