@@ -5,6 +5,19 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 # 主流平台与生态
 
+> 最后更新：自动汇总
+
+## 近期动态
+
+### 2026-03-22
+- **[WordPress MCP 集成：AI Agent 自动化内容发布](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)** WordPress.com 开放 MCP 协议，Claude、ChatGPT 等 AI Agent 可直接起草、审核并发布博客内容，开启 AI 驱动的内容自动化新范式
+
+### 2026-03-21
+- **[AI 内容监管标准统一化进程](https://www.bbc.co.uk/news/articles/cj0d6el50ppo)** BBC 统计显示已有 8 个不同组织尝试建立"人类创作"标识体系，专家呼吁统一标准避免消费者混淆
+
+### 2026-03-20
+- **[Google Stitch 设计工具语音化](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** Google Stitch AI UI 设计工具加入语音能力，降低设计自动化门槛
+
 ## 低代码 / 无代码自动化
 
 - Make：可视化编排强，适合复杂分支与数据处理
