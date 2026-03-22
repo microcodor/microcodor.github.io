@@ -10,6 +10,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-23
+- **[装了龙虾不知道该干嘛?你差的是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
+- **[微软Copilot工作流自动化](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** AI和低代码平台赋能给非技术用户，构建和管理工作流无需大量IT介入
+- **[2026年11个最佳AI工作流自动化工具](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello等，AI workflow工具成企业效率提升关键
+- **[Zapier解锁AI工作流](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=id)** Zapier通过8000+集成生态系统安全扩展工作流、代理和MCP
+- **[n8n：AI工作流自动化平台](https://n8n.io/?utm_source=opencollective&utm_medium=github&utm_campaign=vuejs)** 开源工作流自动化工具，支持自托管和可扩展性
+
+### 2026-03-23
 - **[WordPress MCP 集成：AI Agent 自动化内容发布](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)** WordPress.com 开放 MCP 协议，Claude、ChatGPT 等 AI Agent 可直接起草、审核并发布博客内容，开启 AI 驱动的内容自动化新范式
 - **[Google Stitch 设计工具语音化](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** Google Stitch AI UI 设计工具加入语音能力，降低设计自动化门槛
 
