@@ -53,9 +53,29 @@ export default defineConfig({
           text: '🤖 AI工具深度评测',
           items: [
             { text: '概览', link: '/topics/ai-tools/' },
+            { text: 'Agent 技术', link: '/topics/ai-tools/agent/' },
+            { text: '大模型动态', link: '/topics/ai-tools/llm/' },
             { text: '主流工具清单', link: '/topics/ai-tools/popular' },
             { text: '选型与评测框架', link: '/topics/ai-tools/playbook' },
             { text: 'OpenClaw 专题', link: '/topics/ai-tools/openclaw/' }
+          ]
+        }
+      ],
+      '/topics/ai-tools/agent/': [
+        {
+          text: '🤖 Agent 技术',
+          items: [
+            { text: '专题页', link: '/topics/ai-tools/agent/' },
+            { text: '工具清单', link: '/topics/ai-tools/agent/popular' }
+          ]
+        }
+      ],
+      '/topics/ai-tools/llm/': [
+        {
+          text: '🧠 大模型动态',
+          items: [
+            { text: '专题页', link: '/topics/ai-tools/llm/' },
+            { text: '评测清单', link: '/topics/ai-tools/llm/popular' }
           ]
         }
       ],
