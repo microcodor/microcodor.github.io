@@ -10,6 +10,14 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-23
+- **[微软Ignite 2025大会发布AI驱动技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型，Edge for Business成首款安全企业级AI浏览器
+- **[新势力车企盈利破局多元布局AI业务](https://www.cinic.org.cn/hy/jd/1627851.html)** 理想汽车连续三年盈利、零跑汽车首次年度盈利、蔚来首季度盈利，布局AI眼镜、人形机器人
+- **[2025服贸会猿编程发布星瀚智能套装](http://k.sina.com.cn/article_7857141524_1d452771401901p7r0.html)** 猿编程发布AI教育产品，以4C体系重新定义青少年AI教育
+- **[AI6特斯拉第六代AI芯片](https://baike.baidu.com/item/AI6/66254330)** 特斯拉AI6采用三星2纳米工艺，2028年推出，"训推一体"融合架构性能目标为前代2倍
+- **[图灵奖得主与AI教母的10亿美元赌局:世界模型六大流派](https://baijiahao.baidu.com/s?id=1860290010651426508&wfr=spider&for=pc)** JEPA、空间智能、生成式视频等六大流派分裂，李飞飞World Labs推出Marble
+- **[2025年百镜大战](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v0nm.html)** 上百款AI眼镜密集登场，Rokid Glass 5天售出4万台，预计2029年全球出货量突破4000万台
+
+### 2026-03-23
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
 - **[微软Ignite 2025大会发布AI驱动技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型，Edge for Business成首款安全企业级AI浏览器
 - **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://baijiahao.baidu.com/s?id=1860166961652307074)** SAP携手创业邦发布，具身智能机器人正从实验室走向规模化商用

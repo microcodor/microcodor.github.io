@@ -10,6 +10,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-23
+- **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
+- **[大模型时代的人机协同系统架构](https://bytex.blog.csdn.net/article/details/159316963)** 从"副驾驶"到"同乘者"，从"黑箱执行"到"透明协作"，从"单次对话"到"持续共创"
+- **[Notion Custom Agent自动化工作流](https://new.qq.com/rain/a/20260322A03BPQ00)** Notion Custom Agent可自动执行11个复杂步骤，从内容优化到跨平台发布
+- **[字节Coze降低AI开发门槛](https://developer.aliyun.com/article/1718838)** 零代码平台让AI Agent开发像搭积木一样简单，大模型+工具+知识库+工作流四大组件
+- **[Dify深度评测:开源AI开发平台的瑞士军刀](https://www.woshipm.com/ai/6360516.html)** Dify完成3000万美元Pre-A轮融资，估值1.8亿美元，GitHub星标突破10万
+- **[保姆级教程:手把手教你部署OpenClaw](https://developer.aliyun.com/article/1718834)** OpenClaw自动化日报生成、文件整理、群消息回复等重复任务，数据本地存储保障隐私
+- **[微盟财报揭示:SaaS正将AI转化为盈利工具](https://m.163.com/dy/article/KOKQJCBG05568V2L.html)** 中国SaaS行业在AI智能体压力下展现战略转型能力
+
+### 2026-03-23
 - **[AIWorkflow技术实现与模型训练优化方案](https://www.dtstack.com/bbs/article/445503)** AIworkflow技术实现涉及数据中台、模型训练优化、工作流引擎等关键步骤
 - **[AI自动化流程的核心技术与实现方案](https://www.dtstack.com/bbs/article/445490)** 核心技术包括大模型能力调用、工作流引擎编排、反馈与优化三大模块
 - **[AI工具大揭秘:小白也能玩转大模型,收藏这篇就够了!](https://blog.csdn.net/2401_85325726/article/details/159202507)** 可扩展的工作流自动化工具(Workflow Automation)介绍

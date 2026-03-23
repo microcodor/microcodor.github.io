@@ -10,6 +10,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-23
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI记忆架构正从"上下文"向"连续性"跨越，Mem0混合向量与图存储架构、Letta分层记忆设计各具特色
+- **[北邮00后UP主开发AstrBot](https://baijiahao.baidu.com/s?id=1860326295606154935&wfr=spider&for=pc)** B站UP主开发的硬核Agent框架AstrBot早在2023年1月发布，现已2.6万Star
+- **[Cursor承认新模型基于Kimi训练](https://baijiahao.baidu.com/s?id=1860329223680172654&wfr=spider&for=pc)** Cursor Composer 2基于Kimi K2.5训练，联合创始人发文致歉
+- **[GTC 2026谈物理AI](https://baijiahao.baidu.com/s?id=1860345564557770568&wfr=spider&for=pc)** 英伟达GTC大会揭示Physical AI成所有人可入场的开放赛场，算力替代数据、Agent替代专家
+- **[AI Agent在企业领域的30个应用场景深度解析](http://word.baidu.com/noteview/9ab0a0bff90a79563c1ec5da50e2524de518d026.html)** Gartner预测2025年超60%企业部署Agent，问题解决时间从8分钟缩至2.3分钟
+
+### 2026-03-23
 - **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
 - **[意图即应用:Agentic AI时代计算交互新范式](https://baijiahao.baidu.com/s?id=1859899146427514664&wfr=spider&for=pc)** 意图即应用(Intent-as-an-App,IaaA)是以交互范式为入口、以计算范式为内核的新一代融合型范式
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI的记忆架构正从简单的"上下文"向真正的"连续性"跨越，Mem0、Letta等记忆架构方案各具特色
