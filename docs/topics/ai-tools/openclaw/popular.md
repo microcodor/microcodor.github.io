@@ -10,6 +10,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-23
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布，开发者可完全自定义上下文处理逻辑
+- **[GTC 大会解锁 Agent 时代新红利:OpenClaw 重构软件底层](https://baijiahao.baidu.com/s?id=1859896345551450739)** 黄仁勋将OpenClaw定位为堪比Linux与HTML的下一代互联网和软件底层地基，AI产业正式从"大模型对话时代"迈入"AI Agent自主执行时代"
+- **[当AI助手变成"特洛伊木马":OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 安全研究者发现NPM恶意依赖包攻击和供应链投毒，全球超27万实例暴露公网，约40%与已知APT组织存在关联
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** 全新Control UI控制台、Ollama完整接入流程、多模态记忆系统、Agent编排能力和自动容灾机制增强
+
+### 2026-03-23
 - **[从OpenClaw看AI Agent产业链](http://finance.sina.com.cn/wm/2026-03-22/doc-inhrxmec8180102.shtml)** OpenClaw支持本地化部署、个性化持久记忆、系统级自动化执行、多渠道统一接入
 - **[中国版OpenClaw"LobsterAI"接入微信](https://baijiahao.baidu.com/s?id=1860404733513741994&wfr=spider&for=pc)** 微信官宣ClawBot插件正式上线，LobsterAI完成对国内主流IM平台全覆盖
 - **[OpenClaw爆火,AI Agent时代真的来了](http://finance.sina.com.cn/stock/bxjj/2026-03-22/doc-inhrwckv4924525.shtml)** IDC测算2031年中国企业AI Agent数量将突破3.5亿，Token消耗年均超30倍增长

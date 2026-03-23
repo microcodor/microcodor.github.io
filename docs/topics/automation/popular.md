@@ -10,6 +10,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-23
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
+- **[微软Copilot工作流自动化](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** AI和低代码平台赋能给非技术用户，构建和管理工作流无需大量IT介入
+- **[2026年11个最佳AI工作流自动化工具](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello等，AI workflow工具成企业效率提升关键
+- **[Zapier解锁AI工作流](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=id)** Zapier通过8000+集成生态系统安全扩展工作流、代理和MCP
+- **[n8n：AI工作流自动化平台](https://n8n.io/?utm_source=opencollective&utm_medium=github&utm_campaign=vuejs)** 开源工作流自动化工具，支持自托管和可扩展性
+
+### 2026-03-23
 - **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
 - **[大模型时代的人机协同系统架构](https://bytex.blog.csdn.net/article/details/159316963)** 从"副驾驶"到"同乘者"，从"黑箱执行"到"透明协作"，从"单次对话"到"持续共创"
 - **[Notion Custom Agent自动化工作流](https://new.qq.com/rain/a/20260322A03BPQ00)** Notion Custom Agent可自动执行11个复杂步骤，从内容优化到跨平台发布

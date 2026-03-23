@@ -10,6 +10,12 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-23
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，包括LangGraph、CrewAI、Dify、Qwen-Agent等，低代码/零代码平台成为重要趋势
+- **[2025年AI Agent框架选型指南](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+
+### 2026-03-23
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI记忆架构正从"上下文"向"连续性"跨越，Mem0混合向量与图存储架构、Letta分层记忆设计各具特色
 - **[北邮00后UP主开发AstrBot](https://baijiahao.baidu.com/s?id=1860326295606154935&wfr=spider&for=pc)** B站UP主开发的硬核Agent框架AstrBot早在2023年1月发布，现已2.6万Star
 - **[Cursor承认新模型基于Kimi训练](https://baijiahao.baidu.com/s?id=1860329223680172654&wfr=spider&for=pc)** Cursor Composer 2基于Kimi K2.5训练，联合创始人发文致歉

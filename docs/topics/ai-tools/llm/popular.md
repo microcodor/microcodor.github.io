@@ -10,6 +10,12 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-23
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o是全能选手，Claude3.5是出色创作者，Gemini3.1Pro是处理海量信息的分析专家
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://www.thepaper.cn/newsDetail_forward_32672216)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、 Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[让川普头疼的Claude,在技术和人类安全边缘狂飙](https://news.qq.com/rain/a/20260318A04NWK00?adChannelId=tech)** Anthropic与五角大楼产生矛盾后，Claude冲榜App Store免费榜首位，展现极致安全承诺的商业价值
+
+### 2026-03-23
 - **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、 Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
 - **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://blog.csdn.net/linjin1234560/article/details/159388537)** MoE架构解析，GPT-4o参数1.8万亿激活2800亿，Gemini 3凭1M上下文可一次性处理70万字
 - **[2026年巅峰对决:GPT-5.2 vs Gemini 3.1 Pro](https://gitcode.csdn.net/69bfe2f654b52172bc63521f.html)** Gemini 3.1 Pro原生多模态统一token空间，API价格仅$2/百万tokenvs GPT-5.2的$4.8

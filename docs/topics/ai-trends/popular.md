@@ -10,6 +10,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-23
+- **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://baijiahao.baidu.com/s?id=1860166961652307074)** SAP携手创业邦发布，具身智能机器人正从实验室走向规模化商用
+- **[中国信通院发布2025智能终端蓝皮书](https://baijiahao.baidu.com/s?id=1859812261737353600)** AI手机、AI PC、AI可穿戴设备进入规模化商用阶段，NPU峰值算力突破100TOPS
+- **[微软Ignite 2025大会发布AI驱动技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型，Edge for Business成首款安全企业级AI浏览器
+- **[2025年AI领域十大事件](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1开源破局、宇树科技人形机器人登春晚、全球首款通用AI智能体Manus问世
+
+### 2026-03-23
 - **[微软Ignite 2025大会发布AI驱动技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型，Edge for Business成首款安全企业级AI浏览器
 - **[新势力车企盈利破局多元布局AI业务](https://www.cinic.org.cn/hy/jd/1627851.html)** 理想汽车连续三年盈利、零跑汽车首次年度盈利、蔚来首季度盈利，布局AI眼镜、人形机器人
 - **[2025服贸会猿编程发布星瀚智能套装](http://k.sina.com.cn/article_7857141524_1d452771401901p7r0.html)** 猿编程发布AI教育产品，以4C体系重新定义青少年AI教育
