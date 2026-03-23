@@ -10,6 +10,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-23
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
+- **[微软Ignite 2025大会发布AI驱动技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型，Edge for Business成首款安全企业级AI浏览器
+- **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://baijiahao.baidu.com/s?id=1860166961652307074)** SAP携手创业邦发布，具身智能机器人正从实验室走向规模化商用
+- **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://imgs.xinhuanet.com/tech/20260318/8b00d51b86ca42e88f9b98dd9134ab2e/c.html)** AI快速融入游戏、广告和社交等核心业务，混元大模型为底座的AI产品线迅速铺开
+
+### 2026-03-23
 - **[2025具身智能机器人场景应用白皮书发布](https://baijiahao.baidu.com/s?id=1860166961652307074)** SAP携手创业邦发布，具身智能机器人正从实验室走向规模化商用
 - **[中国信通院发布2025智能终端蓝皮书](https://baijiahao.baidu.com/s?id=1859812261737353600)** AI手机、AI PC、AI可穿戴设备进入规模化商用阶段，NPU峰值算力突破100TOPS
 - **[微软Ignite 2025：AI驱动技术重磅发布](https://k.sina.cn/article_7879848900_1d5acf3c401902v2dk.html)** Azure Copilot引入智能体功能，SQL Server 2025发布原生向量数据类型

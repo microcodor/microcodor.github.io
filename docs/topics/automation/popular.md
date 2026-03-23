@@ -10,6 +10,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-23
+- **[AIWorkflow技术实现与模型训练优化方案](https://www.dtstack.com/bbs/article/445503)** AIworkflow技术实现涉及数据中台、模型训练优化、工作流引擎等关键步骤
+- **[AI自动化流程的核心技术与实现方案](https://www.dtstack.com/bbs/article/445490)** 核心技术包括大模型能力调用、工作流引擎编排、反馈与优化三大模块
+- **[AI工具大揭秘:小白也能玩转大模型,收藏这篇就够了!](https://blog.csdn.net/2401_85325726/article/details/159202507)** 可扩展的工作流自动化工具(Workflow Automation)介绍
+- **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details/159086427)** AI Workflow Automation Platform项目，目标实现触发器→AI处理→工具执行→输出结果
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行场景；Workflow适合多阶段、多节点协作的任务拆解
+
+### 2026-03-23
 - **[装了龙虾不知道该干嘛?你差的是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
 - **[微软Copilot工作流自动化](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** AI和低代码平台赋能给非技术用户，构建和管理工作流无需大量IT介入
 - **[2026年11个最佳AI工作流自动化工具](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello等，AI workflow工具成企业效率提升关键

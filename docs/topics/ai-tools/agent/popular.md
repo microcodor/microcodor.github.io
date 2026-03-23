@@ -10,6 +10,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-23
+- **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
+- **[意图即应用:Agentic AI时代计算交互新范式](https://baijiahao.baidu.com/s?id=1859899146427514664&wfr=spider&for=pc)** 意图即应用(Intent-as-an-App,IaaA)是以交互范式为入口、以计算范式为内核的新一代融合型范式
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI的记忆架构正从简单的"上下文"向真正的"连续性"跨越，Mem0、Letta等记忆架构方案各具特色
+- **[企业系统AI应用集成:常用知识增强技术方案与Microsoft Agent Framework实践](https://www.sohu.com/a/997451294_121124363)** 围绕RAG、Tool Calling、Agent架构等技术的知识增强技术方案与Microsoft Agent Framework实践
+- **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250&wfr=spider&for=pc)** 从导入期到转折点，AI正从叙事逻辑回归生产逻辑，Agent成为关键抓手
+
+### 2026-03-23
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，包括LangGraph、CrewAI、Dify、Qwen-Agent等，低代码/零代码平台成为重要趋势
