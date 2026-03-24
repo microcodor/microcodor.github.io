@@ -10,6 +10,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-24
+- **[【电子行业专题报告】OpenClaw赋能AI Agent新范式](http://finance.sina.com.cn/roll/2026-03-24/doc-inhsarqy4332612.shtml)** OpenClaw v3.8发布，上线行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** ContextEngine插件接口发布，GPT-5.4+Gemini 3.1双引擎上线，Discord+Telegram深度整合
+- **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860500918484726803)** 全新公开插件SDK上线，废弃旧扩展API，ClawHub插件作为分发首选渠道
+- **[当AI助手变成"特洛伊木马":OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 安全研究者发现NPM恶意依赖包攻击，全球超27万实例暴露公网，约40%与APT组织关联
+
+### 2026-03-24
 - **[从OpenClaw看AI Agent产业链](https://www.163.com/dy/article/KOMP10KF05568W0A.html)** 本地化部署、个性化持久记忆、系统级自动化执行、多渠道统一接入、多智能体会话隔离
 - **[AI Agent范式升级:从OpenClaw看产业链增长机遇](https://xueqiu.com/9029443876/380462281)** GitHub星标超30万登顶开源软件榜首，2026年底月Token消耗量有望增长19.1-489.6T
 - **[2026年部署OpenClaw构建可记忆、可协同的AI Agent团队](https://post.smzdm.com/p/anvwwg8p)** 四层架构设计：总调度层、执行层、审查层、项目管理层，打破Agent隔离状态

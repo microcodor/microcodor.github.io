@@ -10,6 +10,12 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-24
+- **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
+- **[AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)** 2025年十大AI Agent框架深度解析，AutoGen、LangGraph、CrewAI等
+- **[2025-2026年AI Agent框架选型指南](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://tech.sina.cn/2026-03-13/detail-inhqurvu4310865.d.html)** 记忆框架出现清晰分层，Mem0混合向量+图结构实现26%准确率提升
+
+### 2026-03-24
 - **[同一AI模型性能从42%跳到78%:2026年最重要的AI概念不是更大的模型](https://zhuanlan.zhihu.com/p/2018337397964817233)** 通过外部运行框架Agent Harness，同一模型在标准化基准测试上性能从42%跃升至78%
 - **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details/159287980)** 基于LLM操作系统的多智能体架构深度拆解，AI Agent正经历第四阶段演进
 - **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手

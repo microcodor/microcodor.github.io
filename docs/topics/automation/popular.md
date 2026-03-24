@@ -10,6 +10,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-24
+- **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划
+- **[AI工作流高效构建与优化设计](https://www.dtstack.com/bbs/article/434060)** AI工作流构建步骤：需求分析、数据准备、模型选择、工具选型、流程设计
+- **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details=159086427)** AI Workflow Automation Platform项目，目标实现触发器→AI处理→工具执行→输出结果
+
+### 2026-03-24
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划
 - **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details/159086427)** 用户可创建触发器→AI处理→工具执行→输出结果的工作流，UI类似Zapier/n8n
 - **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程

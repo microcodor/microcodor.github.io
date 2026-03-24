@@ -10,6 +10,13 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-24
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
+- **[龙虾最大痛点被官方插件升级!对话永不忘记,GPT和Gemini最强模型都可接入](http://zhuanlan.zhihu.com/p/2014322685174383267)** OpenClaw 2026.3.7测试版上线ContextEngine可插拔上下文引擎，实现对话永不忘记
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://g.pconline.com.cn/zhizao/article/1545315.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术，Claude 4.6 Opus安全优先路线
+
+### 2026-03-24
 - **[GPT5.4 vs Claude 4 vs Gemini 2,2026年大模型三强终极对决](https://www.zhihu.com/pin/2018005793899852706)** 12个维度实测数据对比，GPT5.4全能型、Claude 4安全可控、Gemini 2多模态生态整合
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o是全能选手，Claude3.5是出色创作者，Gemini3.1Pro是处理海量信息的分析专家
 - **[2026年国内免费使用GPT/Claude/Gemini全攻略](https://www.pconline.com.cn/ai/article/1546176.html)** 聚合镜像站解决模型选择困难、访问门槛高、多平台切换繁琐三大痛点
