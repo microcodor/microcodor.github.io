@@ -75,6 +75,15 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-03-19
 - **[Meta AI 审核系统将逐步替代人工承包商](https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/)** Meta 宣布扩大 AI 支持助手部署范围，未来几年将减少对第三方人工内容审核的依赖
 
+### 2026-03-25
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI记忆架构正从简单"上下文"向真正"连续性"跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
+- **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
+- **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手，2025全球私营AI公司融资约2258亿美元
+- **[同一AI模型性能从42%跳到78%:2026年最重要的AI概念不是更大的模型](https://zhuanlan.zhihu.com/p/2018337397964817233)** 通过外部运行框架Agent Harness，同一模型在标准化基准测试上性能从42%跃升至78%
+- **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details=159287980)** 基于LLM操作系统的多智能体架构深度拆解，AI Agent正经历第四阶段演进
+- **[AI越强,项目反而越失控了](https://zhuanlan.zhihu.com/p/2018293733980918922)** 从"让AI帮忙落地"到"让AI主导执行"，人和AI的关系正在发生根本性变化
+- **[858亿砸AI,腾讯杀入AI战争](https://baijiahao.baidu.com/s?id=1860192138209542796)** 腾讯2025年Q4营收1943.7亿元，云业务首次实现规模化盈利，AI应用规模同步扩大
+
 （每日更新...）
 
 ## 框架分类

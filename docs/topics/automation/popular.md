@@ -82,6 +82,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ### 2026-03-20
 - **[Google Stitch 设计工具语音化](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)** Google Stitch AI UI 设计工具加入语音能力，降低设计自动化门槛
 
+### 2026-03-25
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划、工具调用和反思
+- **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
+- **[AI正在进入本地时代,我开源了一个推理平台](https://www.jianshu.com/p/8d7dd9ab6c2e)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow
+- **[开源项目管理工具选型指南(2026年最新)](https://zhuanlan.zhihu.com/p/2018861267570402192)** AI开始成为新的比较维度，NocoBase极易扩展的开源低代码平台
+- **[解锁AI驱动效率革命:OpenClaw阿里云/本地部署自动化工作流+API配置实操手册](https://developer.aliyun.com/article/1719089)** 自动化工作流核心逻辑"触发器-动作-条件"构建闭环，无代码/低代码、高灵活度、全场景覆盖
+- **[GitLab MCP Workflow: AI-Powered R&D Automation Tool](https://www.mcpworld.com/en/detail/467a69f1a6f60327ac6524b7c0e947b0)** 工作流编排工具和原子API工具的对比，MCP协议在CI/CD中的应用
+- **[Agent、Workflow、RAG还是Skill?谁才是AI落地的最佳方案](https://zhuanlan.zhihu.com/p/2012464671169456028)** RAG管知识、Skill管动作、Workflow管流程、Agent管决策与自主执行
+- **[一文带你搞懂Prompt、Tools、Workflow、Skill、MCP等AI概念](https://it.sohu.com/a/998894963_122666652)** Prompt是指令提示、Tools是工具、Workflow是工作流程、Skill是技能、MCP是管理和控制机制
+
 ## 低代码 / 无代码自动化
 
 - Make：可视化编排强，适合复杂分支与数据处理

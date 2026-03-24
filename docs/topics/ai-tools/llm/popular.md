@@ -77,6 +77,15 @@ description: 主流大模型能力对比与选型参考
 ### 2026-03-20
 - **[Signal 创始人帮助 Meta 加密 AI 服务](https://confer.to/blog/2026/03/encrypted-meta/)** Moxie Marlinspike 宣布正在与 Meta 合作，将 Confer 的隐私技术整合到 Meta AI 底层
 
+### 2026-03-25
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o是全能选手，Claude3.5是出色创作者，Gemini3.1Pro是处理海量信息的分析专家
+- **[GPT5.4 vs Claude 4 vs Gemini 2,2026年大模型三强终极对决](https://www.zhihu.com/pin/2018005793899852706)** 12个维度实测数据对比，GPT5.4全能型、Claude 4安全可控、Gemini 2多模态生态整合
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[哈佛物理教授让AI写论文,两周干完博士一年工作](https://www.163.com/dy/article/KOQ763S60511ABV6.html)** 哈佛教授用Claude 4.5两周完成量子色动力学论文，已发表在顶级期刊
+- **[2026主流AI工具横评:ChatGPT Claude Gemini谁更香](https://developer.cloud.tencent.com/article/2644278)** ChatGPT Plus真万金油、Claude Pro创意长文天花板、Gemini高级谷歌生态加持
+
 （每日更新...）
 
 ## 模型对比

@@ -73,6 +73,16 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-03-15
 - **[OpenCLAW Gateway 架构优化](https://github.com/clawhouse/openclaw)** 支持 isolated session、cron 定时任务、webhook 回调等企业级功能
 
+### 2026-03-25
+- **[电子行业专题报告:OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，上线行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
+- **[停更9天后OpenClaw迎来3.22大更新,但普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，API路径重构导致第三方插件兼容性问题
+- **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，ClawHub插件作为分发首选渠道
+- **[昨晚,OpenClaw大更新,亲手终结「旧插件」时代](https://baijiahao.baidu.com/s?id=1860515117865889200)** 插件生态重心转向ClawHub，SDK重构为openclaw/plugin-sdk/*入口
+- **[AI开始操控电脑:Claude与OpenClaw同日亮剑,Agent路线之争白热化](https://news.sina.cn/ai/2026-03-24/detail-inhsarqw7537199.d.html)** Anthropic升级Claude Code可直接操控电脑，与OpenClaw形成正面竞争
+- **[OpenClaw更新翻车,Redis创始人:代码写得烂,真的不能怪AI](https://www.163.com/dy/article/KOPLTEDA05569T9M.html)** antirez发文《别掉进反AI陷阱》，指出AI将永远改变编程
+- **[OpenClaw地位不保!Claude Code大更新:AI可直接操控电脑](https://baijiahao.baidu.com/s?id=1860527127265635427)** 业内认为两者代表不同技术路线，Claude走即插即用产品化路径，OpenClaw坚持系统级Agent架构
+- **[黄仁勋才讲完故事,智己已交卷:车载AI Agent迎来OpenClaw时刻](https://baijiahao.baidu.com/s?id=1860110314205987652)** 智己汽车发布IM Ultra Agent，基于IM Fusion Nova智能架构
+
 （每日更新...）
 
 ## 功能亮点
