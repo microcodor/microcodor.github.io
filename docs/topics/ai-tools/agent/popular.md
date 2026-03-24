@@ -9,6 +9,14 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-03-24
+- **[同一AI模型性能从42%跳到78%:2026年最重要的AI概念不是更大的模型](https://zhuanlan.zhihu.com/p/2018337397964817233)** 研究发现通过外部运行框架Agent Harness，同一模型在标准化基准测试上性能从42%跃升至78%，LangChain团队通过重构框架跃升Top 5
+- **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details/159287980)** 基于LLM操作系统的多智能体架构深度拆解，从单体模型觉醒到端侧自动执行，AI Agent正经历第四阶段演进
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://www.sohu.com/a/999596377_121948943)** AI记忆架构正从简单上下文向真正连续性跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
+- **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手，2025全球私营AI公司融资约2258亿美元
+- **[AI Agent在企业领域的30个应用场景深度解析](http://word.baidu.com/noteview/9ab0a0bff90a79563c1ec5da50e2524de518d026.html)** Gartner预测2025年超60%企业部署Agent，问题解决时间从8分钟缩至2.3分钟
+- **[装了龙虾不知道该干嘛?你差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
+
 ### 2026-03-23
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合

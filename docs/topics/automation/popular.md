@@ -9,6 +9,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-24
+- **[收藏!小白程序员必看:轻松分清Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划、工具调用和反思
+- **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details/159086427)** 用户可创建触发器→AI处理→工具执行→输出结果的工作流，UI类似Zapier/n8n
+- **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
+- **[Agent、Workflow、RAG还是Skill?谁才是AI落地的最佳方案](https://zhuanlan.zhihu.com/p/2012464671169456028)** RAG管知识、Skill管动作、Workflow管流程、Agent管决策与自主执行
+- **[一文带你搞懂Prompt、Tools、Workflow、Skill、MCP等AI概念](https://it.sohu.com/a/998894963_122666652)** Prompt是指令提示、Tools是工具、Workflow是工作流程、Skill是技能、MCP是管理和控制机制
+
 ### 2026-03-23
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
 - **[微软Copilot工作流自动化](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** AI和低代码平台赋能给非技术用户，构建和管理工作流无需大量IT介入

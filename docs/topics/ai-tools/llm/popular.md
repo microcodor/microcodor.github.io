@@ -9,6 +9,14 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-03-24
+- **[GPT5.4 vs Claude 4 vs Gemini 2,2026年大模型三强终极对决](https://www.zhihu.com/pin/2018005793899852706)** 12个维度实测数据对比，GPT5.4全能型、Claude 4安全可控、 Gemini 2多模态生态整合
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o是全能选手，Claude3.5是出色创作者，Gemini3.1Pro是处理海量信息的分析专家
+- **[2026年国内免费使用GPT/Claude/Gemini全攻略](https://www.pconline.com.cn/ai/article/1546176.html)** 聚合镜像站解决模型选择困难、访问门槛高、多平台切换繁琐三大痛点
+- **[让川普头疼的Claude,在技术和人类安全边缘狂飙](https://news.qq.com/rain/a/20260318A04NWK00)** Claude冲榜App Store免费榜首位，极致安全承诺转化为商业护城河
+
 ### 2026-03-23
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o是全能选手，Claude3.5是出色创作者，Gemini3.1Pro是处理海量信息的分析专家
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://www.thepaper.cn/newsDetail_forward_32672216)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
