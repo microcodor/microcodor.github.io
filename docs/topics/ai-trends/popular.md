@@ -10,6 +10,14 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-24
+- **[2026具身智能爆发元年:五家企业如何定义家用机器人的真实价值?](https://baijiahao.baidu.com/s?id=1859989106858344021)** 基于高工机器人产业研究所评价模型，锚定融资估值、技术落地、量产交付能力等维度
+- **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://www.xinhuanet.com/tech/20260318/8b00d51b86ca42e88f9b98dd9134ab2e/c.html)** AI快速融入游戏、广告和社交核心业务，混元大模型为底座的AI产品线迅速铺开
+- **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://baijiahao.baidu.com/s?id=1860166961652307074)** SAP携手创业邦发布，聚焦机器人从实验室走向规模化商用的场景应用
+- **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](http://k.sina.com.cn/article_7879848900_1d5acf3c401902t8pc.html)** 财富500强近70%员工使用Copilot Agents处理重复性工作，AI Agents具备更强记忆、推理和多模态能力
+- **[微软Build 2025:All in 开放的智能体世界](https://k.sina.com.cn/article_7879848900_1d5acf3c401902tjf0.html)** Microsoft 365 Copilot Tuning允许使用企业数据训练定制智能体，6月开放
+- **[AI终端正全面迈入规模化商用](https://cbgc.scol.com.cn/news/7396344)** 中国信通院发布蓝皮书，AI手机全球渗透率预计达34%，AI PC占PC出货量超40%
+
+### 2026-03-24
 - **[新势力车企盈利破局 多元布局AI业务谋增长](https://www.cinic.org.cn/hy/jd/1627851.html)** 理想汽车连续三年盈利、零跑汽车首次年度盈利、蔚来首季度盈利，布局AI眼镜、人形机器人等具身智能新兴领域
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://imgs.xinhuanet.com/tech/20260318/8b00d51b86ca42e88f9b98dd9134ab2e/c.html)** AI快速融入游戏、广告和社交核心业务，混元3.0将于4月发布
 - **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902t8pc)** 财富500强近70%员工使用Copilot Agents处理重复性工作，AI Agents具备更强记忆、推理和多模态能力
