@@ -10,6 +10,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-24
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划、工具调用和反思
+- **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details/159086427)** 用户可创建触发器→AI处理→工具执行→输出结果的工作流，UI类似Zapier/n8n
+- **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
+- **[开源项目管理工具选型指南(2026年最新)](https://zhuanlan.zhihu.com/p/2018861267570402192)** AI开始成为新的比较维度，NocoBase极易扩展的开源低代码平台
+
+### 2026-03-24
 - **[收藏!小白程序员必看:轻松分清Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划、工具调用和反思
 - **[AI自动化工作流:智能驱动未来](https://gisjing.blog.csdn.net/article/details/159086427)** 用户可创建触发器→AI处理→工具执行→输出结果的工作流，UI类似Zapier/n8n
 - **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details/159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程

@@ -10,6 +10,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-24
+- **[东海研究|电子:OpenClaw引发Agent热潮,推理Token需求拉动算力增长](https://baijiahao.baidu.com/s?id=1859985061127379613)** 国内头部CSP先后推出相关Agent产品，百度DuClaw、腾讯WorkBuddy、字节ArkClaw、阿里QoderWork
+- **[OpenClaw v2026.3.12:新一代 AI Agent 网关更新](https://blog.csdn.net/shanghaiwren/article/details/159172466)** 全新Control UI控制台、智能快速模式、插件架构革新、企业级安全加固
+- **[深度解析 OpenClaw 2026.3.7 重磅更新:可插拔 ContextEngine 重塑智能体架构](https://blog.csdn.net/web_geek/article/details/159247300)** ContextEngine革命性插件化接口发布，包含89次核心提交及200余项漏洞修复
+- **[OpenClaw又搞大动作:引擎能热插拔、Agent能长住](https://blog.csdn.net/hzjjames/article/details=158894451)** ContextEngine插件接口、ACP协议持久化绑定、GPT-5.4和Gemini 3.1 Flash-Lite支持
+- **[OpenClaw紧急修复版发布:一次补锅式更新](https://www.sohu.com/a/999630521_122550163)** v2026.3.13-1修复发布链路问题，AI记忆不再丢失，上下文更稳定
+
+### 2026-03-24
 - **[AI Agent范式升级:从OpenClaw看产业链增长机遇](https://xueqiu.com/9029443876/380462281)** OpenClaw GitHub星标超30万登顶开源软件榜首，带动Token消耗驱动算力需求，2026年底月Token消耗量有望增长19.1-489.6T
 - **[OpenClaw紧急修复版发布:一次补锅式更新](https://www.sohu.com/a/999630521_122550163)** v2026.3.13-1修复发布链路问题，AI记忆不再丢失，上下文更稳定，开始认真做普通人能用的体验
 - **[2026年部署OpenClaw构建可记忆、可协同的AI Agent团队](https://post.smzdm.com/p/anvwwg8p)** 四层架构设计：总调度层、执行层、审查层、项目管理层，打破Agent隔离状态实现真正团队协作

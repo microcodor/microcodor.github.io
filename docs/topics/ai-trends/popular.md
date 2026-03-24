@@ -11,6 +11,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ### 2026-03-24
 - **[新势力车企盈利破局 多元布局AI业务谋增长](https://www.cinic.org.cn/hy/jd/1627851.html)** 理想汽车连续三年盈利、零跑汽车首次年度盈利、蔚来首季度盈利，布局AI眼镜、人形机器人等具身智能新兴领域
+- **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://imgs.xinhuanet.com/tech/20260318/8b00d51b86ca42e88f9b98dd9134ab2e/c.html)** AI快速融入游戏、广告和社交核心业务，混元3.0将于4月发布
+- **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902t8pc)** 财富500强近70%员工使用Copilot Agents处理重复性工作，AI Agents具备更强记忆、推理和多模态能力
+- **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://zhuanlan.zhihu.com/p/2018348926101664224)** SAP携手创业邦发布具身智能机器人白皮书，机器人正从实验室走向规模化商用
+
+### 2026-03-24
+- **[新势力车企盈利破局 多元布局AI业务谋增长](https://www.cinic.org.cn/hy/jd/1627851.html)** 理想汽车连续三年盈利、零跑汽车首次年度盈利、蔚来首季度盈利，布局AI眼镜、人形机器人等具身智能新兴领域
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高](http://imgs.xinhuanet.com/tech/20260318/8b00d51b86ca42e88f9b98dd9134ab2e/c.html)** AI快速融入游戏、广告和社交核心业务，混元3.0将于4月发布
 - **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902t8pc)** 财富500强近70%员工使用Copilot Agents处理重复性工作，AI Agents具备更强记忆、推理和多模态能力
 - **[Adobe Max 2025:AI技术重塑创意产业未来](https://k.sina.cn/article_7879848900_1d5acf3c401902tdr8.html)** Firefly第五代图像生成达400万像素，"月光计划"AI代理系统可成为创作者"数字分身"

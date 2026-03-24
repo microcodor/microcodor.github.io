@@ -10,6 +10,11 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-24
+- **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://www.sohu.com/a/999596377_121948943)** AI记忆架构正从简单上下文向真正连续性跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
+- **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手，2025全球私营AI公司融资约2258亿美元
+
+### 2026-03-24
 - **[同一AI模型性能从42%跳到78%:2026年最重要的AI概念不是更大的模型](https://zhuanlan.zhihu.com/p/2018337397964817233)** 研究发现通过外部运行框架Agent Harness，同一模型在标准化基准测试上性能从42%跃升至78%，LangChain团队通过重构框架跃升Top 5
 - **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details/159287980)** 基于LLM操作系统的多智能体架构深度拆解，从单体模型觉醒到端侧自动执行，AI Agent正经历第四阶段演进
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://www.sohu.com/a/999596377_121948943)** AI记忆架构正从简单上下文向真正连续性跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
