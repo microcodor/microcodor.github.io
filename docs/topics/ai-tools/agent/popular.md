@@ -9,6 +9,12 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-03-25
+- **[专访KAUST诸葛鸣晨丨2026 Agent最大突破是"递归自进化",三年后有望实现"神经计算机"](https://new.qq.com/rain/a/20260324A03K2H00)** MetaGPT作者深度访谈，2026年Agent重点突破在递归自进化(RSI)，提出"神经计算机"概念
+- **[AMD开启智能体主机时代,锐龙AI Max打造端侧AI算力底座](https://finance.sina.cn/tech/2026-03-24/detail-inhscaeq1603903.d.html)** IDC预测2025年40%美国企业、27%中国企业已部署AI智能体，2029年全球活跃智能体将超10亿
+- **[阿里妈妈全新发布"AI万相":首创多Agent协同工作流](http://finance.sina.com.cn/jjxw/2026-03-24/doc-inhsamht7254340.shtml)** 阿里妈妈发布"AI万相"超级经营智能体引擎，以LMA大模型为底座，通过万相智识、智品、智造、智投四大Agent协同
+- **[全球大公司要闻 | 阿里或发布AI Agent算力芯片](https://finance.sina.cn/2026-03-24/detail-inhrzyta1807529.d.html)** 阿里达摩院或将发布重要芯片产品直指AI Agent算力需求，苹果WWDC 2026将聚焦AI
+
 ### 2026-03-24
 - **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
 - **[AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)** 2025年十大AI Agent框架深度解析，AutoGen、LangGraph、CrewAI等

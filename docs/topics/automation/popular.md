@@ -9,6 +9,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-25
+- **[AI 正在进入本地时代:我开源了一个推理平台——支持多模型 / Agent / Workflow 的工程实现](https://www.jianshu.com/p/8d7dd9ab6c2e)** 开源项目OpenVitamin发布，本地大模型部署与智能体管理平台，支持多模型统一推理
+- **[解锁AI驱动效率革命:OpenClaw阿里云/本地部署自动化工作流+API配置实操手册](https://developer.aliyun.com/article/1719089)** OpenClaw自动化工作流核心逻辑："触发器-动作-条件"构建闭环，无代码/低代码高灵活度
+- **[当AI从「出主意」变成「干实事」:OpenClaw 重新定义人机分工](https://www.163.com/dy/article/KOQ2MNJ5055616YL.html)** OpenClaw解决"AI刺客"难题，划定AI能力边界实现"可回退的自动化"
+- **[龙虾这么火,为什么企业市场还没买单?](https://baijiahao.baidu.com/s?id=1860543911596235037&wfr=spider&for=pc)** 企业级Agent需稳定安全可追责交付岗位级工作，IDC预计2030年活跃Agent达22.16亿
+- **[阿里开源了一个顶级AI项目!:Spring AI Alibaba](https://zhuanlan.zhihu.com/p/2019734023581246195)** 阿里开源Spring AI Alibaba，连接企业数据API与AI模型，LangChain+LangGraph企业级框架
+- **[agno v2.5.10 更新解析:并行搜索、全链路可观测性、多平台通信接口全面进化](https://www.163.com/dy/article/KOOBQ5CT05563UC5.html)** agno v2.5.10新增Parallel AI Search、MLflow全链路可观测性、Docling文档处理能力
+
 ### 2026-03-24
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块

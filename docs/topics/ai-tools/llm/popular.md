@@ -9,6 +9,14 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-03-25
+- **[哈佛物理教授疯了:我让AI写论文,结果两周干完博士一年工作!已发顶刊](https://www.163.com/dy/article/KOQ763S60511ABV6.html)** 哈佛教授用Claude 4.5两周完成量子色动力学论文，AI提出新分解定理可直接实验检验
+- **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://www.eefocus.com/article/1975398.html)** MoE架构解析：GPT-4o参数1.8万亿激活2800亿，Gemini 3凭1M上下文可一次性处理70万字
+- **[2026 实测:4 款主流 AI 工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi 真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出
+- **[是时候问一个没人想问的问题了:Claude这个月崩了多少次?](http://app.myzaker.com/news/article.php?v=1.0&pk=69c1e5448e9f09239529b007)** 3月17-22日六天内七次事故，Anthropic称遭遇"史上最高需求"
+- **[Claude vs Gemini 技术拆解对比:2026年两大顶级模型镜像站如何选?](https://blog.csdn.net/guoji7788/article/details/159437336)** Claude 3.5 Opus超长文本100万tokens优势，Gemini 3原生多模态图表理解更强
+- **[AI"答案流量"争夺战打响!当ChatGPT拥抱广告模式 GEO不再停留于概念](https://baijiahao.baidu.com/s?id=1860530273471211751&wfr=spider&for=pc)** OpenAI将向所有ChatGPT免费用户投放广告，9亿周活用户推动GEO模式爆发
+
 ### 2026-03-24
 - **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
