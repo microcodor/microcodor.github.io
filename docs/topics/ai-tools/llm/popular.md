@@ -22,7 +22,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026 实测:4 款主流 AI 工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi 真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出
 - **[是时候问一个没人想问的问题了:Claude这个月崩了多少次?](http://app.myzaker.com/news/article.php?v=1.0&pk=69c1e5448e9f09239529b007)** 3月17-22日六天内七次事故，Anthropic称遭遇"史上最高需求"
 - **[Claude vs Gemini 技术拆解对比:2026年两大顶级模型镜像站如何选?](https://blog.csdn.net/guoji7788/article/details/159437336)** Claude 3.5 Opus超长文本100万tokens优势，Gemini 3原生多模态图表理解更强
-- **[AI"答案流量"争夺战打响!当ChatGPT拥抱广告模式 GEO不再停留于概念](https://baijiahao.baidu.com/s?id=1860530273471211751&wfr=spider&for=pc)** OpenAI将向所有ChatGPT免费用户投放广告，9亿周活用户推动GEO模式爆发
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://www.thepaper.cn/newsDetail_forward_32672216)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮- **[AI"答案流量"争夺战打响!当ChatGPT拥抱广告模式 GEO不再停留于概念](https://baijiahao.baidu.com/s?id=1860530273471211751&wfr=spider&for=pc)** OpenAI将向所有ChatGPT免费用户投放广告，9亿周活用户推动GEO模式爆发
 
 ### 2026-03-24
 - **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项

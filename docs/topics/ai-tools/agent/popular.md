@@ -21,7 +21,11 @@ description: 主流 Agent 框架与工具链一览
 - **[AMD开启智能体主机时代,锐龙AI Max打造端侧AI算力底座](https://finance.sina.cn/tech/2026-03-24/detail-inhscaeq1603903.d.html)** IDC预测2025年40%美国企业、27%中国企业已部署AI智能体，2029年全球活跃智能体将超10亿
 - **[阿里妈妈全新发布"AI万相":首创多Agent协同工作流](http://finance.sina.com.cn/jjxw/2026-03-24/doc-inhsamht7254340.shtml)** 阿里妈妈发布"AI万相"超级经营智能体引擎，以LMA大模型为底座，通过万相智识、智品、智造、智投四大Agent协同
 - **[全球大公司要闻 | 阿里或发布AI Agent算力芯片](https://finance.sina.cn/2026-03-24/detail-inhrzyta1807529.d.html)** 阿里达摩院或将发布重要芯片产品直指AI Agent算力需求，苹果WWDC 2026将聚焦AI
-
+- **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317&wfr=spider&for=pc)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
+- **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署](https://blog.csdn.net/l01011_/article/details=158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://tech.sina.cn/2026-03-13/detail-inhqurvu4310865.d.html)** 记忆框架出现清晰分层，Mem0混合向量+图结构实现26%准确率提升，Zep、Letta各具特色
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，Agentic RAG、Voice Agent等六大分类形成清晰生态
 ### 2026-03-24
 - **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
 - **[AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)** 2025年十大AI Agent框架深度解析，AutoGen、LangGraph、CrewAI等
