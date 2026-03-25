@@ -10,6 +10,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-25
+- **[打造高可靠 AI 助手:Skill 编排、Workflow 设计与 Spec Coding 的深度实践](https://new.qq.com/rain/a/20260302A0230000)** 上下文工程五大最佳实践模式，Skill与Subagent在上下文管理机制上的本质差异
+- **[AI Automation Fundamentals: The Complete Guide [2025]](https://hypestudio.org/ai-automation-fundamentals-the-complete-guide-2025/)** AI自动化与传统自动化的核心区别，感知、推理、学习、自主行动能力
+- **[AI工具大比拼:Coze、Dify、n8n、LangChain,哪个才是你的"AI神器"?](https://blog.csdn.net/2401_85343303/article/details/158661748)** Coze零代码、Dify开源私有化、n8n自动化工作流、LangChain深度定制对比
+- **[2025 年度 AI 自动编程工具深度评测](http://k.sina.com.cn/article_7879848900_1d5acf3c401902slui.html)** Cursor、VSCode Copilot、Windsurf、CodeBuddy、Qoder等工具实测对比
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764&wfr=spider&for=pc)** YC大规模押注为agent做服务的产品，团队规模中位数3-5人
+- **[「从夯到拉」2026年AI编程工具全景测评](http://zhuanlan.zhihu.com/p/1999804779141030200)** AI编程工具四大阶段演进，CLI模式成专业开发者主流交互方式
+
+### 2026-03-25
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划
 - **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details=159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
 - **[AI正在进入本地时代,我开源了一个推理平台](https://www.jianshu.com/p/8d7dd9ab6c2e)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow

@@ -10,6 +10,14 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-25
+- **[Gemini Embedding 2多模态嵌入模型发布](https://baijiahao.baidu.com/s?id=1859917486209105266&wfr=spider&for=pc)** 谷歌发布原生多模态嵌入模型，可将文本、图像、视频、音频及PDF统一映射至同一语义向量空间
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://hub.baai.ac.cn/view/52788)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
+- **[Claude惨遭停用,GPT-4.1接任](https://www.163.com/dy/article/KN8K0E320511ABV6.html)** 美国务院大面积抛弃Claude接入GPT-4.1，国防科技公司被迫停用Claude
+- **[安远AI发布2025Q4前沿AI风险监测报告](http://zhuanlan.zhihu.com/p/2012262350821016071)** Gemini生物能力爆发，豆包、混元、MiniMax安全性大增
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://g.pconline.com.cn/zhizao/article/1545315.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术，Claude 4.6 Opus安全优先
+- **[ChatGPT、Claude、Gemini到底该选哪个?附600美金使用测评](https://zhuanlan.zhihu.com/p/2018405489554236669)** ChatGPT周活8亿、Gemini月活7.5亿、Claude约1900万但API用户达3亿
+
+### 2026-03-25
 - **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比

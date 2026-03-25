@@ -11,6 +11,15 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-03-25
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317&wfr=spider&for=pc)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
+- **[OpenClaw史诗级更新引发连锁反应,官方12小时紧急推送修复版](https://www.163.com/dy/article/KOS0R3QF0532N2UB.html)** v2026.3.22激进重构导致插件瘫痪，12小时后紧急推送v2026.3.23修复
+- **[OpenClaw更新翻车,Redis创始人:代码写得烂,真的不能怪AI](https://www.163.com/dy/article/KOPLTEDA05569T9M.html)** antirez发文《别掉进反AI陷阱》，指出AI将永远改变编程
+- **[当AI助手变成"特洛伊木马":OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 安全研究者发现NPM恶意依赖包攻击，全球超27万实例暴露公网，约40%与APT组织关联
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** 全新Control UI控制台、Ollama完整接入流程、多模态记忆系统、Agent编排能力增强
+- **[OpenClaw 才是真正的Agent-OS!2026.3.1 升级深度拆解](http://zhuanlan.zhihu.com/p/2012755823194054947)** GitHub Star超30万登顶开源软件榜首，四层架构对标Linux设计
+- **[OpenClaw v2026.3.12:新一代 AI Agent 网关更新](https://blog.csdn.net/shanghaiwren/article/details=159172466)** 智能快速模式、插件架构革新、企业级安全加固
+
+### 2026-03-25
+- **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317&wfr=spider&for=pc)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733&wfr=spider&for=pc)** OpenClaw 3.22版本上线ClawHub插件市场，但大量用户反馈微信插件失效、控制台报错
 - **[OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，ClawHub插件作为分发首选渠道
 - **[OpenClaw大更新,亲手终结「旧插件」时代](https://baijiahao.baidu.com/s?id=1860515117865889200)** 插件生态重心转向ClawHub，SDK重构为openclaw/plugin-sdk/*入口

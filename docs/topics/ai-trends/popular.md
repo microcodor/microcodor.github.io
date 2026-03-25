@@ -10,6 +10,14 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-25
+- **[亚信科技公布2025全年业绩,"AI优先"引领二次飞跃](https://baijiahao.baidu.com/s?id=1860525743303748941&wfr=spider&for=pc)** 亚信科技确立"AI优先"战略，布局智能体互联网，构建三大业务体系
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** AI手机、AI PC、AI可穿戴设备进入规模化商用阶段，智能眼镜销售额同比增长47.3%
+- **[商汤2025年财报:生成式AI再度爆发增长51%](https://baijiahao.baidu.com/s?id=1860542102161094200&wfr=spider&for=pc)** 商汤2025年总收入增长33%超50亿创历史新高，下半年EBITDA 3.8亿元上市后首次转正
+- **[中国信通院发布2025智能终端蓝皮书](https://baijiahao.baidu.com/s?id=1859812261737353600)** AI终端展现认知协同、场景预见、意图驱动、服务共生"四新"特征
+- **[2025年最具影响力10大AI产品盘点](https://blog.csdn.net/Z987421/article/details/158961809)** DeepSeek-R1、Perplexity Pro、Gemini 2.0等产品深度解析
+- **[大厂AI 生死战:2025 下狠手,2026 见真章](http://app.myzaker.com/news/article.php?pk=69c342a68e9f09201677ad2c)** 各大厂AI竞争格局深度分析，OpenClaw 10天内AI生成
+
+### 2026-03-25
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，"夸父"机器人主持，发布多款人形机器人
 - **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://zhuanlan.zhihu.com/p/2018348926101664224)** SAP携手创业邦发布，机器人正从实验室走向规模化商用
 - **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](https://t.cj.sina.com.cn/articles/view/7879848900_1d5acf3c401902t8pc)** 财富500强近70%员工使用Copilot Agents处理重复性工作，AI Agents具备更强记忆、推理和多模态能力

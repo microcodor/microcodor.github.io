@@ -10,6 +10,15 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-25
+- **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317&wfr=spider&for=pc)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
+- **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署](https://blog.csdn.net/l01011_/article/details=158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://tech.sina.cn/2026-03-13/detail-inhqurvu4310865.d.html)** 记忆框架出现清晰分层，Mem0混合向量+图结构实现26%准确率提升，Zep、Letta各具特色
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，Agentic RAG、Voice Agent等六大分类形成清晰生态
+- **[2025年最值得关注的AI代理框架:awesome_ai_agents年度推荐清单](https://blog.csdn.net/gitblog_00391/article/details=155220869)** LangChain最受欢迎、AutoGen多智能体协作、CrewAI任务编排等框架深度解析
+- **[2024-2025 AI智能体Agent最新进展研究:技术、应用与行业趋势](https://blog.csdn.net/jacky190/article/details=158807578)** 多模态感知与认知融合、自主决策与任务规划、分布式架构与云原生支持成核心技术突破
+
+### 2026-03-25
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI记忆架构正从简单"上下文"向真正"连续性"跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
 - **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
 - **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手，2025全球私营AI公司融资约2258亿美元
