@@ -10,6 +10,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-25
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、流程明确的稳定执行；Workflow适合多阶段、多节点协作；Agent适合自主规划
+- **[AI时代效率革命:从零代码到全链路自动化](https://blog.csdn.net/weixin_59063820/article/details=159349882)** 最小可用示例逐步迭代，AI辅助Excel公式、图表生成、报表美化的完整流程
+- **[AI正在进入本地时代,我开源了一个推理平台](https://www.jianshu.com/p/8d7dd9ab6c2e)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow
+- **[开源项目管理工具选型指南(2026年最新)](https://zhuanlan.zhihu.com/p/2018861267570402192)** AI开始成为新的比较维度，NocoBase极易扩展的开源低代码平台
+- **[解锁AI驱动效率革命:OpenClaw阿里云/本地部署自动化工作流+API配置实操手册](https://developer.aliyun.com/article/1719089)** 自动化工作流核心逻辑"触发器-动作-条件"构建闭环，无代码/低代码、高灵活度、全场景覆盖
+
+### 2026-03-25
 - **[AI 正在进入本地时代:我开源了一个推理平台——支持多模型 / Agent / Workflow 的工程实现](https://www.jianshu.com/p/8d7dd9ab6c2e)** 开源项目OpenVitamin发布，本地大模型部署与智能体管理平台，支持多模型统一推理
 - **[解锁AI驱动效率革命:OpenClaw阿里云/本地部署自动化工作流+API配置实操手册](https://developer.aliyun.com/article/1719089)** OpenClaw自动化工作流核心逻辑："触发器-动作-条件"构建闭环，无代码/低代码高灵活度
 - **[当AI从「出主意」变成「干实事」:OpenClaw 重新定义人机分工](https://www.163.com/dy/article/KOQ2MNJ5055616YL.html)** OpenClaw解决"AI刺客"难题，划定AI能力边界实现"可回退的自动化"

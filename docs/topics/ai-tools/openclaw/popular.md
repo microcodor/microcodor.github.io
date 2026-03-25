@@ -12,6 +12,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-03-25
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317&wfr=spider&for=pc)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733&wfr=spider&for=pc)** OpenClaw 3.22版本上线ClawHub插件市场，但大量用户反馈微信插件失效、控制台报错
+- **[OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，ClawHub插件作为分发首选渠道
+- **[OpenClaw大更新,亲手终结「旧插件」时代](https://baijiahao.baidu.com/s?id=1860515117865889200)** 插件生态重心转向ClawHub，SDK重构为openclaw/plugin-sdk/*入口
+- **[AI开始操控电脑:Claude与OpenClaw同日亮剑,Agent路线之争白热化](https://news.sina.cn/ai/2026-03-24/detail-inhsarqw7537199.d.html)** Anthropic升级Claude Code可直接操控电脑，与OpenClaw形成正面竞争
+
+### 2026-03-25
+- **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317&wfr=spider&for=pc)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
+- **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733&wfr=spider&for=pc)** OpenClaw 3.22版本上线ClawHub插件市场，但大量用户反馈微信插件失效、控制台报错
 - **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512&wfr=spider&for=pc)** 插件系统彻底重构，ClawHub成唯一官方渠道，新增Windows执行加固和多项安全防御
 - **[OpenClaw更新翻车,Redis创始人:代码写得烂,真的不能怪AI](https://www.163.com/dy/article/KOPLTEDA05569T9M.html)** Redis创始人称AI将永远改变编程，关键在于使用工具的人而非工具本身
 - **[开源AI智能体OpenClaw大规模更新引发严重升级事故](https://baijiahao.baidu.com/s?id=1860532286698000592&wfr=spider&for=pc)** 3月22日版本成OpenClaw诞生以来最严重升级事故，API路径重构导致大批第三方插件瘫痪

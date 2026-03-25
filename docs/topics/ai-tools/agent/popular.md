@@ -10,6 +10,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-25
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://m.sohu.com/a/999596377_121948943)** AI记忆架构正从简单"上下文"向真正"连续性"跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
+- **[AI 自动化智能体工具全景盘点:OpenCLAW、WorkBuddy、钉钉悟空等 15+ 款深度对比](https://www.yeyulingfeng.com/428012.html)** 17款AI自动化智能体工具详解，涵盖OpenCLAW、TARS、Mobile-Agent v3等开源框架
+- **[AI的扩散逻辑:从试点热潮到基础设施化](https://baijiahao.baidu.com/s?id=1860048658983172250)** AI正从叙事逻辑回归生产逻辑，Agent成为转折点的关键抓手，2025全球私营AI公司融资约2258亿美元
+- **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details/159287980)** 基于LLM操作系统的多智能体架构深度拆解，AI Agent正经历第四阶段演进
+- **[AI Agent(创新奇智)](https://baike.baidu.com/item/AI%20Agent/65485316)** 面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及DeepSeek、Qwen系列私有化部署
+
+### 2026-03-25
 - **[专访KAUST诸葛鸣晨丨2026 Agent最大突破是"递归自进化",三年后有望实现"神经计算机"](https://new.qq.com/rain/a/20260324A03K2H00)** MetaGPT作者深度访谈，2026年Agent重点突破在递归自进化(RSI)，提出"神经计算机"概念
 - **[AMD开启智能体主机时代,锐龙AI Max打造端侧AI算力底座](https://finance.sina.cn/tech/2026-03-24/detail-inhscaeq1603903.d.html)** IDC预测2025年40%美国企业、27%中国企业已部署AI智能体，2029年全球活跃智能体将超10亿
 - **[阿里妈妈全新发布"AI万相":首创多Agent协同工作流](http://finance.sina.com.cn/jjxw/2026-03-24/doc-inhsamht7254340.shtml)** 阿里妈妈发布"AI万相"超级经营智能体引擎，以LMA大模型为底座，通过万相智识、智品、智造、智投四大Agent协同

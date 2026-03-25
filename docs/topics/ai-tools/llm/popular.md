@@ -10,6 +10,13 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-25
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性，可接入Mac日历、提醒事项
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌Gemini for Mac将支持文件拖拽上传和获取本地应用访问权限，实现跨应用调用
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?](https://g.pconline.com.cn/ai/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[2026年AI效率神器:国内集成Claude 3.5、Gemini 3.1聚合站一站式](https://g.pconline.com.cn/ai/article/1546238.html)** 五大工作流设计思路，利用多模型切换能力实现"1+1>2"的AI协作
+
+### 2026-03-25
 - **[哈佛物理教授疯了:我让AI写论文,结果两周干完博士一年工作!已发顶刊](https://www.163.com/dy/article/KOQ763S60511ABV6.html)** 哈佛教授用Claude 4.5两周完成量子色动力学论文，AI提出新分解定理可直接实验检验
 - **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://www.eefocus.com/article/1975398.html)** MoE架构解析：GPT-4o参数1.8万亿激活2800亿，Gemini 3凭1M上下文可一次性处理70万字
 - **[2026 实测:4 款主流 AI 工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi 真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出
