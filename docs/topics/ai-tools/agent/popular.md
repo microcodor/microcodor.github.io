@@ -9,6 +9,14 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-03-26
+- **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南](https://blog.csdn.net/l01011_/article/details/159462288)** 2026年AI Agent入门指南，涵盖感知、大脑、行动、记忆四大核心模块
+- **[AI Agent 落地元年:2025企业智能化转型迈入技术实操阶段](https://www.sohu.com/a/1000193739_122440928)** 2025年企业级AI Agent市场规模突破232亿元，自主规划+工具调用能力颠覆传统AI应用模式
+- **[Agent运行提速10倍!斯坦福教授押注异构推理](https://www.163.com/dy/article/KOT1PHEE05119734.html)** 斯坦福团队推出异构推理方案，Gimlet Cloud平台自动分配AI Agent工作负载至最适合硬件
+- **[RISC-V,伏击AI Agent](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhseqha3634257.shtml)** 2026玄铁RISC-V生态大会召开，CPU在Agentic AI时代重要性重新上升
+- **[沃丰科技行业唯一入选IDC《中国智能体市场2026年展望》报告](https://baijiahao.baidu.com/s?id=1860612252068007002)** 沃丰科技入选IDC报告核心厂商推荐名单，成中国智能客服Agent典型代表
+- **[2026:AI巨头将如何站队?技术路线分歧引爆产业生态分化](https://blog.csdn.net/2301_81888214/article/details=159469141)** AI巨头技术路线分化，混合智能架构主导产业落地
+
 ### 2026-03-25
 - **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317&wfr=spider&for=pc)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
 - **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署](https://blog.csdn.net/l01011_/article/details=158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台

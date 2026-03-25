@@ -9,6 +9,18 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-03-26
+- **[OpenClaw升级现严重事故](http://baijiahao.baidu.com/s?id=1860606963376743682)** v2026.3.22激进无兼容层破坏性重构导致大量插件瘫痪，官方12小时紧急推送v2026.3.23修复版
+- **[OpenClaw史诗级更新引发连锁反应,官方12小时紧急推送修复版](https://www.163.com/dy/article/KOS0R3QF0532N2UB.html)** 插件系统彻底重构，ClawHub成唯一官方渠道，修复Windows凭证泄露等十多个高危漏洞
+- **[OpenClaw升级事故:插件全废,界面直接趴窝](https://www.163.com/dy/article/KOSBQJCH05118HNL.html)** 彻底废弃旧扩展API，换成全新SDK，Web控制台无法加载
+- **[OpenClaw升级出漏子,微信到嘴的龙虾飞了](https://www.163.com/dy/article/KORH507O051188EA.html)** 微信ClawBot插件全面瘫痪，国产模型适配问题导致失联
+- **[OpenClaw迎最大规模更新,新版本定位为跨平台的个人AI助手](https://baijiahao.baidu.com/s?id=1860594560573773601)** 插件系统彻底重构，删除旧插件系统使用全新SDK，ClawHub成为首选分发渠道
+- **[OpenClaw代码越改越崩?新研究EvoClaw揭示:Agents持续开发成功率仅13.37%](https://36kr.com/p/3738221486096392)** USC/斯坦福等发布EvoClaw评估基准，AI在持续演进场景下性能断崖式下跌
+- **[深度解析 | OpenClaw 之外,企业 AI Agent 的落地答案](https://it.sohu.com/a/1001016329_122565745)** OpenClaw精准击穿数据隐私和自主执行痛点，成2026年主流开源AI Agent框架
+- **[AI技术新突破:Claude实现电脑直控,OpenClaw架构迎战](https://m.sohu.com/a/1001104312_121885030)** Anthropic升级Claude Code可直接操控电脑，与OpenClaw形成正面竞争
+- **[OpenClaw从零到一落地:阿里云/本地部署、免费模型API配置、多Agent协同与问题全解](https://developer.aliyun.com/article/1719819)** 阿里云部署OpenClaw完整流程，零基础喂饭级步骤
+- **[微信龙虾只活2天:一次更新干崩全生态,OpenClaw 撞上 Vibe Coding 天花板](https://www.163.com/dy/article/KOSKUCCF0511D3QS.html)** 强制迁移至ClawHub生态，npm作为回退备选
+
 ### 2026-03-25
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317&wfr=spider&for=pc)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
 - **[OpenClaw史诗级更新引发连锁反应,官方12小时紧急推送修复版](https://www.163.com/dy/article/KOS0R3QF0532N2UB.html)** v2026.3.22激进重构导致插件瘫痪，12小时后紧急推送v2026.3.23修复

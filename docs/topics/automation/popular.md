@@ -9,6 +9,18 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-26
+- **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，团队规模中位数压缩至3-5人
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** Vertical Workflow从22个降至12个，Voice类从9个锐减至1个，Customer Support归零
+- **[AI辅助开发实战:构建高效Chatbot Workflow的架构设计与避坑指南](https://blog.csdn.net/2600_94960103/article/details/159464652)** 规则引擎、状态机与事件驱动三种架构深度剖析，事件驱动架构更适合复杂Chatbot
+- **[控制权之争:从Workflow到Claude Skills,AI正在进入「执行契约时代」](https://blog.csdn.net/tq6J5Yg14/article/details=159467529)** 从Workflow到Agent到Skills，AI世界控制权之争本质是决策权限的重新定义
+- **[第一批"首席龙虾官" 月薪6万](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhsfmmt9622763.shtml)** 企业开出6万月薪招聘"首席龙虾官"，要求熟悉OpenClaw、LangChain、CrewAI
+- **[2026年十大AI智能CRM系统横向测评](https://www.fxiaoke.com/crm/information-85841.html)** 十大AI智能CRM系统横评，聚焦AI原生预测准确度、自动化工作流覆盖率
+- **[把draw.io扔了!这个开源项目一句话生成架构图!已24.4k stars](https://new.qq.com/rain/a/20260325A01CSL00)** 开源项目next-ai-draw-io一句话生成架构图，支持Docker一键部署
+- **[企业效率革命:九影网络带来OpenClaw全流程自动化配置](https://www.sohu.com/a/1000927357_121482751)** 九影网络推出OpenClaw全流程自动化配置服务，替代传统RPA降本90%+
+- **[龙虾这么火,为什么企业市场还没买单?](https://www.tmtpost.com/7927293.html)** 龙虾热潮带动模型token调用增长，但企业级Agent需解决稳定性安全问题
+
 ### 2026-03-25
 - **[打造高可靠 AI 助手:Skill 编排、Workflow 设计与 Spec Coding 的深度实践](https://new.qq.com/rain/a/20260302A0230000)** 上下文工程五大最佳实践模式，Skill与Subagent在上下文管理机制上的本质差异
 - **[AI Automation Fundamentals: The Complete Guide [2025]](https://hypestudio.org/ai-automation-fundamentals-the-complete-guide-2025/)** AI自动化与传统自动化的核心区别，感知、推理、学习、自主行动能力
