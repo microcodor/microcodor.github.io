@@ -13,6 +13,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026 实测:4款主流AI工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出
 - **[2026年最新国内镜像站实测,GPT vs Gemini哪个模型更值得用?](https://post.smzdm.com/p/a95nxrz0/)** GPT-4与Gemini 1.5 Pro六维对比，Gemini百万级token处理超长文档优势明显
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，支持文件拖拽上传和获取本地应用访问权限
+- **[哈佛物理教授疯了:我让AI写论文,结果两周干完博士一年工作!已发顶刊](https://www.163.com/dy/article/KOQ763S60511ABV6.html)** 哈佛教授用Claude 4.5两周完成量子色动力学论文，AI提出新分解定理可直接实验检验
+- **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[2026 实测:4款主流AI工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出
+- **[2026年最新国内镜像站实测,GPT vs Gemini哪个模型更值得用?](https://post.smzdm.com/p/a95nxrz0/)** GPT-4与Gemini 1.5 Pro六维对比，Gemini百万级token处理超长文档优势明显
 - **[哈佛教授收了个AI研究生:干活猛得像学霸,撒谎精得像学渣](https://baijiahao.baidu.com/s?id=1860603381641648874)** 哈佛教授招收Claude Opus 4.5作为研究生独立完成理论物理研究
 - **[技术重构办公体验 李未可AI眼镜打造多端协同智能办公体系](https://baijiahao.baidu.com/s?id=1860626625253623002)** 李未可AI眼镜接入OpenClaw，实现跨设备跨软件自动化操作
 - **[阿里发了个会做生意的Agent,老外已经用它来搞钱](https://baijiahao.baidu.com/s?id=1860561998547239485)** 阿里发布Accio Work企业级Agent，海外卖家可快速开网店并自动运营

@@ -12,6 +12,10 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-03-26
 - **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南](https://blog.csdn.net/l01011_/article/details/159462288)** 2026年AI Agent入门指南，涵盖感知、大脑、行动、记忆四大核心模块
 - **[AI Agent 落地元年:2025企业智能化转型迈入技术实操阶段](https://www.sohu.com/a/1000193739_122440928)** 2025年企业级AI Agent市场规模突破232亿元，自主规划+工具调用能力颠覆传统AI应用模式
+- **[AI Agent竞争升级,腾讯阿里字节谁能跑出"中国版"生态](https://baijiahao.baidu.com/s?id=1860444396082649078)** 腾讯微信公众号推出微信"ClawBot"插件，支持接入OpenClaw
+- **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](http://k.sina.com.cn/article_7879848900_1d5acf3c401902t8pc.html)** 财富500强近70%员工使用Copilot Agents处理重复性工作
+- **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南](https://blog.csdn.net/l01011_/article/details/159462288)** 2026年AI Agent入门指南，涵盖感知、大脑、行动、记忆四大核心模块
+- **[AI Agent 落地元年:2025企业智能化转型迈入技术实操阶段](https://www.sohu.com/a/1000193739_122440928)** 2025年企业级AI Agent市场规模突破232亿元，自主规划+工具调用能力颠覆传统AI应用模式
 - **[Agent运行提速10倍!斯坦福教授押注异构推理](https://www.163.com/dy/article/KOT1PHEE05119734.html)** 斯坦福团队推出异构推理方案，Gimlet Cloud平台自动分配AI Agent工作负载至最适合硬件
 - **[RISC-V,伏击AI Agent](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhseqha3634257.shtml)** 2026玄铁RISC-V生态大会召开，CPU在Agentic AI时代重要性重新上升
 - **[沃丰科技行业唯一入选IDC《中国智能体市场2026年展望》报告](https://baijiahao.baidu.com/s?id=1860612252068007002)** 沃丰科技入选IDC报告核心厂商推荐名单，成中国智能客服Agent典型代表

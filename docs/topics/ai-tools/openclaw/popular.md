@@ -14,6 +14,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw史诗级更新引发连锁反应,官方12小时紧急推送修复版](https://www.163.com/dy/article/KOS0R3QF0532N2UB.html)** 插件系统彻底重构，ClawHub成唯一官方渠道，修复Windows凭证泄露等十多个高危漏洞
 - **[OpenClaw升级事故:插件全废,界面直接趴窝](https://www.163.com/dy/article/KOSBQJCH05118HNL.html)** 彻底废弃旧扩展API，换成全新SDK，Web控制台无法加载
 - **[OpenClaw升级出漏子,微信到嘴的龙虾飞了](https://www.163.com/dy/article/KORH507O051188EA.html)** 微信ClawBot插件全面瘫痪，国产模型适配问题导致失联
+- **[OpenClaw大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://blog.csdn.net/u010634066/article/details/159415112)** ClawHub插件市场正式上线，支持一键安装技能，/btw侧边提问不污染主对话上下文
+- **[OpenClaw升级出漏子,微信到嘴的龙虾飞了](https://www.163.com/dy/article/KORH507O051188EA.html)** 微信ClawBot插件全面瘫痪，国产模型适配问题导致失联
 - **[OpenClaw迎最大规模更新,新版本定位为跨平台的个人AI助手](https://baijiahao.baidu.com/s?id=1860594560573773601)** 插件系统彻底重构，删除旧插件系统使用全新SDK，ClawHub成为首选分发渠道
 - **[OpenClaw代码越改越崩?新研究EvoClaw揭示:Agents持续开发成功率仅13.37%](https://36kr.com/p/3738221486096392)** USC/斯坦福等发布EvoClaw评估基准，AI在持续演进场景下性能断崖式下跌
 - **[深度解析 | OpenClaw 之外,企业 AI Agent 的落地答案](https://it.sohu.com/a/1001016329_122565745)** OpenClaw精准击穿数据隐私和自主执行痛点，成2026年主流开源AI Agent框架
