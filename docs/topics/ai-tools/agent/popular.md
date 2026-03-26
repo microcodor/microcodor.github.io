@@ -9,6 +9,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-03-27
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
+- **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
+- **[微软发布2025年AI预测:AI Agents将彻底改变工作方式](http://k.sina.com.cn/article_7879848900_1d5acf3c401902t8pc.html)** 财富500强近70%员工使用Copilot Agents处理重复性工作
+
 ### 2026-03-26
 - **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南](https://blog.csdn.net/l01011_/article/details/159462288)** 2026年AI Agent入门指南，涵盖感知、大脑、行动、记忆四大核心模块
 - **[AI Agent 落地元年:2025企业智能化转型迈入技术实操阶段](https://www.sohu.com/a/1000193739_122440928)** 2025年企业级AI Agent市场规模突破232亿元，自主规划+工具调用能力颠覆传统AI应用模式

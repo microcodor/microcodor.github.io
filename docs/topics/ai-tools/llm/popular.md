@@ -9,6 +9,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-03-27
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
+- **[2026年AI论文写作学术研究实测:GPT-4o、Claude、Gemini 3 谁更适合你?](https://www.pconline.com.cn/ai/article/1547719.html)** 学术写作场景实测，Gemini 3.1 Pro超长上下文适合文献综述，GPT-4o语言流畅，Claude长文本精度高
+- **[2026 AI编程实测指南:Gemini 3.1 Pro vs GPT-4o vs Claude 3.5](https://www.pconline.com.cn/ai/article/1546201.html)** 六大编程场景实测，Claude 3.5首次修复准确率85%全场最高
+
 ### 2026-03-26
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026 实测:4款主流AI工具怎么选?Gemini 3.1、GPT-5.4、Claude、Kimi真实体验对比](https://k.sina.cn/article_7879848900_1d5acf3c401902v6ku.html)** 四款工具真实体验：Gemini图文理解强、GPT-5.4最稳、Claude长文档王者、Kimi文档阅读突出

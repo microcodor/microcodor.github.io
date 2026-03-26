@@ -9,6 +9,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-27
+- **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，团队规模中位数压缩至3-5人
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[第一批"首席龙虾官" 月薪6万](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhsfmmt9622763.shtml)** 企业开出6万月薪招聘"首席龙虾官"，要求熟悉OpenClaw、LangChain、CrewAI
+- **[2026年十大AI智能CRM系统横向测评](https://www.fxiaoke.com/crm/information-85841.html)** 十大AI智能CRM系统横评，聚焦AI原生预测准确度、自动化工作流覆盖率
+- **[把draw.io扔了!这个开源项目一句话生成架构图!已24.4k stars](https://new.qq.com/rain/a/20260325A01CSL00)** 开源项目next-ai-draw-io一句话生成架构图，支持Docker一键部署
+
 ### 2026-03-26
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，团队规模中位数压缩至3-5人
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
