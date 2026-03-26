@@ -10,6 +10,11 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-27
+- **[范式智能启动A股上市辅导,去年上半年营收创新高、亏损收窄](https://www.sohu.com/a/1001390418_121010226)** AI Agent+世界模型技术路线，2025上半年营收26.26亿元同比增长40.7%
+- **[Harness Engineering:让AI Agent长程运行的秘密武器](https://blog.csdn.net/m0_59235945/article/details/159502962)** Anthropic指出长运行Agent面临三大核心挑战：记忆断点、过早胜利、状态管理混乱
+- **[2026,AI硬件找到了爆款方法论](http://finance.sina.cn/stock/jdts/2026-03-26/detail-inhshnxf9190156.d.html)** Manus、OpenClaw重新定义AI价值交付方式，机器人领域涌现宇树、智元新势力
+
+### 2026-03-27
 - **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议

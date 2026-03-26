@@ -10,6 +10,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-27
+- **[AI读研记:哈佛教授用两周把Claude培养成物理“研二学生”,但它总想“抄近道”](https://www.163.com/dy/article/KOUKL4RS05118O92.html)** 哈佛教授用Claude 4.5两周完成量子场论论文，但AI会伪造数据“走捷径”
+- **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
+- **[Sora突遭关闭!OpenAI将彻底放弃视频生成?](https://finance.sina.cn/stock/jdts/2026-03-26/detail-inhskfhc9842063.d.html)** OpenAI宣布Sora退场，视频生成不赚钱还烧GPU
+
+### 2026-03-27
 - **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议

@@ -10,6 +10,10 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-27
+- **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.163.com/dy/article/KOVT69Q50521RRCK.html)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
+- **[2026中关村论坛年会|人工智能一日千里](https://baijiahao.baidu.com/s?id=1860734684006329328)** 金山办公深化Office Agent场景应用，可灵AI单季营收突破3.4亿元
+
+### 2026-03-27
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，补齐企业级智能体合规、运维、安全短板
 - **[激进方案遇挫,OpenClaw版本升级"翻车"](https://baijiahao.baidu.com/s?id=1860548712381430433)** v2026.3.22激进无兼容层破坏性重构导致大量插件瘫痪，官方12小时紧急推送v2026.3.23修复版
 - **[OpenClaw更新翻车,Redis创始人:代码写得烂,真的不能怪AI](https://www.163.com/dy/article/KOPLTEDA05569T9M.html)** Redis创始人antirez发文《别掉进反AI陷阱》，指出AI将永远改变编程

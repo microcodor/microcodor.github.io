@@ -10,6 +10,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-27
+- **[企业级Agent多智能体架构与选型指南--来自1000+行业应用实践积累](https://developer.aliyun.com/article/1719997)** AgentScope总结多智能体四大模式：Supervisor、Handoffs、Subagent、Routing
+- **[2026年AI智能体大爆发:下一个十年风口,普通人的超级财富密码](https://blog.csdn.net/JH_AIGC/article/details/159510157)** 2026年是AI Agent真正爆发点，目标驱动Agent将全面成熟
+- **[AI小龙虾OpenClaw开源Agent生态变现全指南:六大盈利路径+全平台部署与大模型配置实战](https://developer.aliyun.com/article/1720256)** 生态月度整体收益规模稳定在250万至270万人民币区间
+- **[微软(MSFT.US)宣布重组人力资源部门](https://baijiahao.baidu.com/s?id=1860728646066908912)** AI颠覆一切触发企业效率革命，微软HR重组聚焦组织操作系统重塑
+
+### 2026-03-27
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，团队规模中位数压缩至3-5人
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
