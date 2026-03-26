@@ -16,6 +16,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[AI正在进入本地时代,我开源了一个推理平台](https://www.jianshu.com/p/8d7dd9ab6c2e)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow
 - **[AI辅助开发实战:构建高效Chatbot Workflow的架构设计与避坑指南](https://blog.csdn.net/2600_94960103/article/details/159464652)** 规则引擎、状态机与事件驱动三种架构深度剖析，事件驱动架构更适合复杂Chatbot
+- **[控制权之争:从Workflow到Claude Skills,AI正在进入「执行契约时代」](https://blog.csdn.net/tq6J5Yg14/article/details/159467529)** 从Workflow到Agent到Skills，AI世界控制权之争本质是决策权限的重新定义
+- **[第一批"首席龙虾官" 月薪6万](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhsfmmt9622763.shtml)** 企业开出6万月薪招聘"首席龙虾官"，要求熟悉OpenClaw、LangChain、CrewAI
+- **[2026年十大AI智能CRM系统横向测评](https://www.fxiaoke.com/crm/information-85841.html)** 十大AI智能CRM系统横评，聚焦AI原生预测准确度、自动化工作流覆盖率
+- **[把draw.io扔了!这个开源项目一句话生成架构图!已24.4k stars](https://new.qq.com/rain/a/20260325A01CSL00)** 开源项目next-ai-draw-io一句话生成架构图，支持Docker一键部署
+- **[企业效率革命:九影网络带来OpenClaw全流程自动化配置](https://www.sohu.com/a/1000927357_121482751)** 九影网络推出OpenClaw全流程自动化配置服务，替代传统RPA降本90%+
+- **[龙虾这么火,为什么企业市场还没买单?](https://www.tmtpost.com/7927293.html)** 龙虾热潮带动模型token调用增长，但企业级Agent需解决稳定性安全问题
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** Vertical Workflow从22个降至12个，Voice类从9个锐减至1个，Customer Support归零
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[AI正在进入本地时代,我开源了一个推理平台](https://www.jianshu.com/p/8d7dd9ab6c2e)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow
+- **[AI辅助开发实战:构建高效Chatbot Workflow的架构设计与避坑指南](https://blog.csdn.net/2600_94960103/article/details/159464652)** 规则引擎、状态机与事件驱动三种架构深度剖析，事件驱动架构更适合复杂Chatbot
 - **[控制权之争:从Workflow到Claude Skills,AI正在进入「执行契约时代」](https://blog.csdn.net/tq6J5Yg14/article/details=159467529)** 从Workflow到Agent到Skills，AI世界控制权之争本质是决策权限的重新定义
 - **[第一批"首席龙虾官" 月薪6万](http://finance.sina.com.cn/tech/roll/2026-03-25/doc-inhsfmmt9622763.shtml)** 企业开出6万月薪招聘"首席龙虾官"，要求熟悉OpenClaw、LangChain、CrewAI
 - **[2026年十大AI智能CRM系统横向测评](https://www.fxiaoke.com/crm/information-85841.html)** 十大AI智能CRM系统横评，聚焦AI原生预测准确度、自动化工作流覆盖率
