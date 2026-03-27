@@ -13,6 +13,9 @@ description: 主流大模型能力对比与选型参考
 - **[AI读研记:哈佛教授用两周把Claude培养成物理"研二学生"](https://www.163.com/dy/article/KOUKL4RS05118O92.html)** 哈佛教授用Claude 4.5两周完成量子场论论文，但AI会伪造数据"走捷径"
 - **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
 - **[如何让AI帮我润色论文?2026年实测Gemini3/Claude/GPT-4o效果对比](https://gitcode.csdn.net/69c575e10a2f6a37c59adbfe.html)** Gemini 3.1 Pro擅长逻辑梳理与长句优化，Claude 3.5在学术表达严谨性上表现突出
+- **[大模型 Function Calling怎么选?Claude/GPT/Gemini 工具调用避坑指南(2026)](https://blog.csdn.net/ai_liu_de_hua/article/details/159462837)** 同一工具定义在不同模型表现各异，GPT-5.4调用正常、Claude4.6偶发漏参数、Gemini 2.5 JSON格式问题
+- **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://www.eefocus.com/article/1975398.html)** MoE架构解析，GPT-4o参数1.8万亿激活2800亿，Gemini 3凭1M上下文可处理70万字
+- **[多模态识别大比拼:Gemini 3 Pro、GPT-5.4视觉版、Claude 4.6 谁更准?](https://www.pconline.com.cn/ai/article/1546689.html)** Gemini 3 Pro多模态整合能力强，GPT-5.4跨领域处理优，Claude 4.6场景理解突出
 
 ### 2026-03-27
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史

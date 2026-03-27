@@ -13,6 +13,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎](https://www.51cto.com/article/838689.html)** OpenClaw正在形成五大逻辑层与三大物理进程的整体架构，文本驱动、本地优先、事件调度
 - **[OpenClaw 2026.3.24 更新](https://www.bilibili.com/opus/1183926435462512694)** 控制UI/agent支持工作区文件行转换为可展开的details元素，新增全面的.sidebar-markdown样式
 - **[OpenClaw v2026.3.22+v2026.3.23 安全与架构全面升级](https://blog.csdn.net/xyghehehehe/article/details/159486933)** 合并更新修复超200个Bug，引入10+项安全修复，Memory系统Prompt注入防护、Telegram webhook签名验证
+- **[OpenClaw_v2026.3.22_更新解读](http://www.360doc.com/content/26/0324/22/170868_1171845375.shtml)** 插件生态重构，ClawHub成官方中心，SDK全面升级从extension-api迁移至plugin-sdk
+- **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512)** 插件系统彻底重构，ClawHub成唯一官方渠道，新增Windows执行加固和多项安全防御
 
 ### 2026-03-27
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布，开发者可完全自定义上下文处理逻辑

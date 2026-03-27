@@ -13,6 +13,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AGI前夜,大模型竞争进入新阶段:开源逆袭、推理进化、能耗革命](https://blog.csdn.net/2401_84204207/article/details/159515477)** DeepSeek-R1性能逼近OpenAI o1，推理成本仅为其几十分之一，1月27日登顶苹果美区下载榜
 - **[Harness Engineering:让AI Agent长程运行的秘密武器](https://blog.csdn.net/m0_59235945/article/details/159502962)** Anthropic指出长运行Agent面临三大核心挑战：记忆断点、过早胜利、状态管理混乱
 - **[2026中关村论坛年会|人工智能一日千里](https://baijiahao.baidu.com/s?id=1860734684006329328)** OpenClaw全球走红，百度搜索Skill下载量稳居全球第一，智谱、MiniMax各显神通
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南,小白程序员也能快速掌握大模型!](https://blog.csdn.net/l01011_/article/details/159462288)** 2026年AI Agent入门指南，涵盖感知、大脑、行动、记忆四大核心模块
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://www.sohu.com/a/999596377_121948943)** AI记忆架构正从"上下文"向"连续性"跨越，Mem0混合向量与图存储、Letta分层记忆设计各具特色
+- **[2026AI Agent风口来袭!告别README小白,这篇保姆级教程助你从入门到精通!](https://blog.csdn.net/2401_85343303/article/details/159434415)** 谷歌AI Agent白皮书、LangChain/CrewAI/AutoGen框架对比，Phi-Agent金融示例
+- **[2025-2026必看!AI Agent、Skills、MCP如何重塑软件未来?](https://blog.csdn.net/2401_85375151/article/details/159513820)** AI Agent从"会回答"到"会推进任务"，Skills封装可复用模块，MCP标准化工具接口
+- **[台大李宏毅2025 AI Agent保姆级教程](https://blog.csdn.net/m0_63171455/article/details/159435782)** 台大李宏毅AI Agent教程，解释Agent与传统LLM的区别，目标驱动自主规划
 
 ### 2026-03-27
 - **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317&wfr=spider&for=pc)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
