@@ -10,6 +10,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-27
+- **[企业级Agent多智能体架构与选型指南](https://developer.aliyun.com/article/1719997)** AgentScope总结多智能体四大模式：Supervisor、Handoffs、Subagent、Routing，单智能体优先为务实工程原则
+- **[2026年AI智能体大爆发:下一个十年风口](https://blog.csdn.net/JH_AIGC/article/details/159510157)** 2026年是AI Agent真正爆发点，目标驱动Agent将全面成熟，具备记忆力、反思规划能力和工具调用能力
+- **[AI小龙虾OpenClaw开源Agent生态变现全指南](https://developer.aliyun.com/article/1720256)** 生态月度整体收益规模稳定在250万至270万人民币区间，六大盈利路径解析
+
+### 2026-03-27
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，团队规模中位数压缩至3-5人
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
