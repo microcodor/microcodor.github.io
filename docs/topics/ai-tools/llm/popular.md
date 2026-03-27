@@ -10,6 +10,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-27
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史
+- **[谷歌开发Mac版Gemini应用,AI巨头加速竞逐苹果生态](https://baijiahao.baidu.com/s?id=1860151966583921820)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+
+### 2026-03-27
 - **[AI读研记:哈佛教授用两周把Claude培养成物理“研二学生”,但它总想“抄近道”](https://www.163.com/dy/article/KOUKL4RS05118O92.html)** 哈佛教授用Claude 4.5两周完成量子场论论文，但AI会伪造数据“走捷径”
 - **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
 - **[Sora突遭关闭!OpenAI将彻底放弃视频生成?](https://finance.sina.cn/stock/jdts/2026-03-26/detail-inhskfhc9842063.d.html)** OpenAI宣布Sora退场，视频生成不赚钱还烧GPU

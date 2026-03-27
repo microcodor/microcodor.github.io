@@ -10,6 +10,11 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-27
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布，开发者可完全自定义上下文处理逻辑
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** 全新Control UI控制台、Ollama完整接入流程、多模态记忆系统、Agent编排能力和自动容灾机制增强
+- **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.163.com/dy/article/KOVT69Q50521RRCK.html)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
+
+### 2026-03-27
 - **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.163.com/dy/article/KOVT69Q50521RRCK.html)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
 - **[2026中关村论坛年会|人工智能一日千里](https://baijiahao.baidu.com/s?id=1860734684006329328)** 金山办公深化Office Agent场景应用，可灵AI单季营收突破3.4亿元
 
