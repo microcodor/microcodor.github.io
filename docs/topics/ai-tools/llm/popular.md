@@ -7,6 +7,11 @@ description: 主流大模型能力对比与选型参考
 
 > 最后更新：自动汇总
 
+### 2026-03-28
+- **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
+- **[2026年国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[2026年全网最全大模型API横评:Claude / GPT / Gemini 等20+ 主流模型8 大厂商](https://www.cnblogs.com/qiniushanghai/p/19775210)** 2026年全网最全大模型API横评，涵盖价格、性能、场景选型建议
+
 ## 近期动态
 
 ### 2026-03-28
