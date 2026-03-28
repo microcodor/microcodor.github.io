@@ -14,6 +14,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-29
+- **[5步实现AI视频全流程自动化:Video Maker技术指南](https://blog.csdn.net/gitblog_00730/article/details/159453512)** 基于Node.js开源项目，从关键词输入到YouTube发布的完整自动化流程
+- **[终极指南:如何用crewAI-tools构建AI智能体自动化工作流](https://blog.csdn.net/gitblog_00327/article/details/159457137)** crewAI-tools提供文件处理、数据库集成、向量搜索、网络爬虫等工具
+
 ### 2026-03-28
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
 - **[ClawHub - OpenClaw的技能生态平台,12个实用的Skills](https://zhuanlan.zhihu.com/p/2018356355090642367)** ClawHub技能市场提供n8n、self-improving-agent等实用工具

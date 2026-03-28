@@ -15,6 +15,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-03-29
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://www.163.com/dy/article/KOMSC4P50550TYQ0.html)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
+- **[AI玩具热销 监管如何为"新伙伴"划界?](https://baijiahao.baidu.com/s?id=1860603065305130142)** 淘宝2025年度十大商品"AI陪伴玩偶"，2030年AI玩具全球市场规模将突破千亿元
+- **[2026,AI硬件找到了爆款方法论](http://finance.sina.cn/stock/jdts/2026-03-26/detail-inhshnxf9190156.d.html)** Manus、OpenClaw重新定义AI价值交付方式
+
 ### 2026-03-28
 - **[codex](https://baike.baidu.com/item/codex/63322048)** OpenAI推出AI编程工具Codex正式版，支持Slack集成和Codex SDK
 - **[出门问问2025年业绩发布:从AI产品公司到AI原生生产系统公司](https://m.tech.china.com/articles/20260327/202603271835062.html)** 完成从传统智能硬件向Agentic AI终端的转型，AI智能硬件业务收入同比增长14.4%
