@@ -20,6 +20,7 @@ description: 主流大模型能力对比与选型参考
 - **[2026年国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 
 ### 2026-03-28
+- **[苹果iOS 27将允许多款AI应用接入Siri 包括Claude/Gemini](https://baijiahao.baidu.com/s?id=1860813361786082019)** iOS 27为Siri添加扩展系统，允许Claude等AI聊天机器人与Siri协同工作
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史
 - **[2026年大模型选型指南:GPT、Gemini、Claude谁更适合你?](https://www.pconline.com.cn/ai/article/1546670.html)** GPT-5.2全能型、Gemini 3.1 Pro超长上下文1M窗口、Claude 3.5 Sonnet精准长文本+代码专家
 - **[2026年国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
