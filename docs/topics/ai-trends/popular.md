@@ -17,6 +17,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 
 ### 2026-03-28
+- **[codex](https://baike.baidu.com/item/codex/63322048)** OpenAI推出AI编程工具Codex正式版，支持Slack集成和Codex SDK
+- **[出门问问2025年业绩发布:从AI产品公司到AI原生生产系统公司](https://m.tech.china.com/articles/20260327/202603271835062.html)** 完成从传统智能硬件向Agentic AI终端的转型，AI智能硬件业务收入同比增长14.4%
+- **[国补加持、出货暴增,AI眼镜真能取代手机?](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vggy.html)** 华为、小米、阿里巴巴等大厂密集发布AI眼镜新品
+- **[昆仑万维发布开源世界模型Matrix-Game 2.0](http://word.baidu.com/noteview/d322853983c24028915f804d2b160b4e767f81fa.html)** 昆仑万维推出全球首个开源实时交互世界模型
+- **[AI眼镜2025选购指南:从极客玩具到大众工具](https://post.smzdm.com/p/axkwgrw2/)** 雷鸟以32%市场份额领跑，2025年AI/AR设备国内销量突破69.6万台
+
+### 2026-03-28
 - **[亚信科技公布2025全年业绩,"AI优先"引领二次飞跃](https://baijiahao.baidu.com/s?id=1860525743303748941)** 确立"AI优先"战略，布局智能体互联网，构建三大业务体系
 - **[出门问问2025年业绩发布:从AI产品公司到AI原生生产系统公司](https://tech.china.com/articles/20260327/202603271835062.html)** 完成从传统智能硬件向Agentic AI终端的转型，AI智能硬件业务收入同比增长14.4%
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人

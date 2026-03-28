@@ -17,6 +17,12 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-03-28
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947&wfr=spider&for=pc)** AI Agent整合至产品矩阵后快速爆发，全球付费订阅用户数显著提升
+- **[AI Agent(创新奇智)](https://baike.baidu.com/item/AI%20Agent/65485316)** 面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
+- **[多轮任务Agentic RL新范式!中科大开源Agent-R1 v2](https://news.qq.com/rain/a/20260327A05HT300)** 中科大开源Agent-R1训练框架v2版本，提升大模型长程规划能力
+
+### 2026-03-28
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[Harness Engineering:AI Agent 时代的新工程范式](https://zhuanlan.zhihu.com/p/2020231953329181920)** "Harness"源自马术，管控AI Agent的工具和实践集合，优化"环境"而非"模型"
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://www.sohu.com/a/999596377_121948943)** Mem0混合向量与图存储、Letta分层记忆设计，AI记忆从上下文向连续性跨越
 

@@ -15,6 +15,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-28
+- **[腾讯AI作战地图,全面更新](https://baijiahao.baidu.com/s?id=1860791088215254573&wfr=spider&for=pc)** 腾讯基于OpenClaw打造QClaw、WorkBuddy等产品矩阵，覆盖个人与企业场景
+- **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件](https://baijiahao.baidu.com/s?id=1860811564014749098&wfr=spider&for=pc)** 罗福莉表示OpenClaw开源特性有利于社区参与，harness系统和skills体系保证任务完成度
+- **[趣丸科技Tunee上线MV Agent,支持接入OpenClaw](https://baijiahao.baidu.com/s?id=1860782259838636292&wfr=spider&for=pc)** Tunee已支持接入OpenClaw等AI Agent环境，用户可调用音乐生成能力
+- **[天融信网络审计系统再升级:让AI Agent安全上岗](https://baijiahao.baidu.com/s?id=1860803132981430023&wfr=spider&for=pc)** 天融信推出"捉监警困"四步法，为OpenClaw等AI Agent提供安全治理方案
+- **[顾嘉时:完整权限交给AI,OpenClaw用户知道自己正在冒什么险吗?](https://baijiahao.baidu.com/s?id=1860791840222113329&wfr=spider&for=pc)** OpenClaw GitHub星标达32.8万，成为史上增长最快的开源项目
+
+### 2026-03-28
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 - **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
 - **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512)** 插件系统彻底重构，ClawHub成唯一官方渠道，新增Windows执行加固和多项安全防御

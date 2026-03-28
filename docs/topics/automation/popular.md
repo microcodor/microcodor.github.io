@@ -15,6 +15,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-28
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
+- **[ClawHub - OpenClaw的技能生态平台,12个实用的Skills](https://zhuanlan.zhihu.com/p/2018356355090642367)** ClawHub技能市场提供n8n、self-improving-agent等实用工具
+- **[工作流(Workflow)—— 可视化 AI 应用编排](https://blog.csdn.net/zhaokejin521/article/details/159527646)** Dify等可视化AI应用编排工具深度解析
+- **[深度|对话 OpenClaw 一线 builder:OpenClaw 时代,SaaS 将一文不值](https://new.qq.com/rain/a/20260328A06MOI00)** OpenClaw正在重塑软件产业，SaaS面临挑战
+- **[Code](https://github.com/n8n-io/n8n)** n8n是开源工作流自动化工具，支持自托管和可扩展性
+
+### 2026-03-28
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个，Voice类从9个锐减至1个
 - **[AI 正在进入本地时代,我开源了一个推理平台](https://zhuanlan.zhihu.com/p/2019730088950771823)** OpenVitamin本地大模型部署与智能体管理平台开源，支持多模型/Agent/Workflow
 - **[一文带你搞懂Prompt、Tools、Workflow、Skill、MCP等AI概念之间的区别](https://zhuanlan.zhihu.com/p/2019716677357551894)** Prompt是任务指令、Tools是执行能力、Workflow是流程固定、Skill是能力封装
