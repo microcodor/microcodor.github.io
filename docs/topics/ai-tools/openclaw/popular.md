@@ -19,6 +19,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
+### 2026-03-28
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
+- **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
+
 ### 2026-03-27
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布，开发者可完全自定义上下文处理逻辑
 - **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** 全新Control UI控制台、Ollama完整接入流程、多模态记忆系统、Agent编排能力和自动容灾机制增强

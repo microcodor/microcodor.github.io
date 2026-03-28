@@ -19,6 +19,12 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
 - **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://tech.sina.cn/2026-03-13/detail-inhqurvu4310865.d.html)** 记忆框架出现清晰分层，Mem0混合向量+图结构实现26%准确率提升
+- **[AutoGen架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+
+### 2026-03-28
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
+- **[从上下文到连续性:2025年AI Agent记忆架构的分水岭](https://tech.sina.cn/2026-03-13/detail-inhqurvu4310865.d.html)** 记忆框架出现清晰分层，Mem0混合向量+图结构实现26%准确率提升
 
 ### 2026-03-27
 - **[30个AI Agent大起底:大多数开发商对安全问题讳莫如深](https://baijiahao.baidu.com/s?id=1858783471871117317&wfr=spider&for=pc)** MIT/哈佛/斯坦福发布2025 AI Agent Index，30个产品横跨六大维度，62%受访企业已在试验AI Agent
