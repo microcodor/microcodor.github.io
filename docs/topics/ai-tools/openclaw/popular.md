@@ -14,6 +14,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-03-30
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
+- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
+- **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
+- **[OpenClaw大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991534&idx=1&sn=6b048e7d052852d7aaa8224e35d514f9)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置搜索引擎
 ### 2026-03-29
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 - **[OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，ClawHub插件作为分发首选渠道

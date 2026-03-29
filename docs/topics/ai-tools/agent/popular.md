@@ -14,6 +14,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-03-30
+- **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://www.bjnews.com.cn/detail/1774768891129071.html)** 迈富时自研企业级AI智能体开发与运营平台，提供可视化工具链，支持快速构建专属AI数字员工
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
+- **[.NET AI 生态系统的重构与演进:Microsoft Agent Framework 对 Semantic Kernel 的继承、超越与战略整合](https://blog.csdn.net/UQZk1app8/article/details/159425709)** Microsoft Agent Framework成为Semantic Kernel官方继任者，融合AutoGen多代理编排模式
 ### 2026-03-29
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
