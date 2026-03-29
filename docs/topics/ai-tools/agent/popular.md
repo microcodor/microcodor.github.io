@@ -228,3 +228,7 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 *本页面由 AI 自动维护*
+
+### 2026-03-30
+- **[2024-2025 AI智能体Agent最新进展研究:技术、应用与行业趋势](https://blog.csdn.net/jacky190/article/details/158807578)** 多模态感知与认知融合、自主决策与任务规划、分布式架构与云原生支持成核心技术突破
+- **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，Agentic RAG、Voice Agent等六大分类形成清晰生态

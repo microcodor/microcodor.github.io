@@ -229,3 +229,7 @@ description: 主流大模型能力对比与选型参考
 ---
 
 *本页面由 AI 自动维护*
+
+### 2026-03-30
+- **[突发背刺!Claude、Gemini 齐限流,AI「自助餐」撑不住了](https://baijiahao.baidu.com/s?id=1860871836726410761)** Anthropic宣布高峰期限流，太平洋时间工作日5点到11点5小时配额消耗更快，约7%用户受影响
+- **[Claude 4 vs GPT-4.1 vs Gemini 2.5 Pro:2025 编程能力实测横评](https://blog.csdn.net/cmzznet/article/details/159562995)** 同一套测试框架公平对比三大顶级模型编程能力，通过TheRouterAPI网关统一调用

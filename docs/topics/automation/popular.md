@@ -252,3 +252,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - 为失败设计：重试、幂等、告警、死信队列，至少要有告警
 - 统一身份与权限：别让所有 webhook 都拥有最高权限
 
+
+### 2026-03-30
+- **[AI Automation Fundamentals: The Complete Guide [2025]](https://hypestudio.org/ai-automation-fundamentals-the-complete-guide-2025/)** AI自动化融合感知、推理、学习与自主行动能力，与传统规则自动化的核心区别解析
+- **[打造高可靠 AI 助手:Skill 编排、Workflow 设计与 Spec Coding 的深度实践](https://zhuanlan.zhihu.com/p/2012543820810715303)** 上下文工程最佳实践，Skill与Subagent在上下文管理机制上的本质差异
+- **[AI工具大比拼:Coze、Dify、n8n、LangChain,哪个才是你的"AI神器"?](https://blog.csdn.net/2401_85343303/article/details/158661748)** 四大AI工具深度对比：Coze零代码快速上线、Dify开源私有化、n8n自动化工作流、LangChain深度定制
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26系列199个项目演绎样本，从"替代人力"到"服务agent"，B2B赛道铲子专为agent打造
+- **[2025智能工作流AI优化引擎最佳实践:来自10家头部企业的经验总结](https://blog.csdn.net/2501_91473495/article/details/159358343)** 核心组件包括数据采集、分析、机器学习模型与决策引擎，数学模型与公式深度解析
+- **[IBM强化企业软件AI时代能力](https://www.ibm.com/cn-zh/new/announcements/strengthening-ibms-proven-enterprise-software-for-the-ai-era)** 将智能体式AI原生整合至主流软件产品，Db2推出全套AI驱动智能体
