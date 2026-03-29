@@ -16,6 +16,9 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-29
+- **[OpenClaw最大规模更新，告别npm，一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级，所有插件需经过官方安全扫描
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
+### 2026-03-29
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
 - **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件,多数场景已接近Claude最新模型水准](https://baijiahao.baidu.com/s?id=1860811564014749098)** 罗福莉表示OpenClaw开源特性有利于社区参与，harness系统和skills体系保证下限
 - **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** 2026中关村论坛现场签约34个重大投资项目

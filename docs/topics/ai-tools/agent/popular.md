@@ -16,6 +16,10 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-29
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比，覆盖11大主流框架
+- **[迈富时AI-Agentforce，智能体开发平台优选](https://www.163.com/dy/article/KOQJSTF00556L2H5.html)** 2025年中国智能体开发平台市场规模约232亿元，迈富时、字节Coze、蚂蚁Agentar形成差异化梯队
+- **[AI Agent冲破屏幕，中国汽车人迎来自己的司机助理](https://baijiahao.baidu.com/s?id=1860461507218155192)** 马斯克将Grok接入智驾，让汽车从被动执行工具变成主动司机助手，大模型从屏幕走向执行层
+### 2026-03-29
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图AI Agent接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
 - **[AI Agent(创新奇智)](https://baike.baidu.com/item/AI%20Agent/65485316)** 面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署

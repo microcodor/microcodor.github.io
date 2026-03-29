@@ -15,6 +15,10 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-29
+- **[苹果iOS 27将允许多款AI应用接入Siri 包括Claude/Gemini](https://baijiahao.baidu.com/s?id=1860813361786082019)** iOS 27为Siri添加扩展系统，允许Claude等AI聊天机器人与Siri协同工作，用户可通过应用商店添加更多AI服务
+- **[谷歌推Gemini切换工具，一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可将喜好、历史对话和背景信息直接带入，实现跨平台迁移
+- **[2026国内如何使用GPT、Claude、Gemini：聚合镜像站实测](https://www.pconline.com.cn/ai/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
+### 2026-03-29
 - **[苹果iOS 27将允许多款AI应用接入Siri 包括Claude/Gemini](https://baijiahao.baidu.com/s?id=1860813361786082019)** iOS 27为Siri添加扩展系统，允许Claude等AI聊天机器人与Siri协同工作
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史
 - **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT、Claude、Gemini各自优势对比，聚合镜像站更有实际价值
