@@ -13,6 +13,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-03-29
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
+- **[装了龙虾不知道该干嘛?你差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[深度|对话OpenClaw一线builder:OpenClaw时代,SaaS将一文不值](https://new.qq.com/rain/a/20260328A06MOI00)** Alex Finn现场演示5分钟复刻大公司耗时数月开发的新功能
+- **[Workflow automation](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 微软阐述AI workflow automation概念，AI和低代码平台赋能给非技术用户
+- **[AI Workflow Automation: 4 Examples and Best Practices](https://otter.ai/blog/ai-workflow-automation)** 自然语言处理技术使AI能像个人助理一样理解请求并相应执行
 
 ### 2026-03-29
 - **[YC W26 Demo Day揭示AI投资转向：聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个，Voice类从9个锐减至1个

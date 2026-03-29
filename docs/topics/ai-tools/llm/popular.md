@@ -13,6 +13,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-03-29
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可将ChatGPT、Claude的偏好、历史对话和背景信息直接带入
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持文件拖拽和本地应用访问
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
+- **[Gemini:2026年最强AI模型之一,如何在实际应用中挑战GPT与Claude的地位?](https://developer.aliyun.com/article/1709800)** Gemini复杂推理场景结构稳定性突出，长上下文处理更偏工程友好
 
 ### 2026-03-29
 - **[苹果iOS 27将允许多款AI应用接入Siri 包括Claude/Gemini](https://baijiahao.baidu.com/s?id=1860813361786082019)** iOS 27为Siri添加扩展系统，允许Claude等AI聊天机器人与Siri协同工作，用户可通过应用商店添加更多AI服务

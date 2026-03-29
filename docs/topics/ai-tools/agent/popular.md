@@ -14,6 +14,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-03-29
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，包括LangGraph、CrewAI、Dify、Qwen-Agent等，低代码/零代码平台成为重要趋势
+- **[AutoGen架构全景解读:v0.4到Microsoft Agent Framework的变化](https://www.163.com/dy/article/KNETAES90531D9VR.html)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[一键可用:供应商风险管理AI Agent(2025企业标配)](https://baijiahao.baidu.com/s?id=1852717523614427743)** 2025企业标配，FinanceAgent、ContractMaster、SupplyRisk Guard等智能体覆盖80%管理场景
 
 ### 2026-03-29
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比，覆盖11大主流框架
