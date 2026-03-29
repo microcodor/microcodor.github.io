@@ -17,6 +17,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-03-29
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
+- **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件,多数场景已接近Claude最新模型水准](https://baijiahao.baidu.com/s?id=1860811564014749098)** 罗福莉表示OpenClaw开源特性有利于社区参与，harness系统和skills体系保证下限
+- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** 2026中关村论坛现场签约34个重大投资项目
+- **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
+
+### 2026-03-29
+- **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
 - **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件](https://baijiahao.baidu.com/s?id=1860811564014749098)** 罗福莉表示多数场景已接近Claude最新模型水准，harness系统和skills体系保证下限
 - **[OpenClaw大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991534&idx=1&sn=6b048e7d052852d7aaa8224e35d514f9)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置搜索引擎
 - **[停更9天后OpenClaw迎来3.22大更新](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场正式成为默认插件安装源，GPT-5.4模型集成

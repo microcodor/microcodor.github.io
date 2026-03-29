@@ -15,6 +15,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-29
+- **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
+- **[AI自动化运维工具:从效率瓶颈到零门槛云原生部署](https://blog.csdn.net/gitblog_00336/article/details/159454822)** 智能变更检测、容器化环境标准化、弹性资源调度、多阶段测试自动化
+- **[AIWorks实现自动化机器学习流水线部署](https://www.dtstack.com/bbs/article/453898)** AIWorks自动化机器学习平台，整合数据预处理、特征工程、模型训练等全流程功能
+- **[n8n测评:开源工作流自动化的"带头大哥",如何成为AI Agent时代的香饽饽](https://www.woshipm.com/ai/6363075.html)** n8n用户增长6倍，收入增长10倍，估值从2.7亿美元涨至25亿美元
+
+### 2026-03-29
 - **[5步实现AI视频全流程自动化:Video Maker技术指南](https://blog.csdn.net/gitblog_00730/article/details/159453512)** 基于Node.js开源项目，从关键词输入到YouTube发布的完整自动化流程
 - **[终极指南:如何用crewAI-tools构建AI智能体自动化工作流](https://blog.csdn.net/gitblog_00327/article/details/159457137)** crewAI-tools提供文件处理、数据库集成、向量搜索、网络爬虫等工具
 

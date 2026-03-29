@@ -18,6 +18,13 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-03-29
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图AI Agent接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+- **[AI Agent(创新奇智)](https://baike.baidu.com/item/AI%20Agent/65485316)** 面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
+- **[.NET AI 生态系统的重构与演进:Microsoft Agent Framework 对 Semantic Kernel 的继承、超越与战略整合](https://blog.csdn.net/UQZk1app8/article/details/159425709)** Microsoft Agent Framework成为Semantic Kernel的官方继任者
+- **[AI Agent 落地元年:2025 企业智能化转型迈入技术实操阶段](https://it.sohu.com/a/1000193739_122440928)** 2025年企业级AI Agent市场规模突破232亿元
+
+### 2026-03-29
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图AI Agent接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
 - **[迈富时AI-Agentforce,智能体开发平台优选](https://www.163.com/dy/article/KOQJSTF00556L2H5.html)** 迈富时AI-Agentforce智能体开发平台，2025年中国智能体开发平台市场规模约232亿元
 - **[AI Agent 智能体技术入门:收藏这份2026年最新学习指南](https://blog.csdn.net/l01011_/article/details/159462288)** 感知、大脑、行动、记忆四大核心模块
 - **[Agent Infra 正在重塑 AI Infra:从 Serving、State 到 Scheduling 的一次系统性改写](https://zhuanlan.zhihu.com/p/2019347592367093406)** Agent Infra讨论模型外部技术系统与共享协议，Anthropic将MCP捐给Linux Foundation
