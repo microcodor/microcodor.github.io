@@ -14,6 +14,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+
+### 2026-03-30
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
+- **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨
+- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
 - **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨
