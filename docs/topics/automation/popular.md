@@ -14,6 +14,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-03-30
+- **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+### 2026-03-30
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个，团队规模中位数压缩至3-5人
 - **[marktoflow: Open-source AI workflow automation](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成、Tool calling和本地LLM
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统，能感知环境并跨多步骤调用工具

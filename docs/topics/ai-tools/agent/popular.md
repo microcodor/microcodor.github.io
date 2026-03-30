@@ -17,6 +17,12 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-03-30
 - **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://www.bjnews.com.cn/detail/1774768891129071.html)** 迈富时自研企业级AI智能体开发与运营平台，提供可视化工具链，支持快速构建专属AI数字员工
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署,速收藏!](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+- **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
+- **[AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)** Microsoft AutoGen以可靠性和模块化著称，支持多Agent系统与人类反馈
+### 2026-03-30
+- **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://www.bjnews.com.cn/detail/1774768891129071.html)** 迈富时自研企业级AI智能体开发与运营平台，提供可视化工具链，支持快速构建专属AI数字员工
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
 - **[AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
 - **[.NET AI 生态系统的重构与演进:Microsoft Agent Framework 对 Semantic Kernel 的继承、超越与战略整合](https://blog.csdn.net/UQZk1app8/article/details/159425709)** Microsoft Agent Framework成为Semantic Kernel官方继任者，融合AutoGen多代理编排模式

@@ -16,6 +16,11 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
+- **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨
+- **[OpenClaw引爆"诸神之战":解码巨头AI Agent背后的三场"暗战"](https://baijiahao.baidu.com/s?id=18609442062986286218)** 字节、腾讯、智谱、阿里相继推出ArkClaw、WorkBuddy、AutoClaw、Copaw，围绕OpenClaw开源底座展开生态卡位
+- **[当AI助手变成"特洛伊木马":OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 安全研究者发现NPM恶意依赖包攻击，全球超27万实例暴露公网，约40%与APT组织关联
+### 2026-03-30
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
 - **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
