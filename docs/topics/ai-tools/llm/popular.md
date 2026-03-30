@@ -15,6 +15,13 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-03-31
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可将ChatGPT、Claude的偏好、历史对话和背景信息直接带入
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/ai/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
+- **[2026国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[如何让AI帮我润色论文语言?2026年实测Gemini/Claude/GPT-4o效果横评](https://www.pconline.com.cn/ai/article/1550271.html)** Gemini 3.1 Pro擅长逻辑梳理与长句优化，Claude 3.5在学术表达严谨性上表现突出
+
+### 2026-03-31
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://g.pconline.com.cn/ai/article/1552812.html)** 2026年AI工具排行榜发布，GPT-5.4综合能力最强、Claude Opus 4.6综合体验最佳、Gemini 3.1多模态标杆
 - **[2026年程序员必用的6种AI大模型](https://zhuanlan.zhihu.com/p/2021879324207327135)** 2026年进入"神仙打架"模式，长上下文、Agent能力、多模态理解成硬核比拼
 - **[谷歌Claude们同时栽了:3家AI测同一产品](https://www.163.com/dy/article/KP98PV3005561FZV.html)** 三家AI调研同一产品，真相得分Claude 28%、ChatGPT 22%、Gemini 19%，换Prompt后Claude升至89%

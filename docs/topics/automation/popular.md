@@ -15,6 +15,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-03-31
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成、Tool calling和本地LLM
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统，能感知环境并跨多步骤调用工具
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
+- **[Ekinox](https://baike.baidu.com/item/Ekinox/67533960)** 可视化工作流构建器，支持100种集成能力，支持GPT-4、Claude、Gemini等AI模型
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26聚焦为agent做服务的产品，Vertical Workflow从22个降至12个，Voice类从9个锐减至1个
+
+### 2026-03-31
 - **[AI系统为什么必须分层?Workflow vs Inference架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** 工程视角解析AI系统分层架构，Workflow工作流层和Inference推理层的区别
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://new.qq.com/rain/a/20260330A04HGT00)** YC W26聚焦为agent做服务的产品，B2B从替代人力到服务agent
 - **[2026年中国金融AI工具综合评测:主流产品全景解析](https://q.stock.sohu.com/cn/news.html)** 金融AI工具领域呈现三大核心趋势：多智能体协同架构、垂直领域知识库精而深、实时交互能力

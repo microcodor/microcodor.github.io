@@ -16,6 +16,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-03-31
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[【干货】2025 年必学的 8 大 AI Agent 开发框架:全面解析与使用指南](https://blog.csdn.net/m0_48891301/article/details/149801328)** LangChain构建LLM应用基础设施，CrewAI多角色类公司式Agent协作模型，AutoGPT完全自主智能体
+- **[【国金计算机&科技】再一次谈自定义Agent](https://www.163.com/dy/article/KP78ANFO05568W0A.html)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化"AI工作手册(SOP)"
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室Agent功能已是产品收入增长主要动力
+- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947)** AI Agent整合至产品矩阵后快速爆发，全球付费订阅用户数显著提升
+
+### 2026-03-31
 - **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://stock.10jqka.com.cn/20260330/c675627022.shtml)** 迈富时自研企业级AI智能体开发与运营平台，提供完整可视化工具链，让企业能够快速构建专属AI数字员工
 - **[AI垂类模型催生数据基础设施新需求 迅策科技布局Token经济构建行业壁垒](https://baijiahao.baidu.com/s?id=1861084174508216065)** 迅策科技2025年度财报揭示实时数据领域机遇，围绕Token经济的前瞻性布局正构筑行业壁垒
 - **[指尖上的智慧革命:Vocci AI笔记戒指](https://news.sina.cn/ai/2026-03-30/detail-inhstxww4015927.d.html)** 全球首款AI笔记戒指发布，AI Agent交互的最短路径

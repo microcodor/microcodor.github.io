@@ -16,6 +16,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-03-31
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
+- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
+- **[从9 天等待到 5 分钟部署:OpenClaw v2026.3.x 如何让一个人拥有团队的交付能力](https://cloud.tencent.com/developer/article/2645197)** OpenClaw v2026.3.2 breaking changes更新，v2026.3.11功能扩展，秘密模型临时访问，Chrome DevTools MCP Attach Mode
+- **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
+
+### 2026-03-31
 - **[openclaw v2026.3.28更新详解:模型适配、插件增强、多平台优化](https://moonfdd.blog.csdn.net/article/details/159616702)** OpenClaw发布v2026.3.28版本，Qwen提供商认证迁移、xAI(Grok)捆绑至Responses API、MiniMax图像生成能力发布
 - **[重构AI生产力:OpenClaw多Agent智能体协同+阿里云、本地部署](https://developer.aliyun.com/article/1721121)** OpenClaw多Agent协作基于"模型层-技能层-网关层"三层架构，实现"思考-执行-管控"分离
 - **[OpenClaw重大更新:如何实现本土化与安全平衡?](https://www.sohu.com/a/1003059584_122066678)** 新版本引入身份验证与SSH沙盒托管，执行审批直接穿透调度器
