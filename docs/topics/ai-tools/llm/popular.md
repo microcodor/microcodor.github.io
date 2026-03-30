@@ -248,3 +248,11 @@ description: 主流大模型能力对比与选型参考
 ### 2026-03-30
 - **[突发背刺!Claude、Gemini 齐限流,AI「自助餐」撑不住了](https://baijiahao.baidu.com/s?id=1860871836726410761)** Anthropic宣布高峰期限流，太平洋时间工作日5点到11点5小时配额消耗更快，约7%用户受影响
 - **[Claude 4 vs GPT-4.1 vs Gemini 2.5 Pro:2025 编程能力实测横评](https://blog.csdn.net/cmzznet/article/details/159562995)** 同一套测试框架公平对比三大顶级模型编程能力，通过TheRouterAPI网关统一调用
+
+### 2026-03-30
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://g.pconline.com.cn/zhizao/article/1546985.html)** MoE架构解析，GPT-4o参数1.8万亿激活2800亿，Gemini 3凭1M上下文可处理70万字
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
+- **[GPT、Claude和Gemini在核危机模拟中的人格差异](https://zhuanlan.zhihu.com/p/2011529502728139641)** GPT-5.2激进、Claude Sonnet 4计算型鹰派、Gemini 3 Flash保守，三者决策风格迥异
+- **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok ](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆

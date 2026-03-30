@@ -251,3 +251,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw又更新!3.8版本官方备份功能上线,还有12项安全补丁](https://baijiahao.baidu.com/s?id=1859194576549158997)** ACP全链路指令溯源、官方backup两条命令保障回滚、多人协作权限管控
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://hub.baai.ac.cn/view/52987)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口开放完整生命周期钩子
 - **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI模块化翻新、Ollama完整接入流程、多模态记忆系统、Agent编排能力增强
+
+### 2026-03-30
+- **[黄仁勋一句话,揭露了OpenClaw的“阴谋”](https://baijiahao.baidu.com/s?id=1860957054511565447)** OpenClaw深度优化了与CUDA及英伟达硬件的兼容性，可通过Agent自动操作电脑、调用工具、执行任务
+- **[补齐OpenClaw进化拼图!AReaL v1.0开源,智能体强化学习一键接入](https://baijiahao.baidu.com/s?id=1858704041540091570)** 蚂蚁和清华大学联合打造AReaL v1.0，零代码接入OpenClaw训练，兼容任意Agent框架
+- **[OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860500918484726803)** 全新公开插件SDK上线，彻底废弃旧扩展API，ClawHub插件作为分发首选渠道
+- **[觉都不睡了!龙虾又上新:OpenClaw 3.8来袭](https://baijiahao.baidu.com/s?id=1859177823615298551)** ACP来源识别、openclaw backup官方备份功能、Telegram假冒问题修复

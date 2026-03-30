@@ -277,3 +277,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26系列199个项目演绎样本，从"替代人力"到"服务agent"，B2B赛道铲子专为agent打造
 - **[2025智能工作流AI优化引擎最佳实践:来自10家头部企业的经验总结](https://blog.csdn.net/2501_91473495/article/details/159358343)** 核心组件包括数据采集、分析、机器学习模型与决策引擎，数学模型与公式深度解析
 - **[IBM强化企业软件AI时代能力](https://www.ibm.com/cn-zh/new/announcements/strengthening-ibms-proven-enterprise-software-for-the-ai-era)** 将智能体式AI原生整合至主流软件产品，Db2推出全套AI驱动智能体
+
+### 2026-03-30
+- **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[一文讲清:Agent、Workflow、MCP的区别是啥?](https://zhuanlan.zhihu.com/p/2011187816378422337)** Agent自主决策、Workflow流程固定、MCP标准化工具接口
