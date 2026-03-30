@@ -15,6 +15,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-03-31
+- **[openclaw v2026.3.28更新详解:模型适配、插件增强、多平台优化](https://moonfdd.blog.csdn.net/article/details/159616702)** OpenClaw发布v2026.3.28版本，Qwen提供商认证迁移、xAI(Grok)捆绑至Responses API、MiniMax图像生成能力发布
+- **[重构AI生产力:OpenClaw多Agent智能体协同+阿里云、本地部署](https://developer.aliyun.com/article/1721121)** OpenClaw多Agent协作基于"模型层-技能层-网关层"三层架构，实现"思考-执行-管控"分离
+- **[OpenClaw重大更新:如何实现本土化与安全平衡?](https://www.sohu.com/a/1003059584_122066678)** 新版本引入身份验证与SSH沙盒托管，执行审批直接穿透调度器
+- **[OpenClaw史诗级更新:一刀砍死国内"套壳厂"](https://www.163.com/dy/article/KP89J1Q905566SDR.html)** 2026.3.24版本全面升级(plugin-sdk全面接管)、GPT-5.4默认接入、MiniMax/Claude集成、SMB凭证泄露修复
+- **[OpenClaw从翻车到迎来上百项更新:MiniMax、腾讯、阿里、有道专家拆解](https://www.163.com/dy/article/KP9LD5LP0511FQO9.html)** OpenClaw 3.28快速迭代，从野蛮生长到建立"沙盒护栏"
+
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
 - **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨

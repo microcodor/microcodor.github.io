@@ -14,6 +14,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-03-31
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://g.pconline.com.cn/ai/article/1552812.html)** 2026年AI工具排行榜发布，GPT-5.4综合能力最强、Claude Opus 4.6综合体验最佳、Gemini 3.1多模态标杆
+- **[2026年程序员必用的6种AI大模型](https://zhuanlan.zhihu.com/p/2021879324207327135)** 2026年进入"神仙打架"模式，长上下文、Agent能力、多模态理解成硬核比拼
+- **[谷歌Claude们同时栽了:3家AI测同一产品](https://www.163.com/dy/article/KP98PV3005561FZV.html)** 三家AI调研同一产品，真相得分Claude 28%、ChatGPT 22%、Gemini 19%，换Prompt后Claude升至89%
+- **[李未可AI眼镜接入OpenClaw实现跨端协同](https://baijiahao.baidu.com/s?id=1861064197208977590)** 李未可AI眼镜已全面接入OpenClaw，用户可通过语音直接发起指令完成跨设备自动化操作
+- **[27.5亿美元!礼来买下英矽智能一条临床前口服管线](https://baijiahao.baidu.com/s?id=1861058662080042727)** 礼来与英矽智能达成管线授权合作，AI for Drug Discovery技术供给与战略需求高度匹配
+
 ### 2026-03-30
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可将ChatGPT、Claude的偏好、历史对话和背景信息直接带入
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比

@@ -14,6 +14,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-03-31
+- **[AI系统为什么必须分层?Workflow vs Inference架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** 工程视角解析AI系统分层架构，Workflow工作流层和Inference推理层的区别
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://new.qq.com/rain/a/20260330A04HGT00)** YC W26聚焦为agent做服务的产品，B2B从替代人力到服务agent
+- **[2026年中国金融AI工具综合评测:主流产品全景解析](https://q.stock.sohu.com/cn/news.html)** 金融AI工具领域呈现三大核心趋势：多智能体协同架构、垂直领域知识库精而深、实时交互能力
+- **[32款代码扫描工具实测:15万/年的输给免费开源货](https://www.163.com/dy/article/KP96I8PL05561FZJ)** CodeAnt AI等AI辅助工具脱颖而出，检出率72%、误报率12%
+- **[4.2亿开发者沉默背后:API工具这10年其实在开倒车](https://www.163.com/dy/article/KP95QHIF05561FZV)** 文档泡沫被戳破后，workflow工作流成裸泳者
+
 ### 2026-03-30
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
 - **[marktoflow: Open-source AI workflow automation](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成、Tool calling和本地LLM

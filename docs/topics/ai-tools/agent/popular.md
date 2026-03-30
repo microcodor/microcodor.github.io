@@ -15,6 +15,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-03-31
+- **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://stock.10jqka.com.cn/20260330/c675627022.shtml)** 迈富时自研企业级AI智能体开发与运营平台，提供完整可视化工具链，让企业能够快速构建专属AI数字员工
+- **[AI垂类模型催生数据基础设施新需求 迅策科技布局Token经济构建行业壁垒](https://baijiahao.baidu.com/s?id=1861084174508216065)** 迅策科技2025年度财报揭示实时数据领域机遇，围绕Token经济的前瞻性布局正构筑行业壁垒
+- **[指尖上的智慧革命:Vocci AI笔记戒指](https://news.sina.cn/ai/2026-03-30/detail-inhstxww4015927.d.html)** 全球首款AI笔记戒指发布，AI Agent交互的最短路径
+- **[OpenClaw + VibeCoding:双重引擎驱动下的2025复盘](https://blog.csdn.net/qq_41581588/article/details/159644470)** Agent时代真的来了，AI从聊天框里的智者变成终端里的实干家
+- **[三大Java生态AI Agent框架随笔](https://www.cnblogs.com/smallfa/p/archive/2026/03/30)** Java生态AI Agent框架探讨
+
 ### 2026-03-30
 - **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://www.bjnews.com.cn/detail/1774768891129071.html)** 迈富时自研企业级AI智能体开发与运营平台，提供可视化工具链，支持快速构建专属AI数字员工
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
