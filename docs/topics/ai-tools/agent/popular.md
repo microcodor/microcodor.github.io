@@ -7,6 +7,14 @@ description: 主流 Agent 框架与工具链一览
 
 > 最后更新：自动汇总
 
+### 2026-04-01
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出，Dify作为低代码平台降低开发门槛
+- **[AutoGen架构全景解读:v0.4到Microsoft Agent Framework的变化](https://www.163.com/dy/article/KNETAES90531D9VR.html)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[2025年七大AI Agent框架深度解析:从LangChain到AutoGen](http://zhuanlan.zhihu.com/p/1966142455456982851)** LangChain以模块化架构和丰富生态著称，AutoGen支持多Agent协作，Dify适合快速原型验证
+- **[Microsoft Ignite 2025: 以 AI 代理与 Copilot 赋能"AI 为先企业"](https://news.microsoft.com/zh-hk/2025/11/19/microsoft-ignite-2025-%E4%BB%A5-ai-%E4%BB%A3%E7%90%86%E8%81%8C%E8%93%8D-copilot-%E8%B5%8B%E8%83%BD%E3%80%8Cai-%E7%82%BA%E5%85%88%E4%BC%81%E4%B8%9A%E3%80%8D/)** 微软推出Agent 365和Copilot生态，Work IQ让AI深入了解用户工作流程
+
 ### 2026-03-28
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署,速收藏!](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台

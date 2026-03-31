@@ -7,6 +7,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 > 最后更新：自动汇总
 
+### 2026-04-01
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[深度|对话 OpenClaw 一线 builder:SaaS将一文不值](https://new.qq.com/rain/a/20260328A06MOI00)** Alex Finn演示5分钟复刻大公司数月开发的功能，SaaS行业面临AI Agent挑战
+- **[Workflow automation](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 微软阐述AI驱动的自动化未来，AI和低代码平台赋予非技术人员构建和工作流管理能力
+- **[AI Workflow Automation: 4 Examples and Best Practices](https://otter.ai/blog/ai-workflow-automation)** 自然语言处理技术让AI像个人助理一样理解请求并执行
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色
+
 ### 2026-03-28
 - **[YC W26 Demo Day揭示AI投资转向:聚焦Agent基础设施与物理世界](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作

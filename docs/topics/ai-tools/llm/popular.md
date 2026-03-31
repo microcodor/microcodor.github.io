@@ -7,6 +7,14 @@ description: 主流大模型能力对比与选型参考
 
 > 最后更新：自动汇总
 
+### 2026-04-01
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
+- **[Gemini:2026年最强AI模型之一,如何在实际应用中挑战GPT与Claude的地位?](https://developer.aliyun.com/article/1709800)** Gemini在复杂推理场景下结构稳定性高，长上下文处理更偏工程友好
+- **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://g.pconline.com.cn/zhizao/article/1546985.html)** 三大主流模型架构对比，GPT-4o全能、Claude 3.5严谨、Gemini 3多模态
+- **[谷歌Gemini 3.1 Pro屠榜封神,清华姚顺宇出手](https://zhuanlan.zhihu.com/p/2008085662096709278)** Gemini 3.1 Pro在推理性能上实现突破
+
 ### 2026-03-28
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，可从ChatGPT、Claude导入偏好和聊天历史
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，内部代号"Janus"，支持桌面智能特性

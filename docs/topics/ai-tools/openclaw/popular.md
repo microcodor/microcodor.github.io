@@ -7,6 +7,15 @@ description: OpenCLAW AI Agent 框架最新动态
 
 > 最后更新：自动汇总
 
+### 2026-04-01
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口让开发者可完全自定义上下文处理逻辑
+- **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告：OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
+- **[重磅!OpenClaw+OpenViking正式登陆鲲鹏,打造端到端AI Agent最佳实践](https://baijiahao.baidu.com/s?id=1859357890879190358)** 鲲鹏算力赋能，插件精准解决原生记忆痛点，成本最高锐减10倍
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub插件市场，沙箱架构全面升级
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI大幅翻新，Ollama完整接入流程，多模态记忆系统支持图片音频文档
+- **[OpenClaw 史上最强更新:记忆热插拔 + GPT-5.4](http://zhuanlan.zhihu.com/p/2014275270752904257)** ContextEngine可插拔上下文引擎，lossless-claw插件实现无损上下文管理
+- **[OpenClaw 大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==)** ClawHub插件市场上线，/btw侧边提问不污染主对话上下文
+
 ### 2026-03-28
 - **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件,多数场景已接近Claude最新模型水准](https://baijiahao.baidu.com/s?id=1860811564014749098&wfr=spider&for=pc)** 罗福莉表示OpenClaw开源特性有利于社区参与，harness系统和skills体系保证任务完成度
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951&wfr=spider&for=pc)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
