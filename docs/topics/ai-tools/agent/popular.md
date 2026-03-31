@@ -14,6 +14,9 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-03-31
+- **[AI Agent 构建范式彻底重构:2026 年,开箱 SDK 与生产级框架的双车道时代](https://blog.csdn.net/huhu2k/article/details/159553111)** 开源SDK与生产级框架并存，开发者学习成本降低，企业级应用更成熟
+
 
 ### 2026-03-31
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
