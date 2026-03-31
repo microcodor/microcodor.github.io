@@ -15,24 +15,14 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-03-31
-- **[AI Agent 构建范式彻底重构:2026 年,开箱 SDK 与生产级框架的双车道时代](https://blog.csdn.net/huhu2k/article/details/159553111)** 开源SDK与生产级框架并存，开发者学习成本降低，企业级应用更成熟
-
-
-### 2026-03-31
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署,速收藏!](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
+- **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://new.qq.com/rain/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[2024-2025 AI智能体Agent最新进展研究:技术、应用与行业趋势](https://blog.csdn.net/jacky190/article/details/158807578)** 多模态感知与认知融合、自主决策与任务规划、分布式架构与云原生支持成核心技术突破
 - **[【干货】2025 年必学的 8 大 AI Agent 开发框架:全面解析与使用指南](https://blog.csdn.net/m0_48891301/article/details/149801328)** LangChain构建LLM应用基础设施，CrewAI多角色类公司式Agent协作模型，AutoGPT完全自主智能体
-- **[【国金计算机&科技】再一次谈自定义Agent](https://www.163.com/dy/article/KP78ANFO05568W0A.html)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化"AI工作手册(SOP)"
-- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室Agent功能已是产品收入增长主要动力
-- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947)** AI Agent整合至产品矩阵后快速爆发，全球付费订阅用户数显著提升
 
-### 2026-03-31
-- **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://stock.10jqka.com.cn/20260330/c675627022.shtml)** 迈富时自研企业级AI智能体开发与运营平台，提供完整可视化工具链，让企业能够快速构建专属AI数字员工
-- **[AI垂类模型催生数据基础设施新需求 迅策科技布局Token经济构建行业壁垒](https://baijiahao.baidu.com/s?id=1861084174508216065)** 迅策科技2025年度财报揭示实时数据领域机遇，围绕Token经济的前瞻性布局正构筑行业壁垒
-- **[指尖上的智慧革命:Vocci AI笔记戒指](https://news.sina.cn/ai/2026-03-30/detail-inhstxww4015927.d.html)** 全球首款AI笔记戒指发布，AI Agent交互的最短路径
-- **[OpenClaw + VibeCoding:双重引擎驱动下的2025复盘](https://blog.csdn.net/qq_41581588/article/details/159644470)** Agent时代真的来了，AI从聊天框里的智者变成终端里的实干家
-- **[三大Java生态AI Agent框架随笔](https://www.cnblogs.com/smallfa/p/archive/2026/03/30)** Java生态AI Agent框架探讨
-
-### 2026-03-30
+## 近期动态
 - **[AI-Agentforce智能体中台 企业AI应用的技术基础设施与竞争壁垒](https://www.bjnews.com.cn/detail/1774768891129071.html)** 迈富时自研企业级AI智能体开发与运营平台，提供可视化工具链，支持快速构建专属AI数字员工
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
