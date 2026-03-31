@@ -21,6 +21,13 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-01
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
+- **[Gemini:2026年最强AI模型之一,如何在实际应用中挑战GPT与Claude的地位?](https://developer.aliyun.com/article/1709800)** Gemini在复杂推理场景下结构稳定性高，长上下文处理更偏工程友好
+
+## 近期动态
 ### 2026-03-31
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 - **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
