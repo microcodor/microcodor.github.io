@@ -16,6 +16,14 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-03-31
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[【干货】2025 年必学的 8 大 AI Agent 开发框架:全面解析与使用指南](https://blog.csdn.net/m0_48891301/article/details/149801328)** LangChain构建LLM应用基础设施，CrewAI多角色类公司式Agent协作模型，AutoGPT完全自主智能体
+- **[【国金计算机&科技】再一次谈自定义Agent](https://www.163.com/dy/article/KP78ANFO05568W0A.html)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947)** RoboNeo已登顶全球26个国家和地区应用商店榜首，AI Agent收入快速增长
+
+## 近期动态
+### 2026-03-31
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025-2026年AI Agent框架选型指南:小白也能掌握大模型开发与部署,速收藏!](https://blog.csdn.net/l01011_/article/details/158570903)** 四类框架深度对比：零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
 - **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://new.qq.com/rain/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化

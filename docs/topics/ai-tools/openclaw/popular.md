@@ -18,6 +18,16 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
 - **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复
 - **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
+- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)**YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
+- **[从9 天等待到 5 分钟部署:OpenClaw v2026.3.x 如何让一个人拥有团队的交付能力](https://cloud.tencent.com/developer/article/2645197)** v2026.3.2 breaking changes更新，v2026.3.11功能扩展，Chrome DevTools MCP Attach Mode
+- **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
+
+## 近期动态
+### 2026-03-31
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
+- **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复
+- **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
 
 ## 近期动态
 ### 2026-03-31

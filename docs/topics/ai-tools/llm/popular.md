@@ -17,6 +17,13 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 - **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
 - **[2026国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+- **[如何让AI帮我润色论文语言?2026年实测Gemini/Claude/GPT-4o效果横评](https://www.pconline.com.cn/ai/article/1550271.html)** Gemini 3.1 Pro擅长逻辑梳理与长句优化，Claude 3.5在学术表达严谨性上表现突出
+
+## 近期动态
+### 2026-03-31
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
+- **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
+- **[2026国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 
 
 ### 2026-03-31
