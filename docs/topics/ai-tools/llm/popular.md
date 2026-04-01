@@ -21,6 +21,14 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-02
+- **[2026年三大AI模型GPT-4、Claude 3、Gemini实测:如何在国内高效对比使用?](https://g.pconline.com.cn/ai/article/1551877.html)** GPT-4在中文复杂推理和创意写作上略胜一筹，Claude 3.5在长文档理解和多图分析有独特优势，Gemini 1.5 Pro支持百万级token上下文
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
+- **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术架构对比：Gemini原生多模态与动态计算、GPT工具生态与推测解码、Claude安全协作与长上下文压缩
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://g.pconline.com.cn/ai/article/1553592.html)** GPT-5.4原生计算机使用能力、Gemini 3.1 Pro并行思考技术、Claude 4.6安全性和幻觉控制
+- **[Google Gemini新功能让用户3秒"偷走"ChatGPT](https://www.163.com/dy/article/KP0UMAFD05561FZO.html)** Gemini一键导入功能可将用户在其他AI应用中的偏好和记忆"翻译"过来
+
 ### 2026-04-01
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段

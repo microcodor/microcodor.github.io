@@ -23,6 +23,16 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-02
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 统一生命周期管理、task flow注册表、可视化后台任务流管理
+- **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384&wfr=spider&for=pc)** 内置QQ Bot插件，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
+- **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** requireApproval成为自主Agent的"安全阀"
+- **[OpenClaw 3.24发布:彻底解决最重要的S……](https://baijiahao.baidu.com/s?id=1860866038341758921&wfr=spider&for=pc)** 一键安装配方、Skills页面重做、媒体文件访问安全漏洞修复
+- **[openclaw v2026.3.24 版本发布:从OpenAI模型与Embedding到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成优化
+- **[openclaw v2026.3.28更新详解:模型适配、插件增强、多平台优化一网打尽](https://moonfdd.blog.csdn.net/article/details/159616702)** Qwen认证迁移、xAI/Grok功能升级、MiniMax图像生成
+- **[Claude 与 OpenClaw 正面对决:AI Agent 的「苹果 vs 安卓」时刻](https://zhuanlan.zhihu.com/p/2020870569982263516)** Claude GUI操控重新定义Agent，OpenClaw开放生态反击
+- **[腾讯AI作战地图,全面更新](https://baijiahao.baidu.com/s?id=1860791088215254573&wfr=spider&for=pc)** 腾讯基于OpenClaw打造QClaw，办公应用全面Skill化
+
 ### 2026-04-01
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
 - **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复

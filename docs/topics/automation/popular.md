@@ -21,6 +21,18 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-02
+- **[Automation](https://www.taskade.com/wiki/automation)** Agentic Workflows高级自动化使用AI智能体做决策，Workflow Orchestration创建复杂多步骤自动化
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI代理是自主的、基于规则的软件系统，能感知环境并采取行动完成目标
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[AI workflow自动化构建与流水线优化实践](https://www.dtstack.com/bbs/article/457164)** 构建标准化AI workflow可缩短模型上线周期从数周压缩至数小时
+- **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/464942)** AI workflow将数据预处理、模型训练、推理部署等环节自动化可编排
+- **[iOS 27 重磅升级:AI 自然语言生成快捷指令](https://new.qq.com/rain/a/20260401A03AIO00)** iOS 27支持AI自然语言生成快捷指令，从手动配置到智能生成
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** AIWorks引入智能决策层，持续学习历史任务执行模式动态调整策略
+- **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** Zapier AI分类器、AI文本处理、AI触发器三大核心功能
+- **[AI系统为什么必须分层?Workflow vs Inference 架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** AI系统最终走向分层架构，Workflow层和Inference层有本质区别
+- **[一文搞懂 AI Agent 生态:Function Calling、MCP、SKILL、LangChain 与 Workflow](https://blog.csdn.net/2403_88033173/article/details/159608684)** Function Calling和MCP是实现AI Agent工具调用的两大关键协议
+
 ### 2026-04-01
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作

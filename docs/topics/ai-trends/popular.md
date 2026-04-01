@@ -23,6 +23,17 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[商汤2025年财报:生成式AI再度爆发增长51%,全新基础模型将于二季度问世](https://baijiahao.baidu.com/s?id=1860542102161094200)** 商汤2025年收入增长33%超50亿元，生成式AI爆发增长51%
 
 ## 近期动态
+### 2026-04-02
+- **[中国AI全面赶超,人才是关键](https://baijiahao.baidu.com/s?id=1861160306510893292&wfr=spider&for=pc)** 2025年NeurIPS论文中国第一作者数量首次超过美欧，中国AI人才数量已超美国、英国和欧洲总和
+- **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网与RTE开发者社区联合发布，提出"三维二轨"评估体系
+- **[小沓AI・智能营销产品 2026GDPS重磅发布](https://baijiahao.baidu.com/s?id=1861142335678252532&wfr=spider&for=pc)** 壹沓科技发布涵盖拟态探针、偏好棱镜、答案胶囊三大核心功能
+- **[“2025全球工程前沿”发布 人工智能助力工程范式迈向代际跃迁](https://baijiahao.baidu.com/s?id=1860866989916405793&wfr=spider&for=pc)** 中国工程院发布94个工程研究前沿和95个工程开发前沿
+- **[快手估值重构的“隐藏彩蛋”](https://baijiahao.baidu.com/s?id=1860956362104294858&wfr=spider&for=pc)** 可灵AI年收入目标从6000万美元上调至1.4亿美元，12月单月收入突破2000万美元
+- **[AI端侧硬件驱动 易点云2025年经调整净利润创新高](https://finance.eastmoney.com/a/202603313690267141.html)** 易点云经调整净利润达1.45亿元，同比增长81.2%，AI端侧硬件成新引擎
+- **[出门问问2025年报:亏损降九成,AI原生组织红利全面释放](https://baijiahao.baidu.com/s?id=1860917638275992525&wfr=spider&for=pc)** AI智能硬件业务收入174.2万元，同比增长14.4%
+- **[国补加持、出货暴增,AI眼镜真能取代手机?](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902vggy)** 华为、小米、阿里巴巴相继发布AI眼镜产品
+- **[视源股份2025年营收244亿:教室里的AI](https://baijiahao.baidu.com/s?id=1860822607119395417&wfr=spider&for=pc)** 希沃AI备课助手累计激活用户超100万
+
 ### 2026-04-01
 - **[科技周报|快手CEO立下可灵年收入翻倍军令状](https://baijiahao.baidu.com/s?id=1860969385370683043)** 快手可灵AI四季度营收3.4亿元，ARR超3亿美元，CEO程一笑表示今年收入同比增长超100%
 - **[出门问问2025年业绩:亏损收窄90.5%](https://www.donews.com/news/detail/4/6487955.html)** 出门问问2025年发布AI录音产品TicNote，搭载自研Shadow AI系统

@@ -22,6 +22,16 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-02
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，智能体开始尝试解决复杂现实任务
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947&wfr=spider&for=pc)** RoboNeo已登顶全球26个国家和地区应用商店榜首，AI Agent收入快速增长
+- **[AI Agent 构建范式彻底重构:2026 年,开箱 SDK 与生产级框架的双车道时代](https://blog.csdn.net/huhu2k/article/details/159553111)** 开发者必须经历框架选型、工具定义、RAG搭建、Agent执行循环四步，传统构建方式面临重构
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
+
 ### 2026-04-01
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
