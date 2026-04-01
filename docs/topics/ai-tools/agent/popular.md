@@ -23,6 +23,17 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-01
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
+- **[对话AI异类弗兰克:我聘请了一位「龙虾CEO」](https://www.163.com/dy/article/KPC4T94705118HA4.html)** QLab本质是一个AI原生孵化器，围绕agent生态的实验室和创业网络
+- **[全球AI对话模型与Agent生态的2025趋势观察](https://www.pconline.com.cn/ai/article/1554293.html)** AI Agent绝对是下一个爆点，现在单个模型再强,也得靠Agent串联起来用
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026年AI将如何改变我们的生活?未来预测揭晓](https://www.163.com/dy/article/KPAPKIQ505568E2X.html)** 到2026年底,大多数人将体验到人工智能不再是一个目的地,而更像是安静地融入他们已经在做的事情中
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://www.pconline.com.cn/ai/article/1554767.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能
+- **[谷歌Gemini 3 Deep Think全面碾压Claude和GPT](http://wap.pandaparking.com.cn/corn/blog/692_59252.shtml)** 在"人类最后的考试"中取得48.4%的成绩,编程能力全球仅7人能超越
+- **[微软推出"多模协作"深度研究智能体](https://baijiahao.baidu.com/s?id=1861105061376572631&wfr=spider&for=pc)** GPT与Claude并肩干活,两个模型之间的合作要比"单打独斗"强出一个档次
+
+### 2026-04-01
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，智能体开始尝试解决复杂现实任务

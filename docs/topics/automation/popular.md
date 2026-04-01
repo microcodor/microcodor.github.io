@@ -22,6 +22,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-01
+- **[iOS 27 重磅升级:AI 自然语言生成快捷指令](https://baijiahao.baidu.com/s?id=1861238219654472165&wfr=spider&for=pc)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** n8n是一款开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[工作流程平台详解:10款最佳工具](https://it.sohu.com/a/1003551388_120608187)** AI工作流平台功能:AI驱动的工作流平台可提供智能任务建议、自动化路由逻辑
+- **[当所有人都在讨论AI工具时,我们已经用AI跑通了一家公司](https://zhuanlan.zhihu.com/p/2022340074684039540)** 卓普云用AI协同运行整家公司业务，前端、增长、销售、运维全面AI化
+- **[AIGC文章详情](https://post.smzdm.com/p/al3vl230/)** 五大层自动化写作流程架构、八大核心技能选型参考
+
+### 2026-04-01
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
 - **[Ekinox](https://baike.baidu.com/item/Ekinox/67533960)** 可视化工作流构建器，支持100种集成能力，GPT-4、Claude、Gemini等模型支持

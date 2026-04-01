@@ -24,6 +24,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 ### 2026-04-01
+- **[松鼠Ai斩获2025年度百大AI产品](https://baijiahao.baidu.com/s?id=1861169682622862051&wfr=spider&for=pc)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选
+- **[绚星2025业绩发布:AI转型落地见效 盈利拐点渐近](https://baijiahao.baidu.com/s?id=1861181629574482087&wfr=spider&for=pc)** 绚星2025年总收入3.40亿元，毛利率68.3%，AI相关业务加速起步
+- **[2025年12月新发布:国内AI数字人厂商名单](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vv9m.html)** 国内AI数字人厂商名单，重庆汉沙、京东数字人、云南这里、Character.AI等
+- **[易点云2025年报:经调整净利创新高](https://baijiahao.baidu.com/s?id=1861144066646217609&wfr=spider&for=pc)** 易点云2025年营收15亿元，经调整净利润1.45亿元创新高
+- **[维亚生物发布2025年度业绩:AI制药核心竞争优势行业领先](https://baijiahao.baidu.com/s?id=1861147309398657381&wfr=spider&for=pc)** 维亚生物收入17.29亿元，净利润2.69亿元同比增长21.3%
+
+### 2026-04-01
 - **[科技周报|快手CEO立下可灵年收入翻倍军令状](https://baijiahao.baidu.com/s?id=1860969385370683043)** 快手可灵AI四季度营收3.4亿元，ARR超3亿美元，CEO程一笑表示今年收入同比增长超100%
 - **[出门问问2025年业绩:亏损收窄90.5%](https://www.donews.com/news/detail/4/6487955.html)** 出门问问2025年发布AI录音产品TicNote，搭载自研Shadow AI系统
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用

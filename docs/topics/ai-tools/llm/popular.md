@@ -22,6 +22,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-01
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026年AI将如何改变我们的生活?未来预测揭晓](https://www.163.com/dy/article/KPAPKIQ505568E2X.html)** 到2026年底,大多数人将体验到人工智能不再是一个目的地,而更像是安静地融入他们已经在做的事情中
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://www.pconline.com.cn/ai/article/1554767.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能
+- **[谷歌Gemini 3 Deep Think全面碾压Claude和GPT](http://wap.pandaparking.com.cn/corn/blog/692_59252.shtml)** 在"人类最后的考试"中取得48.4%的成绩,编程能力全球仅7人能超越
+- **[微软推出"多模协作"深度研究智能体](https://baijiahao.baidu.com/s?id=1861105061376572631&wfr=spider&for=pc)** GPT与Claude并肩干活,两个模型之间的合作要比"单打独斗"强出一个档次
+
+### 2026-04-01
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.pconline.com.cn/ai/article/1552812.html)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 - **[模型混战:GPT-5、Claude 4、Gemini 3与国产力量](https://g.pconline.com.cn/zhizao/article/1552686.html)** 海外GPT系列、Claude Opus、Gemini 3各领风骚，国产DeepSeek、通义千问、Kimi崛起
