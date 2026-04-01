@@ -24,12 +24,16 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-01
-- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口让开发者可完全自定义上下文处理逻辑
-- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub插件市场，沙箱架构全面升级
-- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
-- **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告
+- **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** v2026.3.28核心更新，requireApproval成为自主Agent的"安全阀"
+- **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化五大系统哲学
+- **[OpenClaw 3.24发布:彻底解决最重要的S……](https://baijiahao.baidu.com/s?id=1860866038341758921&wfr=spider&for=pc)** 一键安装配方、Skills页面重做、安全漏洞修复
+- **[openclaw v2026.3.24 版本发布:从OpenAI模型与Embedding到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成优化、Skills/install元数据增强
+- **[OpenClaw-大模型服务平台百炼(Model Studio)-阿里云帮助中心](https://help.aliyun.com/zh/model-studio/openclaw-coding-plan)** 阿里云帮助文档：配置OpenClaw接入coding plan
+- **[openclaw v2026.3.28更新详解:模型适配、插件增强、多平台优化一网打尽](https://moonfdd.blog.csdn.net/article/details/159616702)** Qwen提供商认证迁移、xAI(Grok)功能升级、MiniMax图像生成能力新增
+- **[Claude 与 OpenClaw 正面对决:AI Agent 的「苹果 vs 安卓」时刻](https://zhuanlan.zhihu.com/p/2020870569982263516)** Claude GUI操控重新定义Agent，OpenClaw开放生态反击
+- **[腾讯AI作战地图,全面更新](https://baijiahao.baidu.com/s?id=1860791088215254573&wfr=spider&for=pc)** 腾讯基于OpenClaw打造QClaw，办公应用全面Skill化
 
-## 近期动态
+### 2026-04-01
 ### 2026-03-31
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
 - **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复

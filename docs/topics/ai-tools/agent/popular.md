@@ -23,6 +23,16 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-01
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，智能体开始尝试解决复杂现实任务
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947&wfr=spider&for=pc)** RoboNeo已登顶全球26个国家和地区应用商店榜首，AI Agent收入快速增长
+- **[AI Agent 构建范式彻底重构:2026 年,开箱 SDK 与生产级框架的双车道时代](https://blog.csdn.net/huhu2k/article/details/159553111)** 开发者必须经历框架选型、工具定义、RAG搭建、Agent执行循环四步，传统构建方式面临重构
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
+- **[2025-2026必看!AI Agent、Skills、MCP如何重塑软件未来?](https://blog.csdn.net/2401_85375151/article/details/159513820)** AI Agent从"会回答"到"会推进任务"，Skills封装可复用模块
+
+### 2026-04-01
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出，Dify作为低代码平台降低开发门槛

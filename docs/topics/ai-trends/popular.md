@@ -28,8 +28,14 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[出门问问2025年业绩:亏损收窄90.5%](https://www.donews.com/news/detail/4/6487955.html)** 出门问问2025年发布AI录音产品TicNote，搭载自研Shadow AI系统
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
 - **[企业级AI智能体如何持续引领创新?深演智能Deep Agent的演进启示](https://baijiahao.baidu.com/s?id=1860512275709504248)** Deep Agent采用"大模型通用能力+小模型行业适配"双层架构，获多项产品类荣誉
+- **[绚星2025业绩发布:AI转型落地见效 盈利拐点渐近](https://baijiahao.baidu.com/s?id=1861181629574482087&wfr=spider&for=pc)** 绚星2025年AI相关业务加速起步，毛利率达68.3%
+- **[2025年12月新发布:国内AI数字人厂商名单](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vv9m.html)** 国内AI数字人厂商名单公布，京东数字人、百度"高说服力数字人"等
+- **[出门问问2025年报:亏损降九成,人均营收增两成](https://baijiahao.baidu.com/s?id=1860917638275992525&wfr=spider&for=pc)** 出门问问AI智能硬件业务完成向Agentic AI终端的转型
+- **[视源股份2025年营收244亿:教室里的AI](https://baijiahao.baidu.com/s?id=1860822607119395417&wfr=spider&for=pc)** 希沃AI备课助手累计激活用户超100万，课堂智能反馈系统部署
+- **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网与RTE开发者社区联合发布，VoiceAgent成代表性产品形态
+- **[2025年Nano Banana崭露头角,代理人迷失如何影响AI未来](https://www.163.com/dy/article/KP598IHQ05568E2X.html)** DeepSeek R1发布标志着2025年AI崭露头角
 
-## 近期动态
+### 2026-04-01
 ### 2026-03-31
 - **[雷鸟创新拿下全球第一,AR赛道进入中国品牌主导时代](https://baijiahao.baidu.com/s?id=1861070809548430888)** 2025年全球AR眼镜出货量第一，市场份额27%，北美地区同比增长456.5%
 - **[视源股份2025年教育AI产品持续落地 海外自有品牌收入同比增长54.83%](https://baijiahao.baidu.com/s?id=1860605127938912250)** MAXHUB海外业务收入6.66亿元同比大幅增长54.83%

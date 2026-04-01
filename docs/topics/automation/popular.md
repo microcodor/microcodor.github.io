@@ -22,12 +22,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-01
-- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
-- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
-- **[深度|对话 OpenClaw 一线 builder:SaaS将一文不值](https://new.qq.com/rain/a/20260328A06MOI00)** Alex Finn演示5分钟复刻大公司数月开发的功能，SaaS行业面临AI Agent挑战
-- **[Workflow automation](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 微软阐述AI驱动的自动化未来，AI和低代码平台赋予非技术人员构建和工作流管理能力
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
+- **[Ekinox](https://baike.baidu.com/item/Ekinox/67533960)** 可视化工作流构建器，支持100种集成能力，GPT-4、Claude、Gemini等模型支持
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 袋鼠云推出AIWorks智能工作流引擎，引入智能决策层
+- **[n8n测评:开源工作流自动化的"带头大哥"](https://www.woshipm.com/ai/6363075.html)** n8n用户增长6倍收入增长10倍，C轮融资估值25亿美元
+- **[当所有人都在讨论AI工具时,我们已经用AI跑通了一家公司](https://zhuanlan.zhihu.com/p/2022340074684039540)** 卓普云用AI协同运行整家公司业务执行逻辑
+- **[AI系统为什么必须分层?Workflow vs Inference 架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** 阿里云技术博客：AI系统分层架构解析
+- **[企业级Agent多智能体架构与选型指南](https://developer.aliyun.com/article/1719997)** AgentScope社区发布企业级Agent多智能体架构与选型指南
 
-## 近期动态
+### 2026-04-01
 ### 2026-03-31
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统
