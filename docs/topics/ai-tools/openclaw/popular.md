@@ -32,6 +32,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[openclaw v2026.3.28更新详解:模型适配、插件增强、多平台优化一网打尽](https://moonfdd.blog.csdn.net/article/details/159616702)** Qwen认证迁移、xAI/Grok功能升级、MiniMax图像生成
 - **[Claude 与 OpenClaw 正面对决:AI Agent 的「苹果 vs 安卓」时刻](https://zhuanlan.zhihu.com/p/2020870569982263516)** Claude GUI操控重新定义Agent，OpenClaw开放生态反击
 - **[腾讯AI作战地图,全面更新](https://baijiahao.baidu.com/s?id=1860791088215254573&wfr=spider&for=pc)** 腾讯基于OpenClaw打造QClaw，办公应用全面Skill化
+- **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 零克云推出云端OpenClaw服务，一键部署你的专属AI全能分身
+- **[ClawHub推出官方中国镜像站](https://baijiahao.baidu.com/s?id=1861253632445289793&wfr=spider&for=pc)** 国内AI Agent开发者访问技能库再无延迟，速度提升、稳定性增强
+- **[AI 季报 26Q1:OpenClaw、OpenAI 与 Anthropic的三重对阵](https://baijiahao.baidu.com/s?id=1861271198144202310&wfr=spider&for=pc)** OpenClaw的成功刺激各大AI公司创新，Anthropic 52天内更新74个功能
+- **[OpenClaw必装5大神技:AI秒变全能助手](https://www.163.com/dy/article/KPEOT5NL0531O21B.html)** tavily-search联网搜索、agent-browser浏览器操控、gog办公全能等必装技能
+- **[OpenClaw凌晨超大更新,超10项安全核心改动](https://www.163.com/dy/article/KPDHMM7D055616YL.html)** 媒体访问安全优化、执行批准模块加强、网关HTTP信任边界提升
 
 ### 2026-04-01
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架

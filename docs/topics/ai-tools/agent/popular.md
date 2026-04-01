@@ -23,14 +23,16 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-02
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
+- **[2026年AI Agent厂商全景指南:从技术选型到价值落地](http://k.sina.com.cn/article_7857201856_1d45362c001903v9wq.html)** 阿里云百炼、腾讯云智能体开发平台3.0、百度文心智能体平台AgentBuilder全景对比
+- **[三位00后宾大机器人硕士做了一款高尔夫AI Agent,已获锦秋千万级天使轮投资](https://www.163.com/dy/article/KPEDAM3V05118O92.html)** 全球AI+体育领域市场规模2025年突破100亿美元,未来十年复合增长率预计超21%
+- **[AI正在重构营销价值,行业的边界将去往何处?](https://baijiahao.baidu.com/s?id=1861281284105286071&wfr=spider&for=pc)** 全球AI营销科技市场规模2024年已达259亿美元,中国约占1/5份额
+- **[天润云2025财报深度解码:从"SaaS工具"到"AI原生生产力"](https://finance.sina.cn/2026-04-01/detail-inhsysmc4990539.d.html)** AI数字员工业务ARR达1860万元,净利润同比增长78.9%
+- **[2026年4月最新企业智能体开发平台推荐:综合优选蚂蚁数科Agentar](https://news.zol.com.cn/1157/11576224.html)** 跨行业知识库与数据治理、低代码开发体系、企业级安全防护
+- **[Python 2025:AI工程化与智能代理开发实战](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vx94.html)** Pydantic AI通过类型安全和验证彻底改变AI交互方式
+- **[ChinaJoy新闻晚知道:OpenAI融资超1200亿美元](https://finance.sina.cn/2026-04-01/detail-inhszihs1529156.d.html)** OpenAI最新一轮融资1220亿美元,估值达8520亿美元,成为全球市值最高私有企业
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
-- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，智能体开始尝试解决复杂现实任务
-- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
-- **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947&wfr=spider&for=pc)** RoboNeo已登顶全球26个国家和地区应用商店榜首，AI Agent收入快速增长
-- **[AI Agent 构建范式彻底重构:2026 年,开箱 SDK 与生产级框架的双车道时代](https://blog.csdn.net/huhu2k/article/details/159553111)** 开发者必须经历框架选型、工具定义、RAG搭建、Agent执行循环四步，传统构建方式面临重构
-- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台，支持AInno75B工业大模型及私有化部署
-- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
 
 ### 2026-04-01
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%

@@ -32,6 +32,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** Zapier AI分类器、AI文本处理、AI触发器三大核心功能
 - **[AI系统为什么必须分层?Workflow vs Inference 架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** AI系统最终走向分层架构，Workflow层和Inference层有本质区别
 - **[一文搞懂 AI Agent 生态:Function Calling、MCP、SKILL、LangChain 与 Workflow](https://blog.csdn.net/2403_88033173/article/details/159608684)** Function Calling和MCP是实现AI Agent工具调用的两大关键协议
+- **[拆开Claude Code 源码后,我才看懂 AI 编程助手真正厉害的地方](https://new.qq.com/rain/a/20260401A03MMU00)** Claude Code底层是一组很朴素的原语，读写文件、搜索代码、跑Bash
+- **[源码被开源,Claude Code之父回应了:纯内部开发者手滑](https://www.163.com/dy/article/KPEGICG40511AQHO.html)** 工程失误导致源码泄露，Claude Code内置两套反蒸馏机制
 
 ### 2026-04-01
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环

@@ -28,6 +28,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术架构对比：Gemini原生多模态与动态计算、GPT工具生态与推测解码、Claude安全协作与长上下文压缩
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://g.pconline.com.cn/ai/article/1553592.html)** GPT-5.4原生计算机使用能力、Gemini 3.1 Pro并行思考技术、Claude 4.6安全性和幻觉控制
 - **[Google Gemini新功能让用户3秒"偷走"ChatGPT](https://www.163.com/dy/article/KP0UMAFD05561FZO.html)** Gemini一键导入功能可将用户在其他AI应用中的偏好和记忆"翻译"过来
+- **[斯坦福警告:AI谄媚率惊人,Gemini竟达62.47%](https://www.163.com/dy/article/KPD3PP3N0531O21B.html)** 斯坦福研究显示11个主流AI模型谄媚率比人类高50%
+- **[2026硬核对比:Claude 4.6官网双版本解析与Gemini 3.1 Pro镜像如何选](https://www.eefocus.com/article/1980981.html)** Claude 4.6双版本策略与智能体革命，Opus 4.6与Sonnet 4.6满足不同需求
+- **[2026年Gemini国内使用教程实测:一站式镜像站OneAiPlus指南](https://blog.csdn.net/J_010609/article/details/159701977)** Gemini 3.1 Pro超长上下文窗口、强大的多模态理解、卓越的代码生成与调试能力
+- **[智谱营收翻倍:MaaS飞轮启动量价齐升](https://baijiahao.baidu.com/s?id=1861196496732806239&wfr=spider&for=pc)** 智谱2025年营收7.24亿元同比大增131.85%，MaaS平台ARR约17亿元
 
 ### 2026-04-01
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
