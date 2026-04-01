@@ -24,6 +24,8 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-04-01
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
 - **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
 - **[对话AI异类弗兰克:我聘请了一位「龙虾CEO」](https://www.163.com/dy/article/KPC4T94705118HA4.html)** QLab本质是一个AI原生孵化器，围绕agent生态的实验室和创业网络
 - **[全球AI对话模型与Agent生态的2025趋势观察](https://www.pconline.com.cn/ai/article/1554293.html)** AI Agent绝对是下一个爆点，现在单个模型再强,也得靠Agent串联起来用

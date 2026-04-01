@@ -22,7 +22,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-01
-- **[iOS 27 重磅升级:AI 自然语言生成快捷指令](https://baijiahao.baidu.com/s?id=1861238219654472165&wfr=spider&for=pc)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[深度|对话 OpenClaw 一线 builder:SaaS将一文不值](https://new.qq.com/rain/a/20260328A06MOI00)** Alex Finn演示5分钟复刻大公司数月开发的功能，SaaS行业面临AI Agent挑战
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** n8n是一款开源低代码节点式工作流自动化工具，支持1000+工具/接口
 - **[工作流程平台详解:10款最佳工具](https://it.sohu.com/a/1003551388_120608187)** AI工作流平台功能:AI驱动的工作流平台可提供智能任务建议、自动化路由逻辑
 - **[当所有人都在讨论AI工具时,我们已经用AI跑通了一家公司](https://zhuanlan.zhihu.com/p/2022340074684039540)** 卓普云用AI协同运行整家公司业务，前端、增长、销售、运维全面AI化

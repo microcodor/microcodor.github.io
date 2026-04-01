@@ -24,7 +24,9 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-01
-- **[OpenClaw开源3个月,硅谷巨头集体押注这个"新电脑"](https://www.163.com/dy/article/KPBBRVT405561FZO.html)** OpenClaw开源3个月，GitHub Star超30万级，插件市场上线
+- **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
+- **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复
+- **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
 - **[2026年OpenClaw从云端到本地完整搭建指南](https://zhuanlan.zhihu.com/p/2022325428988253504)** 阿里云轻量部署、多系统本地安装、模型API配置与常见故障处理
 - **[OpenClaw生态杀出3个AI竞技场](https://www.163.com/dy/article/KPBEPEL805561FZO.html)** 150毫秒思考并行动，AI代理在竞技场上对决
 - **[OpenClaw 背后:一行命令补齐手脚,AI 终于能真 "操控" 你的电脑了](http://www.360doc.com/content/26/0331/05/14788_1172153614.shtml)** CLI-Anything精准踩中三者之间的最优解空档
