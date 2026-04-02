@@ -67,6 +67,14 @@ description: 主流大模型能力对比与选型参考
 - **[如何让AI帮我润色论文语言?2026年实测Gemini/Claude/GPT-4o效果横评](https://www.pconline.com.cn/ai/article/1550271.html)** Gemini 3.1 Pro擅长逻辑梳理与长句优化，Claude 3.5在学术表达严谨性上表现突出
 
 ## 近期动态
+### 2026-04-03
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
+- **[谷歌Gemini 3.1 Pro屠榜封神,清华姚顺宇出手!Claude和GPT被逼入死角](https://www.thepaper.cn/newsDetail_forward_32636177)** Gemini 3.1 Pro在ARC-AGI-2测试中以77.1%逆天成绩夺冠
+- **[Google Gemini新功能让用户3秒"偷走"ChatGPT](https://www.163.com/dy/article/KP0UMAFD05561FZO.html)** Gemini一键导入功能可将用户在其他AI应用中的偏好和记忆"翻译"过来
+- **[谷歌Claude们同时栽了:3家AI测同一产品](https://www.163.com/dy/article/KP98PV3005561FZV.html)** 三家AI调研同一产品，真相得分Claude 28%、ChatGPT 22%、Gemini 19%，换Prompt后Claude升至89%
+
 ### 2026-03-31
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 - **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换

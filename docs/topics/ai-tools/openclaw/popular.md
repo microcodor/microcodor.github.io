@@ -23,6 +23,14 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-03
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口让开发者可完全自定义上下文处理逻辑
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI大幅翻新，Ollama完整接入流程，多模态记忆系统支持图片音频文档
+- **[OpenClaw 大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==)** ClawHub插件市场上线，/btw侧边提问不污染主对话上下文
+- **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** requireApproval成为自主Agent的"安全阀"
+- **[OpenClaw重大免费更新发布!安全提速双升级,AI Agent运行效率跃升](https://post.smzdm.com/p/a82e5gvl/)** 外部密钥管理、ACP线程绑定Agent、WebSocket优先传输
+- **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub上线，插件安装优先级改变
+
 ### 2026-04-02
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一生命周期管理、task flow注册表、可视化后台任务流管理
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot插件，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发

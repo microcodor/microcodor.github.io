@@ -22,6 +22,14 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-03
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025开源AI Agent工具全景图](https://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，包括框架层(LangChain/LangGraph)、低代码层(Dify/n8n)、可观测层(Langfuse)等
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025 AI记忆系统大横评:从插件到操作系统,谁在定义下一代Agent Infra?](https://zhuanlan.zhihu.com/p/1978869876396413893)** Mem0、Letta、Zep等记忆框架对比，AI正从"模型时代"进入"认知时代"
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent的技术演进已成定局，MCP作为AI的"USB接口"成为行业标准
+- **[What’s new in Microsoft Foundry | October and November 2025](https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-oct-nov-2025)** Microsoft Agent Framework结合Semantic Kernel稳定性和AutoGen创新模式
+
 ### 2026-04-02
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
