@@ -24,6 +24,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-02
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一生命周期管理、task flow注册表、可视化后台任务流管理
+- **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot插件，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
+
+### 2026-04-02
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 统一生命周期管理、task flow注册表、可视化后台任务流管理
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384&wfr=spider&for=pc)** 内置QQ Bot插件，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
 - **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** requireApproval成为自主Agent的"安全阀"

@@ -22,6 +22,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-02
+- **[iOS 27 重磅升级:AI自然语言生成快捷指令](https://new.qq.com/rain/a/20260401A03AIO00)** iOS 27支持AI自然语言生成快捷指令，从手动配置到智能生成，用户可通过语音指令让AI自主解析需求并生成快捷指令
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[AI workflow自动化构建与流水线优化实践](https://www.dtstack.com/bbs/article/457164)** 构建标准化AI workflow可缩短模型上线周期从数周压缩至数小时
+
+### 2026-04-02
 - **[Automation](https://www.taskade.com/wiki/automation)** Agentic Workflows高级自动化使用AI智能体做决策，Workflow Orchestration创建复杂多步骤自动化
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI代理是自主的、基于规则的软件系统，能感知环境并采取行动完成目标
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口

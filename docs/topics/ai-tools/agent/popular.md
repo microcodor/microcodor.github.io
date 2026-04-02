@@ -23,6 +23,10 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-02
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+
+### 2026-04-02
 - **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始,一切失控了——Agent = 模型在循环里跑,能调用工具
 - **[2026年AI Agent厂商全景指南:从技术选型到价值落地](http://k.sina.com.cn/article_7857201856_1d45362c001903v9wq.html)** 阿里云百炼、腾讯云智能体开发平台3.0、百度文心智能体平台AgentBuilder全景对比
 - **[三位00后宾大机器人硕士做了一款高尔夫AI Agent,已获锦秋千万级天使轮投资](https://www.163.com/dy/article/KPEDAM3V05118O92.html)** 全球AI+体育领域市场规模2025年突破100亿美元,未来十年复合增长率预计超21%
