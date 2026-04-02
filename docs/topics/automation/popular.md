@@ -54,6 +54,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI系统为什么必须分层?Workflow vs Inference 架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** 阿里云技术博客：AI系统分层架构解析
 - **[企业级Agent多智能体架构与选型指南](https://developer.aliyun.com/article/1719997)** AgentScope社区发布企业级Agent多智能体架构与选型指南
 
+### 2026-04-02
+- **[iOS 27 重磅升级:AI 自然语言生成快捷指令](https://new.qq.com/rain/a/20260401A03AIO00)** iOS 27支持AI自然语言生成快捷指令，从手动配置到智能生成
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+
 ### 2026-04-01
 ### 2026-03-31
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成

@@ -57,6 +57,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Claude 与 OpenClaw 正面对决:AI Agent 的「苹果 vs 安卓」时刻](https://zhuanlan.zhihu.com/p/2020870569982263516)** Claude GUI操控重新定义Agent，OpenClaw开放生态反击
 - **[腾讯AI作战地图,全面更新](https://baijiahao.baidu.com/s?id=1860791088215254573&wfr=spider&for=pc)** 腾讯基于OpenClaw打造QClaw，办公应用全面Skill化
 
+### 2026-04-02
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 统一生命周期管理、task flow注册表、可视化后台任务流管理
+- **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384&wfr=spider&for=pc)** 内置QQ Bot插件，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI大幅翻新、Ollama完整接入流程、多模态记忆系统支持图片音频文档
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口让开发者可完全自定义上下文处理逻辑
+- **[OpenClaw大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==)** ClawHub插件市场上线，/btw侧边提问不污染主对话上下文
+
 ### 2026-04-01
 ### 2026-03-31
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架

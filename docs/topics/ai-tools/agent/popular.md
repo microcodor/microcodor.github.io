@@ -33,6 +33,8 @@ description: 主流 Agent 框架与工具链一览
 - **[ChinaJoy新闻晚知道:OpenAI融资超1200亿美元](https://finance.sina.cn/2026-04-01/detail-inhszihs1529156.d.html)** OpenAI最新一轮融资1220亿美元,估值达8520亿美元,成为全球市值最高私有企业
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%
+- **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
 
 ### 2026-04-01
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场规模2025年约78亿美元,预计2030年将达到526亿美元,CAGR高达46.3%
