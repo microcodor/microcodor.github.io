@@ -21,6 +21,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-03
+- **[iOS 27 重磅升级:AI自然语言生成快捷指令](https://new.qq.com/rain/a/20260401A03AIO00)** iOS 27支持AI自然语言生成快捷指令，用户可通过语音指令让AI自主解析需求并生成快捷指令
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/464942)** AI workflow将数据预处理、模型训练、推理部署等环节自动化可编排
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** AIWorks引入智能决策层，持续学习历史任务执行模式动态调整策略
+- **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** Zapier AI分类器、AI文本处理、AI触发器三大核心功能
+- **[2026年AI项目管理工具盘点:8款值得关注的智能协作平台](https://www.jianshu.com/p/9f974ae56b85)** ONES、Jira、Asana、Monday、ClickUp等AI项目管理工具对比
+
 ### 2026-04-02
 - **[iOS 27 重磅升级:AI自然语言生成快捷指令](https://new.qq.com/rain/a/20260401A03AIO00)** iOS 27支持AI自然语言生成快捷指令，从手动配置到智能生成，用户可通过语音指令让AI自主解析需求并生成快捷指令
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口

@@ -21,6 +21,13 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-03
+- **[微软推出"多模协作"深度研究智能体 GPT与Claude并肩干活](https://baijiahao.baidu.com/s?id=1861132049875034149&wfr=spider&for=pc)** 由GPT先展开研究生成初稿，然后Claude遵循学术研究的评审流程进行审查
+- **[微软多模型协同:GPT与Claude联手干活背后的生态战争](https://baijiahao.baidu.com/s?id=1861257664238896166&wfr=spider&for=pc)** 微软不再押注单一模型，而是成为AI生态的"调度平台"
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[突发背刺!Claude、Gemini 齐限流,AI「自助餐」撑不住了](https://baijiahao.baidu.com/s?id=1860871836726410761&wfr=spider&for=pc)** Anthropic宣布高峰期限流，Max用户报告额度异常消耗
+- **[2026 AI工具终极对决:豆包、ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.pconline.com.cn/zhizao/article/1553555.html)** 五大主流AI工具对比，Claude 3.7在深度思考和逻辑推理方面表现卓越
+
 ### 2026-04-02
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026年三大AI模型GPT-4、Claude 3、Gemini实测:如何在国内高效对比使用?](https://g.pconline.com.cn/ai/article/1551877.html)** GPT-4在中文复杂推理和创意写作上略胜一筹，Claude 3.5在长文档理解和多图分析有独特优势，Gemini 1.5 Pro支持百万级token上下文

@@ -23,12 +23,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-03
-- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
-- **[2025开源AI Agent工具全景图](https://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，包括框架层(LangChain/LangGraph)、低代码层(Dify/n8n)、可观测层(Langfuse)等
-- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
-- **[2025 AI记忆系统大横评:从插件到操作系统,谁在定义下一代Agent Infra?](https://zhuanlan.zhihu.com/p/1978869876396413893)** Mem0、Letta、Zep等记忆框架对比，AI正从"模型时代"进入"认知时代"
-- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent的技术演进已成定局，MCP作为AI的"USB接口"成为行业标准
-- **[What’s new in Microsoft Foundry | October and November 2025](https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-oct-nov-2025)** Microsoft Agent Framework结合Semantic Kernel稳定性和AutoGen创新模式
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](http://k.sina.com.cn/article_7857201856_1d45362c001903tpxq.html)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[Agent Infra 正在重塑 AI Infra:从 Serving、State 到 Scheduling 的一次系统性改写](https://zhuanlan.zhihu.com/p/2019347592367093406)** Anthropic将MCP捐给Linux Foundation，Google推动A2A协议
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图设计室的Agent功能已是产品收入增长的主要动力
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[白宫发布《国家人工智能政策框架》释放了什么信号?](https://baijiahao.baidu.com/s?id=1861134838853864025&wfr=spider&for=pc)** 联邦优先排除州级AI法律，模型训练不违反版权法
 
 ### 2026-04-02
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
