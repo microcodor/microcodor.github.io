@@ -22,12 +22,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-02
-- **[突发背刺!Claude、Gemini齐限流,AI「自助餐」撑不住了](https://baijiahao.baidu.com/s?id=1860871836726410761)** Anthropic宣布高峰期限流，约7%用户受影响，太平洋时间工作日5点到11点配额消耗更快
-- **[微软"叛逃"OpenAI:让GPT和Claude互审,AI幻觉的结构性解法?](https://baijiahao.baidu.com/s?id=1861154735404005497)** 微软推出"多模协作"功能，GPT与Claude协同工作，由独立裁判模型评估产出
-- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vn6a.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
-
-### 2026-04-02
+- **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比，GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
 - **[2026年三大AI模型GPT-4、Claude 3、Gemini实测:如何在国内高效对比使用?](https://g.pconline.com.cn/ai/article/1551877.html)** GPT-4在中文复杂推理和创意写作上略胜一筹，Claude 3.5在长文档理解和多图分析有独特优势，Gemini 1.5 Pro支持百万级token上下文
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
 - **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
 - **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术架构对比：Gemini原生多模态与动态计算、GPT工具生态与推测解码、Claude安全协作与长上下文压缩
