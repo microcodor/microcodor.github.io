@@ -345,3 +345,10 @@ description: 主流大模型能力对比与选型参考
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院兵棋推演揭示AI安全困境，最先进AI在95%对局中按下核按钮
 - **[GPT、Claude和Gemini在核危机模拟中的人格差异](https://zhuanlan.zhihu.com/p/2011529502728139641)** GPT-5.2激进、Claude Sonnet 4计算型鹰派、Gemini 3 Flash保守，三者决策风格迥异
 - **[2026国外四大主流镜像模型对比:chatGPT、Gemini、Claude、Grok ](https://post.smzdm.com/p/a5rezrq8/)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
+
+### 2026-04-03
+- **[微软推出"多模协作"深度研究智能体 GPT与Claude并肩干活](https://baijiahao.baidu.com/s?id=1861132049875034149&wfr=spider&for=pc)** 由GPT先展开研究生成初稿，然后Claude遵循学术研究的评审流程进行审查
+- **[微软多模型协同:GPT与Claude联手干活背后的生态战争](https://baijiahao.baidu.com/s?id=1861257664238896166&wfr=spider&for=pc)** 微软不再押注单一模型，而是成为AI生态的"调度平台"
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[突发背刺!Claude、Gemini 齐限流,AI「自助餐」撑不住了](https://baijiahao.baidu.com/s?id=1860871836726410761&wfr=spider&for=pc)** Anthropic宣布高峰期限流，Max用户报告额度异常消耗
+- **[AI干货丨杨元庆内部讲话流出:联想迎来"历史最好一年",全面转型AI原生公司](https://baijiahao.baidu.com/s?id=1861250832971411258&wfr=spider&for=pc)** Gemini 3推动多模态推理能力提升，Claude重塑用户与软件交互方式

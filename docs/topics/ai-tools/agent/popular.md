@@ -345,3 +345,10 @@ description: 主流 Agent 框架与工具链一览
 - **[2024-2025 AI智能体Agent最新进展研究:技术、应用与行业趋势](https://blog.csdn.net/jacky190/article/details/158807578)** 多模态感知与认知融合、自主决策与任务规划、分布式架构与云原生支持成核心技术突破
 - **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，Agentic RAG、Voice Agent等六大分类形成清晰生态
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
+
+### 2026-04-03
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图设计室的Agent功能已是产品收入增长的主要动力
+- **[新质观察|白宫《国家人工智能政策框架》释放了什么信号?](https://baijiahao.baidu.com/s?id=1861134838853864025&wfr=spider&for=pc)** 联邦优先排除州级AI法律，模型训练不违反版权法

@@ -379,3 +379,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 核心组成：流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[一文讲清:Agent、Workflow、MCP的区别是啥?](https://zhuanlan.zhihu.com/p/2011187816378422337)** Agent自主决策、Workflow流程固定、MCP标准化工具接口
+
+### 2026-04-03
+- **[iOS 27 重磅升级:AI自然语言生成快捷指令](http://app.myzaker.com/news/article.php?pk=69ccba3d8e9f09460c0ef386)** iOS 27支持AI自然语言生成快捷指令，用户可通过语音指令让AI自主解析需求并生成快捷指令
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/464942)** AI workflow将数据预处理、模型训练、推理部署等环节自动化可编排
