@@ -23,6 +23,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-04
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
+- **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
+- **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 国内领先AI全要素托管平台，一键搭建AI员工分身
+- **[openclaw v2026.3.24版本发布:从OpenAI模型到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成、技能一键安装
 ### 2026-04-03
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot打通中国主流即时通讯场景
@@ -93,6 +99,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
 
 ## 近期动态
+### 2026-04-04
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
+- **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
+- **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 国内领先AI全要素托管平台，一键搭建AI员工分身
+- **[openclaw v2026.3.24版本发布:从OpenAI模型到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成、技能一键安装
 ### 2026-04-03
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot打通中国主流即时通讯场景
@@ -104,6 +116,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
 
 ## 近期动态
+### 2026-04-04
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
+- **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
+- **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 国内领先AI全要素托管平台，一键搭建AI员工分身
+- **[openclaw v2026.3.24版本发布:从OpenAI模型到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成、技能一键安装
 ### 2026-04-03
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot打通中国主流即时通讯场景
@@ -115,6 +133,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[商汤2025年财报:生成式AI再度爆发增长51%](https://baijiahao.baidu.com/s?id=1860542102161094200)** 商汤2025年收入增长33%超50亿元，生成式AI爆发增长51%
 
 ## 近期动态
+### 2026-04-04
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
+- **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
+- **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 国内领先AI全要素托管平台，一键搭建AI员工分身
+- **[openclaw v2026.3.24版本发布:从OpenAI模型到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成、技能一键安装
 ### 2026-04-03
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
 - **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 内置QQ Bot打通中国主流即时通讯场景

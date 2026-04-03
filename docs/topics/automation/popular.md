@@ -21,6 +21,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-04
+- **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
+- **[大模型时代:2026智能流程自动化软件全新能力分享](https://developer.aliyun.com/article/1721134)** RPA、Workflow/BPM、LLM+Agent三大技术路线对比
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 内置轻量级AI模型，动态调整执行策略，实现"感知-分析-决策-执行"闭环
+- **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** AI分类器、AI文本处理、AI触发器三大核心功能
+- **[2026年AI项目管理工具盘点:8款值得关注的智能协作平台](https://www.jianshu.com/p/9f974ae56b85)** ONES、Jira、Asana、Monday、ClickUp等平台对比
 ### 2026-04-03
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
@@ -85,6 +93,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26聚焦为agent做服务的产品，Vertical Workflow从22个降至12个
 
 ## 近期动态
+### 2026-04-04
+- **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
+- **[大模型时代:2026智能流程自动化软件全新能力分享](https://developer.aliyun.com/article/1721134)** RPA、Workflow/BPM、LLM+Agent三大技术路线对比
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 内置轻量级AI模型，动态调整执行策略，实现"感知-分析-决策-执行"闭环
+- **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** AI分类器、AI文本处理、AI触发器三大核心功能
+- **[2026年AI项目管理工具盘点:8款值得关注的智能协作平台](https://www.jianshu.com/p/9f974ae56b85)** ONES、Jira、Asana、Monday、ClickUp等平台对比
 ### 2026-04-03
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
