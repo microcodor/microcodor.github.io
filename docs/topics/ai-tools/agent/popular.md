@@ -25,6 +25,11 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-04-03
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图设计室的Agent功能已是产品收入增长的主要动力
+- **[新质观察|白宫《国家人工智能政策框架》释放了什么信号?](https://baijiahao.baidu.com/s?id=1861134838853864025&wfr=spider&for=pc)** 联邦优先排除州级AI法律，模型训练不违反版权法
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](http://k.sina.com.cn/article_7857201856_1d45362c001903tpxq.html)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 - **[Agent Infra 正在重塑 AI Infra:从 Serving、State 到 Scheduling 的一次系统性改写](https://zhuanlan.zhihu.com/p/2019347592367093406)** Anthropic将MCP捐给Linux Foundation，Google推动A2A协议
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849&wfr=spider&for=pc)** 美图设计室的Agent功能已是产品收入增长的主要动力
