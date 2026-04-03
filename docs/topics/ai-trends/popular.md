@@ -395,3 +395,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[松鼠Ai斩获2025年度百大AI产品:智适应大模型,重新定义AI教育](https://baijiahao.baidu.com/s?id=1861169682622862051&wfr=spider&for=pc)** 松鼠Ai凭借全学科多模态智适应教育大模型入选年度百大AI产品
 - **[英媒：中国AI全面赶超，人才是关键](https://baijiahao.baidu.com/s?id=1861129284654485020&wfr=spider&for=pc)** 2025年NeurIPS论文中国第一作者数量首次超过美欧，中国AI人才数量已超美国、英国和欧洲总和
 - **[绚星2025业绩发布:AI转型落地见效 盈利拐点渐近](https://baijiahao.baidu.com/s?id=1861181629574482087&wfr=spider&for=pc)** 绚星2025年总收入3.40亿元，毛利率68.3%，经调整净亏损同比收窄26.4%
+
+### 2026-04-03
+- **[万语大模型构建三大AI产品生态丨鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999&wfr=spider&for=pc)** 鹰瞳科技以自研万语大模型为底座，构建近视防控AI、视网膜检测AI、抗压能力监测AI三大产品线
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
+- **[企业级AI智能体如何持续引领创新?深演智能Deep Agent的演进启示](https://baijiahao.baidu.com/s?id=1860512275709504248&wfr=spider&for=pc)** Deep Agent采用"大模型通用能力+小模型行业适配"双层架构
+- **[亚信科技公布2025全年业绩,"AI优先"引领二次飞跃](https://baijiahao.baidu.com/s?id=1860525743303748941&wfr=spider&for=pc)** 确立"AI优先"核心战略，布局"智能体互联网"全新蓝图

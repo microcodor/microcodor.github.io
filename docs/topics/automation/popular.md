@@ -384,3 +384,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[iOS 27 重磅升级:AI自然语言生成快捷指令](http://app.myzaker.com/news/article.php?pk=69ccba3d8e9f09460c0ef386)** iOS 27支持AI自然语言生成快捷指令，用户可通过语音指令让AI自主解析需求并生成快捷指令
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
 - **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/464942)** AI workflow将数据预处理、模型训练、推理部署等环节自动化可编排
+
+### 2026-04-03
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065&wfr=spider&for=pc)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复图"做成完整闭环
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158&wfr=spider&for=pc)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是带有YAML frontmatter的markdown文件
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** AI代理和自动化正在改变公司运营方式，n8n无代码工具可设计和自动化工作流程

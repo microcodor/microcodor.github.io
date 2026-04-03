@@ -373,3 +373,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
 - **[OpenClaw 3.24发布:彻底解决最重要的S…](https://baijiahao.baidu.com/s?id=1860866038341758921&wfr=spider&for=pc)** 一键安装配方、Control UI重做、修复媒体文件访问绕过安全漏洞
 - **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** requireApproval成为自主Agent的"安全阀"
+
+### 2026-04-03
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
+- **[OpenClaw v2026.3.28 核心更新 × 开源 AI Agent 的未来演进思考](https://cloud.tencent.com/developer/article/2647461)** requireApproval成为自主Agent的"安全阀"
+- **[OpenClaw重大免费更新发布!安全提速双升级,AI Agent运行效率跃升](https://post.smzdm.com/p/a82e5gvl/)** 外部密钥管理、ACP线程绑定Agent、WebSocket优先传输
+- **[首次!OpenClaw又更新,直接合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384&wfr=spider&for=pc)** 内置QQ Bot打通中国主流即时通讯场景，首次引入可视化后台任务流管理
