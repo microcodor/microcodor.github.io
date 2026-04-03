@@ -22,6 +22,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-03
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026最新世界最强大模型排名:GPT-5.4、Claude Opus 4.6、Gemini 3 Pro谁才是真正的王者](https://blog.csdn.net/qq_36229933/article/details/159531186)** 顶级模型进入同一量级厮杀，Claude系列在代码Arena更强
+- **[2026年如何让AI帮我润色论文?实测Gemini/Claude/GPT-4o效果对比](https://www.pconline.com.cn/ai/article/1550458.html)** Gemini 3.1 Pro擅长逻辑梳理、Claude 3.5严谨、GPT-4o词汇丰富### 2026-04-03
 - **[微软推出"多模协作"深度研究智能体 GPT与Claude并肩干活](https://baijiahao.baidu.com/s?id=1861132049875034149&wfr=spider&for=pc)** 由GPT先展开研究生成初稿，然后Claude遵循学术研究的评审流程进行审查
 - **[微软多模型协同:GPT与Claude联手干活背后的生态战争](https://baijiahao.baidu.com/s?id=1861257664238896166&wfr=spider&for=pc)** 微软不再押注单一模型，而是成为AI生态的"调度平台"
 - **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
@@ -76,6 +81,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-03
+- **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/ai/article/1554796.html)** GPT-4o全能型多模态、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[2026最新世界最强大模型排名:GPT-5.4、Claude Opus 4.6、Gemini 3 Pro谁才是真正的王者](https://blog.csdn.net/qq_36229933/article/details/159531186)** 顶级模型进入同一量级厮杀，Claude系列在代码Arena更强
+- **[2026年如何让AI帮我润色论文?实测Gemini/Claude/GPT-4o效果对比](https://www.pconline.com.cn/ai/article/1550458.html)** Gemini 3.1 Pro擅长逻辑梳理、Claude 3.5严谨、GPT-4o词汇丰富### 2026-04-03
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可从其他AI服务导入偏好和聊天历史
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
