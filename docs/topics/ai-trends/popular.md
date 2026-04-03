@@ -412,3 +412,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
 - **[企业级AI智能体如何持续引领创新?深演智能Deep Agent的演进启示](https://baijiahao.baidu.com/s?id=1860512275709504248&wfr=spider&for=pc)** Deep Agent采用"大模型通用能力+小模型行业适配"双层架构
 - **[亚信科技公布2025全年业绩,"AI优先"引领二次飞跃](https://baijiahao.baidu.com/s?id=1860525743303748941&wfr=spider&for=pc)** 确立"AI优先"核心战略，布局"智能体互联网"全新蓝图
+
+### 2026-04-04
+- **[万语大模型构建三大AI产品生态丨鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999&wfr=spider&for=pc)** 营收1.73亿元同比增长10.8%,净亏损同比收窄90.2%,AI健康全球化布局加速
+- **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网发布"三维二轨"评估体系,VoiceAgent成代表性产品形态
+- **[快手可灵AI收入突破2000万美元/月](https://baijiahao.baidu.com/s?id=1860956362104294858&wfr=spider&for=pc)** 全年收入目标上调至1.4亿美元,全球用户规模突破6000万
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云全方位重构AI技术栈,多模态技术走向成熟
+- **[打破垄断,AI、机器人双巨头](https://baijiahao.baidu.com/s?id=1861083935892194392&wfr=spider&for=pc)** 宇树科技人形机器人出货超5500台,国内具身智能企业融资金额同比激增327%

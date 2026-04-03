@@ -369,3 +369,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
 - **[2026最新世界最强大模型排名:GPT-5.4、Claude Opus 4.6、Gemini 3 Pro](https://blog.csdn.net/qq_36229933/article/details/159531186)** Chatbot Arena榜单Claude Opus 4.6 Thinking领先，代码Arena中Claude系列更强
 - **[2026年如何让AI帮我润色论文?实测Gemini/Claude/GPT-4o效果对比](https://www.pconline.com.cn/ai/article/1550458.html)** Gemini 3.1 Pro擅长逻辑梳理与长句优化，Claude 3.5在学术表达严谨性上表现突出
+
+### 2026-04-04
+- **[谷歌Claude们同时栽了:3家AI测同一产品](https://m.163.com/dy/article/KP98PV3005561FZV.html)** 结果: Claude从28%→89%,ChatGPT从22%→76%,Gemini从19%→71%
+- **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vn6a.html)** GPT-4o全能选手,Claude 3.5创作者,Gemini 3.1 Pro分析专家
+- **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4综合最强,Claude Opus 4.6体验最佳,Gemini 3.1多模态标杆
+- **[2026年AI大模型战局:GPT-5、Gemini 3、Claude 4谁真强?](https://blog.csdn.net/weixin_55154866/article/details/159729398)** Claude 4和GPT-5在代码方面领先,Gemini 3擅长长文档处理

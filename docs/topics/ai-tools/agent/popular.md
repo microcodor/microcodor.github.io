@@ -374,3 +374,10 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025-2026年AI Agent框架选型指南:告别踩坑,四大类框架深度解析](https://blog.csdn.net/m0_74942241/article/details/158743665)** 零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://view.inews.qq.com/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+
+### 2026-04-04
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始一切失控——Agent = 模型在循环里跑能调用工具
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](http://k.sina.com.cn/article_7857201856_1d45362c001903tpxq.html)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化

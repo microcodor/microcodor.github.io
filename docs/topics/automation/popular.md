@@ -401,3 +401,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是带有YAML frontmatter的markdown文件
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** AI代理和自动化正在改变公司运营方式，n8n无代码工具可设计和自动化工作流程
+
+### 2026-04-04
+- **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
+- **[大模型时代:2026智能流程自动化软件全新能力分享](https://developer.aliyun.com/article/1721134)** RPA、Workflow/BPM、LLM+Agent三大技术路线对比
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 内置轻量级AI模型，动态调整执行策略，实现"感知-分析-决策-执行"闭环
+- **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** AI分类器、AI文本处理、AI触发器三大核心功能
+- **[2026年AI项目管理工具盘点:8款值得关注的智能协作平台](https://www.jianshu.com/p/9f974ae56b85)** ONES、Jira、Asana、Monday、ClickUp等平台对比
