@@ -391,3 +391,7 @@ description: 主流大模型能力对比与选型参考
 - **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4综合最强,Claude Opus 4.6体验最佳,Gemini 3.1多模态标杆
 - **[2026年AI大模型战局:GPT-5、Gemini 3、Claude 4谁真强?](https://blog.csdn.net/weixin_55154866/article/details/159729398)** Claude 4和GPT-5在代码方面领先,Gemini 3擅长长文档处理
+- **[2026年国内镜像站使用终极指南:Gemini/Claude/GPT如何一键开启?](https://www.eefocus.com/article/1982694.html)** 国内镜像站模型选择与首次对话实测指南
+- **[Google放出新功能:3分钟把ChatGPT"记忆"搬进Gem](https://m.163.com/dy/article/KPJCB2VP05561FZE.html)** Gemini上线记忆导入功能,把ChatGPT或Claude的聊天记录和个人偏好打包搬过来
+- **[Claude领衔多模型协同时代:API聚合网关为何成为企业新常态?](https://www.sohu.com/a/1004926416_122613810)** Claude 4.6超长文本理解、GPT-5.4高并发和Gemini的性价比混搭
+- **[GLM-5.1与Claude、GPT、Gemini、DeepSeek全面对比:智谱AI新模型表现如何?](https://blog.csdn.net/Joshkhh/article/details=159787524)** GLM-5.1编程性能达到Claude Opus 4.6的94.6%,完全基于华为芯片训练

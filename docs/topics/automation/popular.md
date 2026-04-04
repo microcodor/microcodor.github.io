@@ -426,3 +426,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 内置轻量级AI模型，动态调整执行策略，实现"感知-分析-决策-执行"闭环
 - **[Zapier AI自动化工作流](https://post.smzdm.com/p/a3meox6r/)** AI分类器、AI文本处理、AI触发器三大核心功能
 - **[2026年AI项目管理工具盘点:8款值得关注的智能协作平台](https://www.jianshu.com/p/9f974ae56b85)** ONES、Jira、Asana、Monday、ClickUp等平台对比
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品,x86芯片跑本地Ubuntu
+- **[大模型初学者必看:掌握Workflow与Agent,开启AI自动化新征程](https://blog.csdn.net/Yuaaaaa6/article/details=159801892)** Workflow深耕多年,触发、编排、执行、监控四步核心流程
+- **[告别深夜加班:AI自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/u_17159953/14535140)** 构建"智能管道"自动连接孤立应用,AI生成个性化内容
+- **[自媒体人测评这款AI工具让我10分钟搞定全平台](https://m.163.com/dy/article/KPJ5RQKM0552T14F.html)** 支持22+主流平台一键批量发布,AI智能评论回复,独立IP代理规避关联风险
+- **[大模型小白必看:一文读懂LLM、Agent、RAG等核心术语](https://blog.csdn.net/huqianxiu/article/details=159801865)** AI是大楼,机器学习是里面一层,深度学习是房间,GPT/Claude是明星租客

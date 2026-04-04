@@ -429,3 +429,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[快手可灵AI收入突破2000万美元/月](https://baijiahao.baidu.com/s?id=1860956362104294858&wfr=spider&for=pc)** 全年收入目标上调至1.4亿美元,全球用户规模突破6000万
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云全方位重构AI技术栈,多模态技术走向成熟
 - **[打破垄断,AI、机器人双巨头](https://baijiahao.baidu.com/s?id=1861083935892194392&wfr=spider&for=pc)** 宇树科技人形机器人出货超5500台,国内具身智能企业融资金额同比激增327%
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布,DeepSeek、豆包、kimi、腾讯元宝、通义等入选
+- **[百度发布国内首个医生版"龙虾"医疗AI产品](https://baijiahao.baidu.com/s?id=1861408057054199637&wfr=spider&for=pc)** 阿里健康"氢离子"、京东健康"知医"瞄准医生群体,具备权威出处一键溯源
+- **[绚星发布2025年财报:加速推进AI优先转型战略,盈利拐点渐近](https://baijiahao.baidu.com/s?id=1861418616693111558&wfr=spider&for=pc)** 营收3.40亿元,经调整净亏损同比收窄26.4%,AI产品收入占比超10%
+- **[蓝思科技:AI服务器在手订单饱满,人形机器人+机器狗出货超1万台](https://baijiahao.baidu.com/s?id=1861412649093139740&wfr=spider&for=pc)** 2025年年度报告发布,AI服务器订单饱满,人形机器人出货超5500台
+- **[TCL深睡大师空调首发:AI重构健康睡眠,开创主动服务新纪元](https://baijiahao.baidu.com/s?id=1861432154010767468&wfr=spider&for=pc)** 毫米波雷达睡眠感知技术"AI安寝之眼",深睡时间延长,睡眠经济市场规模预计2027年突破6500亿元

@@ -431,3 +431,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
 - **[零克云"云端龙虾"OpenClaw上线:原版能力全解锁](https://baijiahao.baidu.com/s?id=1861262337204868138&wfr=spider&for=pc)** 国内领先AI全要素托管平台，一键搭建AI员工分身
 - **[openclaw v2026.3.24版本发布:从OpenAI模型到Teams与Slack交互](https://baijiahao.baidu.com/s?id=1860924363913361326&wfr=spider&for=pc)** Gateway/OpenAI兼容性升级、Teams深度集成、技能一键安装
+- **[OpenClaw发布v2026.3.31-beta.1:首推AI任务控制平面,重构安全与调度机制](https://post.smzdm.com/p/az8w7v8o/)** 引入SQLite-backed任务账本,统一四种执行路径,6个Breaking Change安全加固
+- **[openclaw 2026.4.1架构升级解析:从AI Gateway到Agent OS](https://zhuanlan.zhihu.com/p/2023424119878763014)** tasks成为独立的后台执行平面,SQLite-backed账本支持状态恢复
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** 多Agent任务编排框架,完成从感知到规划、从决策到执行的全链路调度
+- **[OpenClaw深度解析:2026年最火开源AI Agent框架的技术内核、安全风险与实践指南](https://blog.csdn.net/xyghehehehe/article/details=159782643)** 本地优先、安全默认、极简核心的设计哲学
+- **[OpenClaw这两步棋,让国内"龙虾生态"加速](https://www.sohu.com/a/1005047952_112831)** 国内镜像站上线,全中文界面,ClawHub超过4.3万个Skills直接触达

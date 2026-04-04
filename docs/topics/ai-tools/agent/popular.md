@@ -412,3 +412,8 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](http://k.sina.com.cn/article_7857201856_1d45362c001903tpxq.html)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+- **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 基础准备阶段、初级开发阶段、中级进阶阶段完整学习路线
+- **[美图公司CFO解读2025业绩:AI Agent显著提升美图的付费转化](https://www.donews.com/news/detail/4/6497681.html)** ARPU值提升最主要是因为Agent上线后,用户为了获得更好的结果而增加消耗
+- **[2024-2025 AI新趋势:Multi-Agent系统入门指南](https://blog.csdn.net/2601_95390787/article/details=159802096)** 多智能体系统的核心架构,主流开源多智能体框架解析
+- **[IDC认证!2025年最受青睐的6大AI Agent智能体品牌](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w33y.html)** 百度文心一言、阿里通义千问、腾讯混元、实在智能、字节豆包深度测评
