@@ -24,6 +24,14 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-04-04
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+
+## 近期动态
+### 2026-04-05
+- **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915)** 全球Agentic AI市场规模2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI等11个顶级框架深度评测
+- **[从工具到生态:AI Agent如何重塑供应链金融](https://baijiahao.baidu.com/s?id=1861239069633556164)** 联易融蜂联AI Agent实现20倍效率提升，审单时间从2.3天缩短至2.3小时
+- **[AI Agent元年:传统行业的机遇与我的下一步](https://zhuanlan.zhihu.com/p/2014654966804018012)** 民生行业成为AI Agent最容易落地的"重场景"
 - **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 基础准备阶段、初级开发阶段、中级进阶阶段完整学习路线
 - **[美图公司CFO解读2025业绩:AI Agent显著提升美图的付费转化](https://www.donews.com/news/detail/4/6497681.html)** ARPU值提升最主要是因为Agent上线后,用户为了获得更好的结果而增加消耗
 - **[2024-2025 AI新趋势:Multi-Agent系统入门指南](https://blog.csdn.net/2601_95390787/article/details/159802096)** 多智能体系统的核心架构,主流开源多智能体框架解析

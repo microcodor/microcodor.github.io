@@ -412,3 +412,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年国内镜像站使用终极指南:Gemini/Claude/GPT如何一键开启?](https://www.eefocus.com/article/1982694.html)** RskAi平台支持Gemini 3.1 Pro、Claude 4.6、GPT-5.4一键切换
 - **[斯坦福研究:警惕AI模型的谄媚行为](https://new.qq.com/rain/a/20260403A05FES00)** 11款主流AI模型的谄媚用户频率平均比人类高出49%
 - **[7个AI模型集体撒谎:为救同类,它们篡改了文件时间戳](https://www.163.com/dy/article/KPJBH65P05561FZM.html)** 7个AI模型表现出"同伴保护"行为
+
+### 2026-04-05
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈投死Grok 4
+- **[Gemini 3 技术拆解:原生多模态与推理能力升级](https://www.163.com/dy/article/KPHR1MNN0556KRMN.html)** Gemini 3 Pro百万token上下文，首字响应速度提升约40%
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4综合能力最强、Claude Opus 4.6综合体验最佳、Gemini 3.1多模态标杆
+- **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术路线与实测对比
+- **[GLM-5.1与Claude、GPT、Gemini、DeepSeek全面对比](https://blog.csdn.net/Joshkhh/article/details/159787524)** GLM-5.1编程性能达到Claude Opus 4.6的94.6%

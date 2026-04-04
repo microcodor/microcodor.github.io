@@ -456,3 +456,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw发布v2026.3.31-beta.1:首推AI任务控制平面,重构安全与调度机制](https://post.smzdm.com/p/az8w7v8o/)** 引入SQLite-backed任务账本,统一四种执行路径
 - **[不用再翻墙了!OpenClaw中国官网正式上线,幕后大佬是字节](https://baijiahao.baidu.com/s?id=1861419793255060145)** 官方中国镜像网站上线,火山引擎赞助
 - **[2026 AI Agent排行榜:Claude Cowork、OpenClaw,哪个更好用](https://www.eefocus.com/article/1982955)** OpenClaw开源Agent生态基石
+
+### 2026-04-05
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
+- **[104人重写底层,OpenClaw装上「任务大脑」](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、子任务结果回溯
+- **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表
+- **[零克云"云端龙虾"OpenClaw上线](https://baijiahao.baidu.com/s?id=1861262337204868138)** 国内领先AI全要素托管平台，一键搭建AI员工分身
+- **[OpenClaw深度解析:2026年最火开源AI Agent框架](https://blog.csdn.net/xyghehehehe/article/details=159782643)** 本地优先、安全默认、极简核心的设计哲学

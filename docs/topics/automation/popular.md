@@ -449,3 +449,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具
 - **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过语音指令让AI生成快捷指令
 - **[大模型时代:2026智能流程自动化软件全新能力分享](https://developer.aliyun.com/article/1721134)** RPA、Workflow/BPM、LLM+Agent三大技术路线对比
+
+### 2026-04-05
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具，核心定位是"连接一切工具的胶水"
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://g.pconline.com.cn/2124/21240573.html)** 用户可通过语音指令让AI生成快捷指令
+- **[工作流程平台详解:10款最佳工具](https://www.sohu.com/a/1003551388_120608187)** AI驱动的自动化效率平台，提供智能任务建议、自动化路由逻辑
+- **[AIWorks实现智能工作流自动化引擎](https://www.dtstack.com/bbs/article/471200)** 动态调整执行策略，感知-分析-决策-执行闭环
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/469251)** 准确率提升40%以上，处理时间从4小时缩短至30分钟
+- **[AI系统为什么必须分层?Workflow vs Inference架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** AI系统必须分层设计，Workflow与Inference有本质区别
+- **[OpenClaw实践玩法,简单三步搭建自动化工作流](https://post.smzdm.com/p/aggmwzx6/)** 无需安装、使用免费、界面更友好
