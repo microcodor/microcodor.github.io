@@ -34,6 +34,19 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 
 ## 近期动态
+### 2026-04-05
+- **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
+- **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
+- **[当石化行业遇上AI:“经验”变成“算法”](https://baijiahao.baidu.com/s?id=1861503860030512894)** 工业AI正把"经验"变成"算法"，把"算法"写进"工艺包"
+- **[毫秒用算加速构建全光算力网络](https://baijiahao.baidu.com/s?id=1861484940752598468)** 光库科技OCS交换机、光迅科技全光交换机、赛微电子MEMS-OCS
+- **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
+- **[IDC 重磅揭晓 2025 国产 AI芯片出货量 TOP8](https://xueqiu.com/1881672770/382654404)** 华为81.2万颗断层领跑，平头哥26.5万张跃居次席，昆仑芯与寒武纪并列第三
+- **[等了两年的AI功能来了又没了!苹果国行版凌晨悄悄上线](https://baijiahao.baidu.com/s?id=1861262052399108832)** 苹果国行Apple Intelligence短暂上线后消失，监管合规成关键障碍
+- **[华泰证券业绩会通篇谈AI:AI会以摧枯拉朽之势重塑行业](https://baijiahao.baidu.com/s?id=1861539265205258105)** 华泰确立"All in AI"战略，"数字化运营部"更名为"AI创新发展部"
+- **[从“数云融合”到“企业数智基座”,神州数码发布AI四大增长引擎](https://www.csdn.net/article/2026-04-04/159825125)** 神州数码2025年营收1437.5亿元，AI相关业务收入330.3亿元同比增长47.7%
+- **[英伟达在中国跌下神坛?国产AI芯片崛起](https://baijiahao.baidu.com/s?id=1861524846804858614)** 2025年中国AI芯片市场：英伟达55%、华为20%、阿里平头哥7%、AMD 4%
+
+## 近期动态
 ### 2026-04-04
 - **[万语大模型构建三大AI产品生态丨鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999&wfr=spider&for=pc)** 营收1.73亿元同比增长10.8%,净亏损同比收窄90.2%,AI健康全球化布局加速
 - **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网发布"三维二轨"评估体系,VoiceAgent成代表性产品形态

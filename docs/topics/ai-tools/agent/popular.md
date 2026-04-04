@@ -27,6 +27,19 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-05
+- **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 从理解Agent核心概念到掌握LangChain、LlamaIndex等开发框架的完整学习路线
+- **[千问 3.6 登顶全球调用量榜首,阿里 ATH 真正押注的是什么?](https://baijiahao.baidu.com/s?id=1861520316497401616)** 千问3.6-Plus在Code Arena React榜单超越GPT-5.0，编程能力对标Claude Opus 4.5
+- **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理仍停留在工具层补丁，影子AI和幽灵智能体成攻击者入口
+- **[【AI Agent实战手册】AG00:开篇——从聊天机器人到自主Agent](https://gitcode.csdn.net/69cfe81a54b52172bc66c383.html)** 2025-2026是Agent的范式转换时刻，数据验证掌握Agent将领先下一个时代
+- **[AI产业浪潮澎湃,海珠如何在新一轮高质量发展中抢占先机?](https://baijiahao.baidu.com/s?id=1861511231464315547)** 广州市海珠区2025年GDP突破3136亿元，AI+文娱、AI+美妆工作思路成型
+- **[2025QECon全球软件质量效能大会:代码AI Agent在变更影响分析领域的探索与实践](https://www.renrendoc.com/paper/516715947.html)** 美团测试工程师分享AI Agent在代码变更影响分析中的实践经验
+
+## 近期动态
+### 2026-04-04
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+
+## 近期动态
+### 2026-04-05
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915)** 全球Agentic AI市场规模2025年约78亿美元，预计2030年达526亿美元，CAGR高达46.3%
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI等11个顶级框架深度评测

@@ -23,6 +23,18 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-05
+- **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651625497&idx=2&sn=a72eea1127daddfa2ed77c08c3d50f05)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
+- **[超详细OpenClaw多Agent实战指南:国产大模型协同配置详解](https://developer.aliyun.com/article/1724058)** 阿里云部署、国产模型组合配置、百炼API优化与避坑秘籍
+- **[OpenClaw更新:手机审批太香了!](https://www.douyin.com/note/7624590987793498483)** on-miss模式下日常任务直接通过，高危操作需手机审批
+- **[openclaw近期怎么样了?](https://blog.csdn.net/wei12366/article/details/159826125)** 从600星到28万星的现象级崛起，Discord核心社区成员10万+
+- **[OpenClaw(龙虾)AI 系统环境搭建完整指南:从安装到 API 配置](https://post.smzdm.com/p/ae6x6xlk/)** 硬件要求、Node.js安装、MiniMax和Tavily API配置
+- **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](https://www.163.com/dy/article/KPLNLTFK05566SDR.html)** 火山引擎提供中国镜像站基础设施，字节、腾讯、阿里三种路径入场
+- **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
+- **[被OpenClaw的MCP协议彻底刷新认知:一个协议统一所有AI工具调用](https://blog.csdn.net/shanwei_spider/article/details/159804957)** 传统工具调用模式的四大痛点与MCP解决方案
+- **[360 发布 OpenClaw 安全指南:应对 AI Agent 提示词注入与接口暴露风险](https://post.smzdm.com/p/aggmg446/)** 分级治理策略：个人开发者、小型团队、政企级多智能体协同
+- **[OpenClaw本地大模型部署方案:从零配置到AI Agent构建](https://post.smzdm.com/p/az8w8w50/)** LM Studio + 本地模型 + CoPo/ Cherry Studio桥接
+
 ### 2026-04-04
 - **[OpenClaw发布v2026.3.31-beta.1:首推AI任务控制平面,重构安全与调度机制](https://post.smzdm.com/p/az8w7v8o/)** 引入SQLite-backed任务账本,统一ACP/subagent/cron/CLI四种执行路径至同一控制平面
 - **[openclaw 2026.4.1架构升级解析:从AI Gateway到Agent OS](https://zhuanlan.zhihu.com/p/2023424119878763014)** tasks成为独立后台执行平面,SQLite持久化账本支持进程重启后状态恢复

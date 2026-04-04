@@ -33,6 +33,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[文献综述还在死磕?这3个AI神器让你效率翻倍](https://www.sohu.com/a/1005010407_100209503)** AI做"地毯式"搜索,AI做"速读员",AI辅助综述
 - **[深信服×FastGPT联合发布SF-FastGPT](https://new.qq.com/rain/a/20260403A03RVB00)** 打造"0专家+好效果"的企业级AI应用
 
+## 近期动态
+### 2026-04-05
+- **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
+- **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
+- **[【国内动态】第一批"首席龙虾官"](https://www.163.com/dy/article/KPLIME6805568W0A.html)** 某公司招聘Agent方向技术负责人，需熟悉OpenClaw、LangChain、CrewAI
+- **[Notion 3.0 Agent功能实战:如何用AI工作流提升团队效率](https://blog.csdn.net/weixin_28730353/article/details/159815268)** Agent自动完成语义解析、数据聚合、智能编排、动态追踪
+- **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
+- **[SAION AI:以Physical AI为核心理念的科研智能体编排框架](https://baike.baidu.com/item/SAION%20AI/67490316)** 认知层、控制层、闭环执行层三层协同进化架构
+- **[LangGraph实战:从0到1构建生产级AI智能体工作流](https://blog.csdn.net/syk123839070/article/details/159833910)** 状态管理、流程控制、扩展性等常见问题解决方案
+
 ### 2026-04-04
 - **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
