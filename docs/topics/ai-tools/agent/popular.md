@@ -428,3 +428,8 @@ description: 主流 Agent 框架与工具链一览
 - **[美图公司CFO解读2025业绩:AI Agent显著提升美图的付费转化](https://www.donews.com/news/detail/4/6497681.html)** ARPU值提升最主要是因为Agent上线后,用户为了获得更好的结果而增加消耗
 - **[2024-2025 AI新趋势:Multi-Agent系统入门指南](https://blog.csdn.net/2601_95390787/article/details=159802096)** 多智能体系统的核心架构,主流开源多智能体框架解析
 - **[IDC认证!2025年最受青睐的6大AI Agent智能体品牌](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w33y.html)** 百度文心一言、阿里通义千问、腾讯混元、实在智能、字节豆包深度测评
+
+### 2026-04-04
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/458208)** AI自动化流程正成为驱动业务流程智能化的核心引擎
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划

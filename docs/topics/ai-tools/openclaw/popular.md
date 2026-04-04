@@ -450,3 +450,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** 多Agent任务编排框架,完成从感知到规划、从决策到执行的全链路调度
 - **[OpenClaw深度解析:2026年最火开源AI Agent框架的技术内核、安全风险与实践指南](https://blog.csdn.net/xyghehehehe/article/details=159782643)** 本地优先、安全默认、极简核心的设计哲学
 - **[OpenClaw这两步棋,让国内"龙虾生态"加速](https://www.sohu.com/a/1005047952_112831)** 国内镜像站上线,全中文界面,ClawHub超过4.3万个Skills直接触达
+
+### 2026-04-04
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表
+- **[OpenClaw发布v2026.3.31-beta.1:首推AI任务控制平面,重构安全与调度机制](https://post.smzdm.com/p/az8w7v8o/)** 引入SQLite-backed任务账本,统一四种执行路径
+- **[不用再翻墙了!OpenClaw中国官网正式上线,幕后大佬是字节](https://baijiahao.baidu.com/s?id=1861419793255060145)** 官方中国镜像网站上线,火山引擎赞助
+- **[2026 AI Agent排行榜:Claude Cowork、OpenClaw,哪个更好用](https://www.eefocus.com/article/1982955)** OpenClaw开源Agent生态基石

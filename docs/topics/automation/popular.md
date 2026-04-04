@@ -443,3 +443,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[告别深夜加班:AI自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/u_17159953/14535140)** 构建"智能管道"自动连接孤立应用,AI生成个性化内容
 - **[自媒体人测评这款AI工具让我10分钟搞定全平台](https://m.163.com/dy/article/KPJ5RQKM0552T14F.html)** 支持22+主流平台一键批量发布,AI智能评论回复,独立IP代理规避关联风险
 - **[大模型小白必看:一文读懂LLM、Agent、RAG等核心术语](https://blog.csdn.net/huqianxiu/article/details=159801865)** AI是大楼,机器学习是里面一层,深度学习是房间,GPT/Claude是明星租客
+
+### 2026-04-04
+- **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化
+- **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details/150594988)** N8N是开源低代码节点式工作流自动化工具
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过语音指令让AI生成快捷指令
+- **[大模型时代:2026智能流程自动化软件全新能力分享](https://developer.aliyun.com/article/1721134)** RPA、Workflow/BPM、LLM+Agent三大技术路线对比

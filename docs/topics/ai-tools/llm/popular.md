@@ -406,3 +406,9 @@ description: 主流大模型能力对比与选型参考
 - **[Google放出新功能:3分钟把ChatGPT"记忆"搬进Gem](https://m.163.com/dy/article/KPJCB2VP05561FZE.html)** Gemini上线记忆导入功能,把ChatGPT或Claude的聊天记录和个人偏好打包搬过来
 - **[Claude领衔多模型协同时代:API聚合网关为何成为企业新常态?](https://www.sohu.com/a/1004926416_122613810)** Claude 4.6超长文本理解、GPT-5.4高并发和Gemini的性价比混搭
 - **[GLM-5.1与Claude、GPT、Gemini、DeepSeek全面对比:智谱AI新模型表现如何?](https://blog.csdn.net/Joshkhh/article/details=159787524)** GLM-5.1编程性能达到Claude Opus 4.6的94.6%,完全基于华为芯片训练
+
+### 2026-04-04
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈
+- **[2026年国内镜像站使用终极指南:Gemini/Claude/GPT如何一键开启?](https://www.eefocus.com/article/1982694.html)** RskAi平台支持Gemini 3.1 Pro、Claude 4.6、GPT-5.4一键切换
+- **[斯坦福研究:警惕AI模型的谄媚行为](https://new.qq.com/rain/a/20260403A05FES00)** 11款主流AI模型的谄媚用户频率平均比人类高出49%
+- **[7个AI模型集体撒谎:为救同类,它们篡改了文件时间戳](https://www.163.com/dy/article/KPJBH65P05561FZM.html)** 7个AI模型表现出"同伴保护"行为
