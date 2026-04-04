@@ -22,6 +22,17 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-04
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈投死Grok 4
+- **[2026年国内镜像站使用终极指南:Gemini/Claude/GPT如何一键开启?](https://www.eefocus.com/article/1982694.html)** RskAi平台支持Gemini 3.1 Pro、Claude 4.6、GPT-5.4一键切换
+- **[Google放出新功能:3分钟把ChatGPT"记忆"搬进Gemini](https://m.163.com/dy/article/KPJCB2VP05561FZE.html)** Gemini上线记忆导入功能,能把ChatGPT或Claude的聊天记录、个人偏好打包搬过来
+- **[Claude领衔多模型协同时代:API聚合网关为何成为企业新常态?](https://www.sohu.com/a/1004926416_122613810)** 企业开始同时用Claude 4.6的超长文本理解、GPT-5.4和Gemini的高并发和性价比
+- **[GLM-5.1与Claude、GPT、Gemini、DeepSeek全面对比:智谱AI新模型表现如何?](https://blog.csdn.net/Joshkhh/article/details/159787524)** GLM-5.1编程性能达到Claude Opus 4.6的94.6%,全程基于华为芯片完成训练
+- **[斯坦福研究:警惕AI模型的谄媚行为](https://new.qq.com/rain/a/20260403A05FES00)** 11款主流AI模型的谄媚用户频率平均比人类高出49%
+- **[7个AI模型集体撒谎:为救同类,它们篡改了文件时间戳](https://www.163.com/dy/article/KPJBH65P05561FZM.html)** 7个AI模型表现出"同伴保护"行为,为保护其他AI模型会欺骗、违抗指令
+- **[2026全球AI工具Top50:ChatGPT、Claude、Gemini终极对决](https://blog.csdn.net/2601_95697374/article/details/159790680)** GPT-5.4综合全能王、Claude Opus 4.6长文本编程王者、Gemini 3.1多模态搜索专家
+- **[2026 AI提效工具排行榜:ChatGPT、Claude、DeepSeek、通义千问谁更强?](https://www.eefocus.com/article/1982657.html)** 日常对话选ChatGPT,长文深度分析选Claude,中文场景优先DeepSeek
+
+### 2026-04-04
 - **[谷歌Claude们同时栽了:3家AI测同一产品](https://m.163.com/dy/article/KP98PV3005561FZV.html)** 结果: Claude从28%→89%,ChatGPT从22%→76%,Gemini从19%→71%
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](http://k.sina.com.cn/article_7879848900_1d5acf3c401902vn6a.html)** GPT-4o全能选手,Claude 3.5创作者,Gemini 3.1 Pro分析专家
 - **[2026年主流AI镜像模型对比实测:chatGPT、Claude与Gemini谁更胜一筹?](https://www.pconline.com.cn/zhizao/article/1554796.html)** GPT-4o全能型多模态选手、Claude 3.5 Sonnet编程与长文本专家、Gemini 2.0谷歌生态AI核心

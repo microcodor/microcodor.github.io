@@ -22,6 +22,18 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-04
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件,x86芯片直接跑本地Ubuntu
+- **[大模型初学者必看:掌握Workflow与Agent,开启AI自动化新征程](https://blog.csdn.net/Yuaaaaa6/article/details/159801892)** Workflow深耕多年的"流程老管家",Agent自主智能体
+- **[告别深夜加班:AI自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/u_17159953/14535140)** 构建"智能管道"自动连接孤立应用程序,AI生成个性化内容
+- **[自媒体人测评这款AI工具让我10分钟搞定全平台](https://m.163.com/dy/article/KPJ5RQKM0552T14F.html)** 一键批量发布22+平台,AI批量原创生成,矩阵式账号管理
+- **[大模型小白必看:一文读懂LLM、Agent、RAG等核心术语](https://blog.csdn.net/huqianxiu/article/details/159801865)** AI、LLM、Agent、RAG等核心术语详解
+- **[团队AI工具使用规范与管理](https://blog.csdn.net/xyghehehehe/article/details/159787989)** 89%开发团队使用至少一种AI编程工具,建立科学使用规范
+- **[AI小龙虾OpenClaw超全保姆教程](https://developer.aliyun.com/article/1723946)** 阿里云/本地部署+免费百炼API配置+9大办公实用Skills
+- **[外网爆火,比Vibe Coding便宜10倍!北邮重构多智能体编排范式](https://www.163.com/dy/article/KPJE1PSK0511ABV6.html)** 硬编码派与可视化拖拽派之外的新范式
+- **[文献综述还在死磕?这3个AI神器让你效率翻倍](https://www.sohu.com/a/1005010407_100209503)** AI做"地毯式"搜索,AI做"速读员",AI辅助综述
+- **[深信服×FastGPT联合发布SF-FastGPT](https://new.qq.com/rain/a/20260403A03RVB00)** 打造"0专家+好效果"的企业级AI应用
+
+### 2026-04-04
 - **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
 - **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令

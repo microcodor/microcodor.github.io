@@ -24,6 +24,20 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-04
+- **[OpenClaw发布v2026.3.31-beta.1:首推AI任务控制平面,重构安全与调度机制](https://post.smzdm.com/p/az8w7v8o/)** 引入SQLite-backed任务账本,统一ACP/subagent/cron/CLI四种执行路径至同一控制平面
+- **[openclaw 2026.4.1架构升级解析:从AI Gateway到Agent OS](https://zhuanlan.zhihu.com/p/2023424119878763014)** tasks成为独立后台执行平面,SQLite持久化账本支持进程重启后状态恢复
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** 基于LLM的多Agent任务编排框架,专为复杂具身智能任务场景设计
+- **[OpenClaw深度解析:2026年最火开源AI Agent框架的技术内核、安全风险与实践指南](https://blog.csdn.net/xyghehehehe/article/details/159782643)** 本地优先、安全默认、极简核心的设计哲学
+- **[OpenClaw这两步棋,让国内"龙
+
+虾生态"加速](https://www.sohu.com/a/1005047952_112831)** 官方中国镜像站上线,服务器直连国内,ClawHub超4.3万个Skills直接触达
+- **[OpenClaw架构解析和落地实战](https://cloud.tencent.com/developer/article/2650019)** 渠道接入-Gateway核心-Pi Agent执行三层架构
+- **[OpenClaw v2026.4.1深度解析:聊天原生任务板、SearXNG搜索与安全护栏](https://blog.csdn.net/xyghehehehe/article/details/159781284)** /tasks聊天原生任务板、SearXNG搜索插件、Amazon Bedrock Guardrails
+- **[不用再翻墙了!OpenClaw中国官网正式上线,幕后大佬是字节](https://baijiahao.baidu.com/s?id=1861419793255060145)** 官方中国镜像网站上线,火山引擎和BytePlus赞助支持
+- **[2026 AI Agent排行榜:Claude Cowork、OpenClaw,哪个更好用](https://www.eefocus.com/article/1982955)** OpenClaw开源Agent生态基石,GitHub星标破10万
+- **[OpenClaw大版本更新补短板提体验开发者用户双受益](http://3g.hefei.touzitoujinaxieshi.cn/vicar/blog/55024_112.shtml)** 一键安装配方、Teams SDK迁移、消息编辑删除功能
+
+### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话

@@ -23,6 +23,17 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-04
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+- **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 基础准备阶段、初级开发阶段、中级进阶阶段完整学习路线
+- **[美图公司CFO解读2025业绩:AI Agent显著提升美图的付费转化](https://www.donews.com/news/detail/4/6497681.html)** ARPU值提升最主要是因为Agent上线后,用户为了获得更好的结果而增加消耗
+- **[2024-2025 AI新趋势:Multi-Agent系统入门指南](https://blog.csdn.net/2601_95390787/article/details/159802096)** 多智能体系统的核心架构,主流开源多智能体框架解析
+- **[IDC认证!2025年最受青睐的6大AI Agent智能体品牌](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w33y.html)** 百度文心一言、阿里通义千问、腾讯混元、实在智能、字节豆包深度测评
+- **[麦肯锡预测:2025年AI将吃掉30%白领工时](https://www.163.com/dy/article/KPK5TR5D05561FZP.html)** 到2025年底,生成式AI和智能体将接管知识工作者30%的常规工时
+- **[科学甄选优质AI Agent厂商,分阶段落地驱动企业智能化转型](https://new.qq.com/rain/a/20260403A01HZY00)** 中国企业级智能体市场规模已突破232亿元,预计未来三年将保持超过110%的年复合增长率
+- **[商汤构筑"基建+模型+应用"闭环承势而起](http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/828542178025/index.phtml)** 商汤2025年实现总收入50.15亿元,同比增长32.9%,创近三年最快增速
+- **[微软正式推出Microsoft Agent Framework,.NET AI迎来史无前例的大一统](https://blog.csdn.net/UixuQS2HI/article/details=159800873)** 微软将Semantic Kernel原有Agent功能整体迁移至MAF,标志.NET AI进入工业化生产阶段
+
+### 2026-04-04
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
 - **[AI Agent智能体行业深度:OpenClaw引爆,新范式、产业链与投资图谱](https://baijiahao.baidu.com/s?id=1861104286909963915&wfr=spider&for=pc)** 全球Agentic AI市场2025年约78亿美元，预计2030年达526亿美元
