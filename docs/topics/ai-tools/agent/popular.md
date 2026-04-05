@@ -34,6 +34,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI产业浪潮澎湃,海珠如何在新一轮高质量发展中抢占先机?](https://baijiahao.baidu.com/s?id=1861511231464315547)** 广州市海珠区2025年GDP突破3136亿元，AI+文娱、AI+美妆工作思路成型
 - **[2025QECon全球软件质量效能大会:代码AI Agent在变更影响分析领域的探索与实践](https://www.renrendoc.com/paper/516715947.html)** 美团测试工程师分享AI Agent在代码变更影响分析中的实践经验
 
+### 2026-04-05
+- **[2025-2026年AI Agent框架选型指南:告别踩坑,四大类框架深度解析](https://blog.csdn.net/m0_74942241/article/details/158743665)** 零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台四大类深度解析
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://view.inews.qq.com/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+
 ## 近期动态
 ### 2026-04-04
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
