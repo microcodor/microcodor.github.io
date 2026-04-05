@@ -34,6 +34,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 
 ## 近期动态
+### 2026-04-06
+- **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
+- **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
+- **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
+- **[IDC重磅揭晓2025国产AI芯片出货量TOP8](https://xueqiu.com/1881672770/382654404)** 华为81.2万颗断层领跑，平头哥26.5万张跃居次席
+
 ### 2026-04-05
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，多款人形机器人发布

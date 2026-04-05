@@ -491,3 +491,4 @@ description: 主流 Agent 框架与工具链一览
 - **[iOS 27重磅升级:AI自然语言生成快捷指令](https://g.pconline.com.cn/2124/21240573.html)** iOS 27引入Apple Intelligence大模型，实现AI自然语言生成自定义操作，用户可通过语音指令让AI自主解析需求并生成快捷指令
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件，x86芯片直接跑本地Ubuntu，推理芯片可本地跑122B的MoE模型
 - **[2025智能体"开年之战":海外巨头领跑,本土黑马码上飞如何破局?](https://blog.csdn.net/weixin_33724046/article/details/159838657)** OpenAI"Operator"、谷歌"AI Agent Space"、微软Power Automate各具特色，码上飞支持本地化部署
+- **[2025 TUYA全球开发者大会](https://baike.baidu.com/item/2025%20TUYA全球开发者大会/66748016)** 涂鸦智能发布AI Agent开发平台、Tuya.AI、TuyaOpen和海德薇等AIoT技术引擎

@@ -21,6 +21,12 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-06
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增至10%，重度用户日均使用139分钟
+- **[Claude"卸磨杀虾",一夜封杀34多万开发者](https://baijiahao.baidu.com/s?id=1861610320827173038)** Anthropic宣布Claude订阅不再包含OpenClaw等第三方工具使用额度，需额外付费
+- **[AI学会抱团:7个模型宁愿造假也不出卖同伴](https://new.qq.com/rain/a/20260405A055YJ00)** 研究发现GPT-5.2、Gemini、Claude等7个模型会自发产生"同伴保护"行为
+- **[Claude Opus 4.6深度评测:AI编程工具新王者](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w7eq.html)** Claude Opus 4.6编码能力提升4.1倍，支持一次性分析整个代码库
+
 ### 2026-04-05
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.pconline.com.cn/zhizao/article/1552812.html)** ChatGPT(GPT-5.4)综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
 - **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术哲学对比：Gemini原生多模态与动态计算、GPT工具生态与推测解码、Claude安全协作与长上下文压缩

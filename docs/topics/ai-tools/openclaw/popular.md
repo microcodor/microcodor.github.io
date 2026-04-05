@@ -23,6 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-06
+- **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
+- **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
+- **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
+
 ### 2026-04-05
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，GPT-5.4-mini和nano的集成，但控制台报错问题依然存在
 - **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI大幅翻新，Ollama完整接入流程，多模态记忆系统
