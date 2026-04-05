@@ -35,6 +35,12 @@ description: 主流 Agent 框架与工具链一览
 - **[2025QECon全球软件质量效能大会:代码AI Agent在变更影响分析领域的探索与实践](https://www.renrendoc.com/paper/516715947.html)** 美团测试工程师分享AI Agent在代码变更影响分析中的实践经验
 
 ### 2026-04-05
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，超长上下文成为标配
+- **[AI Agent Frameworks: A Practical Guide](https://www.salesforce.com/agentforce/ai-agents/ai-agent-frameworks/?bc=HA)** Salesforce发布的AI Agent框架实用指南，AutoGen等主流框架深度解析
+- **[2025 AI 记忆系统大横评:从插件到操作系统](http://zhuanlan.zhihu.com/p/1978869876396413893)** 主流Agent Infra的内存系统横向对比，Mem360、MemOS、EverMind等评测
+
+### 2026-04-05
 - **[2025-2026年AI Agent框架选型指南:告别踩坑,四大类框架深度解析](https://blog.csdn.net/m0_74942241/article/details/158743665)** 零代码/低代码平台、通用开源框架、端侧执行框架、产业级/企业级商用平台四大类深度解析
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://view.inews.qq.com/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
@@ -397,6 +403,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent 2.0:告别对话框，迎接数字员工新时代](https://blog.csdn.net/xixixi7777/article/details=159287980)** 基于LLM操作系统的多智能体架构深度拆解，AI Agent正经历第四阶段演进
 - **[AI越强,项目反而越失控了](https://zhuanlan.zhihu.com/p/2018293733980918922)** 从"让AI帮忙落地"到"让AI主导执行"，人和AI的关系正在发生根本性变化
 - **[858亿砸AI,腾讯杀入AI战争](https://baijiahao.baidu.com/s?id=1860192138209542796)** 腾讯2025年Q4营收1943.7亿元，云业务首次实现规模化盈利，AI应用规模同步扩大
+
+### 2026-04-05
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，超长上下文成为标配
+- **[AI Agent Frameworks: A Practical Guide](https://www.salesforce.com/agentforce/ai-agents/ai-agent-frameworks/?bc=HA)** Salesforce发布的AI Agent框架实用指南，AutoGen等主流框架深度解析
+- **[2025 AI 记忆系统大横评:从插件到操作系统](http://zhuanlan.zhihu.com/p/1978869876396413893)** 主流Agent Infra的内存系统横向对比，Mem360、MemOS、EverMind等评测
 
 （每日更新...）
 

@@ -426,6 +426,12 @@ description: 主流大模型能力对比与选型参考
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.eefocus.com/article/1979900.html)** GPT-5.4综合能力最强、Claude Opus 4.6综合体验最佳、Gemini 3.1多模态标杆
 - **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术路线与实测对比
 - **[GLM-5.1与Claude、GPT、Gemini、DeepSeek全面对比](https://blog.csdn.net/Joshkhh/article/details/159787524)** GLM-5.1编程性能达到Claude Opus 4.6的94.6%
+
+### 2026-04-05
+- **[谷歌Gemini 3.1 Pro屠榜封神,清华姚顺宇出手](https://www.thepaper.cn/newsDetail_forward_32636177)** 在ARC-AGI-2测试中以77.1%一骑绝尘，推理狂飙2倍直接把Claude 4.6拉下王座
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
+- **[Google Gemini新功能让用户3秒"偷走"ChatGPT](https://www.163.com/dy/article/KP0UMAFD05561FZO.html)** Gemini能一键导入对手的记忆库，把使用习惯"翻译"成另一套系统的母语
+
 ### 2026-04-05
 - **[彻底封杀!Claude 全面封禁 OpenClaw,开发者低价撸 AI 时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Claude封杀OpenClaw，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[Anthropic用1篇论文掀翻AI圈铁律:拟人化不是坑,是解药](https://www.163.com/dy/article/KPMIIVAA05561FZY.html)** Claude的训练过程像方法派演员入戏，"情绪概念"会影响模型的实际行为
