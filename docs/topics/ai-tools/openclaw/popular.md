@@ -475,3 +475,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表
 - **[零克云"云端龙虾"OpenClaw上线](https://baijiahao.baidu.com/s?id=1861262337204868138)** 国内领先AI全要素托管平台，一键搭建AI员工分身
 - **[OpenClaw深度解析:2026年最火开源AI Agent框架](https://blog.csdn.net/xyghehehehe/article/details=159782643)** 本地优先、安全默认、极简核心的设计哲学
+### 2026-04-05
+- **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651625497&idx=2&sn=a72eea1127daddfa2ed77c08c3d50f05)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
+- **[超详细OpenClaw多Agent实战指南:国产大模型协同配置详解](https://developer.aliyun.com/article/1724058)** 阿里云部署、国产模型组合配置、百炼API优化与避坑秘籍
+- **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
+- **[被OpenClaw的MCP协议彻底刷新认知:一个协议统一所有AI工具调用](https://blog.csdn.net/shanwei_spider/article/details=159804957)** 传统工具调用模式的四大痛点与MCP解决方案
+- **[360 发布 OpenClaw 安全指南:应对 AI Agent 提示词注入与接口暴露风险](https://post.smzdm.com/p/aggmg446/)** 分级治理策略：个人开发者、小型团队、政企级多智能体协同

@@ -468,3 +468,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/469251)** 准确率提升40%以上，处理时间从4小时缩短至30分钟
 - **[AI系统为什么必须分层?Workflow vs Inference架构解析](https://zhuanlan.zhihu.com/p/2021981522958237787)** AI系统必须分层设计，Workflow与Inference有本质区别
 - **[OpenClaw实践玩法,简单三步搭建自动化工作流](https://post.smzdm.com/p/aggmwzx6/)** 无需安装、使用免费、界面更友好
+### 2026-04-05
+- **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
+- **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
+- **[SAION AI:以Physical AI为核心理念的科研智能体编排框架](https://baike.baidu.com/item/SAION%20AI/67490316)** 认知层、控制层、闭环执行层三层协同进化架构
+- **[LangGraph实战:从0到1构建生产级AI智能体工作流](https://blog.csdn.net/syk123839070/article/details=159833910)** 状态管理、流程控制、扩展性等常见问题解决方案
+- **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景
