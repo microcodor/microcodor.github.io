@@ -487,3 +487,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
 - **[被OpenClaw的MCP协议彻底刷新认知:一个协议统一所有AI工具调用](https://blog.csdn.net/shanwei_spider/article/details=159804957)** 传统工具调用模式的四大痛点与MCP解决方案
 - **[360 发布 OpenClaw 安全指南:应对 AI Agent 提示词注入与接口暴露风险](https://post.smzdm.com/p/aggmg446/)** 分级治理策略：个人开发者、小型团队、政企级多智能体协同
+
+### 2026-04-06
+- **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
+- **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
+- **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口

@@ -444,3 +444,8 @@ description: 主流大模型能力对比与选型参考
 - **[Cursor 3来了!一句话让所有Agent一起干活](https://www.163.com/dy/article/KPN01AU5051180F7.html)** 支持多Agent跨代码仓库协作，全新Agent界面可同时查看多个会话
 - **[从工具调用到协作生态:基于 MCP 协议构建 Gemini 3 + GPT-5.4 镜像智能体](https://www.eefocus.com/article/1982741.html)** MCP是AI的"通用USB-C接口"，实现"一次开发,多模型运行"的愿景
 - **[Gemini 3.1 Pro镜像国内实测:三合一镜像站RskAi技术拆解与使用指南](https://www.eefocus.com/article/1983638.html)** RskAi平台支持Gemini 3.1 Pro、ChatGPT 5.4、Claude 4.6一键切换
+
+### 2026-04-06
+- **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
+- **[Cursor 3来了!一句话让所有Agent一起干活](https://www.163.com/dy/article/KPN01AU5051180F7.html)** 支持多Agent跨代码仓库协作，全新Agent界面可同时查看多个会话
+- **[Anthropic用1篇论文掀翻AI圈铁律:拟人化不是坑,是解药](https://www.163.com/dy/article/KPMIIVAA05561FZY.html)** Claude的训练过程像方法派演员入戏，"情绪概念"会影响模型的实际行为

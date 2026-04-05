@@ -486,3 +486,8 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI agents是自主的、基于规则的系统，能感知环境并采取行动完成目标
+
+### 2026-04-06
+- **[iOS 27重磅升级:AI自然语言生成快捷指令](https://g.pconline.com.cn/2124/21240573.html)** iOS 27引入Apple Intelligence大模型，实现AI自然语言生成自定义操作，用户可通过语音指令让AI自主解析需求并生成快捷指令
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件，x86芯片直接跑本地Ubuntu，推理芯片可本地跑122B的MoE模型
+- **[2025智能体"开年之战":海外巨头领跑,本土黑马码上飞如何破局?](https://blog.csdn.net/weixin_33724046/article/details/159838657)** OpenAI"Operator"、谷歌"AI Agent Space"、微软Power Automate各具特色，码上飞支持本地化部署

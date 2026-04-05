@@ -483,3 +483,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
 - **[IDC 重磅揭晓 2025 国产 AI芯片出货量 TOP8](https://xueqiu.com/1881672770/382654404)** 华为81.2万颗断层领跑，平头哥26.5万张跃居次席
 - **[华泰证券业绩会通篇谈AI:AI会以摧枯拉朽之势重塑行业](https://baijiahao.baidu.com/s?id=1861539265205258105)** 华泰确立"All in AI"战略，"数字化运营部"更名为"AI创新发展部"
+
+### 2026-04-06
+- **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
+- **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
+- **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
+- **[IDC重磅揭晓2025国产AI芯片出货量TOP8](https://xueqiu.com/1881672770/382654404)** 华为81.2万颗断层领跑，平头哥26.5万张跃居次席
