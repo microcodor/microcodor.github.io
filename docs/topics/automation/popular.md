@@ -21,6 +21,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-05
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/458208)** AI自动化流程正成为驱动业务流程智能化的核心引擎
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
 ### 2026-04-04
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件,x86芯片直接跑本地Ubuntu
 - **[大模型初学者必看:掌握Workflow与Agent,开启AI自动化新征程](https://blog.csdn.net/Yuaaaaa6/article/details/159801892)** Workflow深耕多年的"流程老管家",Agent自主智能体

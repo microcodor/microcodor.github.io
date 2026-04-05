@@ -22,6 +22,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-05
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.pconline.com.cn/zhizao/article/1552812.html)** ChatGPT(GPT-5.4)综合能力最强，Claude Opus 4.6长文本处理和中文优化突出，Gemini 3.1多模态标杆
+- **[2026年三大顶级AI模型实战对比:Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6](https://www.eefocus.com/article/1979298.html)** 三大模型技术哲学对比：Gemini原生多模态与动态计算、GPT工具生态与推测解码、Claude安全协作与长上下文压缩
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用，已进入内部测试阶段
+- **[2026年ChatGPT技术拆解:GPT、Claude与Gemini的模型架构与性能对比](https://g.pconline.com.cn/zhizao/article/1546985.html)** MoE架构解析，GPT-4o参数1.8万亿激活2800亿
+
+### 2026-04-05
 - **[彻底封杀!Claude 全面封禁 OpenClaw,开发者低价撸 AI 时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Claude封杀OpenClaw，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[Anthropic用1篇论文掀翻AI圈铁律:拟人化不是坑,是解药](https://www.163.com/dy/article/KPMIIVAA05561FZY.html)** Claude的训练过程像方法派演员入戏，"情绪概念"会影响模型的实际行为
 - **[Cursor 3来了!一句话让所有Agent一起干活](https://www.163.com/dy/article/KPN01AU5051180F7.html)** 支持多Agent跨代码仓库协作，全新Agent界面可同时查看多个会话

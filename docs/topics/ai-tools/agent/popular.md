@@ -27,6 +27,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-05
+- **[安装了龙虾不知道该干嘛?你差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作，github让AI进入仓库协作流程
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI等11个框架深度评测，模块化设计、动态学习成核心价值
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，超长上下文成为标配
+- **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期
+
+## 近期动态
+### 2026-04-05
 - **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 从理解Agent核心概念到掌握LangChain、LlamaIndex等开发框架的完整学习路线
 - **[千问 3.6 登顶全球调用量榜首,阿里 ATH 真正押注的是什么?](https://baijiahao.baidu.com/s?id=1861520316497401616)** 千问3.6-Plus在Code Arena React榜单超越GPT-5.0，编程能力对标Claude Opus 4.5
 - **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理仍停留在工具层补丁，影子AI和幽灵智能体成攻击者入口

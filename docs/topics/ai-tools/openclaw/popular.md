@@ -24,6 +24,12 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-05
+- **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，GPT-5.4-mini和nano的集成，但控制台报错问题依然存在
+- **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI大幅翻新，Ollama完整接入流程，多模态记忆系统
+- **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一生命周期管理，task flow注册表，被阻塞任务可持久化blocked状态
+
+### 2026-04-05
 - **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651625497&idx=2&sn=a72eea1127daddfa2ed77c08c3d50f05)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
 - **[超详细OpenClaw多Agent实战指南:国产大模型协同配置详解](https://developer.aliyun.com/article/1724058)** 阿里云部署、国产模型组合配置、百炼API优化与避坑秘籍
 - **[OpenClaw更新:手机审批太香了!](https://www.douyin.com/note/7624590987793498483)** on-miss模式下日常任务直接通过，高危操作需手机审批
