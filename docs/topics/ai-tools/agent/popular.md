@@ -506,3 +506,10 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain受欢迎，AutoGen、CrewAI等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册SOP
 - **[2025年AI应用开发新范式报告](https://m.book118.com/html/2026/0314/8101134071010053.shtm)** 126页，AI Agent开发新范式深度解析
+
+## 近期动态
+### 2026-04-07
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[AutoGen架构全景解读:v0.4到Microsoft Agent Framework的变化](https://www.163.com/dy/article/KNETAES90531D9VR.html)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化
+

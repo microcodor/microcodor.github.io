@@ -504,3 +504,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[企业级AI智能体平台Deep Agent演进启示](https://baijiahao.baidu.com/s?id=1860512275709504248)** Deep Agent采用大模型+小模型双层架构，构建全链路智能决策闭环
 - **[2025年OpenAI发布的新款模型](https://baike.baidu.com/item/o3/65594422)** O3系列模型整合强化学习和思维链技术，在ARC-AGI基准测试达87.5%得分
 - **[2025年AI产品发布:国金计算机科技](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册
+
+## 近期动态
+### 2026-04-07
+- **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
+- **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
+- **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
+

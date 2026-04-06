@@ -463,3 +463,10 @@ description: 主流大模型能力对比与选型参考
 - **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用
 - **[Gemini推理实战对比:Claude、GPT-4谁更靠谱?](https://www.pconline.com.cn/ai/article/1554061.html)** Gemini推理响应快，GPT-4泛化强，Claude安全但推理慢
 - **[换AI不再从零开始:谷歌Gemini现支持一键导入ChatGPT、Claude记忆](http://news.10jqka.com.cn/20260327/c675578117.shtml)** Gemini新增记忆导入功能
+
+## 近期动态
+### 2026-04-07
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://www.pconline.com.cn/ai/article/1554767.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增至10%，重度用户日均使用139分钟
+- **[Claude Opus 4.6深度评测:AI编程工具新王者](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w7eq.html)** Claude Opus 4.6编码能力提升4.1倍，支持一次性分析整个代码库
+
