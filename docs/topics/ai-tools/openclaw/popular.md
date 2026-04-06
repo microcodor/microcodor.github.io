@@ -497,3 +497,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
 - **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
+
+### 2026-04-06
+- **[OpenClaw最大规模更新,告别npm,拥抱ClawHub](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm依赖，构建专属插件市场，沙箱架构全面升级
+- **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 任务流生命周期管理，flow注册表让多任务编排有父记录
+- **[首次!OpenClaw合并QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 2026.3.31版本内置QQ Bot，打通中国高频社交场景
+- **[当AI助手变成「特洛伊木马」:OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 超过27万个OpenClaw实例暴露公网，安全问题凸显
+- **[ContextEngine:开发者等了半年的上下文引擎](http://zhuanlan.zhihu.com/p/2014275270752904257)** 可插拔上下文引擎，开发者可自定义上下文处理逻辑

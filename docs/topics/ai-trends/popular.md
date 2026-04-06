@@ -497,3 +497,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
 - **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
 - **[IDC重磅揭晓2025国产AI芯片出货量TOP8](https://xueqiu.com/1881672770/382654404)** 华为81.2万颗断层领跑，平头哥26.5万张跃居次席
+
+### 2026-04-06
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款智能机器人和大模型产品
+- **[万语大模型构建三大AI产品生态:鹰瞳科技2025年业绩报](https://baijiahao.baidu.com/s?id=1861353029346720999)** 万语大模型支撑近视防控AI、视网膜检测AI、抗压能力监测AI三大产品线
+- **[企业级AI智能体平台Deep Agent演进启示](https://baijiahao.baidu.com/s?id=1860512275709504248)** Deep Agent采用大模型+小模型双层架构，构建全链路智能决策闭环
+- **[2025年OpenAI发布的新款模型](https://baike.baidu.com/item/o3/65594422)** O3系列模型整合强化学习和思维链技术，在ARC-AGI基准测试达87.5%得分
+- **[2025年AI产品发布:国金计算机科技](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册

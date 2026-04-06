@@ -495,3 +495,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
 - **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
+
+### 2026-04-06
+- **[装了龙虾不知道该干嘛?差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装手脚的能力包，agent-browser让AI执行浏览器动作
+- **[What is n8n? Intro to a workflow automation tool](https://www.hostinger.in/tutorials/what-is-n8n)** n8n是无代码工作流自动化工具，创建自定义工作流连接不同应用
+- **[如何使用AI代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI agents是自主的基于规则的系统，能感知环境并采取行动完成目标
+- **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/471645)** 将数据采集、预处理、模型训练、推理部署等环节自动化串联

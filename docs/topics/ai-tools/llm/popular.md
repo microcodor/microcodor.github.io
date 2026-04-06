@@ -456,3 +456,10 @@ description: 主流大模型能力对比与选型参考
 - **[Cursor 3来了!一句话让所有Agent一起干活](https://www.163.com/dy/article/KPN01AU5051180F7.html)** 支持多Agent跨代码仓库协作，全新Agent界面可同时查看多个会话
 - **[Anthropic用1篇论文掀翻AI圈铁律:拟人化不是坑,是解药](https://www.163.com/dy/article/KPMIIVAA05561FZY.html)** Claude的训练过程像方法派演员入戏，"情绪概念"会影响模型的实际行为
 - **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增至10%，重度用户日均使用139分钟
+
+### 2026-04-06
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://www.pconline.com.cn/zhizao/article/1552812.html)** ChatGPT(GPT-5.4)综合能力最强，Claude Opus 4.6长文本处理突出，Gemini 3.1多模态标杆
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](http://finance.sina.com.cn/tech/roll/2026-04-05/doc-inhtmhfc2088260.shtml)** ChatGPT份额四个月下滑跌破40%，Claude日活用户份额增长至10%
+- **[迎战Claude与OpenAI,谷歌桌面版Gemini AI杀入苹果Mac生态](https://www.163.com/dy/article/KOES6LJ00511B8LM.html)** 谷歌正为Mac开发原生Gemini AI应用
+- **[Gemini推理实战对比:Claude、GPT-4谁更靠谱?](https://www.pconline.com.cn/ai/article/1554061.html)** Gemini推理响应快，GPT-4泛化强，Claude安全但推理慢
+- **[换AI不再从零开始:谷歌Gemini现支持一键导入ChatGPT、Claude记忆](http://news.10jqka.com.cn/20260327/c675578117.shtml)** Gemini新增记忆导入功能

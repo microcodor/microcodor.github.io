@@ -499,3 +499,10 @@ description: 主流 Agent 框架与工具链一览
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://zhuanlan.zhihu.com/p/2013728518073247564)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化
 - **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，六大分类形成清晰生态
+
+### 2026-04-06
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始一切失控——Agent = 模型在循环里跑能调用工具
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain受欢迎，AutoGen、CrewAI等框架深度对比
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册SOP
+- **[2025年AI应用开发新范式报告](https://m.book118.com/html/2026/0314/8101134071010053.shtm)** 126页，AI Agent开发新范式深度解析
