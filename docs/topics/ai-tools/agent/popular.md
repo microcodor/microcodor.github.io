@@ -492,3 +492,11 @@ description: 主流 Agent 框架与工具链一览
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件，x86芯片直接跑本地Ubuntu，推理芯片可本地跑122B的MoE模型
 - **[2025智能体"开年之战":海外巨头领跑,本土黑马码上飞如何破局?](https://blog.csdn.net/weixin_33724046/article/details/159838657)** OpenAI"Operator"、谷歌"AI Agent Space"、微软Power Automate各具特色，码上飞支持本地化部署
 - **[2025 TUYA全球开发者大会](https://baike.baidu.com/item/2025%20TUYA全球开发者大会/66748016)** 涂鸦智能发布AI Agent开发平台、Tuya.AI、TuyaOpen和海德薇等AIoT技术引擎
+
+### 2026-04-06
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟，超长上下文成为标配
+- **[Allen Hutchison:2025年我写的每个AI脚本](https://www.163.com/dy/article/KPE56DG405561FZX.html)** 从read_file开始一切失控——Agent = 模型在循环里跑能调用工具
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen、CrewAI等11个框架深度对比
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
+- **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://zhuanlan.zhihu.com/p/2013728518073247564)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化
+- **[2025年AI Agent总结:迈向自主智能的智能体时代](https://dy.163.com/article/KNEEVOOJ05386IPN.html)** 普华永道定义Agentic AI三波浪潮，六大分类形成清晰生态

@@ -455,3 +455,4 @@ description: 主流大模型能力对比与选型参考
 - **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[Cursor 3来了!一句话让所有Agent一起干活](https://www.163.com/dy/article/KPN01AU5051180F7.html)** 支持多Agent跨代码仓库协作，全新Agent界面可同时查看多个会话
 - **[Anthropic用1篇论文掀翻AI圈铁律:拟人化不是坑,是解药](https://www.163.com/dy/article/KPMIIVAA05561FZY.html)** Claude的训练过程像方法派演员入戏，"情绪概念"会影响模型的实际行为
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增至10%，重度用户日均使用139分钟

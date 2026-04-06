@@ -26,6 +26,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
 - **[LangGraph实战:从0到1构建生产级AI智能体工作流](https://blog.csdn.net/syk123839070/article/details/159833910)** 状态管理、流程控制、扩展性等常见问题解决方案
+- **[n8n workflows: 自动化工作流的瑞士军刀](https://www.hostinger.in/tutorials/what-is-n8n)** n8n是开源工作流自动化工具，可连接不同应用创建自动化流程
+- **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/471645)** AI workflow将数据采集、预处理、模型训练、推理部署等环节自动化串联
+- **[AI workflow自动化流程设计与实现](https://www.dtstack.com/bbs/article/468601)** AI workflow核心组件包括数据摄入层、特征工程层、模型训练层、部署服务化层
 
 ### 2026-04-05
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
