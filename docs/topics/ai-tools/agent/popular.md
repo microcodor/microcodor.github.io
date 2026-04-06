@@ -26,6 +26,12 @@ description: 主流 Agent 框架与工具链一览
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
 ## 近期动态
+### 2026-04-07
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
 ### 2026-04-06
 - **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
