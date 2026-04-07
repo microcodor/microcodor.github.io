@@ -525,3 +525,10 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
 - **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
+### 2026-04-07
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/458208)** AI自动化流程正成为驱动业务流程智能化的核心引擎
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
