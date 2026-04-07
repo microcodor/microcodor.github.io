@@ -494,3 +494,10 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3 技术拆解:原生多模态与推理能力升级](https://m.163.com/dy/article/KPHR1MNN0556KRMN.html)** Gemini 3原生推理链架构，用户可观察模型生成答案前的"思考步骤"
 - **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT全能型私人助理，Gemini多模态创意伙伴，Claude深度思考者
 - **[“同事.skill”爆火背后:GPT、Claude、Gemini如何“炼化”你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，AI数字分身技术让离职同事被蒸馏成token继续工作
+
+### 2026-04-08
+- **[2026硬核对比:Claude 4.6官网双版本解析与Gemini 3.1 Pro镜像如何选](https://www.eefocus.com/article/1980981.html)** Claude 4.6双版本策略与智能体革命，Opus追求极致性能，Sonnet以1/5价格提供接近能力
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈投死Grok 4，展现顶级博弈能力
+- **[Gemini 3 技术拆解:原生多模态与推理能力升级](https://m.163.com/dy/article/KPHR1MNN0556KRMN.html)** Gemini 3原生推理链架构，用户可观察模型生成答案前的"思考步骤"
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT全能型私人助理，Gemini多模态创意伙伴，Claude深度思考者
+- **[“同事.skill”爆火背后:GPT、Claude、Gemini如何“炼化”你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，AI数字分身技术让离职同事被蒸馏成token继续工作

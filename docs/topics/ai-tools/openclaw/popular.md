@@ -529,3 +529,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw更新,首次内置QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 2026.3.31版本内置QQ Bot，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
 - **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一后台任务生命周期管理，引入task flow注册表，被阻塞任务可持久化blocked状态
 - **[OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
+
+### 2026-04-08
+- **[OpenClaw更新,首次内置QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 2026.3.31版本内置QQ Bot，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
+- **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一后台任务生命周期管理，引入task flow注册表，被阻塞任务可持久化blocked状态
+- **[OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
