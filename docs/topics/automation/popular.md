@@ -515,3 +515,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
 
+
+### 2026-04-07
+- **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow深耕多年的"流程老管家"，AI时代升级为AI Workflow
+- **[n8n-MCP Universal Protocol](https://www.mcpworld.com/en/detail/115325ad6ba6d06d9ebcea8d2272b425)** n8n工作流自动化平台与AI模型的桥梁，支持1084个节点和2709个模板
