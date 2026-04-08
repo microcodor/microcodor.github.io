@@ -539,3 +539,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999)** 以自研万语大模型为统一技术底座，构建三大AI健康产品线，营收1.73亿元同比增长10.8%
 - **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi、腾讯元宝、通义等入选
 - **[绚星发布2025年财报:加速推进AI优先转型战略](https://baijiahao.baidu.com/s?id=1861418616693111558)** AI相关业务月经常性收入指数级跃升，从传统数字学习平台转型AI驱动企业生产力引擎
+### 2026-04-09
+- **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/458208)** AI自动化流程正成为驱动业务流程智能化的核心引擎
+- **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+- **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
