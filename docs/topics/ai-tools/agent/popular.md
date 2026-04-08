@@ -26,6 +26,18 @@ description: 主流 Agent 框架与工具链一览
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
 ## 近期动态
+### 2026-04-08
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
+### 2026-04-08
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
 ### 2026-04-07
 - **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
@@ -520,13 +532,31 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年AI应用开发新范式报告](https://m.book118.com/html/2026/0314/8101134071010053.shtm)** 126页，AI Agent开发新范式深度解析
 
 ## 近期动态
+### 2026-04-08
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
 ### 2026-04-07
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
 - **[AutoGen架构全景解读:v0.4到Microsoft Agent Framework的变化](https://www.163.com/dy/article/KNETAES90531D9VR.html)** v0.4本质是AutoGen 2.0，三层架构实现完全异步化
 
 
+### 2026-04-08
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
 ### 2026-04-07
+- **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
+- **[.NET AI 生态系统重构与演进](https://blog.csdn.net/yf362hKr5/article/details/159764546)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
+### 2026-04-08
 - **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，引入"智能体元编程"技术，支持自然语言构建智能体
