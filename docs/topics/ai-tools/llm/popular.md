@@ -508,3 +508,7 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3 技术拆解:原生多模态与推理能力升级](https://m.163.com/dy/article/KPHR1MNN0556KRMN.html)** Gemini 3原生推理链架构，用户可观察模型生成答案前的"思考步骤"
 - **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT全能型私人助理，Gemini多模态创意伙伴，Claude深度思考者
 - **[“同事.skill”爆火背后:GPT、Claude、Gemini如何“炼化”你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，AI数字分身技术让离职同事被蒸馏成token继续工作
+
+### 2026-04-09
+- **[谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%](http://k.sina.com.cn/article_7879848900_1d5acf3c401902wcam.html)** 自今年3月Gemini 2.5版本发布以来，API调用量从约350亿次增至约850亿次，企业订阅用户增长至800万
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置，标志着AI辅助开发工具重大转变
