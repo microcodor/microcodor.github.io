@@ -560,3 +560,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow是深耕多年的"流程老管家"，触发-编排-执行-结束四步流程，AI Workflow让传统工作流具备智能能力
 - **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/sy5yp57zo/article/details/159830959)** Microsoft Agent Framework提供强大Workflow框架，Executor作为最小工作单元，连接边、超级步等核心概念
 - **[Microsoft Agent Framework 工作流详解](https://blog.csdn.net/dg8Ip6T9F/article/details/159921569)** MAF Workflow用于编排和协调多个智能体，WorkflowContext作为工作台，Checkpoint实现状态保存与恢复
+
+### 2026-04-10
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** 到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流，日常重复性任务处理效率提升80%以上
+- **[这家德国公司用3个AI工具,把邮件打开率干到47%](https://m.163.com/dy/article/KPPGG2JD05561FZW.html)** ProduktWahrheit用ChatGPT-5生成个性化主题行、Claude 4处理邮件情绪节奏、Make.com串起自动化链条
+- **[AI自动化办公的工具与工作流设计](https://news.sohu.com/a/1006508346_122577306)** 真正拉开效率差距的不是单个工具，而是工具组合能力、流程拆解能力，以及把AI接进日常工作的工作流设计能力
+- **[超级个体时代 一个人带一群 Agent 的工作法怎么搭建](https://blog.csdn.net/2502_91534922/article/details/159934347)** 核心工具是LLM、Agent编排框架(LangChain、AutoGen、CrewAI)、快速UI工具(Streamlit、Gradio)

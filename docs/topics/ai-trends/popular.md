@@ -560,3 +560,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[绚星发布2025年财报:加速推进AI优先转型战略](https://baijiahao.baidu.com/s?id=1861418616693111558)** AI相关业务月经常性收入指数级跃升，从传统数字学习平台转型AI驱动企业生产力引擎
 - **[GPT-6即将发布:多模态融合引领AI新潮流](https://it.sohu.com/a/1005686461_122004016)** OpenAI GPT-6将于2025年4月14日发布，性能较GPT-5.4提升40%
 - **[直击谷歌I/O 2025:谷歌AI眼镜剑指主流市场](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902w9jg)** 谷歌发布Project Starlight进化为Google Beam开启3D通讯时代，Project Marina定位智能代理"操作系统"
+
+### 2026-04-10
+- **[AI眼镜元年,狂欢背后的鸡毛](https://baijiahao.baidu.com/s?id=1861878942229967470)** 2025年成为中国AI眼镜爆发元年，百度、联想、阿里、理想、雷鸟等厂商密集发布AI眼镜产品
+- **[Sora将关停,全球AI视频赛道迎来新阶段](https://baijiahao.baidu.com/s?id=1861862929847993714)** OpenAI视频生成模型Sora将于4月14日停止服务，AI视频赛道进入新竞争格局
+- **[AI医疗周报:云知声发桌面Agent,联影大模型获国家认可](https://baijiahao.baidu.com/s?id=1861981099583200092)** 国家药监局出台"AI+药品监管"专项规划，联影元智大模型入选国家人工智能应用中试基地核心创新成果

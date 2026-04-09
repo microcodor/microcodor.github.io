@@ -533,3 +533,8 @@ description: 主流大模型能力对比与选型参考
 - **["同事.skill"爆火背后:GPT、Claude、Gemini 3.0 pro官网如何"炼化"你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，职场痛点催生"数字分身"需求，只需提供离职同事的沟通记录即可生成1:1复刻的赛博同事
 - **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Claude 4.5家族、Gemini 3系列、GPT-5系列同台竞技，顶级AI的博弈能力引入了新基准
 - **[2026年Gemini镜像 vs ChatGPT官网推理与执行对比,谁才是AI最强王者?](https://www.sohu.com/a_1006979096_122702014)** Gemini 3.1 Pro在抽象推理和科学问答上领先，ChatGPT 5.4在复杂工程和电脑操控上表现更强
+
+### 2026-04-10
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能，Opus 4.6在Terminal-Bench 2.0得分65.4%
+- **[2026 AI模型终极对决:ChatGPT、Claude、Gemini、DeepSeek谁主沉浮?](https://www.eefocus.com/article/1985507.html)** GPT-4o全能型选手但非唯一选择，Claude推理之王偏科但极致，Gemini上下文之王生态优势正在兑现
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增长至10%，重度用户日均使用139分钟

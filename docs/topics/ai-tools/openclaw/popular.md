@@ -560,3 +560,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[inSai Hilight新版本支持"养虾"调用,新增一键生成TikTok带货视频功能](https://baijiahao.baidu.com/s?id=1861809579267520019)** Hilight Skill上线，标志首次支持一键接入OpenClaw生态，营销视频生产从"人驱动工具"进化为"Agent自动调用"
 - **["OpenClaw之父点赞"终结百虾大战?一场升级版的AI原生革命上演](https://baijiahao.baidu.com/s?id=1861822659231570573)** 网易有道LobsterAI开源获Peter Steinberger公开点赞，把Agent的门槛砸碎让普通用户也能用
 - **[Anthropic封杀48小时,逼出OpenClaw最强反击!龙虾首次会生视频了](https://new.qq.com/rain/a/20260407A040TL00)** OpenClaw 2026.4.5首次支持原生视频+音乐生成，内置"梦境"记忆机制，可调用11家视频提供商
+
+### 2026-04-10
+- **[阿里千问、DeepSeek齐出手 国产大模型“升级”Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力并成为全球首个官方适配阿里千问的智能体框架
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，以自强鲲鹏服务器为物理底座，深度融合OpenClaw与沙箱技术，打造全栈国产化高性能AI Agent落地路径
+- **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](http://app.myzaker.com/news/article.php?pk=69d074fa8e9f093a8d30dc2e)** 三大互联网巨头先后入局，字节拿下官方中国镜像站基础设施赞助，腾讯推出微信ClawBot插件，阿里接入通义千问模型
