@@ -21,6 +21,14 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-09
+- **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** 开发者面临的AI选型困境与选型指南，Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT是"全能型私人助理"，Gemini是"多模态创意伙伴"，Claude擅长复杂逻辑推理，三者各有侧重
+- **["同事.skill"爆火背后:GPT、Claude、Gemini 3.0 pro官网如何"炼化"你的同事](https://www.eefocus.com/article/1983893.html)** 职场痛点催生"数字分身"需求，只需提供离职同事的沟通记录即可生成1:1复刻的赛博同事
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Claude 4.5家族、Gemini 3系列、GPT-5系列同台竞技，顶级AI的博弈能力引入了新基准
+- **[2026年Gemini镜像 vs ChatGPT官网推理与执行对比,谁才是AI最强王者?](https://www.sohu.com/a_1006979096_122702014)** Gemini 3.1 Pro在抽象推理和科学问答上领先，ChatGPT 5.4在复杂工程和电脑操控上表现更强
+
+## 近期动态
 ### 2026-04-08
 - **[2026硬核对比:Claude 4.6官网双版本解析与Gemini 3.1 Pro镜像如何选](https://www.eefocus.com/article/1980981.html)** Claude 4.6双版本策略与智能体革命，Opus追求极致性能，Sonnet以1/5价格提供接近能力
 - **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈投死Grok 4，展现顶级博弈能力

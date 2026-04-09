@@ -21,6 +21,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-09
+- **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束，AI加持后Workflow只需按固定流程执行适合规则明确的任务
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu，目标是成为"口袋里的全模态超级办公助理"
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow是"流程老管家"，Agent是"自主决策者"，两者结合实现智能自动化
+- **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/sy5yp57zo/article/details/159830959)** Microsoft Agent Framework提供Workflow框架用于编排和协调多个智能体，核心概念包括Executor、Edge、SuperStep等
+- **[AI workflow自动化:14款工具提升团队生产力](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
+
+## 近期动态
 ### 2026-04-08
 - **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu

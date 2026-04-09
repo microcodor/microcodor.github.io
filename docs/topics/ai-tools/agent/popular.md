@@ -26,6 +26,14 @@ description: 主流 Agent 框架与工具链一览
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
 ## 近期动态
+### 2026-04-09
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** AI Agent已突破聊天机器人局限，进化成能自主决策、多模态感知的智能系统，Gartner预测2026年用专业框架开发效率将飙升300%
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** OpenClaw是基于LLM的多Agent任务编排框架，通过统一调度接口整合感知、规划与执行模块，专为复杂具身智能任务场景设计
+- **[AI Agent 架构演进与工程化实践综述](https://www.bobasyu.cn/archives/ai-agent-jia-gou-yan-jin-yu-gong-cheng-hua-shi-jian-zong-shu)** 系统回顾AI Agent从2018年ReAct论文到2025年企业级框架的演进，深入分析"大脑-工具-记忆-知识"四位一体技术架构
+- **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
+- **[大模型应用开发技术栈完整指南:AI开发框架选型与实践](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w410.html)** 2026年核心技术栈解析，从基础设施层到场景应用层的五层架构，Agent化转型成为主流应用形态
+
+## 近期动态
 ### 2026-04-08
 - **[智能体技能自举开发框架:从工具使用者到工具创造者的进化之路](https://zhuanlan.zhihu.com/p/2023161333974089946)** 2025年AI Agent市场正经历爆发式增长，从51亿美元增长到2030年的471亿美元，技能自举框架让智能体能自主识别能力缺口并创造新技能
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** LangChain、AutoGen、CrewAI、Semantic Kernel等主流框架横评，Agent已突破聊天机器人局限进化成能自主决策的智能系统
