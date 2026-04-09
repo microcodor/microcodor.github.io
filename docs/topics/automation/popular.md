@@ -553,3 +553,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
+### 2026-04-09
+- **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow与AI Workflow的区别，触发-编排-执行-结束四步流程，AI赋能后具备理解意图、生成内容的能力
+- **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件，x86芯片直接跑本地Ubuntu，推理芯片可本地跑122B的MoE模型+27B稠密模型
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow是深耕多年的"流程老管家"，触发-编排-执行-结束四步流程，AI Workflow让传统工作流具备智能能力
+- **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/sy5yp57zo/article/details/159830959)** Microsoft Agent Framework提供强大Workflow框架，Executor作为最小工作单元，连接边、超级步等核心概念
+- **[Microsoft Agent Framework 工作流详解](https://blog.csdn.net/dg8Ip6T9F/article/details/159921569)** MAF Workflow用于编排和协调多个智能体，WorkflowContext作为工作台，Checkpoint实现状态保存与恢复

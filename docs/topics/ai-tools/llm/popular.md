@@ -526,3 +526,10 @@ description: 主流大模型能力对比与选型参考
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
+### 2026-04-09
+- **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** 开发者面临的AI选型困境，Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT是"全能型私人助理"，Gemini是"多模态创意伙伴"，Claude擅长复杂逻辑推理，三者各有侧重
+- **["同事.skill"爆火背后:GPT、Claude、Gemini 3.0 pro官网如何"炼化"你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，职场痛点催生"数字分身"需求，只需提供离职同事的沟通记录即可生成1:1复刻的赛博同事
+- **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Claude 4.5家族、Gemini 3系列、GPT-5系列同台竞技，顶级AI的博弈能力引入了新基准
+- **[2026年Gemini镜像 vs ChatGPT官网推理与执行对比,谁才是AI最强王者?](https://www.sohu.com/a_1006979096_122702014)** Gemini 3.1 Pro在抽象推理和科学问答上领先，ChatGPT 5.4在复杂工程和电脑操控上表现更强

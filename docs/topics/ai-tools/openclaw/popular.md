@@ -553,3 +553,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
+### 2026-04-09
+- **[强化Agent能力,为何成为国产基础大模型2026年重要发展方向?](https://baijiahao.baidu.com/s?id=1861908951213911374)** 阿里发布Qwen3.6-Plus强化智能体编程能力，DeepSeek上线专家模式，下一代OpenClaw将支持视频生成并成为首个官方适配阿里的智能体框架
+- **[OpenClaw更新,首次内置QQ官方插件](https://www.donews.com/article/detail/8234/99290.html)** QQ官方宣布原生接入OpenClaw，成为国内首个被OpenClaw官方原生支持的社交平台，AI开始进入高频社交场景
+- **[inSai Hilight新版本支持"养虾"调用,新增一键生成TikTok带货视频功能](https://baijiahao.baidu.com/s?id=1861809579267520019)** Hilight Skill上线，标志首次支持一键接入OpenClaw生态，营销视频生产从"人驱动工具"进化为"Agent自动调用"
+- **["OpenClaw之父点赞"终结百虾大战?一场升级版的AI原生革命上演](https://baijiahao.baidu.com/s?id=1861822659231570573)** 网易有道LobsterAI开源获Peter Steinberger公开点赞，把Agent的门槛砸碎让普通用户也能用
+- **[Anthropic封杀48小时,逼出OpenClaw最强反击!龙虾首次会生视频了](https://new.qq.com/rain/a/20260407A040TL00)** OpenClaw 2026.4.5首次支持原生视频+音乐生成，内置"梦境"记忆机制，可调用11家视频提供商

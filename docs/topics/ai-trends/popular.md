@@ -553,3 +553,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
+### 2026-04-09
+- **[2025年度AI 100](https://baike.baidu.com/item/2025年度AI%20100/67282831)** 量子位智库发布AI产品风向标榜单，覆盖旗舰AI 100、创新AI 100及十大热门赛道代表产品
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** DeepSeek、豆包、kimi、腾讯元宝、通义等入选，AI应用进入规模化落地阶段
+- **[绚星发布2025年财报:加速推进AI优先转型战略](https://baijiahao.baidu.com/s?id=1861418616693111558)** AI相关业务月经常性收入指数级跃升，从传统数字学习平台转型AI驱动企业生产力引擎
+- **[GPT-6即将发布:多模态融合引领AI新潮流](https://it.sohu.com/a/1005686461_122004016)** OpenAI GPT-6将于2025年4月14日发布，性能较GPT-5.4提升40%
+- **[直击谷歌I/O 2025:谷歌AI眼镜剑指主流市场](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902w9jg)** 谷歌发布Project Starlight进化为Google Beam开启3D通讯时代，Project Marina定位智能代理"操作系统"

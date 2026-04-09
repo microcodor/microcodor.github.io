@@ -585,3 +585,9 @@ description: 主流 Agent 框架与工具链一览
 - **[AI自动化工作流引擎的构建与实现方法](https://www.dtstack.com/bbs/article/435724)** 流程定义模块、任务调度模块、数据处理模块、监控与反馈模块四大核心组成
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details=159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 - **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n无代码工具可设计和自动化强大的工作流程
+
+### 2026-04-09
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** AI Agent已突破聊天机器人局限，进化成能自主决策、多模态感知的智能系统，Gartner预测2026年用专业框架开发效率将飙升300%
+- **[AI Agent 架构演进与工程化实践综述](https://www.bobasyu.cn/archives/ai-agent-jia-gou-yan-jin-yu-gong-cheng-hua-shi-jian-zong-shu)** 系统回顾AI Agent从2018年ReAct论文到2025年企业级框架的演进，深入分析"大脑-工具-记忆-知识"四位一体技术架构
+- **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
+- **[大模型应用开发技术栈完整指南:AI开发框架选型与实践](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w410.html)** 2026年核心技术栈解析，从基础设施层到场景应用层的五层架构，Agent化转型成为主流应用形态
