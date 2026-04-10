@@ -567,6 +567,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](http://app.myzaker.com/news/article.php?pk=69d074fa8e9f093a8d30dc2e)** 三大互联网巨头先后入局，字节拿下官方中国镜像站基础设施赞助，腾讯推出微信ClawBot插件，阿里接入通义千问模型
 
 ## 近期动态
+### 2026-04-11
+- **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
+- **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122.md)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
+- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://www.163.com/dy/article/KPTMRS5S0519QIKK.md)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
+
+## 近期动态
 ### 2026-04-10
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://baijiahao.baidu.com/s?id=1861798316219194109)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
 - **[OpenClaw 2026.4.5版本深度解析](https://zhuanlan.zhihu.com/p/2024533019592065790)** 内置视频生成工具video_generate，音乐生成工具music_generate，ComfyUI工作流集成

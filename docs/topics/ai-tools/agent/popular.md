@@ -26,7 +26,15 @@ description: 主流 Agent 框架与工具链一览
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
 ## 近期动态
+### 2026-04-11
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能，Opus 4.6在Terminal-Bench 2.0得分65.4%
+- **[2026年AI Agent排行榜:Claude Cowork、OpenClaw,哪个更好用](https://www.eefocus.com/article/1982955.md)** OpenClaw开源Agent生态基石，GitHub星标破30万成为全球第一开源项目
+- **[扣子(Coze)2.5版本升级:从"工具"到"伙伴"](https://www.163.com/dy/article/KPTMRS5S0519QIKK.md)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座，新增独立邮箱身份、云电脑、云手机
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，标志着AI辅助开发工具重大转变
+- **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
+
 ### 2026-04-10
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** Anthropic发布Opus 4.6与Sonnet 4.6，百万Token上下文全面免费开放，智能体团队Agent Teams功能重磅推出
 - **[AI Agent生态分层:从模型、运行时到数据基础设施](https://zhuanlan.zhihu.com/p/2025521709428611063)** 2026年Agent落地元年，AI Agent体系拆解为五层：模型层→运行时层→开发层→入口层→数据层，竞争正在快速同质化
 - **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
 - **[AI Agent 架构图解:大模型、记忆、RAG 与工具调用的协同机制](https://blog.csdn.net/gsoj4HR8p/article/details/159894344)** 微软2025年底推出Microsoft Agent Framework(MAF)，集成Semantic Kernel与AutoGen能力，.NET AI代理进入工业化生产阶段
