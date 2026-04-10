@@ -575,3 +575,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[这家德国公司用3个AI工具,把邮件打开率干到47%](https://m.163.com/dy/article/KPPGG2JD05561FZW.html)** ProduktWahrheit用ChatGPT-5生成个性化主题行、Claude 4处理邮件情绪节奏、Make.com串起自动化链条
 - **[AI自动化办公的工具与工作流设计](https://news.sohu.com/a/1006508346_122577306)** 真正拉开效率差距的不是单个工具，而是工具组合能力、流程拆解能力，以及把AI接进日常工作的工作流设计能力
 - **[超级个体时代 一个人带一群 Agent 的工作法怎么搭建](https://blog.csdn.net/2502_91534922/article/details/159934347)** 核心工具是LLM、Agent编排框架(LangChain、AutoGen、CrewAI)、快速UI工具(Streamlit、Gradio)
+
+### 2026-04-11
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
+- **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM、可视化工作流设计器
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** AI Workflow提供直观的拖放界面和核心节点，支持自定义Python/Node.js代码，实现复杂的数据操作和条件逻辑
+- **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow与AI Workflow的区别，触发-编排-执行-结束四步流程，AI赋能后具备理解意图、生成内容的能力
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个由AI Agent驱动的核心业务工作流，可将日常重复性任务的处理效率提升80%以上

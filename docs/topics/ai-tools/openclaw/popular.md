@@ -572,3 +572,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 2026.4.5版本深度解析](https://zhuanlan.zhihu.com/p/2024533019592065790)** 内置视频生成工具video_generate，音乐生成工具music_generate，ComfyUI工作流集成
 - **[OpenClaw 4.5 深度解析:从"梦境"记忆到多模态生产](https://zhuanlan.zhihu.com/p/2024995233302160068)** Dreaming记忆机制增强，模拟人类睡眠三阶段
 - **[OpenClaw 4.5 升级:龙虾之父回应封杀](https://www.sohu.com/a/1006758468_122362510)** 音视频生成与梦境记忆系统，12种语言ControlUI
+
+### 2026-04-11
+- **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
+- **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
+- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://www.163.com/dy/article/KPTMRS5S0519QIKK.html)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座，新增独立邮箱身份、云电脑、云手机

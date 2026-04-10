@@ -605,3 +605,10 @@ description: 主流 Agent 框架与工具链一览
 - **[LLM - 从 MCP 到 Skills:2025 年 AI Agent 的工程实践全景解析](https://blog.51cto.com/u_15239532/14538558)** MCP让Agent真正"有手有脚"，Skills从"工具列表"演进到"可执行经验"，四大上下文策略成为Agent成败分水岭
 - **[AI Agent 时代工程范式革命全解](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，OpenClaw让AI能真正操控电脑、调用API、执行多步任务
 - **[2026年AI Agent厂商全景指南:从技术选型到价值落地](http://k.sina.com.cn/article_7857201856_1d45362c001903v9wq.html)** 阿里云百炼、腾讯云智能体开发平台3.0、百度文心智能体平台AgentBuilder全景对比
+
+### 2026-04-11
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重，Karpathy的AutoResearch可在630行代码内实现自主实验循环
+- **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
+- **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
+- **[别再卷大模型微调了!2026必学OpenClaw AI Agent](https://blog.csdn.net/2601_94871597/article/details/159938777)** OpenClaw采用本地优先架构保证数据安全，极致轻量化10分钟可跑通
+- **[AI Agent 时代工程范式革命全解](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，harness-engineering指人类工程师从亲手写代码转变为为AI智能体设计工具、规则和反馈环境
