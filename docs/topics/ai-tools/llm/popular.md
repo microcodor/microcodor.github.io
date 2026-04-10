@@ -538,3 +538,4 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** 百万Token上下文全面免费开放、多模态处理能力提升六倍、革命性"智能体团队"功能，Opus 4.6在Terminal-Bench 2.0得分65.4%
 - **[2026 AI模型终极对决:ChatGPT、Claude、Gemini、DeepSeek谁主沉浮?](https://www.eefocus.com/article/1985507.html)** GPT-4o全能型选手但非唯一选择，Claude推理之王偏科但极致，Gemini上下文之王生态优势正在兑现
 - **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增长至10%，重度用户日均使用139分钟
+- **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
