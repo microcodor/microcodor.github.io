@@ -565,3 +565,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[阿里千问、DeepSeek齐出手 国产大模型“升级”Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力并成为全球首个官方适配阿里千问的智能体框架
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，以自强鲲鹏服务器为物理底座，深度融合OpenClaw与沙箱技术，打造全栈国产化高性能AI Agent落地路径
 - **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](http://app.myzaker.com/news/article.php?pk=69d074fa8e9f093a8d30dc2e)** 三大互联网巨头先后入局，字节拿下官方中国镜像站基础设施赞助，腾讯推出微信ClawBot插件，阿里接入通义千问模型
+
+## 近期动态
+### 2026-04-10
+- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://baijiahao.baidu.com/s?id=1861798316219194109)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
+- **[OpenClaw 2026.4.5版本深度解析](https://zhuanlan.zhihu.com/p/2024533019592065790)** 内置视频生成工具video_generate，音乐生成工具music_generate，ComfyUI工作流集成
+- **[OpenClaw 4.5 深度解析:从"梦境"记忆到多模态生产](https://zhuanlan.zhihu.com/p/2024995233302160068)** Dreaming记忆机制增强，模拟人类睡眠三阶段
+- **[OpenClaw 4.5 升级:龙虾之父回应封杀](https://www.sohu.com/a/1006758468_122362510)** 音视频生成与梦境记忆系统，12种语言ControlUI

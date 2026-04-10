@@ -21,6 +21,14 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-10
+- **[2026年AI模型大战升级:Claude 4.6官网双版本发布](http://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** Anthropic发布Opus 4.6与Sonnet 4.6，百万Token上下文全面免费开放，智能体团队Agent Teams功能重磅推出
+- **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT是全能型私人助理，Gemini是多模态创意伙伴，Claude擅长复杂逻辑推理
+- **[2026 AI模型终极对决:ChatGPT、Claude、Gemini、DeepSeek谁主沉浮?](https://www.eefocus.com/article/1985507.html)** GPT-4o全能但不再是唯一选择，Claude是推理之王偏科但极致，Gemini是上下文之王
+- **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT市场份额连续四个月下滑，Claude增长至10%，重度用户每天使用139分钟
+
+## 近期动态
 ### 2026-04-09
 - **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** 开发者面临的AI选型困境与选型指南，Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 - **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT是"全能型私人助理"，Gemini是"多模态创意伙伴"，Claude擅长复杂逻辑推理，三者各有侧重

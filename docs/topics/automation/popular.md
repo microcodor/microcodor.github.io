@@ -21,6 +21,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-10
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源工作流自动化工具，39个集成，拖拽式设计器
+- **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** 70%的大中型企业将部署AI Agent驱动的核心业务工作流，效率提升80%
+- **[这家德国公司用3个AI工具,把邮件打开率干到47%](https://m.161.com/dy/article/KPPGG2JD05561FZW.html)** 用ChatGPT-5生成个性化主题行，Claude 4处理邮件正文情绪节奏，Make.com串起自动化链条
+- **[普通人如何用AI工作流实现"睡后效率"](https://post.smzdm.com/p/avg8kzz9/))** AI工作流本质是复杂任务拆解为自动执行步骤的"菜谱"，四大核心应用场景
+- **[超级个体时代 一个人带一群 Agent 的工作法怎么搭建](https://blog.csdn.net/2502_91534922/article/details/159934347)** 核心工具是LLM、Agent编排框架(LangChain、AutoGen、CrewAI)、快速UI工具(Streamlit)
+
+## 近期动态
 ### 2026-04-09
 - **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束，AI加持后Workflow只需按固定流程执行适合规则明确的任务
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu，目标是成为"口袋里的全模态超级办公助理"
