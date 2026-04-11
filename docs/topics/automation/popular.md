@@ -595,3 +595,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** AI Workflow提供直观的拖放界面和核心节点，支持自定义Python/Node.js代码，实现复杂的数据操作和条件逻辑
 - **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow与AI Workflow的区别，触发-编排-执行-结束四步流程，AI赋能后具备理解意图、生成内容的能力
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个由AI Agent驱动的核心业务工作流，可将日常重复性任务的处理效率提升80%以上
+
+### 2026-04-11
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
+- **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM、可视化工作流设计器
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** AI Workflow提供直观的拖放界面和核心节点，支持自定义Python/Node.js代码，实现复杂的数据操作和条件逻辑
+- **[美股一夜蒸发2万亿!AI"降维打击"杀疯了,普通企业拿什么保命?](https://baijiahao.baidu.com/s?id=1862148246767591815)** AI Agent可自动拨打电话、记录客户痛点、分析情绪、自动发跟进微信，10个AI加几个人类主管可完成原来100个销售的活
+- **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/JF41pEIYx/article/details/159859701)** Microsoft Agent Framework提供强大Workflow框架，Executor作为最小工作单元

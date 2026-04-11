@@ -592,3 +592,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
 - **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://www.163.com/dy/article/KPTMRS5S0519QIKK.html)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座，新增独立邮箱身份、云电脑、云手机
+
+### 2026-04-11
+- **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大核心能力
+- **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
+- **[换掉小龙虾!Hermes全网爆火狂揽四万星](https://baijiahao.baidu.com/s?id=1862094360548454235)** Nous Research推出的开源智能体，GitHub星标破4万，六大核心特性：与你同在、越用越强、定时自动化、委派与并行、沙盒隔离、全网页与浏览器控制
+- **[OpenClaw更新,首次内置QQ官方插件](https://www.donews.com/article/detail/8234/99290.html)** QQ官方宣布原生接入OpenClaw，成为国内首个被OpenClaw官方原生支持的社交平台
+- **[OpenClaw 2026.4.5版本深度解析:AI Agent从"对话工具"向"创作引擎"的跃迁](https://zhuanlan.zhihu.com/p/2024533019592065790)** 内置视频生成工具video_generate，音乐生成工具music_generate，ComfyUI工作流集成，梦境记忆系统MemoryConsolidationSystem
