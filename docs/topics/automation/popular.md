@@ -24,6 +24,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ### 2026-04-11
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
+
+## 近期动态
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
+- **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250.md)** Gartner预测到2027年70%的大中型企业将部署AI Agent驱动的核心业务工作流，日常重复性任务处理效率提升80%以上
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
