@@ -21,6 +21,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-12
+- **[谷歌Gemini再升级:输入提示词即可生成交互式3D模型](https://www.163.com/dy/article/KQ7U3KAJ0514R9OJ.html)** 用户可通过Gemini生成交互式3D模型和实时模拟,支持旋转模型、拖动滑块调整参数等互动操作
+- **[2026年Gemini、ChatGPT、Claude多模型协同的算力成本账](https://blog.csdn.net/which_which/article/details/160055616)** 主流模型定价差异显著,聚合网关方案在统一计费和成本归因方面的工程价值逐渐受到关注
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元,成为AI开发者工具市场焦点
 ### 2026-04-11
 - **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 - **[2026年AI模型大战升级:Claude 4.6官网双版本发布](https://k.sina.com.cn/article_7857201856_1d45362c00190442e8.html)** Anthropic发布Opus 4.6与Sonnet 4.6，百万Token上下文全面免费开放，智能体团队Agent Teams功能重磅推出

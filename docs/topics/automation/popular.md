@@ -21,6 +21,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-12
+- **[美股一夜蒸发2万亿!AI"降维打击"杀疯了](https://baijiahao.baidu.com/s?id=1862148246767591815)** 10个AI数字员工可自动拨打电话、记录客户痛点、分析情绪、自动发跟进微信,效率大幅提升
+- **[AI原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI工具将承担大部分工程工作,人类只需要"观测"与"控制",迎来"人人都是架构师"时代
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟:描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具,工作流是markdown文件,支持39种集成、工具调用、本地LLM
 ### 2026-04-11
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM

@@ -23,6 +23,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-12
+- **[走出ICU的"AI三小龙",究竟做对了什么?](https://baijiahao.baidu.com/s?id=1862144282491548099)** OpenClaw支持多模型自动/手动切换,从Claude单点依赖转向"模型池"架构,不再锁定单一供应商
+- **[Anthropic封号OpenClaw之父!复刻、改价、拉黑,24天三连杀](https://baijiahao.baidu.com/s?id=1862171351692618686)** Anthropic封禁OpenClaw创始人账户,Steinberger被OpenAI挖走,项目移交给独立开源基金会
+- **[管住龙虾OpenClaw的腿!网易智企发布企业AI Agent管理平台帝王蟹ClawHive](https://app.myzaker.com/news/article.php?pk=69d9b1b8b15ec02542312be9)** 网易智企发布ClawHive四层纵深安全防御体系,解决开源技能包缺乏安全审查的企业级痛点
+- **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制首次被组织进"长期运行的Agent系统",记忆从"存储"变成"认知"
+- **[从Agent浪潮到组织变革,腾讯云共探OpenClaw时代的安全边界与企业进化](https://www.163.com/news/article/KQ81DOKA00019UD6.html)** 腾讯云携手业界专家探讨企业AI Agent的安全边界和组织变革路径
 ### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大核心能力
 - **[从"摸黑探索"到"撞开大门",OpenClaw引爆的产业技术路线演变](https://baijiahao.baidu.com/s?id=1861879225108328175)** 蚂蚁AI安全实验室、天融信、360一周内密集披露数十个安全漏洞，微信推出ClawBot插件，百度App全面接入OpenClaw

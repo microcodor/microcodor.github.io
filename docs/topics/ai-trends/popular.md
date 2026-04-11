@@ -36,6 +36,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 
 ## 近期动态
+### 2026-04-12
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元,成为AI开发者工具市场焦点
+- **[华为AI眼镜或于4月发布](https://www.donews.com/news/detail/4/6507840.html)** 华为终端BG CEO何刚发布"敬请期待"预告,AI眼镜产业链加速落地
+- **[2025年国内消费级AI/AR销量大增109%](http://m.shanxi.xiaohuatour.com/minban/blog/7313_1406.shtml)** 2025年国内消费级AI/AR市场全年销量达69.6万台,同比激增109%,雷鸟领跑
+- **[五部门联合印发"人工智能+教育"行动计划](https://baijiahao.baidu.com/s?id=1862166661702763982)** 教育部等五部门联合印发《"人工智能+教育"行动计划》,系统推进AI教育应用
+- **[兆威机电拟投8亿元建灵巧手产业园](https://new.qq.com/rain/a/20260411A02MCJ00)** 柏楚电子2025年营收21.96亿元同比增长26.52%,配天机器人Q1获约3000万元订单
 ### 2026-04-11
 - **[国内AI芯片市场大洗牌,华为等开始全面反攻了](https://baijiahao.baidu.com/s?id=1862048655709652507)** IDC报告：英伟达市场份额从95%跌至55%，华为占据20%份额，中国AI芯片市场迎来洗牌
 - **[2026年Q1【全球AI产品价值榜】重磅发布](https://new.qq.com/rain/a/20260410A05Q7B00)** Agent从"对话窗"变成"数字员工"，OpenClaw GitHub Star超越Linux登顶历史第一

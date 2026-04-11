@@ -22,6 +22,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-12
+- **[押注B.AI,AI Agent时代的底层能力竞赛开始了](https://baijiahao.baidu.com/s?id=1862167757697363499)** Gartner预计到2028年至少15%的日常工作决策将由Agentic AI自主完成,B.AI要做AI Agent时代的金融底层基础设施
+- **[为什么AI Agent需要多模态能力:视觉语音文本融合的架构设计原理](https://gitcode.csdn.net/69da47520a2f6a37c59edbc0.html)** 广义通用型多模态AI Agent能自主融合处理多种跨模态输入,自主生成跨领域/动态多步骤/闭环反馈式的逻辑推理链
+- **[人工智慧體産業風口已至](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902wmby)** 业界认为Agentic AI时代即将到来,2025年有望成为AI Agent的商业化应用元年
+- **[禾盛新材加码布局熠知电子 卡位AI Agent新时代](https://baijiahao.baidu.com/s?id=1862149999281147082)** 禾盛新材2.33亿元增资熠知电子,布局国产高端服务器处理器芯片,卡位AI Agent新时代
+- **[淘宝闪购用AI,让中小餐饮老板的生意真正智能化](https://baijiahao.baidu.com/s?id=1862133303083001290)** 淘宝闪购上线AI店铺助手语音搜索能力,实现"一说即办"的极简交互操作闭环
 ### 2026-04-04
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
