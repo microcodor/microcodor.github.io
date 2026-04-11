@@ -23,7 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
-### 2026-04-09
+### 2026-04-11
+- **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大核心能力
+- **[从"摸黑探索"到"撞开大门",OpenClaw引爆的产业技术路线演变](https://baijiahao.baidu.com/s?id=1861879225108328175)** 蚂蚁AI安全实验室、天融信、360一周内密集披露数十个安全漏洞，微信推出ClawBot插件，百度App全面接入OpenClaw
+- **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes GitHub Star超35k，OpenRouter日使用量刷新新高，开发者开始讨论是否能成为下一个OpenClaw
+- **[换掉小龙虾!Hermes全网爆火狂揽四万星,Anthropic暴击OpenClaw](https://baijiahao.baidu.com/s?id=1862094360548454235)** Nous Research推出的开源智能体具有六大核心特性，与你同在、越用越强、定时自动化、委派与并行、沙盒隔离
 - **[强化Agent能力,，为何成为国产基础大模型2026年重要发展方向?](https://baijiahao.baidu.com/s?id=1861908951213911374)** 阿里发布Qwen3.6-Plus强化智能体编程能力，DeepSeek上线专家模式，下一代OpenClaw将支持视频生成并成为首个官方适配阿里的智能体框架
 - **[OpenClaw更新,首次内置QQ官方插件](https://www.donews.com/article/detail/8234/99290.html)** QQ官方宣布原生接入OpenClaw，成为国内首个被OpenClaw官方原生支持的社交平台，AI开始进入高频社交场景
 - **[inSai Hilight新版本支持"养虾"调用,新增一键生成TikTok带货视频功能](https://baijiahao.baidu.com/s?id=1861809579267520019)** Hilight Skill上线，标志首次支持一键接入OpenClaw生态，营销视频生产从"人驱动工具"进化为"Agent自动调用"
