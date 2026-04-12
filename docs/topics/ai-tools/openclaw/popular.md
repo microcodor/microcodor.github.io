@@ -29,6 +29,14 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[管住龙虾OpenClaw的腿!网易智企发布企业AI Agent管理平台帝王蟹ClawHive](https://app.myzaker.com/news/article.php?pk=69d9b1b8b15ec02542312be9)** 网易智企发布ClawHive四层纵深安全防御体系,解决开源技能包缺乏安全审查的企业级痛点
 - **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制首次被组织进"长期运行的Agent系统",记忆从"存储"变成"认知"
 - **[从Agent浪潮到组织变革,腾讯云共探OpenClaw时代的安全边界与企业进化](https://www.163.com/news/article/KQ81DOKA00019UD6.html)** 腾讯云携手业界专家探讨企业AI Agent的安全边界和组织变革路径
+
+## 近期动态
+### 2026-04-13
+- **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus,DeepSeek上线专家模式,2026年AI主战场已全面转向智能体
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布,为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径
+- **[OpenClaw v2026.4.9更新内容介绍](https://blog.csdn.net/m0_66434421/article/details=159998773)** Memory和Dreaming系统重大改进,Control UI多语言支持,ClawHub技能市场内置
+- **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制让记忆从"存储"变成"认知",AI不再是一次请求而是持续存在的执行体
+- **[OpenClaw 4.5 升级:龙虾之父回应封杀,AI Agent 迎来音视频生成与梦境记忆](https://it.sohu.com/a/1006758468_122362510)** 首次内置视频/音乐生成能力,梦境记忆系统模拟人类睡眠强化记忆
 ### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大核心能力
 - **[从"摸黑探索"到"撞开大门",OpenClaw引爆的产业技术路线演变](https://baijiahao.baidu.com/s?id=1861879225108328175)** 蚂蚁AI安全实验室、天融信、360一周内密集披露数十个安全漏洞，微信推出ClawBot插件，百度App全面接入OpenClaw

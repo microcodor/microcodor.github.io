@@ -636,6 +636,14 @@ description: 主流 Agent 框架与工具链一览
 - **[别再卷大模型微调了!2026必学OpenClaw AI Agent](https://blog.csdn.net/2601_94871597/article/details/159938777)** OpenClaw采用本地优先架构保证数据安全，极致轻量化10分钟可跑通
 - **[AI Agent 时代工程范式革命全解](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，harness-engineering指人类工程师从亲手写代码转变为为AI智能体设计工具、规则和反馈环境
 
+## 近期动态
+### 2026-04-13
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软官方Agent框架，2026年2月发布RC版本，3月引入Agent Skills功能
+- **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
+- **[2025年AI Agent技术全景:从工具到生态的深度解析](http://www.ruibaoantu.com/article/detail.html?id=6405430)** 企业级市场年复合增长率超110%，全球规模突破500亿美元
+- **[从沙盒到商用:NEXTBank 的 NEXTRouter、NEXTShot、NEXTClaw 正式开放](https://baijiahao.baidu.com/s?id=1862279188652074765)** 5个月沙盒测试累计完成300万次API调用、生成5000部短剧脚本
+
 ### 2026-04-11
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重，Karpathy的AutoResearch可在630行代码内实现自主实验循环
 - **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等

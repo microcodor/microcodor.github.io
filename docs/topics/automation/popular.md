@@ -26,6 +26,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI工具将承担大部分工程工作,人类只需要"观测"与"控制",迎来"人人都是架构师"时代
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟:描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具,工作流是markdown文件,支持39种集成、工具调用、本地LLM
+
+## 近期动态
+### 2026-04-13
+- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具,通过Markdown文件定义工作流,支持多个AI agent和39种集成服务
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具,支持多步骤逻辑生成可预测输出,拖放界面设计
+- **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details=159915448)** AI Workflow把控全程节奏,大模型承担理解与生成工作,效率大幅提升
+- **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/DA1cGPEQ2/article/details=159963415)** Microsoft Agent Framework提供Workflow框架,编排协调多个智能体或处理组件的执行流程
+- **[AI automation workflow 工具](https://blog.csdn.net/dg8Ip6T9F/article/details=159921569)** MAF Workflow核心概念:Executor执行器、Edge连接边、SuperStep超步、WorkflowContext工作流上下文
 ### 2026-04-11
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
