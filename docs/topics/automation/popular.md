@@ -619,3 +619,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** AI Workflow提供直观的拖放界面和核心节点，支持自定义Python/Node.js代码，实现复杂的数据操作和条件逻辑
 - **[美股一夜蒸发2万亿!AI"降维打击"杀疯了,普通企业拿什么保命?](https://baijiahao.baidu.com/s?id=1862148246767591815)** AI Agent可自动拨打电话、记录客户痛点、分析情绪、自动发跟进微信，10个AI加几个人类主管可完成原来100个销售的活
 - **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/JF41pEIYx/article/details/159859701)** Microsoft Agent Framework提供强大Workflow框架，Executor作为最小工作单元
+
+### 2026-04-14
+- **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](https://finance.sina.cn/2026-04-13/detail-inhukqut9515208.d.html)** AI编程过程像"黑盒"，难以观测与控制，需要从"人写代码"转变为"人设计AI工作的框架"
+- **[Archon深度解析:AI编程的Harness工程革命](http://chenxutan.com/d/1657.html)** 首个开源AI编程Harness构建器，让AI编程变得确定化、可重复、工业化，定位为"AI编程的Dockerfile"
+- **[我们拆解了50个AI应用:Agentic Workflow是唯一分水岭](https://blog.csdn.net/2501_91473495/article/details/160122773)** Agentic Workflow是当前AI应用领域唯一真正分水岭，成功AI应用几乎都采用其设计理念
+- **[全世界消耗Token最多的人](http://finance.sina.com.cn/tech/roll/2026-04-13/doc-inhukkny4705735.shtml)** 韩国Sigrid Jin一年烧掉250亿Token，成为"全世界消耗Token最多的人"，研究AI Harness方向
+- **[明略科技吴明辉:企业级Agent的精度陷阱与人机协同重构之路](https://finance.sina.cn/2026-04-13/detail-inhukefa4734652.d.html)** 99%单步准确率在100步任务链路中可靠性会急剧崩塌，需要通过Human-in-the-Loop嵌入人类经验判断
+- **[OpenClaw、Claude Code、Cursor:三个AI编程助手怎么选?](https://zhuanlan.zhihu.com/p/2026970852017611688)** Cursor适合 pair programmer，Claude Code适合代码库级别理解，OpenClaw适合从需求到交付全链路

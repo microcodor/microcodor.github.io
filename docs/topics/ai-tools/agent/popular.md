@@ -662,3 +662,11 @@ description: 主流 Agent 框架与工具链一览
 - **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
 - **[别再卷大模型微调了!2026必学OpenClaw AI Agent,从入门到自动化落地全实战](https://blog.csdn.net/2601_94871597/article/details/159938777)** OpenClaw采用本地优先架构保证数据安全，极致轻量化10分钟可跑通
 - **[AI Agent 时代工程范式革命全解,Harness Engineering 从入门到精通](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，harness-engineering指人类工程师从亲手写代码转变为为AI智能体设计工具、规则和反馈环境
+
+### 2026-04-14
+- **[AIAgent金融交易应用仅剩最后18个月窗口期](https://blog.csdn.net/QuickProceed/article/details/160113839)** SITS2026政策倒计时，头部机构已启动Agent替代率KPI考核，美国SEC、欧盟MiFID III、中国证监会均出台AI驱动交易系统合规框架
+- **[Anthropic的杀手锏:Claude Code之父](https://baijiahao.baidu.com/s?id=1862359748457574321)** 切尔尼分享Claude Code从冷启动到起飞的过程，2025年5月Anthropic开发者大会后代码生成比例从10%提升到30%
+- **[人人都能写应用的时代,鸿蒙让好点子「被看见」](https://tech.ifeng.com/c/8sIM5kjBQ0n)** 小红书黑客松巅峰赛，OpenClaw开发者王宇用两个月做了200个高质量鸿蒙智能体，"喂!星"项目拿下特别单元奖
+- **[小白程序员必看:智能体学习指南,轻松入门大模型时代](https://blog.csdn.net/F18175138365/article/details/160117136)** 2025-2026年AI行业从Chatbot向Agent转变，Gartner预测2028年33%企业软件将集成智能体
+- **[鸿蒙创新实战时刻:四大特性重构应用体验](https://blog.csdn.net/csdnnews/article/details/160119497)** 鸿蒙四大核心特性：全场景一体协同、AI智能化体验、3D空间化、安全隐私保护，HMAF智能体框架支撑多模态交互
+- **[告别本地部署:ToClaw云端龙虾实现7×24小时主动干活](http://news.10jqka.com.cn/20260413/c675951976.shtml)** ToClaw云端龙虾可跨设备控制电脑，文件管理、程序启动、脚本运行等主动执行能力

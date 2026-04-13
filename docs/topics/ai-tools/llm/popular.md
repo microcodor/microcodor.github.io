@@ -597,3 +597,10 @@ description: 主流大模型能力对比与选型参考
 - **[GPT 刚更新,Claude和 Gemini也在卷——2026年开发者到底该选哪个大模型?](https://www.eefocus.com/article/1986453.html)** 2026年不存在"最强模型"，只有"最合适的模型"，按任务类型选择才是正确姿势
 - **[2026 AI模型终极对决:ChatGPT、Claude、Gemini、DeepSeek谁主沉浮?](https://www.eefocus.com/article/1985507.html)** GPT-4o全能型选手但非唯一选择，Claude推理之王偏科但极致，Gemini上下文之王生态优势正在兑现
 - **["同事.skill"爆火背后:GPT、Claude、Gemini 3.0 pro官网如何"炼化"你的同事](https://www.eefocus.com/article/1983893.html)** 5天7.3k星标，职场痛点催生"数字分身"需求，只需提供离职同事的沟通记录即可生成1:1复刻的赛博同事
+
+### 2026-04-14
+- **[2026年国内实测:GPT vs Claude vs Gemini哪个更强?附镜像站教程](https://post.smzdm.com/p/a82k7wnl/)** GPT-4在中文复杂推理和创意写作上略胜一筹，Claude 3在长文档理解和多图分析上有独特优势，Gemini 1.5 Pro支持百万级token上下文
+- **[AI 大模型对比:Gemini vs ChatGPT vs Claude Code](https://www.eefocus.com/article/1988811.html)** ChatGPT是用户量最大的通用AI对话产品，Claude Code是终端级AI编程助手，Gemini背靠搜索引擎和安卓生态
+- **[2026年四大AI模型横向评测:Gemini、GPT、Claude、Grok谁更适合你?](https://blog.csdn.net/2601_95813219/article/details/160114379)** Gemini 3 Pro多模态能力强，GPT-4o全面均衡，Claude 3.5严谨安全，Grok-2幽默实时
+- **[AI预测英超联赛结果能力如何?Claude Opus 4.6表现最佳,Grok垫底](https://www.163.com/dy/article/KQD6NHR80511B8LM.html)** Claude Opus 4.6三次测试平均亏损11.0%，GPT-5.4亏损13.6%，Gemini波动大，Grok直接亏光
+- **[Anthropic惹众怒:145万账号"祭天",开发者被迫多线作战?](https://m.thepaper.cn/newsDetail_forward_32956048)** Anthropic在2025年7月到12月封禁145万个账号，开发者社区不满其风控不透明
