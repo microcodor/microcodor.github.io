@@ -627,3 +627,5 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全世界消耗Token最多的人](http://finance.sina.com.cn/tech/roll/2026-04-13/doc-inhukkny4705735.shtml)** 韩国Sigrid Jin一年烧掉250亿Token，成为"全世界消耗Token最多的人"，研究AI Harness方向
 - **[明略科技吴明辉:企业级Agent的精度陷阱与人机协同重构之路](https://finance.sina.cn/2026-04-13/detail-inhukefa4734652.d.html)** 99%单步准确率在100步任务链路中可靠性会急剧崩塌，需要通过Human-in-the-Loop嵌入人类经验判断
 - **[OpenClaw、Claude Code、Cursor:三个AI编程助手怎么选?](https://zhuanlan.zhihu.com/p/2026970852017611688)** Cursor适合 pair programmer，Claude Code适合代码库级别理解，OpenClaw适合从需求到交付全链路
+- **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM

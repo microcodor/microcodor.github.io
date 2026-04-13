@@ -604,3 +604,6 @@ description: 主流大模型能力对比与选型参考
 - **[2026年四大AI模型横向评测:Gemini、GPT、Claude、Grok谁更适合你?](https://blog.csdn.net/2601_95813219/article/details/160114379)** Gemini 3 Pro多模态能力强，GPT-4o全面均衡，Claude 3.5严谨安全，Grok-2幽默实时
 - **[AI预测英超联赛结果能力如何?Claude Opus 4.6表现最佳,Grok垫底](https://www.163.com/dy/article/KQD6NHR80511B8LM.html)** Claude Opus 4.6三次测试平均亏损11.0%，GPT-5.4亏损13.6%，Gemini波动大，Grok直接亏光
 - **[Anthropic惹众怒:145万账号"祭天",开发者被迫多线作战?](https://m.thepaper.cn/newsDetail_forward_32956048)** Anthropic在2025年7月到12月封禁145万个账号，开发者社区不满其风控不透明
+- **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://m.163.com/dy/article/KQASPFOU05566YK3.html)** Claude死磕文本密集的制药环节，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接签下近30亿美元协议
+- **[Gemini被诉"教唆自杀"后,谷歌掏出3000万美元改界面](https://www.163.com/dy/article/KPUCH39B05561FZH.html)** 谷歌Gemini用户危机干预系统完成静默改版，从"多步跳转"到"一键触达"
+- **[2025年主流大模型全景对比:Grok、Claude、ChatGPT与Gemini的战场](https://www.cnblogs.com/gccbuaa/p/19264126)** Gemini原生多模态幻觉率降35%，Claude Opus 4.5专注安全与伦理，GPT-5.2分三版本应对不同场景

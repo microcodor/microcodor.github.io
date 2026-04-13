@@ -664,9 +664,8 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent 时代工程范式革命全解,Harness Engineering 从入门到精通](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，harness-engineering指人类工程师从亲手写代码转变为为AI智能体设计工具、规则和反馈环境
 
 ### 2026-04-14
-- **[AIAgent金融交易应用仅剩最后18个月窗口期](https://blog.csdn.net/QuickProceed/article/details/160113839)** SITS2026政策倒计时，头部机构已启动Agent替代率KPI考核，美国SEC、欧盟MiFID III、中国证监会均出台AI驱动交易系统合规框架
-- **[Anthropic的杀手锏:Claude Code之父](https://baijiahao.baidu.com/s?id=1862359748457574321)** 切尔尼分享Claude Code从冷启动到起飞的过程，2025年5月Anthropic开发者大会后代码生成比例从10%提升到30%
-- **[人人都能写应用的时代,鸿蒙让好点子「被看见」](https://tech.ifeng.com/c/8sIM5kjBQ0n)** 小红书黑客松巅峰赛，OpenClaw开发者王宇用两个月做了200个高质量鸿蒙智能体，"喂!星"项目拿下特别单元奖
-- **[小白程序员必看:智能体学习指南,轻松入门大模型时代](https://blog.csdn.net/F18175138365/article/details/160117136)** 2025-2026年AI行业从Chatbot向Agent转变，Gartner预测2028年33%企业软件将集成智能体
-- **[鸿蒙创新实战时刻:四大特性重构应用体验](https://blog.csdn.net/csdnnews/article/details/160119497)** 鸿蒙四大核心特性：全场景一体协同、AI智能化体验、3D空间化、安全隐私保护，HMAF智能体框架支撑多模态交互
-- **[告别本地部署:ToClaw云端龙虾实现7×24小时主动干活](http://news.10jqka.com.cn/20260413/c675951976.shtml)** ToClaw云端龙虾可跨设备控制电脑，文件管理、程序启动、脚本运行等主动执行能力
+- **[AIAgent金融交易应用仅剩最后18个月窗口期](https://blog.csdn.net/QuickProceed/article/details/160113839)** SITS2026政策倒计时，头部机构已启动Agent替代率KPI考核
+- **[Anthropic的杀手锏:Claude Code之父](https://baijiahao.baidu.com/s?id=1862359748457574321)** 切尔尼分享Claude Code从冷启动到起飞的过程，代码生成比例从10%提升到30%
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 2025年AI从单点突破向系统重构深刻质变，多模态技术走向成熟
+- **[AI Agent开发路线图2025:从入门到精通](http://zhuanlan.zhihu.com/p/1985379253525697644)** 核心开发层次全解析，2025年趋势：本地化部署、多模态融合、专业化发展
+- **[《AI Agent智能体技术发展报告》正式发布](https://www.163.com/dy/article/KJKMOSIV055240KW.html)** AI Agent从自动化到自主智能的再定义，核心能力包括感知、大脑、行动、记忆四大模块
