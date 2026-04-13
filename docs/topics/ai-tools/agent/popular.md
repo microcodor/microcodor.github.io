@@ -22,6 +22,11 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-13
+- **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus强化智能体编程能力，DeepSeek上线专家模式，2026年AI主战场已全面转向智能体
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布,为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+
 ### 2026-04-12
 - **[押注B.AI,AI Agent时代的底层能力竞赛开始了](https://baijiahao.baidu.com/s?id=1862167757697363499)** Gartner预计到2028年至少15%的日常工作决策将由Agentic AI自主完成,B.AI要做AI Agent时代的金融底层基础设施
 - **[为什么AI Agent需要多模态能力:视觉语音文本融合的架构设计原理](https://gitcode.csdn.net/69da47520a2f6a37c59edbc0.html)** 广义通用型多模态AI Agent能自主融合处理多种跨模态输入,自主生成跨领域/动态多步骤/闭环反馈式的逻辑推理链

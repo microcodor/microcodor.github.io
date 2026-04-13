@@ -21,6 +21,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-13
+- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具,通过Markdown文件定义工作流,支持多个AI agent和39种集成服务
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具,支持多步骤逻辑生成可预测输出,拖放界面设计
+
 ### 2026-04-12
 - **[美股一夜蒸发2万亿!AI"降维打击"杀疯了](https://baijiahao.baidu.com/s?id=1862148246767591815)** 10个AI数字员工可自动拨打电话、记录客户痛点、分析情绪、自动发跟进微信,效率大幅提升
 - **[AI原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI工具将承担大部分工程工作,人类只需要"观测"与"控制",迎来"人人都是架构师"时代

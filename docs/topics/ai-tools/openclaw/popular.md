@@ -23,6 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-13
+- **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus,DeepSeek上线专家模式,2026年AI主战场已全面转向智能体
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布,为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径
+- **[OpenClaw v2026.4.9更新内容介绍](https://blog.csdn.net/m0_66434421/article/details=159998773)** Memory和Dreaming系统重大改进,Control UI多语言支持,ClawHub技能市场内置
+
 ### 2026-04-12
 - **[走出ICU的"AI三小龙",究竟做对了什么?](https://baijiahao.baidu.com/s?id=1862144282491548099)** OpenClaw支持多模型自动/手动切换,从Claude单点依赖转向"模型池"架构,不再锁定单一供应商
 - **[Anthropic封号OpenClaw之父!复刻、改价、拉黑,24天三连杀](https://baijiahao.baidu.com/s?id=1862171351692618686)** Anthropic封禁OpenClaw创始人账户,Steinberger被OpenAI挖走,项目移交给独立开源基金会
