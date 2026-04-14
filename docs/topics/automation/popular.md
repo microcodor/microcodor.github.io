@@ -47,6 +47,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具,工作流是markdown文件,支持39种集成、工具调用、本地LLM
 
 ## 近期动态
+### 2026-04-15
+- **[美股一夜蒸发2万亿!AI"降维打击"杀疯了,普通企业拿什么保命?](https://baijiahao.baidu.com/s?id=1862148246767591815)** AI Agent工具可自动拨打电话、记录客户痛点、分析情绪、发送跟进微信，10个AI加几个主管可完成原来100个销售的活
+- **[AI 原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html?id)** 描述-执行鸿沟、物理世界与常识推理的断层、边缘场景的算力-精度悖论是三大技术适配极限
+
 ### 2026-04-13
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具,通过Markdown文件定义工作流,支持多个AI agent和39种集成服务
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具,支持多步骤逻辑生成可预测输出,拖放界面设计
