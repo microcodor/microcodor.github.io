@@ -607,3 +607,9 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://m.163.com/dy/article/KQASPFOU05566YK3.html)** Claude死磕文本密集的制药环节，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接签下近30亿美元协议
 - **[Gemini被诉"教唆自杀"后,谷歌掏出3000万美元改界面](https://www.163.com/dy/article/KPUCH39B05561FZH.html)** 谷歌Gemini用户危机干预系统完成静默改版，从"多步跳转"到"一键触达"
 - **[2025年主流大模型全景对比:Grok、Claude、ChatGPT与Gemini的战场](https://www.cnblogs.com/gccbuaa/p/19264126)** Gemini原生多模态幻觉率降35%，Claude Opus 4.5专注安全与伦理，GPT-5.2分三版本应对不同场景
+
+## 近期动态
+### 2026-04-14
+- **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude Sonnet 4.6的输入成本每百万token 3美元，Opus 4.6提供100万token上下文窗口，自适应思考机制
+- **[AI三巨头竞逐格局生变:Claude 用户翻倍,Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法国巴黎银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额升至28%
+- **[谷歌Gemini再升级!解锁新玩法:输入提示词即可生成交互式3D模型](https://www.chinaz.com/2026/0411/1745964.shtml)** Gemini用户只需输入提示词即可生成交互式3D模型和实时模拟，支持旋转、缩放等操作

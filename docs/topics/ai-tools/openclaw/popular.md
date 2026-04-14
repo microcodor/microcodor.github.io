@@ -624,3 +624,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw龙吓五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
 - **[OpenClaw 2026年4月"六天六更"万字深度解读剖析](https://blog.csdn.net/jinanwuhuaguo/article/details/160121441)** 从"可信底座"到"智能跃迁"的范式革命，记忆系统回归与安全底座重塑、漏洞清道夫、记忆回灌与审计追踪
 - **[2026年AI代理新趋势:Hermes、OpenClaw与Claude Code核心解析](https://www.163.com/dy/article/KQE5T55N05566SDR.html)** Claude Code进入开发现场，OpenClaw接入所有入口，Hermes拥有长期记忆
+
+## 近期动态
+### 2026-04-14
+- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进，原生流式响应支持
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复、视频生成接入
+- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑，新增独立邮箱身份、云电脑、云手机

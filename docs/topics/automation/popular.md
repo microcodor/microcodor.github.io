@@ -629,3 +629,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[OpenClaw、Claude Code、Cursor:三个AI编程助手怎么选?](https://zhuanlan.zhihu.com/p/2026970852017611688)** Cursor适合 pair programmer，Claude Code适合代码库级别理解，OpenClaw适合从需求到交付全链路
 - **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
+
+## 近期动态
+### 2026-04-14
+- **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，管理和衡量研发效能的老办法需要升级，三阶段划分辅以"AI代码占比"指标
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** 周一早上AI Assistant已自动处理完积压邮件，Code Review发现SQL注入漏洞，市场Agent完成内容创作

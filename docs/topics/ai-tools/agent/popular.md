@@ -669,3 +669,10 @@ description: 主流 Agent 框架与工具链一览
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 2025年AI从单点突破向系统重构深刻质变，多模态技术走向成熟
 - **[AI Agent开发路线图2025:从入门到精通](http://zhuanlan.zhihu.com/p/1985379253525697644)** 核心开发层次全解析，2025年趋势：本地化部署、多模态融合、专业化发展
 - **[《AI Agent智能体技术发展报告》正式发布](https://www.163.com/dy/article/KJKMOSIV055240KW.html)** AI Agent从自动化到自主智能的再定义，核心能力包括感知、大脑、行动、记忆四大模块
+
+## 近期动态
+### 2026-04-14
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+- **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软官方Agent框架，2026年2月发布RC版本，3月引入Agent Skills功能
+- **[Agent Runtime,解锁AI智能体生产级运行的核心密钥](https://chengchao.blog.csdn.net/article/details/160007489)** LangGraph、Temporal、Inngest三款工具在Agent Runtime领域备受关注，Gartner预测2027年40%智能体项目因基础设施不足被砍
