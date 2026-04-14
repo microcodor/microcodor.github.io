@@ -23,6 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-15
+- **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** OpenClaw创始人宣称下一代产品将融入AI视频生成能力，成为全球首个官方适配阿里千问大模型的智能体框架
+- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、200+细节Bug修复
+- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，沙箱架构全面升级
+
 ### 2026-04-14
 - **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复

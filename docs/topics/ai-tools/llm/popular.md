@@ -21,6 +21,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-15
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击，Claude Sonnet 4展现"计算型鹰派"特质
+- **[AI模型巅峰对决:Claude3、Gemini、Sora、GPTs与GPT-4的实战性能测评](http://www.mhpq.cn/news/19208.html)** Claude3长文本处理20万token，Gemini多模态视频理解，GPT-4 Turbo知识时效性突破
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT全能型助理、Gemini多模态创意伙伴、Claude严谨逻辑型
+
 ### 2026-04-14
 - **[AI三巨头竞逐格局生变:Claude 用户翻倍,谷歌 Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法巴银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额从26.2%上升至28.0%
 - **[谷歌Gemini再升级!解锁新玩法:输入提示词即可生成交互式3D模型](https://www.chinaz.com/2026/0411/1745964.shtml)** 用户只需输入提示词就能生成交互式3D模型和实时模拟，支持旋转、拖动滑块等操作

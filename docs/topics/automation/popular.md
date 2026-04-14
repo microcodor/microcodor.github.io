@@ -21,6 +21,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-15
+- **[美股一夜蒸发2万亿!AI"降维打击"杀疯了,普通企业拿什么保命?](https://baijiahao.baidu.com/s?id=1862148246767591815)** AI Agent工具可自动拨打电话、记录客户痛点、分析情绪、发送跟进微信，10个AI加几个主管可完成原来100个销售的活
+- **[AI 原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
+- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html?id)** 描述-执行鸿沟、物理世界与常识推理的断层、边缘场景的算力-精度悖论是三大技术适配极限
+
 ### 2026-04-14
 - **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源工作流自动化工具，workflow即Markdown文件，支持39种集成
