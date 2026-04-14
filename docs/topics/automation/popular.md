@@ -21,8 +21,18 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-14
+- **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源工作流自动化工具，workflow即Markdown文件，支持39种集成
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出
+- **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/DA1cGPEQ2/article/details/159963415)** Microsoft Agent Framework提供Workflow框架，编排协调多个智能体
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+
 ### 2026-04-13
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具,通过Markdown文件定义工作流,支持多个AI agent和39种集成服务
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具,支持多步骤逻辑生成可预测输出,拖放界面设计
+
+### 2026-04-12- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具,通过Markdown文件定义工作流,支持多个AI agent和39种集成服务
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具,支持多步骤逻辑生成可预测输出,拖放界面设计
 
 ### 2026-04-12

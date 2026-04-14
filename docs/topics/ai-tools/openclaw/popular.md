@@ -23,6 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-14
+- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
+- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座
+
 ### 2026-04-13
 - **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus,DeepSeek上线专家模式,2026年AI主战场已全面转向智能体
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布,为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径

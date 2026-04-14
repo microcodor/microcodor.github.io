@@ -22,6 +22,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-14
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+- **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软正式宣布为Semantic Kernel的继任者，2026年3月引入"Agent Skills"功能
+- **[详尽地带你从零开始设计实现一个AI Agent框架](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9525024.shtml)** 从工具到生态的深度解析，AI Agent商用化的前提是各行各业开始落地实际商业领域的AI Agent
+
 ### 2026-04-13
 - **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus强化智能体编程能力，DeepSeek上线专家模式，2026年AI主战场已全面转向智能体
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布,为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径

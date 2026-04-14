@@ -21,6 +21,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-14
+- **[AI三巨头竞逐格局生变:Claude 用户翻倍,谷歌 Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法巴银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额从26.2%上升至28.0%
+- **[谷歌Gemini再升级!解锁新玩法:输入提示词即可生成交互式3D模型](https://www.chinaz.com/2026/0411/1745964.shtml)** 用户只需输入提示词就能生成交互式3D模型和实时模拟，支持旋转、拖动滑块等操作
+
 ### 2026-04-13
 - **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude Sonnet 4.6的输入成本每百万token 3美元,Opus 4.6提供100万token上下文窗口,自适应思考机制
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://www.163.com/dy/article/KQASPFOU05566YK3.html)** 赛诺菲用Claude做医学事务,诺和诺德用于监管资料撰写,谷歌用Med-Gemini做多模态临床分析
