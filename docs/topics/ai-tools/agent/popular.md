@@ -23,6 +23,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-15
+- **[押注B.AI,AI Agent时代的底层能力竞赛开始了](https://baijiahao.baidu.com/s?id=1862167757697363499)** Gartner预计到2028年至少15%的日常工作决策将由Agentic AI自主完成,B.AI要做AI Agent时代的金融底层基础设施
+- **[为什么AI Agent需要多模态能力:视觉语音文本融合的架构设计原理](https://gitcode.csdn.net/69da47520a2f6a37c59edbc0.html)** 广义通用型多模态AI Agent能自主融合处理多种跨模态输入,自主生成跨领域/动态多步骤/闭环反馈式的逻辑推理链
+- **[人工智慧體産業風口已至](https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902wmby)** 业界认为Agentic AI时代即将到来,2025年有望成为AI Agent的商业化应用元年
+- **[禾盛新材加码布局熠知电子 卡位AI Agent新时代](https://baijiahao.baidu.com/s?id=1862149999281147082)** 禾盛新材2.33亿元增资熠知电子,布局国产高端服务器处理器芯片,卡位AI Agent新时代
+
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen、CrewAI等框架深度对比，Agentic Loop成为标准架构
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic Agent Skills通过结构化文件夹构建标准化AI工作手册，显著提升Agent可配置性
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
@@ -684,7 +689,6 @@ description: 主流 Agent 框架与工具链一览
 - **[《AI Agent智能体技术发展报告》正式发布](https://www.163.com/dy/article/KJKMOSIV055240KW.html)** AI Agent从自动化到自主智能的再定义，核心能力包括感知、大脑、行动、记忆四大模块
 
 ## 近期动态
-### 2026-04-15
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，标志着AI辅助开发工具重大转变
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
