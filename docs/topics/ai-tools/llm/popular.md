@@ -22,9 +22,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-15
+- **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude被赛诺菲用于医学事务、诺和诺德用于监管资料撰写，Gemini+DeepMind走硬核科学路线
+- **[纠结选哪个 AI?2026 实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://www.eefocus.com/article/1973660.html)** GPT-5.4性价比最高，Gemini 3.1 Pro推理提升2倍，Claude 4.6 Opus安全敏感任务首选
+- **[2026年编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/1984070.html)** Claude 3.5算法正确率90%，GPT-4o自然语言理解优，Gemini多模态速度优势
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击，Claude Sonnet 4展现"计算型鹰派"特质
-- **[AI模型巅峰对决:Claude3、Gemini、Sora、GPTs与GPT-4的实战性能测评](http://www.mhpq.cn/news/19208.html)** Claude3长文本处理20万token，Gemini多模态视频理解，GPT-4 Turbo知识时效性突破
-- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT全能型助理、Gemini多模态创意伙伴、Claude严谨逻辑型
 
 ### 2026-04-14
 - **[AI三巨头竞逐格局生变:Claude 用户翻倍,谷歌 Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法巴银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额从26.2%上升至28.0%

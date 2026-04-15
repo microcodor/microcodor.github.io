@@ -24,9 +24,11 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-15
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 后台任务统一生命周期管理，task flow注册表实现多任务编排父记录
+- **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733&wfr=spider&for=pc)** ClawHub插件市场上线，GPT-5.4-mini和nano集成，API路径重构导致第三方插件兼容问题
+- **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383&wfr=spider&for=pc)** 全新插件SDK上线，废弃旧扩展API，ClawHub成为插件分发首选渠道
+- **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512&wfr=spider&for=pc)** 插件系统彻底重构，安全防御逻辑下沉到执行管线，新增Windows执行加固
 - **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** OpenClaw创始人宣称下一代产品将融入AI视频生成能力，成为全球首个官方适配阿里千问大模型的智能体框架
-- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、200+细节Bug修复
-- **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，沙箱架构全面升级
 
 ### 2026-04-14
 - **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进

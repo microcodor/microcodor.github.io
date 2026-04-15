@@ -22,9 +22,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-15
-- **[美股一夜蒸发2万亿!AI"降维打击"杀疯了,普通企业拿什么保命?](https://baijiahao.baidu.com/s?id=1862148246767591815)** AI Agent工具可自动拨打电话、记录客户痛点、分析情绪、发送跟进微信，10个AI加几个主管可完成原来100个销售的活
-- **[AI 原生软件工程的可观测性与可控制性](https://new.qq.com/rain/a/20260411A02G9600)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
-- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html?id)** 描述-执行鸿沟、物理世界与常识推理的断层、边缘场景的算力-精度悖论是三大技术适配极限
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065&wfr=spider&for=pc)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
+- **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764&wfr=spider&for=pc)** YC W26聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[2025 年度 AI 自动编程工具深度评测:从 Cursor 到 Qoder,谁才是开发者的最佳搭档?](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、CodeBuddy、Qoder等AI编程工具深度评测
+- **[Automation](https://www.taskade.com/wiki/automation)** Agentic Workflows使用AI代理做智能决策，Workflow Orchestration协调多步骤自动化
 
 ### 2026-04-14
 - **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"

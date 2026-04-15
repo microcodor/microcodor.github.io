@@ -23,8 +23,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-15
-- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
-- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen、CrewAI等框架深度对比，Agentic Loop成为标准架构
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic Agent Skills通过结构化文件夹构建标准化AI工作手册，显著提升Agent可配置性
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 2025年AI从单点突破向系统重构深刻质变，多模态技术走向成熟，超长上下文成为标配
+- **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
 
 ### 2026-04-14
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
