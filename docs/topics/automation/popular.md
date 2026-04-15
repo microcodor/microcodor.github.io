@@ -651,6 +651,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 
 ## 近期动态
+### 2026-04-15
+- **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，管理和衡量研发效能的老办法需要升级，"AI代码占比"成关键指标
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具推荐，Agentforce in Slack、Trello等项目管理和自动化工具
+- **[AI Workflows: A Comprehensive Guide](https://slack.com/intl/zh-cn/blog/transformation/ai-workflows-what-they-are-and-why-they-matter-for-businesses)** AI工作流定义、为什么对企业重要以及如何帮助企业提效
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定流程明确的任务，Workflow适合把一段任务拆成多个步骤组织起来
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[如何使用 AI 代理构建业务自动化工作流程](https://zhuanlan.zhihu.com/p/2017650407745267377)** n8n等无代码工具只需几点击就能设计和自动化强大的工作流程
+- **[什么是 AI 工作流自动化?预定义AI工作流 vs AI自主规划工作流](https://www.jianshu.com/p/575e1508731e)** AI工作流自动化利用人工智能自动化和简化工作流中的重复性任务
+- **[AI自动化流程:基于工作流引擎的高效实现方案](https://www.dtstack.com/bbs/article/176412)** 工作流引擎是AI自动化流程的"大脑"，核心在于利用AI算法对流程中的数据进行分析、决策和执行
+
 ### 2026-04-14
 - **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，管理和衡量研发效能的老办法需要升级，三阶段划分辅以"AI代码占比"指标
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM

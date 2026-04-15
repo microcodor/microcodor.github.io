@@ -685,6 +685,13 @@ description: 主流 Agent 框架与工具链一览
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，标志着AI辅助开发工具重大转变
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
+- **[详尽地带你从零开始设计实现一个AI Agent框架](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9525024.shtml)** AI Agent框架理论详解，ReAct模式将推理和行动相结合，Plan-and-Execute强调先制定计划再执行
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic Agent Skills以结构化文件夹为载体构建标准化AI工作手册，OpenClaw定义可复制Agent工程化范式
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 2025年主流AI Agent框架调研，涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等框架
+- **[2025 AI 记忆系统大横评:从插件到操作系统,谁在定义下一代Agent Infra?](http://zhuanlan.zhihu.com/p/1978869876396413893)** 2026年是认知时代/Memory Era，AI开始拥有长期记忆与连贯人格，从工具到伙伴的终极跨越
+- **[【必收藏】2025年七大AI Agent框架深度解析:从LangChain到AutoGen](https://zhuanlan.zhihu.com/p/1966142455456982851)** LangChain以模块化架构著称，AutoGen支持多Agent协作，Dify适合快速原型验证
+- **[AI Agent开发范式变化个人观察](https://blog.csdn.net/w2049w/article/details=156421557)** 2025年AI Agent开发的关键技术演进：上下文工程、从RAG到Agent、组件化与工具化
+- **[2025年AI Agent主流开发框架全面对比分析](https://baijiahao.baidu.com/s?id=1837537237154309277)** 2025年主流AI Agent开发框架分为大语言模型驱动、多模态、自主决策三大类
 
 ### 2026-04-14
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重

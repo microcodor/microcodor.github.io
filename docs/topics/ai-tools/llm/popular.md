@@ -618,6 +618,14 @@ description: 主流大模型能力对比与选型参考
 - **[2025年主流大模型全景对比:Grok、Claude、ChatGPT与Gemini的战场](https://www.cnblogs.com/gccbuaa/p/19264126)** Gemini原生多模态幻觉率降35%，Claude Opus 4.5专注安全与伦理，GPT-5.2分三版本应对不同场景
 
 ## 近期动态
+### 2026-04-15
+- **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude凭借复杂逻辑与工程化生态正成为企业摸清业务自动化上限的参照系，在Terminal-Bench 2.0中领先
+- **[Gemini:2026年最强AI模型之一,如何在实际应用中挑战GPT与Claude的地位?](https://developer.aliyun.com/article/1709800)** Gemini核心优势在于复杂推理场景下的结构稳定性和长上下文处理能力，与GPT、Claude形成互补
+- **[Gemini、GPT和Claude领衔的医药"三国杀"](https://www.163.com/dy/article/KQASPFOU05566YK3.html)** Claude在制药领域用于医学沟通和监管资料撰写，Gemini+DeepMind走硬核科学路线直接做管线
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击，机器不懂恐惧
+- **[普通人缩短新时代认知差:三张"思维地图"看懂GPT5.4、Gemini3.0、Claude4.6镜像](https://www.eefocus.com/article/1983889.html)** GPT是全能型私人助理，Gemini是多模态创意伙伴，Claude是严谨型专家
+- **[2026最新稳定中转API推荐:国内如何直连GPT、Claude与Gemini](https://blog.csdn.net/2601_95710268/article/details/159923954)** 国内开发者调用海外AI模型API的现实痛点与解决方案
+
 ### 2026-04-14
 - **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude Sonnet 4.6的输入成本每百万token 3美元，Opus 4.6提供100万token上下文窗口，自适应思考机制
 - **[AI三巨头竞逐格局生变:Claude 用户翻倍,Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法国巴黎银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额升至28%
