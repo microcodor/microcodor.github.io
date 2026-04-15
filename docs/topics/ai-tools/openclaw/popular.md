@@ -23,6 +23,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-16
+- **[阿里千问、DeepSeek齐出手 国产大模型升级Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力
+- **[腾讯QClaw V2大版本发布](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增三大核心能力
+- **[快速蹿红的Hermes Agent会成为下一个OpenClaw吗](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes GitHub Star超35k，是否能成为下一个OpenClaw引发讨论
+- **[YC Demo Day W26现场复盘](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+
 ### 2026-04-15
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 后台任务统一生命周期管理，task flow注册表实现多任务编排父记录
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733&wfr=spider&for=pc)** ClawHub插件市场上线，GPT-5.4-mini和nano集成，API路径重构导致第三方插件兼容问题

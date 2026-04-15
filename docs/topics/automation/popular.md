@@ -21,6 +21,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-16
+- **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标—拆解任务—调用工具执行—留痕复盘做成完整闭环
+- **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[2025年度AI自动编程工具深度评测:从Cursor到Qoder](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、Windsurf、CodeBuddy等AI编程工具深度评测
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出
+
 ### 2026-04-15
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065&wfr=spider&for=pc)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
 - **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"

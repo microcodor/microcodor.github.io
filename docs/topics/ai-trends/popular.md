@@ -26,6 +26,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[百度发布国内首个医生版"龙虾"医疗AI产品](https://baijiahao.baidu.com/s?id=1861408057054199637)** 阿里健康"氢离子"、京东健康"知医"瞄准医生群体
 
 ## 近期动态
+### 2026-04-16
+- **[网易有道2025年营收59.1亿元,Lobster AI等Agent新品密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内大厂首个100%代码全开源AI Agent产品，GitHub Star破5000
+- **[2025-2026联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/15/031009871.shtml)** 联想实现基础层、技术层、应用层全产业链覆盖
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi等入选
+
 ### 2026-04-15
 - **[GPT-6近日即将发布!代号"土豆",Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644&wfr=spider&for=pc)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
