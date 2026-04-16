@@ -27,6 +27,11 @@ description: 主流大模型能力对比与选型参考
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
 - **[2026年四大AI模型横向评测:Gemini、GPT、Claude、Grok谁更适合你?](https://www.eefocus.com/article/1989234.html)** Gemini多模态强，GPT全面均衡，Claude严谨安全，Grok幽默实时
 
+### 2026-04-17
+- **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** Gemini桌面端初上线，采用对话框主界面但视觉拥挤，支持唤起功能
+- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言，生成自然高保真语音
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术，Claude 4.6 Opus渐进式推理
+
 ### 2026-04-15
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude被赛诺菲用于医学事务、诺和诺德用于监管资料撰写，Gemini+DeepMind走硬核科学路线
 - **[纠结选哪个 AI?2026 实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文

@@ -34,6 +34,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article/detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持单次处理完整技术白皮书
 - **[华为云将发AI全系产品,"龙虾"系列成焦点](https://baijiahao.baidu.com/s?id=1862075791455928348)** 6月INSPIRE创想者大会将集中发布AI全系产品，包括行业智能体开发平台
 
+### 2026-04-17
+- **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%，净利润25.45亿元同比增长20.37%
+- **[AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** Manus全球首款通用Agent产品发布，GAIA基准测试SOTA成绩超越OpenAI同层次大模型
+- **[字节跳动联手中兴推AI手机,2025年底首发3万台工程机](https://post.smzdm.com/p/az8lp2mn/)** 豆包手机助手技术预览版搭载于努比亚M153工程样机，实现从"问答式AI"向"执行式AI"的范式跃迁
+- **[全栈引领·价值兑现——2025-2026联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/15/031009871.shtml)** 联想实现十大权威AI榜单全覆盖，成为全球AI生态链的核心标杆
+
 ### 2026-04-15
 - **[GPT-6近日即将发布!代号"土豆",Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644&wfr=spider&for=pc)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用

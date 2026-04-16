@@ -30,6 +30,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2025年度AI自动编程工具深度评测:从Cursor到Qoder](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、Windsurf、CodeBuddy等AI编程工具深度评测
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出
 
+### 2026-04-17
+- **[40分钟消失术:AI工作流工具把「注意力碎片」焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程，减少任务切换焦虑
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行，成本每月12美元
+- **[AI框架LangChain|Dify|n8n|Coze简介](https://blog.csdn.net/qq_20113327/article/details/160146606)** 四大框架对比：LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化、Coze低门槛做Bot
+
 ### 2026-04-15
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065&wfr=spider&for=pc)** 量化交易员转型做Agent闭环，把"理解目标—拆解任务—调用工具执行—留痕复盘"做成完整闭环
 - **[Token烧了几十亿,代码还是一团乱!AI原生开发该怎么管理?](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9515208.shtml)** AI写代码门槛降低但过程像"黑盒"，需要从"人写代码"转变为"人设计AI工作的框架"
