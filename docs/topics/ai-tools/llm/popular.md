@@ -22,6 +22,9 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-16
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术提升2倍，Claude 4.6 Opus安全优先
+- **[2026实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://www.eefocus.com/article/1989957.html)** GPT-6推理性能比5.2提升40%，Claude上限高但不稳定，Gemini多模态领先
 - **[Gemini、GPT和 Claude 领衔的医药“三国杀”](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude死磕文本密集制药环节，Gemini+DeepMind走硬核科学路线，AlphaFold 3签下近30亿美元协议
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术，Claude 4.6安全优先
 - **[2026实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文

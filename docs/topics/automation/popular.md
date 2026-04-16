@@ -22,6 +22,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-04-16
+- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[2026年AI驱动型 CRM 解析:十大产品智能预测与自动化能力实测](https://worktile.com/kb/p/3964946)** 超兔CRM、Salesforce等AI驱动型CRM智能预测与自动化能力实测对比
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标—拆解任务—调用工具执行—留痕复盘做成完整闭环
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
 - **[2025年度AI自动编程工具深度评测:从Cursor到Qoder](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、Windsurf、CodeBuddy等AI编程工具深度评测

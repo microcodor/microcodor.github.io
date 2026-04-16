@@ -23,6 +23,9 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-04-16
+- **[OpenClaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号从v2026.4.7到v2026.4.11，记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
+- **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制首次被组织进"长期运行的Agent系统"，记忆从"存储"变成"认知"
+- **[周红伟:龙虾疯了,疯狂更新,OpenClaw 大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://it.sohu.com/a/1009934539_122636736)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置三款搜索引擎
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，构建标准化AI工作手册SOP
 - **[最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 自进化AI系统、多Agent协作、HyperAgents等最新研究进展
