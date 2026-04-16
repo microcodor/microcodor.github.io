@@ -30,6 +30,11 @@ description: 主流 Agent 框架与工具链一览
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，构建标准化AI工作手册SOP
 - **[最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 自进化AI系统、多Agent协作、HyperAgents等最新研究进展
 - **[回看2025,AI的系统工程时刻](https://baijiahao.baidu.com/s?id=1861088138056459143)** 2025年AI从单点突破向系统重构的深刻质变
+- **[响指新版升级:打破AI智能体门槛,让工作学习更高效](https://baijiahao.baidu.com/s?id=1862603474703875502)** 响指从零代码AI应用创作平台升级为AI智能体平台，积累超20万注册用户
+- **[易鑫:Agent能力已在全业务流程落地,已形成Harness治理体系](https://baijiahao.baidu.com/s?id=1862606039593156830)** 易鑫Agent自主交付成果达65%，转化率提升20%+，运营效率提升100%以上
+- **[完整解读:2026版斯坦福AI年度报告](https://baijiahao.baidu.com/s?id=1862594037175842577)** AI能力持续加速，中美模型性能差距基本消失
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL在昇腾平台适配，Star数暴涨1k+
+- **[创材深造发布One-Person Lab:带来能亲手做实验的"AI材料学家"](https://baijiahao.baidu.com/s?id=1862612657193123174)** 让AI首次真正具备自主实验能力的完整科学发现系统
 
 ### 2026-04-15
 - **[押注B.AI,AI Agent时代的底层能力竞赛开始了](https://baijiahao.baidu.com/s?id=1862167757697363499)** Gartner预计到2028年至少15%的日常工作决策将由Agentic AI自主完成,B.AI要做AI Agent时代的金融底层基础设施

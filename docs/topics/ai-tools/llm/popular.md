@@ -29,8 +29,10 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-04-17
 - **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** Gemini桌面端初上线，采用对话框主界面但视觉拥挤，支持唤起功能
-- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言，生成自然高保真语音
+- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言，生成自然高保真语音；Anthropic为Claude引入身份验证引发争议
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术，Claude 4.6 Opus渐进式推理
+- **[一本正经的Claude"身份验证",藏着赛道最残酷的博弈](https://www.163.com/dy/article/KQLKHAD005118O92.html)** 业界认为此次"身份验证"是精准清场的预检，为能力升级后的责任归属铺路
+- **[2026年三大模型终极对战:GPT-5.4 vs Claude 4.6 vs Gemini 3.1](https://post.smzdm.com/p/aqr74xok/)** GPT-5.4擅长"动手执行"，Claude 4.6精于"深度思考"，Gemini 3.1 Pro强在"海量分析"
 
 ### 2026-04-15
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude被赛诺菲用于医学事务、诺和诺德用于监管资料撰写，Gemini+DeepMind走硬核科学路线
