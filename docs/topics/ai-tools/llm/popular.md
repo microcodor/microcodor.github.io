@@ -640,3 +640,12 @@ description: 主流大模型能力对比与选型参考
 - **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude Sonnet 4.6的输入成本每百万token 3美元，Opus 4.6提供100万token上下文窗口，自适应思考机制
 - **[AI三巨头竞逐格局生变:Claude 用户翻倍,Gemini 使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法国巴黎银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额升至28%
 - **[谷歌Gemini再升级!解锁新玩法:输入提示词即可生成交互式3D模型](https://www.chinaz.com/2026/0411/1745964.shtml)** Gemini用户只需输入提示词即可生成交互式3D模型和实时模拟，支持旋转、缩放等操作
+
+### 2026-04-16
+- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言
+- **[GPT、Claude、Gemini 领衔的医药三国杀](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude死磕文本密集制药环节，Gemini+DeepMind走硬核科学路线
+- **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini学会群聊](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe月活用户73%会同时使用3个以上模型
+
+## 近期动态
+### 2026-04-16
+- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS

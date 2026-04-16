@@ -677,3 +677,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** 周一早上AI Assistant已自动处理完积压邮件，Code Review发现SQL注入漏洞，市场Agent完成内容创作
+
+### 2026-04-16
+- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具，通过Markdown文件定义工作流
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性
+- **[Microsoft Agent Framework Workflow](https://blog.csdn.net/TT1h2bxZf/article/details/160024548)** 微软MAF提供强大Workflow框架编排多智能体
+
+## 近期动态
+### 2026-04-16
+- **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具

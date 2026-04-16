@@ -714,3 +714,13 @@ description: 主流 Agent 框架与工具链一览
 - **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
 - **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软官方Agent框架，2026年2月发布RC版本，3月引入Agent Skills功能
 - **[Agent Runtime,解锁AI智能体生产级运行的核心密钥](https://chengchao.blog.csdn.net/article/details/160007489)** LangGraph、Temporal、Inngest三款工具在Agent Runtime领域备受关注，Gartner预测2027年40%智能体项目因基础设施不足被砍
+
+### 2026-04-16
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软2025年10月正式宣布为Semantic Kernel继任者，2026年3月引入Agent Skills功能
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念
+- **[AI Agent的应用方向本质:从替代人的哪种能力理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型等
+
+## 近期动态
+### 2026-04-16
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软2025年10月正式宣布为Semantic Kernel继任者，2026年3月引入Agent Skills功能
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念
