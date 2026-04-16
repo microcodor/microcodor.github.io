@@ -24,13 +24,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-04-16
-- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
-- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
-- **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座
-- **[阿里千问、DeepSeek齐出手 国产大模型升级Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力
-- **[腾讯QClaw V2大版本发布](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增三大核心能力
-- **[快速蹿红的Hermes Agent会成为下一个OpenClaw吗](https://baijiahao.baidu.com/s?id=1861979601664019122)** Hermes GitHub Star超35k，是否能成为下一个OpenClaw引发讨论
-- **[YC Demo Day W26现场复盘](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
+- **[华源证券:OpenClaw启发AIAgent新阶段 能力跃迁与入口争夺](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw比作个人AI的操作系统，腾讯、阿里云相继上线一键部署方案
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
+- **[周红伟:龙虾疯了,疯狂更新,OpenClaw 大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://it.sohu.com/a/1009934539_122636736)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置三款搜索引擎
+- **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制让记忆从"存储"变成"认知"
 
 ### 2026-04-15
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 后台任务统一生命周期管理，task flow注册表实现多任务编排父记录

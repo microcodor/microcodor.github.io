@@ -22,12 +22,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-04-16
-- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术提升2倍，Claude 4.6 Opus安全优先
-- **[2026实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文
-- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://www.eefocus.com/article/1989957.html)** GPT-6推理性能比5.2提升40%，Claude上限高但不稳定，Gemini多模态领先
-- **[Gemini、GPT和 Claude 领衔的医药“三国杀”](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude死磕文本密集制药环节，Gemini+DeepMind走硬核科学路线，AlphaFold 3签下近30亿美元协议
-- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4内置计算机操作能力，Gemini 3.1 Pro并行思考技术，Claude 4.6安全优先
-- **[2026实测 GPT、Claude、Gemini,附国内用法](https://www.eefocus.com/article/1988884.html)** GPT-4中文复杂推理略胜，Claude 3长文档理解有优势，Gemini 1.5 Pro支持百万级token上下文
+- **[大模型六雄混战2026:豆包、千问、DeepSeek激战正酣,Gemini、GPT-5与Claude 4如何接招?](https://blog.csdn.net/chenchuang0128/article/details/160147617)** 豆包2.0多模态细节控，千问3.5打破"不可能三角"，DeepSeek-V3.2数学竞赛状元
+- **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini终于学会"群聊"](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe月活用户73%会同时使用3个以上模型，Perplexity日查询量突破1亿次
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+- **[2026年四大AI模型横向评测:Gemini、GPT、Claude、Grok谁更适合你?](https://www.eefocus.com/article/1989234.html)** Gemini多模态强，GPT全面均衡，Claude严谨安全，Grok幽默实时
 
 ### 2026-04-15
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude被赛诺菲用于医学事务、诺和诺德用于监管资料撰写，Gemini+DeepMind走硬核科学路线

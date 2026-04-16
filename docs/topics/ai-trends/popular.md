@@ -27,13 +27,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 ### 2026-04-16
-- **[网易有道2025年营收59.1亿元,Lobster AI、有道宝库等Agent新品近期密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 网易有道推出LobsterAI被誉为"中国版OpenClaw"，GitHub Star破5000，有道宝库成中国版"NotebookLM"
-- **[全栈引领·价值兑现——2025-2026联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/15/031009871.shtml)** 联想实现十大权威AI榜单全覆盖，与英伟达达成AI云超级工厂战略合作
-- **[AI眼镜爆发元年,雷神科技卡位核心赛道](https://xueqiu.com/6446868954/383792804)** 雷神Aura AI智能拍摄眼镜上市即售罄，融合开放式音频与AI大模型，支持实时识图、翻译
-- **[网易有道2025年营收59.1亿元,Lobster AI等Agent新品密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内大厂首个100%代码全开源AI Agent产品，GitHub Star破5000
-- **[2025-2026联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/15/031009871.shtml)** 联想实现基础层、技术层、应用层全产业链覆盖
-- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
-- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi等入选
+- **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://k.sina.com.cn/article_7857201856_1d45362c001904cprg.html)** AI快速融入游戏、广告和社交等核心业务，以混元大模型为底座的AI产品线迅速铺开
+- **[国内最大规模6万卡AI4S计算集群投用,中科曙光实现全栈技术跨越](https://baijiahao.baidu.com/s?id=1862524070047945062)** 6万卡AI4S计算集群系统在郑州国家超算互联网核心节点正式投入使用
+- **[紫光股份发布2025年报:规模再创新高,利润节节攀升](https://baijiahao.baidu.com/s?id=1862453920480557191)** 公司实现营收967.48亿元，同比增长22.43%，政企业务收入同比增长48.84%
+- **[AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** Manus作为全球首款通用Agent产品发布，AI Agent成2025年新风口
+- **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article/detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持单次处理完整技术白皮书
+- **[华为云将发AI全系产品,"龙虾"系列成焦点](https://baijiahao.baidu.com/s?id=1862075791455928348)** 6月INSPIRE创想者大会将集中发布AI全系产品，包括行业智能体开发平台
 
 ### 2026-04-15
 - **[GPT-6近日即将发布!代号"土豆",Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644&wfr=spider&for=pc)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%

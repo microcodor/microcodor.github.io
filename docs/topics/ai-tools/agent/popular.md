@@ -723,4 +723,6 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-04-16
 - **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软2025年10月正式宣布为Semantic Kernel继任者，2026年3月引入Agent Skills功能
-- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
+- **[AI Agent的应用方向本质:从"替代人的哪种能力"理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型、协调型、交易型
+- **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
