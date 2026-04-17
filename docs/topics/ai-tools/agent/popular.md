@@ -28,6 +28,11 @@ description: 主流 Agent 框架与工具链一览
 - **[周红伟:龙虾疯了,疯狂更新,OpenClaw 大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://it.sohu.com/a/1009934539_122636736)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置三款搜索引擎
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，构建标准化AI工作手册SOP
+
+### 2026-04-17
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
+- **[AI Agent的应用方向本质:从"替代人的哪种能力"理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型、协调型、交易型
+- **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
 - **[最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 自进化AI系统、多Agent协作、HyperAgents等最新研究进展
 - **[回看2025,AI的系统工程时刻](https://baijiahao.baidu.com/s?id=1861088138056459143)** 2025年AI从单点突破向系统重构的深刻质变
 - **[响指新版升级:打破AI智能体门槛,让工作学习更高效](https://baijiahao.baidu.com/s?id=1862603474703875502)** 响指从零代码AI应用创作平台升级为AI智能体平台，积累超20万注册用户

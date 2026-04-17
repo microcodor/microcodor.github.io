@@ -28,6 +28,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标—拆解任务—调用工具执行—留痕复盘做成完整闭环
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
 - **[2025年度AI自动编程工具深度评测:从Cursor到Qoder](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、Windsurf、CodeBuddy等AI编程工具深度评测
+
+### 2026-04-17
+- **[日更狂魔!Claude Code 2.1.108 正式上线:AI 开始"自己干活",编程自动化进入新纪元](https://blog.csdn.net/Java_Chuck/article/details/160179197)** Claude Code实现从"人指挥→AI执行"的质变，支持Routine功能和Skill工具，可组合构建复杂自动化流程
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出
 
 ### 2026-04-17
