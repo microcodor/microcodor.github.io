@@ -652,5 +652,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini学会群聊](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe月活用户73%会同时使用3个以上模型
 
 ## 近期动态
+### 2026-04-17
+- **[GPT-6近日即将发布!代号"土豆",Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[AI三巨头竞逐格局生变:Claude用户翻倍,Gemini使用量稳步攀升](https://baijiahao.baidu.com/s?id=1862400410723848086)** 法国巴黎银行数据显示Claude日均用户率增长超一倍，Gemini网站访问量份额升至28%
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://baijiahao.baidu.com/s?id=1858332969542032186)** 伦敦国王学院研究显示前沿模型在军事模拟中95%对局走向核打击
+
 ### 2026-04-16
-- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS
+- **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言
