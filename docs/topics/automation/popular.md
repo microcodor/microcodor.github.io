@@ -29,14 +29,29 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** 聚焦Agent基础设施与物理世界，Vertical Workflow从22个降至12个
 - **[2025年度AI自动编程工具深度评测:从Cursor到Qoder](https://cj.sina.com.cn/articles/view/7879848900/1d5acf3c401902slui)** Cursor、Windsurf、CodeBuddy等AI编程工具深度评测
 
+### 2026-04-18
+- **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
+
 ### 2026-04-17
 - **[日更狂魔!Claude Code 2.1.108 正式上线:AI 开始"自己干活",编程自动化进入新纪元](https://blog.csdn.net/Java_Chuck/article/details/160179197)** Claude Code实现从"人指挥→AI执行"的质变，支持Routine功能和Skill工具，可组合构建复杂自动化流程
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出
+
+### 2026-04-18
+- **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
 
 ### 2026-04-17
 - **[40分钟消失术:AI工作流工具把「注意力碎片」焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程，减少任务切换焦虑
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行，成本每月12美元
 - **[AI框架LangChain|Dify|n8n|Coze简介](https://blog.csdn.net/qq_20113327/article/details/160146606)** 四大框架对比：LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化、Coze低门槛做Bot
+
+### 2026-04-18
+- **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
 
 ### 2026-04-17
 - **[40分钟消失术:AI工作流工具把「注意力碎片」焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程，减少任务切换焦虑
@@ -75,6 +90,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具,工作流是markdown文件,支持39种集成、工具调用、本地LLM
 
 ## 近期动态
+### 2026-04-18
+- **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
+
 ### 2026-04-17
 - **[40分钟消失术:AI工作流工具把「注意力碎片」焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程，减少任务切换焦虑
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行，成本每月12美元
@@ -688,6 +708,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 
 ## 近期动态
+### 2026-04-18
+- **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
+
 ### 2026-04-17
 - **[40分钟消失术:AI工作流工具把「注意力碎片」焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程，减少任务切换焦虑
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行，成本每月12美元

@@ -27,6 +27,11 @@ description: 主流大模型能力对比与选型参考
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
 - **[2026年四大AI模型横向评测:Gemini、GPT、Claude、Grok谁更适合你?](https://www.eefocus.com/article/1989234.html)** Gemini多模态强，GPT全面均衡，Claude严谨安全，Grok幽默实时
 
+### 2026-04-18
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Gemini桌面端终于来了!实测唤起功能是亮点](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** Gemini桌面端上线，默认不打开对话列表，采用更大更粗字号
+
 ### 2026-04-17
 - **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** Gemini桌面端初上线，采用对话框主界面但视觉拥挤，支持唤起功能
 - **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言，生成自然高保真语音；Anthropic为Claude引入身份验证引发争议
@@ -652,6 +657,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini学会群聊](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe月活用户73%会同时使用3个以上模型
 
 ## 近期动态
+### 2026-04-18
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Gemini桌面端终于来了!实测唤起功能是亮点](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** Gemini桌面端上线，默认不打开对话列表，采用更大更粗字号
+
 ### 2026-04-17
 - **[GPT-6近日即将发布!代号"土豆",Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点

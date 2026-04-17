@@ -29,9 +29,19 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills，构建标准化AI工作手册SOP
 
+### 2026-04-18
+- **[中国AI正在绕过大模型,直奔Agent时代](https://www.163.com/dy/article/KQL91QPS0519L38V.html)** 中国大模型Token日均调用量首次超越美国，Agent应用普及驱动1800倍增长
+- **[谷歌悄悄加了个按钮,Gemini长出手脚变打工人](https://baijiahao.baidu.com/s?id=1862590108101280199)** Gemini新增Agents标签页，Agent Designer全面上线
+- **[工业Agentic AI系统:架构正在形成](https://www.sohu.com/a/1010404203_122643411)** 四层架构：数据层、模型层、决策层、执行层
+- **[零帧起手AI Agent,一文看懂金融智能体](http://k.sina.com.cn/article_7857201856_1d45362c001904dwuk.html)** 蚂蚁数科、奇富科技发布金融智能体产品
+
 ### 2026-04-17
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
 - **[AI Agent的应用方向本质:从"替代人的哪种能力"理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型、协调型、交易型
+- **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
+- **[AI战略全面升级,易鑫于世界互联网大会亚太峰会宣布已形成Harness治理体系](https://baijiahao.baidu.com/s?id=1862534678096185608)** 易鑫Agent自主交付成果达65%，转化率提升20%+，整体运营效率提升100%以上
+- **[迈富时(02556.HK):AI原生应用平台进入兑现期](https://baijiahao.baidu.com/s?id=1862621903207500816)** 迈富时AI应用业务收入14.87亿元同比增长76.5%，研发费用4.409亿元投向AI Agent相关技术
+- **[AI Agent岗位技术栈要求:2025年最新标准](https://blog.csdn.net/GP00001/article/details/160117711)** Agent开发不是玩具技术人，是能把玩具变成生产力的人
 - **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
 - **[最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 自进化AI系统、多Agent协作、HyperAgents等最新研究进展
 - **[回看2025,AI的系统工程时刻](https://baijiahao.baidu.com/s?id=1861088138056459143)** 2025年AI从单点突破向系统重构的深刻质变
@@ -736,6 +746,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
 - **[AI Agent的应用方向本质:从"替代人的哪种能力"理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型、协调型、交易型
 - **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
+
+### 2026-04-18
+- **[中国AI正在绕过大模型,直奔Agent时代](https://www.163.com/dy/article/KQL91QPS0519L38V.html)** 中国大模型Token日均调用量首次超越美国，Agent应用普及驱动1800倍增长
+- **[谷歌悄悄加了个按钮,Gemini长出手脚变打工人](https://baijiahao.baidu.com/s?id=1862590108101280199)** Gemini新增Agents标签页，Agent Designer全面上线
+- **[工业Agentic AI系统:架构正在形成](https://www.sohu.com/a/1010404203_122643411)** 四层架构：数据层、模型层、决策层、执行层
+- **[零帧起手AI Agent,一文看懂金融智能体](http://k.sina.com.cn/article_7857201856_1d45362c001904dwuk.html)** 蚂蚁数科、奇富科技发布金融智能体产品
 
 ### 2026-04-17
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details=160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
