@@ -769,3 +769,9 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-04-17
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details=160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从"如何写更好的prompt"向"如何设计模型的运行系统"转变
 - **[AI Agent的应用方向本质:从"替代人的哪种能力"理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型、协调型、交易型
+### 2026-04-19
+- **[详尽从零开始设计实现一个AI Agent框架](https://zhuanlan.zhihu.com/p/2027029874909397801)** AI Agent框架理论基础，ReAct模式、Plan-and-Execute模式、Reflection模式三大核心范式解析
+- **[系统拆解AI Agent框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从源码出发完整拆解多Agent系统设计理念，结合LangGraph、CrewAI等行业主流框架
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国，Agent应用普及驱动1800倍增长
+- **[详尽地带你从零开始设计实现一个AI Agent框架](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9525024.shtml)** ReAct智能体运作基于循环过程：推理→执行→观察三步骤
+- **[AI编程盛行的时代,为什么DC-WFW仍然具有必要性](https://blog.csdn.net/aDMgx6ufk/article/details/160258222)** 微软推出Microsoft Agent Framework，视为Semantic Kernel的官方继任者

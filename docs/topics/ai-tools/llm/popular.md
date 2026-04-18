@@ -683,3 +683,8 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-04-16
 - **[Claude 引入强实名验证;Gemini 3.1 系列新增文本转语音模型](https://baijiahao.baidu.com/s?id=1862586519158988181)** Google推出Gemini 3.1 Flash TTS，支持近70种语言
+### 2026-04-19
+- **[Claude Opus 4.7深夜发布:最强生产力AI,打工人慌了](https://www.163.com/dy/article/KQNRL65J05118O92.html)** Opus 4.7在SWE-bench Pro编程测试中得分64.3%，领先GPT-5.4的57.7%
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://gitcode.csdn.net/69e2cf7454b52172bc6aa1a3.html)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术实现2倍提升
+- **[2026年主流AI镜像模型对比实测](https://caifuhao.eastmoney.com/news/20260418163552799539750)** GPT-4o全能型多模态，Claude 3.5 Sonnet编程与长文本专家
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160224086)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude

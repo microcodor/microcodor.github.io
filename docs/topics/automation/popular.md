@@ -757,3 +757,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 ### 2026-04-16
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具
+### 2026-04-19
+- **[日更狂魔!Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details/160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一
+- **[Agentic Workflow:让AI从答案生成器变成数字员工](https://www.woshipm.com/?p=6378943)** 核心能力包括规划、工具调用、记忆、自我反思

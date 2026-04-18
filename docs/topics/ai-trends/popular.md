@@ -756,3 +756,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ## 近期动态
 ### 2026-04-16
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高](http://k.sina.com.cn/article_7857201856_1d45362c001904cprg.html)** AI快速融入核心业务
+### 2026-04-19
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%
+- **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型
+- **[英伟达发布全球首个开源量子AI模型ISING](https://baijiahao.baidu.com/s?id=1862591614699945605)** 在量子处理器校准与量子纠错领域实现技术突破

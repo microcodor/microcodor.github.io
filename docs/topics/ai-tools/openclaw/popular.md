@@ -732,3 +732,8 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-04-16
 - **[华源证券:OpenClaw启发AIAgent新阶段](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw看作是个人AI的操作系统
+### 2026-04-19
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** Anthropic封锁意外推动中国模型普及，Token日均调用量超越美国
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL引入OpenClaw Agent训练完整样例
+- **[《OpenClaw实战指南》出版:从部署到上手,手把手教你打造超级AI助手](https://baijiahao.baidu.com/s?id=1862621208930764301)** 帮助读者真正将AI助手融入日常工作中
+- **[华源证券:OpenClaw启发AIAgent新阶段](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw看作是个人AI的操作系统
