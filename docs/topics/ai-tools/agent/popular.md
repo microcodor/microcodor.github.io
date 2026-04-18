@@ -22,6 +22,11 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
 ## 近期动态
+### 2026-04-18
+- **[AI编程时代,人类程序员还剩下什么?](https://blog.csdn.net/nJI74egg1/article/details/160248795)** .NET生态系统正在经历AI Agent框架重构，Microsoft Agent Framework成为Semantic Kernel官方继任者
+- **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw龙虾技术，基于端侧龙虾式AI智能体，解决自进化、Token消耗、长线记忆等痛点
+- **[OpenAI这次重写Agents SDK,把LangChain们的饭碗端了](https://blog.csdn.net/fzuim/article/details/160233980)** OpenAI重写Agents SDK，引入harness和沙盒架构，Manifest支持七大沙盒厂商
+
 ### 2026-04-16
 - **[OpenClaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号从v2026.4.7到v2026.4.11，记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
 - **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制首次被组织进"长期运行的Agent系统"，记忆从"存储"变成"认知"

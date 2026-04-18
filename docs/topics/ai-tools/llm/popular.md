@@ -21,6 +21,13 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-18
+- **[Claude Opus 4.7深夜发布:最强生产力AI,打工人慌了](https://www.163.com/dy/article/KQNRL65J05118O92.html)** Opus 4.7在SWE-bench Pro编程测试中得分64.3%，领先GPT-5.4的57.7%，支持100万Token上下文
+- **[Gemini桌面端首发体验:谷歌憋了这么久,交出了一份"粗糙"答卷](https://m.thepaper.cn/newsDetail_forward_32987875)** Gemini桌面端仅支持macOS Apple Silicon，采用快捷键唤起，视觉体验粗糙
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160224086)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+- **[2026年三大模型终极对战:GPT-5.4 vs Claude 4.6 vs Gemini 3.1](https://www.eefocus.com/article/1991908.html)** GPT-5.4擅长"动手执行"，Claude 4.6精于"深度思考"，Gemini 3.1 Pro强在"海量分析"
+- **[Google发力了,硬刚 Claude Code](https://www.163.com/dy/article/KQOCUJ2R0519EA27.html)** Gemini Mac桌面版支持全局快捷键唤起、窗口共享，Gemini CLI支持Subagents
+
 ### 2026-04-16
 - **[大模型六雄混战2026:豆包、千问、DeepSeek激战正酣,Gemini、GPT-5与Claude 4如何接招?](https://blog.csdn.net/chenchuang0128/article/details/160147617)** 豆包2.0多模态细节控，千问3.5打破"不可能三角"，DeepSeek-V3.2数学竞赛状元
 - **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini终于学会"群聊"](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe月活用户73%会同时使用3个以上模型，Perplexity日查询量突破1亿次

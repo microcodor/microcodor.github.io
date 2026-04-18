@@ -23,6 +23,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
 
 ## 近期动态
+### 2026-04-18
+- **[从"龙虾"到"爱马仕",Agent越能干Token越费钱](https://www.yicai.com/news/103138359.html)** OpenClaw阶段引入混合记忆，Hermes构建分层持久记忆，Harness强化状态持久化与错误恢复机制
+- **[四个真实场景还原ToClaw:当远程控制遇上AI Agent,一场生产力革命悄然开始](https://baijiahao.baidu.com/s?id=1862697254001440120)** ToDesk推出ToClaw，将OpenClaw核心能力以轻量方式交付，用户1分钟即可开启
+- **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配、SSRF终极防护
+
 ### 2026-04-16
 - **[华源证券:OpenClaw启发AIAgent新阶段 能力跃迁与入口争夺](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw比作个人AI的操作系统，腾讯、阿里云相继上线一键部署方案
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复

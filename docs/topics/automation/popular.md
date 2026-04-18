@@ -21,6 +21,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-18
+- **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile、Notion等五大平台深度对比，帮你找到最适合的自动化方案
+- **[毫秒级同步挑战:5款私信聚合工具全网消息抓取延迟深度横评](https://laigu.com/blog/private-message-aggregation-tool/)** 消息同步延迟、平台覆盖广度、AI辅助效率、数据处理能力四大维度横评
+- **[IT之家实测天禧Claw:开箱即用的7×24小时全端超能AI助理](https://www.163.com/dy/article/KQN9Q5N20511B8LM.html)** 天禧Claw采用端云混合部署模式，5分钟零门槛上手，支持Skill自主扩展
+
 ### 2026-04-16
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
