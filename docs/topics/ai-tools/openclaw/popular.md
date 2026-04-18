@@ -21,6 +21,14 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951&wfr=spider&for=pc)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 - **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁，改变企业成本结构与收入模式
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔,开发者等了半年](https://baijiahao.baidu.com/s?id=1859194570460195220&wfr=spider&for=pc)** GPT-5.4+Gemini 3.1双引擎上线，ContextEngine插件接口发布
+### 2026-04-19
+- **[半夜紧急升级!OpenClaw 新功能解决所有 AI 使用痛点](https://www.163.com/dy/article/KQP6TPTM055616YL.html)** OAuth Token 状态监控、记忆跨设备同步支持 S3/GCS/Azure 云存储
+- **[2026年怎么部署OpenClaw?阿里无影云电脑部署OpenClaw零基础喂饭级教程](https://zhuanlan.zhihu.com/p/2028888863993545526)** GitHub 星标突破 18.8 万，阿里云无影云电脑一键部署方案
+- **[龙虾之战进入深水区,产品完成度是下一个赛点](https://www.163.com/dy/article/KQPLAUPS05118O92.html)** 字节扣子 2.5 升级、腾讯发布龙虾记忆服务、QQ 浏览器 QBotClaw 上线
+- **[突破AI进化的瓶颈:OpenClaw与Hermes缺一不可](https://www.163.com/dy/article/KQPQ18C2055616YL.md)** ClawHub 收录超 13729 个技能，Hermes 两个月突破 8.5 万星标
+- **[Hermes 凭什么两个月接棒 OpenClaw?](https://www.163.com/dy/article/KQPQ4APL0511805E)** 自进化 Skill、自动记忆管理、用户建模系统实现"自主成长"
+- **[龙虾跑路指南:从 OpenClaw 迁移到 Hermes Agent 保姆级教程](https://blog.csdn.net/excnies/article/details/160282078)** 2.5 小时用 Hermes 做出《百战天虫》克隆版
+- **[2026年 OpenClaw 阿里云ECS云服务器部署喂饭级图文教程](https://developer.aliyun.com/article/1728304)** 阿里云 ECS 一键部署方案，20 分钟完成
 
 ## 近期动态
 ### 2026-04-18

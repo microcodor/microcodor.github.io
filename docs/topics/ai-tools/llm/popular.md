@@ -21,6 +21,12 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-19
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://gitcode.csdn.net/69e2cf7454b52172bc6aa1a3.html)** GPT-5.4 操作能力原生内置，Gemini 3.1 Pro 并行思考技术实现 2 倍提升，Claude 4.6 Opus 安全优先
+- **[2026年主流AI镜像模型对比实测](https://caifuhao.eastmoney.com/news/20260418163552799539750)** GPT-4o 全能型多模态，Claude 3.5 Sonnet 编程与长文本专家，Gemini 2.0 谷歌生态核心
+- **[2026主流AI模型怎么选](https://www.eefocus.com/article/1992384.html)** ChatGPT 通用快、Claude 稳细、Gemini 偏信息整合，各有适用场景
+- **[2026年四大AI模型横向评测](https://blog.csdn.net/2601_95853375/article/details/160257084)** Gemini 3 Pro 多模态强、GPT-4o 全面均衡、Claude 3.5 严谨安全、Grok-2 幽默实时
+- **[Gemini 3.1 Pro 完整指南 2026](http://k.sina.com.cn/article_7879848900_1d5acf3c401902x8qk.html)** ARC-AGI-2 得分 77.1% 是前代两倍，定价仅 2 美元/百万 token
 ### 2026-04-18
 - **[Claude Opus 4.7深夜发布:最强生产力AI,打工人慌了](https://www.163.com/dy/article/KQNRL65J05118O92.html)** Opus 4.7在SWE-bench Pro编程测试中得分64.3%，领先GPT-5.4的57.7%，支持100万Token上下文
 - **[Gemini桌面端首发体验:谷歌憋了这么久,交出了一份"粗糙"答卷](https://m.thepaper.cn/newsDetail_forward_32987875)** Gemini桌面端仅支持macOS Apple Silicon，采用快捷键唤起，视觉体验粗糙

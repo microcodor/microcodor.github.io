@@ -21,6 +21,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
 ## 近期动态
+### 2026-04-19
+- **[Runway官网 - AI驱动的专业视频编辑软件](http://k.sina.com.cn/article_7879848900_1d5acf3c401902x6xi)** 支持视频生成、图像处理、音频处理、Workflow自动化，创建和定制工作流程提高创作效率
+- **[OpenClaw实战:高效沟通与协作](https://codeboy.blog.csdn.net/article/details/160259914)** 邮件、会议、日程自动化工作流，搭建完整沟通自动化
+- **[GitLink CLI:为智能时代设计的开源协作工具](https://weibo.com/ttarticle/p/show?id=2309405289079301603436)** CCF官方发布，CLI和Skills双引擎让AI Agent自动化操作GitLink平台
+- **[OmX深度解析:给OpenAI Codex装上工作流引擎](https://www.chenxutan.com/d/1784.html)** 两个月16,000+ Stars，解决上下文记忆缺失、缺乏工程化流程、无法并行协作、状态无法持久化
+- **[频繁降智的AI产品们,就是新时代最离谱的盲盒](https://new.qq.com/rain/a/20260418A033WB00)** Claude降智风波，同一模型名背后可能是不同effort档位和adaptive thinking策略
 ### 2026-04-18
 - **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile、Notion等五大平台深度对比，帮你找到最适合的自动化方案
 - **[毫秒级同步挑战:5款私信聚合工具全网消息抓取延迟深度横评](https://laigu.com/blog/private-message-aggregation-tool/)** 消息同步延迟、平台覆盖广度、AI辅助效率、数据处理能力四大维度横评

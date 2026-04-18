@@ -21,11 +21,19 @@ description: 主流 Agent 框架与工具链一览
 - **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力、记忆系统从短期到长期、Multi-Agent从论文走向产品
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://baijiahao.baidu.com/s?id=1859011376507861696&wfr=spider&for=pc)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 
+### 2026-04-19
+- **[OpenClaw 实战:让AI页面"秒开即用",实现 Vibecoding 真正闭环](https://blog.csdn.net/Kj5j154n7/article/details/160286921)** Microsoft Agent Framework 成为 Semantic Kernel 官方继任者，.NET AI 代理进入工业化生产阶段
+- **[AI 工程化发展及趋势-AI 架构师成长计划](https://blog.51cto.com/u_16213697/14552192)** AI Agent 进入 Agent + Skills 时代，自主决策、任务分解、技能复用成为核心能力
+- **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402 协议和 MPP 协议推动 AI Agent 自主支付，Stripe、Visa 等金融巨头已支持
+- **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner 预测到 2026 年底 40% 企业应用将嵌入 AI Agent，Agentic AI 市场预计增长至 520 亿美元
 ## 近期动态
 ### 2026-04-18
 - **[AI编程时代,人类程序员还剩下什么?](https://blog.csdn.net/nJI74egg1/article/details/160248795)** .NET生态系统正在经历AI Agent框架重构，Microsoft Agent Framework成为Semantic Kernel官方继任者
 - **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw龙虾技术，基于端侧龙虾式AI智能体，解决自进化、Token消耗、长线记忆等痛点
 - **[OpenAI这次重写Agents SDK,把LangChain们的饭碗端了](https://blog.csdn.net/fzuim/article/details/160233980)** OpenAI重写Agents SDK，引入harness和沙盒架构，Manifest支持七大沙盒厂商
+- **[详尽从零开始设计实现一个AI Agent框架](https://zhuanlan.zhihu.com/p/2027029874909397801)** AI Agent框架理论详解，ReAct模式将推理和行动相结合，Plan-and-Execute强调先制定计划再执行
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国，Agent应用普及驱动1800倍增长
+- **[AI Agent 架构图解:大模型、记忆、RAG 与工具调用的协同机制](https://blog.csdn.net/UK6P3pv99/article/details/160087355)** .NET AI代理进入工业化生产阶段，Microsoft Agent Framework融合Semantic Kernel与AutoGen能力
 
 ### 2026-04-16
 - **[OpenClaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号从v2026.4.7到v2026.4.11，记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
