@@ -21,6 +21,19 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://g.pconline.com.cn/zhizao/article/1544605.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 
 ## 近期动态
+### 2026-04-20
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+
+### 2026-04-19 (新增)
+- **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude在制药领域深耕医学事务与监管资料撰写，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接做管线
+- **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释和文档生成方面表现优异，Gemini 3 Pro多模态代码解释能力最为直观
+- **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大阵营最新旗舰已完成迭代，MoE已成为主流架构
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术实现2倍提升，Claude 4.6 Opus安全优先
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+
 ### 2026-04-19
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://gitcode.csdn.net/69e2cf7454b52172bc6aa1a3.html)** GPT-5.4 操作能力原生内置，Gemini 3.1 Pro 并行思考技术实现 2 倍提升，Claude 4.6 Opus 安全优先
 - **[2026年主流AI镜像模型对比实测](https://caifuhao.eastmoney.com/news/20260418163552799539750)** GPT-4o 全能型多模态，Claude 3.5 Sonnet 编程与长文本专家，Gemini 2.0 谷歌生态核心
@@ -74,6 +87,10 @@ description: 主流大模型能力对比与选型参考
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元,成为AI开发者工具市场焦点
 
 ## 近期动态
+### 2026-04-19
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+
 ### 2026-04-13
 - **[企业为何仍要评估Claude:多模型架构下的能力上限与工程化落地](https://developer.aliyun.com/article/1724991)** Claude Sonnet 4.6的输入成本每百万token 3美元,Opus 4.6提供100万token上下文窗口,自适应思考机制
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://www.163.com/dy/article/KQASPFOU05566YK3.html)** 赛诺菲用Claude做医学事务,诺和诺德用于监管资料撰写,谷歌用Med-Gemini做多模态临床分析

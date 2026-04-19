@@ -27,6 +27,18 @@ description: 主流 Agent 框架与工具链一览
 - **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402 协议和 MPP 协议推动 AI Agent 自主支付，Stripe、Visa 等金融巨头已支持
 - **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner 预测到 2026 年底 40% 企业应用将嵌入 AI Agent，Agentic AI 市场预计增长至 520 亿美元
 ## 近期动态
+### 2026-04-20
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+
+### 2026-04-19
+- **[Agentic Workflow:让AI从"答案生成器"变成"数字员工"](https://www.woshipm.com/?p=6378943)** 核心能力包括规划、工具调用、记忆、自我反思
+- **[2026 AI Agent Harness Engineering 趋势:Agentic Workflow将取代传统自动化脚本](https://blog.csdn.net/m0_62554628/article/details=160226357)** Agentic Workflow将取代传统自动化脚本的3个信号
+- **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
+- **[我们拆解了50个AI应用:Agentic Workflow是唯一分水岭](https://blog.csdn.net/2501_91473495/article/details/160122773)** Agentic Workflow是当前AI应用领域唯一真正分水岭，成功AI应用几乎都采用其设计理念
+
 ### 2026-04-18
 - **[AI编程时代,人类程序员还剩下什么?](https://blog.csdn.net/nJI74egg1/article/details/160248795)** .NET生态系统正在经历AI Agent框架重构，Microsoft Agent Framework成为Semantic Kernel官方继任者
 - **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw龙虾技术，基于端侧龙虾式AI智能体，解决自进化、Token消耗、长线记忆等痛点
@@ -775,3 +787,10 @@ description: 主流 Agent 框架与工具链一览
 - **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国，Agent应用普及驱动1800倍增长
 - **[详尽地带你从零开始设计实现一个AI Agent框架](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9525024.shtml)** ReAct智能体运作基于循环过程：推理→执行→观察三步骤
 - **[AI编程盛行的时代,为什么DC-WFW仍然具有必要性](https://blog.csdn.net/aDMgx6ufk/article/details/160258222)** 微软推出Microsoft Agent Framework，视为Semantic Kernel的官方继任者
+
+### 2026-04-19 (新增)
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战指南，涵盖多Agent交互与人工干预
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，通过结构化文件夹将任务指令、代码能力与资源模块化封装，构建标准化AI工作手册SOP
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta HyperAgents、DARWIN框架、AgentFactory、Karpathy的AutoResearch等自进化AI系统深度解析
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者!](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从底层源码出发完整拆解如何写好一个AI Agent框架，结合LangGraph、CrewAI等主流框架设计理念
+- **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云全方位重构AI技术栈，从模型架构到智能体自主认知的范式跃迁

@@ -33,6 +33,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[百度发布国内首个医生版"龙虾"医疗AI产品](https://baijiahao.baidu.com/s?id=1861408057054199637)** 阿里健康"氢离子"、京东健康"知医"瞄准医生群体
 
 ## 近期动态
+### 2026-04-20
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+
 ### 2026-04-18
 - **[AI细分赛道,火爆!两大科技巨头双双发布](https://baijiahao.baidu.com/s?id=1862673395913720163)** 阿里发布世界模型Happy Oyster，腾讯开源混元3D世界模型2.0，支持影视制作、游戏开发
 - **[特斯拉AI5芯片终版图完成,进度落后近两年](https://baijiahao.baidu.com/s?id=1862673406321096239)** AI5设计已完成，原定2025年下半年进入车辆，现已落后近两年
