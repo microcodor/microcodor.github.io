@@ -769,3 +769,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一
 - **[Agentic Workflow:让AI从答案生成器变成数字员工](https://www.woshipm.com/?p=6378943)** 核心能力包括规划、工具调用、记忆、自我反思
+
+### 2026-04-20
+- **[别再低效运转!2026 年最值得部署的 10 大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 2026年最值得部署的10大自动化工具深度解析
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用
+- **[AI工作流爆火背后:能否重塑办公生态?](https://developer.baidu.com/article_detail.html?id=6543166)** AI工作流技术经历从规则引擎到动态流程编排、跨平台集成、自学习优化三大核心升级
+- **[2026 四款 AI:程序员必备 AI 工具实测](https://blog.csdn.net/like0907/article/details/160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比
+- **[AI 框架LangChain | Dify | n8n | Coze 简介](https://blog.csdn.net/qq_20113327/article/details/160146606)** 四大框架对比：LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化、Coze低门槛做Bot

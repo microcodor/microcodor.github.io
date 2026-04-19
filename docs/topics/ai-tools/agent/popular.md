@@ -794,3 +794,10 @@ description: 主流 Agent 框架与工具链一览
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta HyperAgents、DARWIN框架、AgentFactory、Karpathy的AutoResearch等自进化AI系统深度解析
 - **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者!](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从底层源码出发完整拆解如何写好一个AI Agent框架，结合LangGraph、CrewAI等主流框架设计理念
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云全方位重构AI技术栈，从模型架构到智能体自主认知的范式跃迁
+
+### 2026-04-20
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 大语言模型能力从"生成文本"扩展到"使用工具、完成任务"，Gartner将AI Agent列为"十大战略技术趋势"之首
+- **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
+- **[谷歌Agent Development Kit (ADK)](https://baike.baidu.com/item/谷歌Agent%20Development%20Kit%20(ADK)/67567032)** 2025年4月9日发布，开源Python多代理开发框架，支持Gemini及MCP协议
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初迅速升温，标志Agent开发从prompt向系统设计转变
+- **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw，基于端侧龙虾式AI智能体，解决自进化、Token消耗等痛点

@@ -768,3 +768,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%
 - **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型
 - **[英伟达发布全球首个开源量子AI模型ISING](https://baijiahao.baidu.com/s?id=1862591614699945605)** 在量子处理器校准与量子纠错领域实现技术突破
+
+### 2026-04-20
+- **[全栈引领·价值兑现——2025-2026联想集团AI核心实力全景测评](https://www.csdn.net/article/2026-04-16/160204309)** 联想实现十大权威AI榜单全覆盖，具备"端-边-云-网-智"全栈协同能力
+- **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article_detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持单次处理完整技术白皮书
+- **[2025年至2026年初百度AI核心成果发布](https://programb.blog.csdn.net/article/details/160174108)** 昆仑芯M100/M300、天池超节点、文心大模型5.0、伐谋超级智能体
+- **[网易有道2025年营收59.1亿元,Lobster AI、有道宝库等Agent新品密集发布](http://www.jjckb.cn/20260415/e6ee6b9112ba439fb566cdbdeb8f6c0d/c.html)** Lobster AI被誉为"中国版OpenClaw"，GitHub Star突破5000
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 平台架构与开放性、智能体构建民主化程度、知识治理与数据燃料供给能力

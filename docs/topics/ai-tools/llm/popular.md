@@ -705,3 +705,10 @@ description: 主流大模型能力对比与选型参考
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://gitcode.csdn.net/69e2cf7454b52172bc6aa1a3.html)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术实现2倍提升
 - **[2026年主流AI镜像模型对比实测](https://caifuhao.eastmoney.com/news/20260418163552799539750)** GPT-4o全能型多模态，Claude 3.5 Sonnet编程与长文本专家
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160224086)** 场景选型指南：数据提取首选Gemini，代码辅助选Claude
+
+### 2026-04-20
+- **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini终于学会"群聊"](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** 用户规模、融资额、企业采购单三项指标翻倍，Poe月活用户73%同时使用3个以上模型
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术实现2倍提升，Claude 4.6 Opus安全优先
+- **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释和文档生成方面表现优异
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini 200万token上下文，代码辅助选Claude，中文内容生成Claude最强
+- **[所谓"免翻墙用GPT-4",90%在偷偷降级模型](https://post.smzdm.com/p/awwg9v8m/)** 免费镜像站存在"模型注水"风险，影子API准确率断崖式下跌至36.95%
