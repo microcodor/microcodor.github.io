@@ -38,6 +38,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+- **[全栈引领·价值兑现——2025-2026联想集团AI核心实力全景测评](https://www.csdn.net/article/2026-04-16/160204309)** 联想集团实现基础层、技术层、应用层全产业链覆盖，上榜十大权威AI榜单
+- **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article/detail.html?id=6541896)** 上下文窗口扩展至100万tokens，支持32种语言，覆盖全球92%互联网用户
+- **[2025年至2026年初百度围绕AI全栈技术体系持续突破](https://programb.blog.csdn.net/article/details/160174108)** 昆仑芯与天池超节点、伐谋超级智能体、萝卜快跑全球22城、慧播星开放生态
+- **[网易有道2025年营收59.1亿元,Lobster AI、有道宝库等Agent新品发布](http://www.jjckb.cn/20260415/e6ee6b9112ba439fb566cdbdeb8f6c0d/c.html)** 国内首个100%代码全开源AI Agent产品，Lobster AI被誉为"中国版OpenClaw"
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型知识治理痛点
+- **[AI成驱动业绩增长关键动力](https://baijiahao.baidu.com/s?id=1862406614944674381)** 腾讯、阿里巴巴、百度、京东等大型互联网企业2025年年报密集披露
 
 ### 2026-04-18
 - **[AI细分赛道,火爆!两大科技巨头双双发布](https://baijiahao.baidu.com/s?id=1862673395913720163)** 阿里发布世界模型Happy Oyster，腾讯开源混元3D世界模型2.0，支持影视制作、游戏开发

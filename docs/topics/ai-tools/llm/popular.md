@@ -26,6 +26,11 @@ description: 主流大模型能力对比与选型参考
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+- **[2026年AI聚合器:3个平台让ChatGPT、Claude、Gemini终于学会"群聊"](https://www.163.com/dy/article/KQFPPPJ205561FZL.html)** Poe、You.com、Perplexity让三款主流模型实现协同工作
+- **[所谓"免翻墙用GPT-4",90%在偷偷降级模型,国产替代已成务实之选](https://post.smzdm.com/p/awwg9v8m/)** Claude 9月起对中国关闭个人访问通道，GPT有Azure中国版但仅限企业
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4操作能力内置，Gemini 3.1 Pro并行思考技术2倍提升，Claude 4.6 Opus安全优先
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+- **[别人都在卷Harness,而Google的沉默振聋发聩](https://baijiahao.baidu.com/s?id=1862501048778171095)** GoogleGemini模型强大但缺乏有说服力的harness，Anthropic和OpenAI已建立紧密整合
 
 ### 2026-04-19 (新增)
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude在制药领域深耕医学事务与监管资料撰写，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接做管线

@@ -26,6 +26,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
+- **[别再低效运转!2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具横向对比
+- **[AI工作流爆火背后:能否重塑办公生态?](https://developer.baidu.com/article/detail.html?id=6543166)** 动态流程编排、跨平台集成能力、自学习优化机制三大核心升级
+- **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details=160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比
+- **[日更狂魔!Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** AI开始"自己干活"，编程自动化进入新纪元，实现从人指挥到AI执行的质变
+- **[收藏版:AI应用开发学习路线图](https://zhuanlan.zhihu.com/p/2028151896267925018)** 程序员轻松上手大模型，构建你的AI项目
 
 ### 2026-04-19
 - **[Runway官网 - AI驱动的专业视频编辑软件](http://k.sina.com.cn/article_7879848900_1d5acf3c401902x6xi)** 支持视频生成、图像处理、音频处理、Workflow自动化，创建和定制工作流程提高创作效率
