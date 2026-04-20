@@ -39,6 +39,16 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
 - **[网易有道Lobster AI、有道宝库等Agent新品近期密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内首个100%代码全开源AI Agent产品，GitHub Star突破5000
 
+### 2026-04-20
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
+- **[系统拆解AI Agent框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发，详解如何写好一个AI Agent框架
+- **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details=160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念，标志Agent开发从prompt向模型运行系统转变
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型知识治理痛点
+- **[谷歌Agent Development Kit (ADK)](https://baike.baidu.com/item/谷歌Agent%20Development%20Kit%20(ADK)/67567032)** 2025年4月Google Cloud Next大会发布，开源Python多智能体开发框架
+
 ### 2026-04-19
 - **[Agentic Workflow:让AI从"答案生成器"变成"数字员工"](https://www.woshipm.com/?p=6378943)** 核心能力包括规划、工具调用、记忆、自我反思
 - **[2026 AI Agent Harness Engineering 趋势:Agentic Workflow将取代传统自动化脚本](https://blog.csdn.net/m0_62554628/article/details=160226357)** Agentic Workflow将取代传统自动化脚本的3个信号
