@@ -827,5 +827,12 @@ description: 主流 Agent 框架与工具链一览
 - **[2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具横向对比，涵盖Agentforce、Trello等
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+
+### 2026-04-21
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发详解框架设计，Gartner将AI Agent列为"十大战略技术趋势"之首
+- **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw，基于端侧龙虾式AI智能体，解决自进化、Token消耗等痛点
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型知识治理痛点
+- **[谷歌Agent Development Kit (ADK)](https://baike.baidu.com/item/谷歌Agent%20Development%20Kit%20(ADK)/67567032)** 2025年4月Google Cloud Next大会发布，开源Python多智能体开发框架
+- **[网易有道Lobster AI、有道宝库等Agent新品密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内首个100%代码全开源AI Agent产品，GitHub Star突破5000
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器
 

@@ -47,6 +47,11 @@ description: 主流大模型能力对比与选型参考
 - **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4操作能力内置，Gemini 3.1 Pro并行思考技术2倍提升，Claude 4.6 Opus安全优先
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
 
+### 2026-04-21
+- **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://baijiahao.baidu.com/s?id=1862629081195722303)** Google正式上线macOS版Gemini桌面端，默认不打开对话列表，视觉拥挤不协调
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4内置操作能力，Gemini 3.1 Pro并行思考技术2倍提升，Claude 4.6 Opus安全优先路线
+- **[2026三大AI编程实测:GPT、Claude、Gemini终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0复杂算法准确率领先，GPT-5.4代码注释文档生成优异，Gemini多模态代码解释最直观
+
 ### 2026-04-19 (新增)
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude在制药领域深耕医学事务与监管资料撰写，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接做管线
 - **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释和文档生成方面表现优异，Gemini 3 Pro多模态代码解释能力最为直观

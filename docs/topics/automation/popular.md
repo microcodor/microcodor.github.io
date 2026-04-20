@@ -794,3 +794,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details/160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
 
+
+### 2026-04-21
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
+- **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile等平台深度对比，企业级工作流管理
+- **[AI与Workflow的协同革命:企业效率的新视角](http://wap.hebei.shtgwkj.com/detail/blog/828_89582.shtml)** Agent与Workflow协作关系深度解析，企业效率提升核心路径
