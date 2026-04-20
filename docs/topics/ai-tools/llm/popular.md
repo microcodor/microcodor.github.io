@@ -43,6 +43,10 @@ description: 主流大模型能力对比与选型参考
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
 - **[别人都在卷Harness,而Google的沉默振聋发聩](https://baijiahao.baidu.com/s?id=1862501048778171095)** GoogleGemini模型强大但缺乏有说服力的harness，Anthropic和OpenAI已建立紧密整合
 
+### 2026-04-20
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4操作能力内置，Gemini 3.1 Pro并行思考技术2倍提升，Claude 4.6 Opus安全优先
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details=160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+
 ### 2026-04-19 (新增)
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude在制药领域深耕医学事务与监管资料撰写，Gemini+DeepMind走硬核科学路线，AlphaFold 3直接做管线
 - **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释和文档生成方面表现优异，Gemini 3 Pro多模态代码解释能力最为直观
@@ -728,3 +732,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释和文档生成方面表现优异
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini 200万token上下文，代码辅助选Claude，中文内容生成Claude最强
 - **[所谓"免翻墙用GPT-4",90%在偷偷降级模型](https://post.smzdm.com/p/awwg9v8m/)** 免费镜像站存在"模型注水"风险，影子API准确率断崖式下跌至36.95%
+### 2026-04-20
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details/160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
+- **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article_detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持32种语言，覆盖全球92%互联网用户
+- **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯与天池超节点、伐谋超级智能体、萝卜快跑全球22城、慧播星开放生态
+

@@ -804,6 +804,11 @@ description: 主流 Agent 框架与工具链一览
 - **[详尽地带你从零开始设计实现一个AI Agent框架](http://finance.sina.com.cn/wm/2026-04-13/doc-inhukqut9525024.shtml)** ReAct智能体运作基于循环过程：推理→执行→观察三步骤
 - **[AI编程盛行的时代,为什么DC-WFW仍然具有必要性](https://blog.csdn.net/aDMgx6ufk/article/details/160258222)** 微软推出Microsoft Agent Framework，视为Semantic Kernel的官方继任者
 
+### 2026-04-20
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发详解框架设计
+- **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** AI Agent已突破聊天机器人局限，Gartner预测2026年用专业框架开发效率将飙升300%
+- **[2025全新升级:Pydantic-AI v1.0.1重磅发布](https://blog.csdn.net/gitblog_01109/article/details=151543171)** 多模型集成、监控与分析能力、自动化评估与测试功能增强
+
 ### 2026-04-19 (新增)
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战指南，涵盖多Agent交互与人工干预
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，通过结构化文件夹将任务指令、代码能力与资源模块化封装，构建标准化AI工作手册SOP
@@ -817,3 +822,10 @@ description: 主流 Agent 框架与工具链一览
 - **[谷歌Agent Development Kit (ADK)](https://baike.baidu.com/item/谷歌Agent%20Development%20Kit%20(ADK)/67567032)** 2025年4月9日发布，开源Python多代理开发框架，支持Gemini及MCP协议
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初迅速升温，标志Agent开发从prompt向系统设计转变
 - **[Agent拐点时代已至,荣耀成了第一个吃螃蟹的"养虾人"](https://baijiahao.baidu.com/s?id=1862702324273316544)** 荣耀发布YOYO Claw，基于端侧龙虾式AI智能体，解决自进化、Token消耗等痛点
+### 2026-04-20
+- **[AI Agent框架LangChain|Dify|n8n|Coze简介四大框架对比](https://blog.csdn.net/qq_20113327/article/details/160146606)** LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化、Coze低门槛做Bot
+- **[2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具横向对比，涵盖Agentforce、Trello等
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器
+
