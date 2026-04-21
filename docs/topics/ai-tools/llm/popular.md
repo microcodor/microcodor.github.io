@@ -22,6 +22,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-21
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+
+
 
 ### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
@@ -744,3 +749,10 @@ description: 主流大模型能力对比与选型参考
 - **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article_detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持32种语言，覆盖全球92%互联网用户
 - **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯与天池超节点、伐谋超级智能体、萝卜快跑全球22城、慧播星开放生态
 
+
+### 2026-04-21
+- **[Gemini、GPT和 Claude 领衔的医药“三国杀”](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude打法死磕文本密集环节，Gemini+DeepMind走硬核科学路线，AlphaFold是核心竞争力
+- **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大阵营最新旗舰已完成迭代，MoE已成为主流架构
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4操作能力原生内置，Gemini 3.1 Pro并行思考技术，Claude 4.6安全优先路线
+- **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0复杂算法实现准确率领先，GPT-5.4代码注释和文档生成表现优异，Gemini 3 Pro多模态代码解释最直观
+- **[2026年AI模型选择指南:一站式体验三大旗舰模型](http://k.sina.com.cn/article_7879848900_1d5acf3c401902ww1m.html)** Gemini 3.1 Pro原生多模态统一表示，GPT-5.4工具生态与推测解码工程深化，Claude 4.6安全协作与长上下文压缩

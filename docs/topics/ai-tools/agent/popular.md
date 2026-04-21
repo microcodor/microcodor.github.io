@@ -39,6 +39,10 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年Agent智能体全场景选型指南:从技术原理到落地实践](https://developer.baidu.com/article/detail.html?id=6543339)** 多模态感知层、动态决策引擎、执行编排系统三大核心组成
 - **[网易有道Lobster AI、有道宝库等Agent新品近期密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内首个100%代码全开源AI Agent产品，GitHub Star突破5000
 
+### 2026-04-21
+- **[别再低效运转!2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具深度解析
+- **[AI框架LangChain|Dify|n8n|Coze简介](https://blog.csdn.net/qq_20113327/article_details=160146606)** 四大框架对比：LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化
+
 ### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
@@ -836,3 +840,10 @@ description: 主流 Agent 框架与工具链一览
 - **[网易有道Lobster AI、有道宝库等Agent新品密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内首个100%代码全开源AI Agent产品，GitHub Star突破5000
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器
 
+
+### 2026-04-21
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等主流框架对比与实战指南，涵盖多Agent交互与人工干预
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程代表提示词工程向系统设计的演进，从RAG到Agent的技术演进已成定局
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta HyperAgents、DARWIN框架、AgentFactory、Karpathy的AutoResearch等自进化AI系统深度解析
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166&wfr=spider&for=pc)** Anthropic推出Agent Skills，通过结构化文件夹将任务指令、代码能力与资源模块化封装
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发详解框架设计，Gartner将AI Agent列为"十大战略技术趋势"之首

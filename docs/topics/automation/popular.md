@@ -799,3 +799,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
 - **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile等平台深度对比，企业级工作流管理
 - **[AI与Workflow的协同革命:企业效率的新视角](http://wap.hebei.shtgwkj.com/detail/blog/828_89582.shtml)** Agent与Workflow协作关系深度解析，企业效率提升核心路径
+
+### 2026-04-21
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
+- **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow支持workflows as markdown文件，39个集成，支持Tool calling和Local LLM
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出，提供拖放界面
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI agents是自主的、基于规则的系统，感知环境并采取行动完成目标
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/457298)** AI自动化流程超越传统RPA，具备学习能力、异常识别、上下文理解与自我修正功能

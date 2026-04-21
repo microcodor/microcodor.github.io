@@ -800,3 +800,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025世界人工智能大会的十大发布](https://k.sina.com.cn/article_7879848900_1d5acf3c401902xcmy.html)** 中国移动"九天"、中国电信战略升级、中国联通工业智脑等重磅发布
 - **[百度2025-2026核心成果发布](https://programb.blog.csdn.net/article/details/160174108)** 昆仑芯M100/M300、天池超节点、文心大模型5.0、伐谋超级智能体
 - **[gpt-image-1](https://baike.baidu.com/item/gpt-image-1/67326261)** OpenAI发布GPT-image-1原生多模态模型，2026年3月正式替代DALL-E 3
+
+### 2026-04-21
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684&wfr=spider&for=pc)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
+- **[2025世界人工智能大会的十大发布](https://baijiahao.baidu.com/s?id=1838984204794216728)** 中国移动"九天"、中国电信企业战略升级、中国联通"UniAI"等重磅发布
+- **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article_detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持32种语言，覆盖全球92%互联网用户
