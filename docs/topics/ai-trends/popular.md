@@ -38,7 +38,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[全栈引领·价值兑现——2025-2026联想集团AI核心实力全景测评](https://www.csdn.net/article/2026-04-16/160204309)** 联想集团实现基础层、技术层、应用层全产业链覆盖，上榜十大权威AI榜单
 - **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article/detail.html?id=6541896)** 上下文窗口扩展至100万tokens，支持32种语言，覆盖全球92%互联网用户
 - **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯与天池超节点、伐谋超级智能体、萝卜快跑全球22城、慧播星开放生态
-- **[网易有道2025年营收59.1亿元,Lobster AI、有道宝库等Agent新品发布](http://www.jjckb.cn/20260415/e6ee6b9112ba439fb566cdbdeb8f6c0d/c.html)** 国内首个100%代码全开源AI Agent产品，Lobster AI被誉为"中国版OpenClaw" ### 2026-04-20
+- **[网易有道2025年营收59.1亿元,Lobster AI、有道宝库等Agent新品发布](http://www.jjckb.cn/20260415/e6ee6b9112ba439fb566cdbdeb8f6c0d/c.html)** 国内首个100%代码全开源AI Agent产品，Lobster AI被誉为"中国版OpenClaw" 
+
+### 2026-04-21
+- **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC、智能眼镜进入规模化商用
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
+- **[2025世界人工智能大会的十大发布](https://baijiahao.baidu.com/s?id=1838984204794216728)** 中国移动"九天"、中国电信企业战略升级、中国联通"UniAI"等重磅发布
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布,DeepSeek、豆包、kimi、腾讯元宝、通义等入选
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置

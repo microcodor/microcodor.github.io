@@ -40,8 +40,12 @@ description: 主流 Agent 框架与工具链一览
 - **[网易有道Lobster AI、有道宝库等Agent新品近期密集发布](https://baijiahao.baidu.com/s?id=1862537180849499335)** 国内首个100%代码全开源AI Agent产品，GitHub Star突破5000
 
 ### 2026-04-21
-- **[别再低效运转!2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具深度解析
-- **[AI框架LangChain|Dify|n8n|Coze简介](https://blog.csdn.net/qq_20113327/article_details=160146606)** 四大框架对比：LangChain自由度最高、Dify适合快速原型、n8n擅长流程自动化
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比，涵盖工作流编排、多Agent协作等核心能力
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识，A2A解决机机协作广度
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软Semantic Kernel和AutoGen继任者，2026年3月引入Agent Skills功能，支持Python和.NET
+- **[AI Agent五层生态:从模型、运行时到数据基础设施](https://zhuanlan.zhihu.com/p/2025521709428611063)** 模型层→运行时层→开发层→入口层→数据基础设施五层结构分析
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国Token日均消耗量超越美国，国产模型借Agent浪潮完成商业化超越
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发，详解如何写好一个AI Agent框架
 
 ### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%

@@ -23,8 +23,12 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-04-21
-- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
-- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大模型最新版本全景对比，MoE架构成为主流
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术大比拼](https://www.eefocus.com/article/1990173.html)** GPT-5.4操作能力内置，Gemini 3.1 Pro并行思考技术2倍提升，Claude 4.6 Opus安全优先
+- **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0复杂算法准确率领先，GPT-5.4代码注释文档生成优异，Gemini多模态代码解释最直观
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://blog.csdn.net/2601_95861180/article/details/160296522)** 2026年编程能力实测，三者互补效率拉满
+- **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
 
 
 

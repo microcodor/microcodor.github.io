@@ -26,7 +26,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
 - **[别再低效运转!2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具横向对比
 - **[AI工作流爆火背后:能否重塑办公生态?](https://developer.baidu.com/article/detail.html?id=6543166)** 动态流程编排、跨平台集成能力、自学习优化机制三大核心升级
-- **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details=160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比### 2026-04-20
+- **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details=160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比### 2026-04-21
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n支持连接所有HTTP API网络应用，用户可通过可视化界面搭建自定义自动化工作流
+- **[marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI agents与Agentic AI的区别，自主感知环境并采取行动
+- **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/457298)** RPA+机器学习实现端到端智能流程闭环，错误率下降70%以上
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** 传统Workflow四步流程与AI Workflow的智能升级详解
+
+### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
