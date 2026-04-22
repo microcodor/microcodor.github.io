@@ -22,6 +22,17 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-04-23
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
+- **[工作流自动化工具怎么选?5 款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、n8n等功能对比与选型建议
+- **[AI~与Workflow的协同革命:企业效率的新视角](http://wap.hebei.shtgwkj.com/detail/blog/828_89582.shtml)** Agent与Workflow并非相互对立，而是相互协作的伙伴
+- **[电商运营自动化AI工具有哪些?哪个最好用?](https://blog.csdn.net/SHIZAIZHINENG/article/details/160337908)** Accio Work、Runner AI、GrowClaw等全链路智能体选型深度指南
+- **[一文讲清:Agent vs Workflow vs 传统编程的本质区别](https://zhuanlan.zhihu.com/p/2029665423507891482)** Agent让AI自主做判断，解决靠写代码解决不了的问题
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程到RAG到Agentic Workflow，效率提升10倍的演进路径
+- **[企业未来十年最重要的智能化工作](https://m.thepaper.cn/newsDetail_forward_33016126)** 过程与场景经验、专家判断与品味、行业资源与关系网络、执行入口与控制权
+
+## 近期动态
+
 ### 2026-04-22
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2028102466714047542)** Prompt是最低层行为约束，Workflow是预定义代码路径，Agent由模型动态决定过程与工具使用

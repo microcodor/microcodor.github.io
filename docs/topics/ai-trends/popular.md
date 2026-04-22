@@ -34,6 +34,15 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-04-23
+- **[2025世界人工智能大会的十大发布](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xcmy.html)** 中国移动"九天"、中国电信企业战略升级、中国联通工业智脑等重磅发布
+- **[百度2025至2026AI核心成果发布](https://programb.blog.csdn.net/article/details/160174108)** 昆仑芯M100/M300、天池超节点、文心大模型5.0、伐谋超级智能体
+- **[联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/21/031012126.shtml)** 联想实现十大权威AI榜单全覆盖,具备"端-边-云-网-智"全栈协同能力
+- **[Lumina AI](https://baike.baidu.com/item/Lumina%20AI/67319169)** 上海AI Lab开源视频生成框架Next-DiT，支持文本到视频生成
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，政策支持+技术突破驱动产业爆发
+
+## 近期动态
+
 ### 2026-04-22
 - **[2025世界人工智能大会的十大发布](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xcmy.html)** 中国移动"九天"、中国电信企业战略升级、中国联通工业智脑等重磅发布
 - **[百度2025至2026AI核心成果发布](https://programb.blog.csdn.net/article/details/160174108)** 昆仑芯M100/M300、天池超节点、文心大模型5.0、伐谋超级智能体

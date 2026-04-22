@@ -22,6 +22,15 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-23
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[GPT-6:推理能力又上了一个台阶](https://blog.51cto.com/u_16099279/14563130)** 推理性能比5.2提升40%，上下文窗口和注意力机制升级，token消耗量增加
+- **[Claude:上限和下限差距太大](https://blog.51cto.com/u_16099279/14563130)** Anthropic安全和成本控制权重过高，牺牲用户体验，但技术文档写作仍最优
+- **[Google Gemma 4系列开源](https://blog.51cto.com/u_16099279/14563130)** 2B/7B/23B全部开源，对数据隐私要求团队零成本启动
+- **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
+
+## 近期动态
+
 ### 2026-04-22
 - **[布林亲自督战:谷歌组建精英Gemini团队专攻AI编程,全力追赶Anthropic Claude](https://m.jrj.com.cn/madapter/finance/2026/04/21142556823268.shtml)** 谷歌组建精英团队由DeepMind工程师Sebastian Borgeaud领导,布林参与督战要求缩小与Anthropic在Agent执行方面的差距
 - **[AI办公的终局,不在模型参数,在场景壁垒](https://baijiahao.baidu.com/s?id=1863059134865479003)** 模型能力差距正在快速收敛,从模型能力比拼转向场景理解与生态壁垒的争夺

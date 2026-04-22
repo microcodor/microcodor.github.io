@@ -29,6 +29,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-04-23
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发，详解如何写好一个AI Agent框架
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+
+## 近期动态
+
 ### 2026-04-22
 - **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复
 - **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发,详解如何写好一个AI Agent框架

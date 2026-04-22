@@ -32,6 +32,14 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-23
+- **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启，上下文预算优化
+- **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
+- **[OpenClaw 阿里云部署实操+集成搜索skill,让AI Agent 助手自主进化](https://developer.aliyun.com/article/1728382)** 突破知识时效限制，提升任务执行准确性
+- **[3分钟阿里云/本地部署OpenClaw AI Agent +配置免费大模型+Cherry Studio可视化安装指南](https://developer.aliyun.com/article/1728709)** Cherry Studio零代码自动化适配，多模型兼容
+
+## 近期动态
+
 ### 2026-04-22
 - **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://www.163.com/dy/article/KR47Q4UF051494RM.html)** 恶意Skill投毒与提示词注入成主要威胁,超22万实例直接暴露在公共互联网上,62.9%为严重或高危漏洞
 - **[喂饭级教程:2026年OpenClaw 阿里云/本地部署,零代码接入Qwen3.5 Plus,3分钟跑通AI Agent](https://zhuanlan.zhihu.com/p/2030042451000472168)** Qwen3.5 Plus与OpenClaw协作,零代码基础也能快速搭建智能体
