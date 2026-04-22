@@ -26,7 +26,14 @@ description: 主流 Agent 框架与工具链一览
 - **[AI 工程化发展及趋势-AI 架构师成长计划](https://blog.51cto.com/u_16213697/14552192)** AI Agent 进入 Agent + Skills 时代，自主决策、任务分解、技能复用成为核心能力
 - **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402 协议和 MPP 协议推动 AI Agent 自主支付，Stripe、Visa 等金融巨头已支持
 - **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner 预测到 2026 年底 40% 企业应用将嵌入 AI Agent，Agentic AI 市场预计增长至 520 亿美元
+
 ## 近期动态
+
+### 2026-04-22
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发,详解如何写好一个AI Agent框架
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国,国产模型借Agent浪潮完成商业化超越
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年",上半年融资总额超80亿元
+
 ### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点

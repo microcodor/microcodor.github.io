@@ -32,6 +32,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-22
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源强化学习框架AReaL发布v1.0,完成昇腾AI平台适配,一周Star数暴涨1k+
+- **[OpenClaw v2026.4.15:当AI Agent开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构、Tool Loop Guard默认开启、上下文预算优化三大改进
+- **[OpenClaw v2026.4.15版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
+- **[OpenClaw v2026.4.14版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160225991)** 安全加固筑牢企业级防线、GPT-5.4-pro首发兼容、全平台稳定性修复
+- **[OpenClaw v2026.3.28更新详解](https://blog.51cto.com/moonfdd/14549279)** xAI(Grok) Responses API、MiniMax图像生成、插件系统工具执行审批增强
+
 ### 2026-04-21
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** OpenClaw通过统一调度接口整合感知、规划与执行模块，专为复杂具身智能任务场景设计
 - **[人手一个"龙虾"的时代,谁来管住失控的AI?](https://baijiahao.baidu.com/s?id=1861068783394731309)** 安全讨论热度同步攀升，AI Agent权限失控与Skill供应链投毒成新风险点

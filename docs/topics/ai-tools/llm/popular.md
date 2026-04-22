@@ -22,6 +22,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-22
+- **[机构:谷歌Gemini在AI模型市场市占率扩大至超27%](https://www.163.com/dy/article/KQM1VABK0519QIKK.html)** Anthropic的Claude在3月获得市占率增长,从2月的5.0%上升至9.5%
+- **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://baijiahao.baidu.com/s?id=1862629081195722303)** Google正式上线Gemini桌面应用(macOS)，快捷键唤起是亮点
+- **[Gemini 3.1 Flash TTS 文本转语音模型发布](https://baijiahao.baidu.com/s?id=1862586519158988181)** 支持近70种语言,是至今最富表现力的文本转语音解决方案
+- **[2026三大AI编程实测:GPT、Claude、Gemini终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先,GPT-5.4在代码注释和文档生成方面表现优异
+
 ### 2026-04-21
 - **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大模型最新版本全景对比，MoE架构成为主流
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
