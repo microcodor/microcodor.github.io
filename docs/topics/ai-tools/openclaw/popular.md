@@ -37,6 +37,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
 - **[OpenClaw 阿里云部署实操+集成搜索skill,让AI Agent 助手自主进化](https://developer.aliyun.com/article/1728382)** 突破知识时效限制，提升任务执行准确性
 - **[3分钟阿里云/本地部署OpenClaw AI Agent +配置免费大模型+Cherry Studio可视化安装指南](https://developer.aliyun.com/article/1728709)** Cherry Studio零代码自动化适配，多模型兼容
+- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 后台任务统一生命周期管理，task flow注册表实现多任务编排"父记录"概念
+- **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，GPT-5.4和nano模型集成，但升级后出现控制台打不开等问题
+- **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，Windows环境执行加固
+- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
 
 ## 近期动态
 

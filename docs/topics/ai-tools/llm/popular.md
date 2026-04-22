@@ -28,6 +28,7 @@ description: 主流大模型能力对比与选型参考
 - **[Claude:上限和下限差距太大](https://blog.51cto.com/u_16099279/14563130)** Anthropic安全和成本控制权重过高，牺牲用户体验，但技术文档写作仍最优
 - **[Google Gemma 4系列开源](https://blog.51cto.com/u_16099279/14563130)** 2B/7B/23B全部开源，对数据隐私要求团队零成本启动
 - **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini 200万token上下文优势碾压，代码辅助Claude边界条件处理细致，中文内容生成Claude最强
 
 ## 近期动态
 

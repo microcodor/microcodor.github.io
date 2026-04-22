@@ -27,6 +27,11 @@ description: 主流 Agent 框架与工具链一览
 - **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402 协议和 MPP 协议推动 AI Agent 自主支付，Stripe、Visa 等金融巨头已支持
 - **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner 预测到 2026 年底 40% 企业应用将嵌入 AI Agent，Agentic AI 市场预计增长至 520 亿美元
 
+### 2026-04-23
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM能力"最后一公里"问题，LangChain生态最完整(124K stars)
+- **[2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** LangChain以模块化架构和丰富生态著称，AutoGen支持多Agent协作，Dify适合快速原型验证
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+
 ## 近期动态
 
 ### 2026-04-23

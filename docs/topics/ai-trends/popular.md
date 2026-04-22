@@ -40,6 +40,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[联想集团AI核心实力全景测评](http://qx.tynews.com.cn/system/2026/04/21/031012126.shtml)** 联想实现十大权威AI榜单全覆盖,具备"端-边-云-网-智"全栈协同能力
 - **[Lumina AI](https://baike.baidu.com/item/Lumina%20AI/67319169)** 上海AI Lab开源视频生成框架Next-DiT，支持文本到视频生成
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，政策支持+技术突破驱动产业爆发
+- **[用友网络发布2025年报:营收91.82亿元,AI相关合同签约16.7亿元](https://www.dzwww.com/xinwen/jishixinwen/202604/t20260420_17651437.htm)** 用友BIP全面升级AI与数据能力，企业AI产品矩阵签约金额达16.7亿元
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点产业链产品发布会，发布多款人形机器人包括"夸父"、"大圣"、"Tina"
 
 ## 近期动态
 
