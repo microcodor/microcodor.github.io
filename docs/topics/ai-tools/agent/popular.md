@@ -30,6 +30,7 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-04-22
+- **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复
 - **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发,详解如何写好一个AI Agent框架
 - **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国,国产模型借Agent浪潮完成商业化超越
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年",上半年融资总额超80亿元

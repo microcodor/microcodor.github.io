@@ -33,8 +33,10 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-04-22
-- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源强化学习框架AReaL发布v1.0,完成昇腾AI平台适配,一周Star数暴涨1k+
-- **[OpenClaw v2026.4.15:当AI Agent开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构、Tool Loop Guard默认开启、上下文预算优化三大改进
+- **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://www.163.com/dy/article/KR47Q4UF051494RM.html)** 恶意Skill投毒与提示词注入成主要威胁,超22万实例直接暴露在公共互联网上,62.9%为严重或高危漏洞
+- **[喂饭级教程:2026年OpenClaw 阿里云/本地部署,零代码接入Qwen3.5 Plus,3分钟跑通AI Agent](https://zhuanlan.zhihu.com/p/2030042451000472168)** Qwen3.5 Plus与OpenClaw协作,零代码基础也能快速搭建智能体
+- **[阿里云+本地部署 OpenClaw + AIOps运维保姆级教程,让AI Agent接管运维任务](https://developer.aliyun.com/article/1729260)** OpenClaw+K8s MCP实现自然语言运维,降低运维门槛
+- **[告别昂贵订阅费!英特尔这波混合部署,要让普通人白嫖Agent](https://baijiahao.baidu.com/s?id=1863079811568137459)** 英特尔推出云端加本地的混合部署方案,省下高昂订阅费
 - **[OpenClaw v2026.4.15版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
 - **[OpenClaw v2026.4.14版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160225991)** 安全加固筑牢企业级防线、GPT-5.4-pro首发兼容、全平台稳定性修复
 - **[OpenClaw v2026.3.28更新详解](https://blog.51cto.com/moonfdd/14549279)** xAI(Grok) Responses API、MiniMax图像生成、插件系统工具执行审批增强

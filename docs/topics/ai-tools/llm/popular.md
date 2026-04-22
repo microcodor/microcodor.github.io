@@ -23,8 +23,9 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-04-22
-- **[机构:谷歌Gemini在AI模型市场市占率扩大至超27%](https://www.163.com/dy/article/KQM1VABK0519QIKK.html)** Anthropic的Claude在3月获得市占率增长,从2月的5.0%上升至9.5%
-- **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](https://baijiahao.baidu.com/s?id=1862629081195722303)** Google正式上线Gemini桌面应用(macOS)，快捷键唤起是亮点
+- **[布林亲自督战:谷歌组建精英Gemini团队专攻AI编程,全力追赶Anthropic Claude](https://m.jrj.com.cn/madapter/finance/2026/04/21142556823268.shtml)** 谷歌组建精英团队由DeepMind工程师Sebastian Borgeaud领导,布林参与督战要求缩小与Anthropic在Agent执行方面的差距
+- **[AI办公的终局,不在模型参数,在场景壁垒](https://baijiahao.baidu.com/s?id=1863059134865479003)** 模型能力差距正在快速收敛,从模型能力比拼转向场景理解与生态壁垒的争夺
+- **[苹果换帅倒计时:特努斯9月接棒库克,修复AI战略成头号硬仗](https://www.fromgeek.com/smarthardware/717585.html)** ChatGPT、Claude稳居iOS免费应用前两位，苹果设备成第三方AI服务载体
 - **[Gemini 3.1 Flash TTS 文本转语音模型发布](https://baijiahao.baidu.com/s?id=1862586519158988181)** 支持近70种语言,是至今最富表现力的文本转语音解决方案
 - **[2026三大AI编程实测:GPT、Claude、Gemini终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先,GPT-5.4在代码注释和文档生成方面表现优异
 

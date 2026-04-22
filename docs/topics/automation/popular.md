@@ -27,8 +27,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2028102466714047542)** Prompt是最低层行为约束，Workflow是预定义代码路径，Agent由模型动态决定过程与工具使用
 - **[AI与Workflow的协同革命:企业效率的新视角](http://wap.hebei.shtgwkj.com/detail/blog/828_89582.shtml)** Agent与Workflow并非相互对立，而是相互协作的伙伴，共同构建企业效率革命的基石
 
-### 2026-04-20
-- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
+### 2026-04-21
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n支持连接所有HTTP API网络应用，用户可通过可视化界面搭建自定义自动化工作流
+- **[marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
+
+### 2026-04-22
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
+- **[获客效率翻倍!2026年最值得投入的10个AI获客工具](https://www.sohu.com/a/1012378894_122419376)** A9 AI自动生成产品宣传视频，Jasper面向现代营销团队的agent workspace
+- **[告别"无效忙碌":AI 自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/Itstars/14560835)** 从单点操作到系统编排的跃迁，彻底改变工作颗粒度
+- **[如何评估销售管理系统的ROI:2026年计算方法](https://www.fxiaoke.com/crm/information-88049.html)** 智能销售中枢通过AIGC自动生成邮件、总结会议纪要，自动化工作流处理审批和任务分配
 - **[别再低效运转!2026年最值得部署的10大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 10大AI工作流自动化工具横向对比
 - **[AI工作流爆火背后:能否重塑办公生态?](https://developer.baidu.com/article/detail.html?id=6543166)** 动态流程编排、跨平台集成能力、自学习优化机制三大核心升级
 - **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details=160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比### 2026-04-21
