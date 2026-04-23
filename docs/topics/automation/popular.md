@@ -22,6 +22,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-04-24
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Workflow是预定义代码路径，Agent由模型动态决定过程与工具使用
+- **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台
+- **[告别"无效忙碌":AI自动化工作流如何重塑职场](https://blog.51cto.com/Itstars/14560835)** 从"单点操作"到"系统编排"的跃迁，效率提升3-10倍
+- **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
+- **[Canva AI 2.0引入记忆、连接器和自动化工作流](https://baijiahao.baidu.com/s?id=1862859768113102742)** 对话式设计、代理式编排、活体记忆，连接Slack、Notion、Zoom等
+- **[Gemini CLI Skills技能扩展全景指南](https://zhuanlan.zhihu.com/p/2029681272486731814)** 内置、社区与自定义三条路径，skill-creator、code-reviewer等技能
+
 ### 2026-04-23
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
 - **[工作流自动化工具怎么选?5 款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、n8n等功能对比与选型建议

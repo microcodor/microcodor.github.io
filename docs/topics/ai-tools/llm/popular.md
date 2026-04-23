@@ -22,6 +22,14 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-24
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[GPT-6 Spud正式发布](https://blog.51cto.com/u_16099279/14563130)** 推理性能比5.2提升40%，上下文窗口和注意力机制升级，但token消耗量增加
+- **[Claude 4.6降智风波](https://blog.csdn.net/2601_95861180/article/details/160296522)** Anthropic安全和成本控制权重过高牺牲用户体验，技术文档写作仍最优
+- **[Google Gemma 4系列开源](https://blog.51cto.com/u_16099279/14563130)** 2B/7B/23B全部开源，对数据隐私要求团队零成本启动
+- **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
+- **[2026国内用Claude和Gemini实测](https://www.eefocus.com/article/1995913.html)** 国内聚合镜像站可一站式免费使用三大模型
+
 ### 2026-04-23
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
 - **[GPT-6:推理能力又上了一个台阶](https://blog.51cto.com/u_16099279/14563130)** 推理性能比5.2提升40%，上下文窗口和注意力机制升级，token消耗量增加
