@@ -852,3 +852,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[电商运营自动化AI工具有哪些?哪个最好用?](https://blog.csdn.net/SHIZAIZHINENG/article/details/160337908)** Accio Work、Runner AI、GrowClaw等全链路智能体选型深度指南
 - **[一文讲清:Agent vs Workflow vs 传统编程的本质区别](https://zhuanlan.zhihu.com/p/2029665423507891482)** Agent让AI自主做判断，解决靠写代码解决不了的问题
 - **[企业未来十年最重要的智能化工作](https://m.thepaper.cn/newsDetail_forward_33016126)** 过程与场景经验、专家判断与品味、行业资源与关系网络、执行入口与控制权
+
+### 2026-04-23
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Skill是能力包，MCP是协议，Workflow是流程，Memories是记忆
+- **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile、硅基流动、轻流、奥哲五款横向对比
+- **[aiGroup - AI团队协作框架](https://www.npmjs.com/package/aigroup-workflow)** 单入口AI团队框架，支持Max指挥官派遣子代理执行任务

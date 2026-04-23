@@ -888,3 +888,8 @@ description: 主流 Agent 框架与工具链一览
 - **[强化Agent能力,国产基础大模型2026年重要发展方向](https://baijiahao.baidu.com/s?id=1861908951213911374)** 阿里发布Qwen3.6-Plus强化智能体编程能力，DeepSeek上线专家模式，2026年AI主战场全面转向智能体
 - **[AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** Manus作为全球首款通用Agent产品发布，GAIA基准测试SOTA成绩超越OpenAI同层次大模型
 - **[换掉小龙虾!Hermes全网爆火狂揽四万星](https://baijiahao.baidu.com/s?id=1862094360548454235)** Nous Research推出的开源智能体，GitHub星标破4万，六大核心特性：与你同在、越用越强、定时自动化、委派与并行、沙盒隔离、全网页与浏览器控制
+
+### 2026-04-23
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发详解框架设计
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构

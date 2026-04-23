@@ -789,3 +789,8 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具，编程自动化进入新纪元
+
+### 2026-04-23
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[Gemini桌面端首发体验:谷歌憋了这么久,交出一份"粗糙"答卷](https://www.thepaper.cn/newsDetail_forward_32987875)** Google正式上线Gemini桌面应用(目前仅macOS)，视觉设计被指粗糙
+- **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** Anthropic Opus 4.6"降智"风波持续发酵，Google开源Gemma 4系列
