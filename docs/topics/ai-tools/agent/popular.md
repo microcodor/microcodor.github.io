@@ -875,3 +875,10 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-04-21（补充）
 - **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFLow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首，支持多Agent协作与长上下文记忆
+
+### 2026-04-23
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain已成为构建AI驱动应用最受欢迎的选择之一，支持多LLM调用串联和外部数据源集成
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程代表从提示词工程向系统设计的演进，MCP标准化协议已成行业标准
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta HyperAgents自进化系统、DARWIN框架、AgentFactory等自进化AI系统深度解析
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic Agent Skills通过结构化文件夹将任务指令、代码能力与资源模块化封装
+- **[系统拆解 AI Agent 框架设计门道](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** Gartner将AI Agent列为"十大战略技术趋势"之首，LangGraph、CrewAI、AutoGen框架深度对比

@@ -825,3 +825,6 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383&wfr=spider&for=pc)** 全新公开插件SDK，彻底废弃旧有扩展API，Windows执行环境加固
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670&wfr=spider&for=pc)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
 - **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512&wfr=spider&for=pc)** 插件系统彻底重构，ClawHub设为首选分发渠道，安全防御逻辑下沉到执行管线
+
+### 2026-04-23
+- **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512)** 插件SDK彻底重构，ClawHub设为首选分发渠道，安全防御逻辑下沉到执行管线
