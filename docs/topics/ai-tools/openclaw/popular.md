@@ -828,3 +828,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-04-23
 - **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512)** 插件SDK彻底重构，ClawHub设为首选分发渠道，安全防御逻辑下沉到执行管线
+
+### 2026-04-23
+- **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启，上下文预算优化
+- **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
+- **[3分钟阿里云/本地部署OpenClaw AI Agent +配置免费大模型+Cherry Studio可视化安装指南](https://developer.aliyun.com/article/1728709)** Cherry Studio零代码自动化适配，多模型兼容
+- **[突破AI进化的瓶颈:OpenClaw与Hermes缺一不可](https://www.163.com/dy/article/KQPQ18C2055616YL.md)** ClawHub 收录超 13729 个技能，Hermes 两个月突破 8.5 万星标
+- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停

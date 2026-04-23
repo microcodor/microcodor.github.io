@@ -844,3 +844,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持多步骤逻辑生成可预测输出，提供拖放界面
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI agents是自主的、基于规则的系统，感知环境并采取行动完成目标
 - **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/457298)** AI自动化流程超越传统RPA，具备学习能力、异常识别与自我修正功能
+
+### 2026-04-23
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
+- **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、n8n等功能对比与选型建议
+- **[AI~与Workflow的协同革命:企业效率的新视角](http://wap.hebei.shtgwkj.com/detail/blog/828_89582.shtml)** Agent与Workflow并非相互对立，而是相互协作的伙伴
+- **[电商运营自动化AI工具有哪些?哪个最好用?](https://blog.csdn.net/SHIZAIZHINENG/article/details/160337908)** Accio Work、Runner AI、GrowClaw等全链路智能体选型深度指南
+- **[一文讲清:Agent vs Workflow vs 传统编程的本质区别](https://zhuanlan.zhihu.com/p/2029665423507891482)** Agent让AI自主做判断，解决靠写代码解决不了的问题
+- **[企业未来十年最重要的智能化工作](https://m.thepaper.cn/newsDetail_forward_33016126)** 过程与场景经验、专家判断与品味、行业资源与关系网络、执行入口与控制权

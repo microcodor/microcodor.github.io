@@ -832,3 +832,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ### 2026-04-23
 - **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯M100/M300、文心大模型5.0、伐谋超级智能体、萝卜快跑全球22城
+
+### 2026-04-23
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型
+- **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯M100/M300、文心大模型5.0、伐谋超级智能体、萝卜快跑全球22城

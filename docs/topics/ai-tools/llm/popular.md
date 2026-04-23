@@ -784,3 +784,8 @@ description: 主流大模型能力对比与选型参考
 - **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大阵营最新旗舰已完成迭代，MoE已成为主流架构
 - **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0在复杂算法实现上准确率领先，GPT-5.4在代码注释方面表现优异
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 数据提取首选Gemini，代码辅助选Claude，中文内容生成Claude最强
+
+### 2026-04-23
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具，编程自动化进入新纪元
