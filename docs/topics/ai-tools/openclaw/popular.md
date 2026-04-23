@@ -840,3 +840,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启，上下文预算优化
 - **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配、SSRF终极防护
 - **[2026年OpenClaw阿里云部署实操+集成搜索skill](https://developer.aliyun.com/article/1728382)** 阿里云部署实操指南，让AI Agent真正实现"知行合一"
+
+### 2026-04-24
+- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停，GPT-5系列兼容性提升
+- **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启(阈值10次)，上下文预算优化
+- **[OpenClaw 使用指南:全方位教你配置与更新大模型](https://blog.51cto.com/u_16099311/14563158)** 第三方API配置指南，可接入Claude全系列模型

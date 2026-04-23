@@ -857,3 +857,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Skill是能力包，MCP是协议，Workflow是流程，Memories是记忆
 - **[工作流自动化工具怎么选?5款高效率平台横向对比](https://zhuanlan.zhihu.com/p/2028474785944872510)** PingCode、Worktile、硅基流动、轻流、奥哲五款横向对比
 - **[aiGroup - AI团队协作框架](https://www.npmjs.com/package/aigroup-workflow)** 单入口AI团队框架，支持Max指挥官派遣子代理执行任务
+
+### 2026-04-24
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Skill是能力包，MCP是协议，Workflow是流程，Memories是记忆
+- **[向量脉络](https://baike.baidu.com/item/向量脉络/67651585)** AI工作流驱动平台，无需编程通过拖拽即可创建工作流
+- **[告别“无效忙碌”:AI 自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/Itstars/14560835)** 从"手动单点"到"智能编排"，工作流自动化效率提升3-10倍
+- **[2026 年 AI 办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** QClaw可直接在电脑上执行文件整理、数据分析、报告生成等日常办公任务
