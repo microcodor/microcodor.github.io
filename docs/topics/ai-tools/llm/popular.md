@@ -820,3 +820,9 @@ description: 主流大模型能力对比与选型参考
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://blog.csdn.net/2601_95834582/article/details/160224086)** 在库拉上把GPT-6、Claude和Gemini三家最新模型对比实测，Claude Opus 4.5算法题准确率92%
 - **[AI模型巅峰对决:Claude3、Gemini、Sora、GPTs与GPT-4的实战性能测评](http://www.mhpq.cn/news/19208.html)** Claude3由Anthropic公司推出延续Constitutional AI设计，Gemini原生支持多模态
 - **[2026年主流AI镜像模型对比实测:ChatGPT、Claude与Gemini谁更胜一筹?](https://www.eefocus.com/article/1993139.md)** GPT-4o是原生多模态模型，Claude在代码和边界条件处理细致，Gemini多模态能力领先
+
+### 2026-04-24
+- **[2025最强编程大模型对决:Gemini、GPT、Claude谁更胜一筹?](https://blog.csdn.net/star_nwe/article/details/156650657)** Gemini 3 Pro登顶LMArena，Claude Opus 4.5编程能力突破80%，GPT-5.2重回SOTA
+- **[2025人工智能全面开战:GPT-5、Gemini、Claude等全面解析](https://post.smzdm.com/zz/p/arl508kq/)** GPT-5.2系列12月发布，Gemini 3系列11月发布，Claude Opus 4.5主打编程与Agent
+- **[2026年AI三巨头实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** Claude编程能力突出，GPT-5数学推理最优，Gemini科学推理与响应速度占优
+- **[2025年AI三巨头深度实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** 三者各有优势，Claude编程最强、Gemini最快、ChatGPT日常最顺手，性价比分析Gemini最经济

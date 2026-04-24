@@ -865,3 +865,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 底层架构大换血，GPT-5.4登场，插件架构全面革新
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** OpenClaw团队似乎根本不需要休息，五天五连更新
 - **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 年初那阵子OpenClaw在中文AI圈和海外开发者社区内成为新时代AI生产力的代名词
+
+### 2026-04-24
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** OpenClaw统筹多模态感知Agent协同，联动路径规划、动作规划生成符合物理约束的行动方案
+- **[东海研究:OpenClaw引发Agent热潮,推理Token需求拉动算力增长](https://baijiahao.baidu.com/s?id=1859985061127379613)** 百度DuClaw、腾讯WorkBuddy、字节ArkClaw、阿里QoderWork纷纷跟进OpenClaw浪潮
+- **[电子行业跟踪报告:OpenClaw助力AI Agent技术范式升级](https://baijiahao.baidu.com/s?id=1856096015506685727)** OpenClaw无需专属客户端，依托日常通讯软件完成交互，具备文件系统、浏览器、API完整访问权限
+- **[自定义Agent与OpenClaw框架机制解析](https://baijiahao.baidu.com/s?id=1860993742535393166)** OpenClaw引入完整运行链路，包括上下文组装、技能注入、工具调度、多Agent协作

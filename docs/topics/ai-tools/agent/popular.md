@@ -919,3 +919,10 @@ description: 主流 Agent 框架与工具链一览
 - **[【必藏】2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** AI Agent框架使开发者能够构建具备理解和处理自然语言、推理、决策、行动等能力的自主人工智能系统
 - **[Semantic Kernel and Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** Microsoft Agent Framework整合.NET生态，Semantic Kernel持续更新
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+
+### 2026-04-24
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，核心框架层解决LLM能力的"最后一公里"问题，LangChain生态最完整(124K stars)
+- **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details/149342394)** LangChain、AutoGen、CrewAI、Semantic Kernel等11个框架深度解析与代码示例
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
+- **[2025 AI Agent Framework Comparison](https://devblogs.microsoft.com/semantic-kernel/2025/)** Microsoft Agent Framework多智能体编排，Semantic Kernel与.NET生态深度绑定
+- **[LangGraph状态机构建复杂工作流](http://www.zhihu.com/question/12886054016/answer/1960392772734395036)** 将Agent工作流建模为有向图，节点定义步骤，边定义状态转移，提供无与伦比的可控性和可观测性

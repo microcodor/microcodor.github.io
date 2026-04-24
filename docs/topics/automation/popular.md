@@ -884,3 +884,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具，覆盖Agentforce in Slack、Trello等项目管理和自动化工具
 - **[AI in Media: Streamline Production Workflows with Automation](https://www.microsoft.com/zh-tw/ai/use-case/streamline-production-workflows-with-ai-automation)** AI自动化简化媒体制作工作流程
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难](https://blog.csdn.net/2401_85325726/article/details/159315136)** 规则固定用Automation，步骤明确用Workflow，目标明确但路径不确定用Agent
+
+### 2026-04-24
+- **[The 11 Best AI Automation Tools in 2025](https://parabola.io/the-11-best-ai-automation-tools-in-2025)** 11款最佳AI自动化工具对比，Zapier覆盖5000+应用集成，No-code/Low-code/Code-first四类分层
+- **[10 Best AI Workflow Platforms in 2025](https://www.domo.com/it/learn/article/ai-workflow-platforms)** 到2025年底AI驱动工作流预计从3%增长至25%，UiPath、Automation Anywhere、ServiceNow等平台深度解析
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce in Slack、Trello AI等11款工具，Agentic AI从任务管理到Agent支持全面覆盖

@@ -872,3 +872,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1发布开源破局重构行业生态、宇树科技人形机器人登春晚、全球首款通用AI智能体Manus问世
 - **[年终盘点:2025年AI,8个改变世界的里程碑](https://baijiahao.baidu.com/s?id=1852746944207851619)** GPT‑5.x系列与"推理范式"确立，OpenAI先后发布GPT‑5、5.1、5.2并将模型拆成Instant/Thinking/Preview
 - **[2025,被AI带飞的三大赛道](https://baijiahao.baidu.com/s?id=1853384148172844446)** 2025年AI提示词榜单最高频:股票、八字、情感咨询、朋友圈文案、景点
+
+### 2026-04-24
+- **[微软2025营销峰会:多项AI产品发布](https://baijiahao.baidu.com/s?id=1834509817904360239)** 微软推出"品牌智能体"，Copilot广告相关性提升25%，动态筛选器、沉浸式展厅广告等多项AI广告产品发布
+- **[HackerRank AI Day 2025产品发布](https://www.hackerrank.com/blog/hackerranks-ai-day-2025-product-launch-recap/)** 推出AI面试官、Proctor模式实时检测作弊行为，SWE-bench达80.9%通过率
+- **[PETKIT 2025全球发布会:AI宠物健康产品](https://en.prnasia.com/releases/global/practical-ai-for-pets-petkit-s-2025-global-launch-innovations-focus-on-pets-health-500385.shtml)** 全球首款AI摄像头开放式猫砂盆Purobot Crystal Duo，AI湿粮喂食器Yumshare Daily Feast
