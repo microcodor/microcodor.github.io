@@ -877,3 +877,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[微软2025营销峰会:多项AI产品发布](https://baijiahao.baidu.com/s?id=1834509817904360239)** 微软推出"品牌智能体"，Copilot广告相关性提升25%，动态筛选器、沉浸式展厅广告等多项AI广告产品发布
 - **[HackerRank AI Day 2025产品发布](https://www.hackerrank.com/blog/hackerranks-ai-day-2025-product-launch-recap/)** 推出AI面试官、Proctor模式实时检测作弊行为，SWE-bench达80.9%通过率
 - **[PETKIT 2025全球发布会:AI宠物健康产品](https://en.prnasia.com/releases/global/practical-ai-for-pets-petkit-s-2025-global-launch-innovations-focus-on-pets-health-500385.shtml)** 全球首款AI摄像头开放式猫砂盆Purobot Crystal Duo，AI湿粮喂食器Yumshare Daily Feast
+
+### 2026-04-24
+- **[松鼠Ai登榜2025年度百大AI产品](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选2025年度百大AI产品榜单
+- **[歌尔2025年报解读:AI眼镜爆发式增长](https://baijiahao.baidu.com/s?id=1863335288792317799)** 全球AI智能眼镜出货量同比增长241%，歌尔股份相关业务营收规模显著增长
+- **[海康威视质效双升穿越周期,积极拥抱AI锚定长期增长](https://baijiahao.baidu.com/s?id=1863325377725447210)** 海康威视全面拥抱大模型，"大模型质检员"通过视频实时识别监测工序是否合规
+- **[昆仑万维AI商业化快速增长,25年营收同比增长44.78%至81.98亿](https://m.hexun.com/funds/2026-04-24/224053185.html)** 昆仑万维发布2026昆仑万维AGI战略，"4+3战略"支撑AI短剧、AI音乐、AI游戏三大平台

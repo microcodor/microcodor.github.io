@@ -889,3 +889,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[The 11 Best AI Automation Tools in 2025](https://parabola.io/the-11-best-ai-automation-tools-in-2025)** 11款最佳AI自动化工具对比，Zapier覆盖5000+应用集成，No-code/Low-code/Code-first四类分层
 - **[10 Best AI Workflow Platforms in 2025](https://www.domo.com/it/learn/article/ai-workflow-platforms)** 到2025年底AI驱动工作流预计从3%增长至25%，UiPath、Automation Anywhere、ServiceNow等平台深度解析
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce in Slack、Trello AI等11款工具，Agentic AI从任务管理到Agent支持全面覆盖
+
+### 2026-04-24
+- **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill采用"渐进式披露"策略规避MCP的上下文灾难，可自带可执行脚本节省"脑容量"
+- **[AI智能体的开发方法](https://www.jianshu.com/p/408bbfbb4883)** 声明式开发(Dify/LangChain)通过拖拽式Workflow编排，多智能体协作(AutoGen/CrewAI)定义不同角色Agent协作
+- **["龙虾"生态重构SaaS底层:走过Workflow弯路后,微盟如何卡位AaaS时代?](https://baijiahao.baidu.com/s?id=1863286339203994274)** 微盟从"基于Workflow的Agent"转向"基于Skill调度的Agent"，AI相关收入首次过亿元

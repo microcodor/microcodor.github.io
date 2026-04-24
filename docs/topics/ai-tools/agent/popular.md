@@ -926,3 +926,8 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
 - **[2025 AI Agent Framework Comparison](https://devblogs.microsoft.com/semantic-kernel/2025/)** Microsoft Agent Framework多智能体编排，Semantic Kernel与.NET生态深度绑定
 - **[LangGraph状态机构建复杂工作流](http://www.zhihu.com/question/12886054016/answer/1960392772734395036)** 将Agent工作流建模为有向图，节点定义步骤，边定义状态转移，提供无与伦比的可控性和可观测性
+
+### 2026-04-24
+- **[飞书项目以开放推动生态共进,AI + 项目管理激活企业增长新引擎](http://news.10jqka.com.cn/20260424/c676249098.shtml)** 飞书项目发布面向AI的连接与开放能力,Agent可对飞书项目数据进行安全读写
+- **[Qoder](https://baike.baidu.com/item/Qoder/66330854)** 阿里云Agentic编程平台,可一次检索10万个代码文件,基于编程智能体实现AI自主研发
+- **[斯坦福AI指数报告2026:技术性能全景扫描](https://blog.csdn.net/weixin_41905135/article/details/160462811)** AI能力正在加速超越基准测试,顶级模型性能趋同,前四家公司差距仅25个Elo点

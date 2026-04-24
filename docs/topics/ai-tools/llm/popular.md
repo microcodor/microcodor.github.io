@@ -826,3 +826,8 @@ description: 主流大模型能力对比与选型参考
 - **[2025人工智能全面开战:GPT-5、Gemini、Claude等全面解析](https://post.smzdm.com/zz/p/arl508kq/)** GPT-5.2系列12月发布，Gemini 3系列11月发布，Claude Opus 4.5主打编程与Agent
 - **[2026年AI三巨头实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** Claude编程能力突出，GPT-5数学推理最优，Gemini科学推理与响应速度占优
 - **[2025年AI三巨头深度实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** 三者各有优势，Claude编程最强、Gemini最快、ChatGPT日常最顺手，性价比分析Gemini最经济
+
+### 2026-04-24
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5在Terminal-Bench 2.0准确率达82.7%，以一半成本达到行业顶尖性能，实现对Claude Opus 4.7与Gemini 3.1 Pro的系统性超越
+- **[斯坦福AI指数报告2026:技术性能全景扫描](https://blog.csdn.net/weixin_41905135/article/details/160462811)** 顶级模型性能趋同，前四家公司Anthropic、xAI、Google、OpenAI差距仅25个Elo点
+- **[DeepSeek-V4预览版正式上线:百万上下文成标配](https://baijiahao.baidu.com/s?id=1863336779401520994&wfr=spider&for=pc)** DeepSeek-V4拥有1M百万级超长上下文，Agent能力大幅提升，已原生适配OpenClaw等主动式Agent框架
