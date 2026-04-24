@@ -894,3 +894,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill采用"渐进式披露"策略规避MCP的上下文灾难，可自带可执行脚本节省"脑容量"
 - **[AI智能体的开发方法](https://www.jianshu.com/p/408bbfbb4883)** 声明式开发(Dify/LangChain)通过拖拽式Workflow编排，多智能体协作(AutoGen/CrewAI)定义不同角色Agent协作
 - **["龙虾"生态重构SaaS底层:走过Workflow弯路后,微盟如何卡位AaaS时代?](https://baijiahao.baidu.com/s?id=1863286339203994274)** 微盟从"基于Workflow的Agent"转向"基于Skill调度的Agent"，AI相关收入首次过亿元
+
+### 2026-04-25
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用
+- **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台
+- **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce in Slack、Trello AI等11款工具，Agentic AI从任务管理到Agent支持全面覆盖

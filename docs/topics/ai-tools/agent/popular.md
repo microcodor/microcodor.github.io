@@ -931,3 +931,8 @@ description: 主流 Agent 框架与工具链一览
 - **[飞书项目以开放推动生态共进,AI + 项目管理激活企业增长新引擎](http://news.10jqka.com.cn/20260424/c676249098.shtml)** 飞书项目发布面向AI的连接与开放能力,Agent可对飞书项目数据进行安全读写
 - **[Qoder](https://baike.baidu.com/item/Qoder/66330854)** 阿里云Agentic编程平台,可一次检索10万个代码文件,基于编程智能体实现AI自主研发
 - **[斯坦福AI指数报告2026:技术性能全景扫描](https://blog.csdn.net/weixin_41905135/article/details/160462811)** AI能力正在加速超越基准测试,顶级模型性能趋同,前四家公司差距仅25个Elo点
+
+### 2026-04-25
+- **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402协议和MPP协议推动AI Agent自主支付，Stripe、Visa等金融巨头已支持AI Agent原生支付接口
+- **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner预测到2026年底40%企业应用将嵌入AI Agent，Agentic AI市场预计增长至520亿美元
+- **[OpenClaw实战:让AI页面"秒开即用",实现Vibecoding真正闭环](https://blog.csdn.net/Kj5j154n7/article/details/160286921)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
