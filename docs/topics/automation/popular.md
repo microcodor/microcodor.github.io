@@ -878,3 +878,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[告别"无效忙碌":AI自动化工作流如何重塑职场](https://blog.51cto.com/Itstars/14560835)** 从"单点操作"到"系统编排"的跃迁，效率提升3-10倍
 - **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
 
+
+### 2026-04-24
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具，覆盖Agentforce in Slack、Trello等项目管理和自动化工具
+- **[AI in Media: Streamline Production Workflows with Automation](https://www.microsoft.com/zh-tw/ai/use-case/streamline-production-workflows-with-ai-automation)** AI自动化简化媒体制作工作流程
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难](https://blog.csdn.net/2401_85325726/article/details/159315136)** 规则固定用Automation，步骤明确用Workflow，目标明确但路径不确定用Agent

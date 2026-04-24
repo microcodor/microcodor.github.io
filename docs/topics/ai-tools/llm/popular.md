@@ -813,3 +813,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
 - **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理性能提升40%但token消耗增加，Claude稳定性问题引社区不满，Gemini开源抢占开发者
 
+
+### 2026-04-24
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** GPT刚更新Claude和Gemini也在卷，库拉聚合平台可直接统一调用Gemini3.1、Claude 4.6、GPT 5.4，一个接口搞定
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://zhuanlan.zhihu.com/p/2027440712329766598)** 2026年技术进入"推理为王"新阶段，GPT-5.4、Gemini 3.1 Pro、Claude 4.6在各项基准上屡创新高
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://blog.csdn.net/2601_95834582/article/details/160224086)** 在库拉上把GPT-6、Claude和Gemini三家最新模型对比实测，Claude Opus 4.5算法题准确率92%
+- **[AI模型巅峰对决:Claude3、Gemini、Sora、GPTs与GPT-4的实战性能测评](http://www.mhpq.cn/news/19208.html)** Claude3由Anthropic公司推出延续Constitutional AI设计，Gemini原生支持多模态
+- **[2026年主流AI镜像模型对比实测:ChatGPT、Claude与Gemini谁更胜一筹?](https://www.eefocus.com/article/1993139.md)** GPT-4o是原生多模态模型，Claude在代码和边界条件处理细致，Gemini多模态能力领先

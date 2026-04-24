@@ -912,3 +912,10 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习月均性能自动提升15%
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，2025年上半年融资总额超80亿元，79%的企业开始将AI Agent融入工作流程
 - **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** 中国法律框架对"未经授权访问计算机系统"的规制比美国更严格，企业需注意合规风险
+
+### 2026-04-24
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025 Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，核心框架层解决LLM能力的"最后一公里"问题，LangChain生态最完整(124K stars)
+- **[【必藏】2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** AI Agent框架使开发者能够构建具备理解和处理自然语言、推理、决策、行动等能力的自主人工智能系统
+- **[Semantic Kernel and Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** Microsoft Agent Framework整合.NET生态，Semantic Kernel持续更新
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
