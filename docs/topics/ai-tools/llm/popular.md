@@ -808,3 +808,8 @@ description: 主流大模型能力对比与选型参考
 - **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理性能提升40%但"听话"不如前代，Claude上限下限差距大，Google走生态开源路线
 - **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.md)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex支持256K上下文，Gemini 3 Pro多模态领先
 - **[2026国内用Claude和Gemini实测](https://www.eefocus.com/article/1995913.html)** 国内聚合镜像站可一站式免费使用GPT-4o、Claude 3.5 Sonnet和Gemini 3.1 Pro
+
+### 2026-04-24
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理性能提升40%但token消耗增加，Claude稳定性问题引社区不满，Gemini开源抢占开发者
+

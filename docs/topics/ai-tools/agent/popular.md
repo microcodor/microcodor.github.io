@@ -602,6 +602,13 @@ description: 主流 Agent 框架与工具链一览
 
 （每日更新...）
 
+## 近期动态
+
+### 2026-04-24
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元，79%企业已将AI Agent融入工作流程
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习月均性能自动提升15%
+- **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** AI Agent法律边界问题引发关注，合规治理框架与制度因应成焦点
+
 ## 框架分类
 
 ### 通用 Agent 框架

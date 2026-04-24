@@ -871,3 +871,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[向量脉络](https://baike.baidu.com/item/向量脉络/67651585)** AI工作流驱动平台，无需编程通过拖拽即可创建工作流
 - **[告别“无效忙碌”:AI 自动化工作流如何重塑你的职场生存法则](https://blog.51cto.com/Itstars/14560835)** 从"手动单点"到"智能编排"，工作流自动化效率提升3-10倍
 - **[2026 年 AI 办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** QClaw可直接在电脑上执行文件整理、数据分析、报告生成等日常办公任务
+
+### 2026-04-24
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Workflow是预定义代码路径，Agent由模型动态决定过程与工具使用
+- **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台
+- **[告别"无效忙碌":AI自动化工作流如何重塑职场](https://blog.51cto.com/Itstars/14560835)** 从"单点操作"到"系统编排"的跃迁，效率提升3-10倍
+- **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
+
