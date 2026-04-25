@@ -32,6 +32,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-25
+- **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** GitHub Stars达36k+，一周数更节奏为在成百上千个寻找漏洞的团队面前强行把安全等级提上去
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停
+
 ### 2026-04-24
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 严格化所有者命令身份验证，修复插件依赖恢复机制，可信执行终端终极防御
 - **[拆解OpenClaw-2026.4.20-AI-Agent自托管网关的工程自白](https://gitcode.csdn.net/69e991fe54b52172bc6bd0bb.html)** 修复成本统计重复累加数十倍Bug，修复会话文件无限增长导致OOM崩溃

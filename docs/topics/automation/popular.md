@@ -50,6 +50,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n支持连接所有HTTP API网络应用，用户可通过可视化界面搭建自定义自动化工作流
 - **[marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
 
+## 近期动态
+
+### 2026-04-25
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skills是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
+- **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill封装"如何把一件事做好"的经验和方法论，采用"渐进式披露"策略规避上下文灾难
+
 ### 2026-04-22
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
 - **[获客效率翻倍!2026年最值得投入的10个AI获客工具](https://www.sohu.com/a/1012378894_122419376)** A9 AI自动生成产品宣传视频，Jasper面向现代营销团队的agent workspace

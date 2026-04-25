@@ -34,9 +34,15 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-04-25
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** AI营销专家灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布基于奇智孔明AInnoGC工业大模型的AI Agent应用开发平台，中国工业企业应用大模型及智能体比例从2024年的9.6%快速提升至2025年的47.5%
+
 ### 2026-04-24
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元，79%企业已将AI Agent融入工作流程
-- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** 全球85%企业已将AI Agent集成至核心业务，2025年市场估值达113亿美元
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** 全球85%企业已将AI Agent集成至核心业务，2025年市场估值达113亿美元
 - **[AI生成代码太坑?先验后验,用框架工程让Agent靠谱起来](https://devpress.csdn.net/xclaw/69e5a4dc54b52172bc6af3b2.html)** AI Agent技术进入框架工程阶段，从模型权重改进到上下文工程再到框架工程
 - **[Microsoft AgentFramework是否已取代Semantic Kernel](https://blog.csdn.net/LBA8S9cv9/article/details/160344698)** Microsoft Agent Framework是Semantic Kernel官方继任者，Agent和多Agent编排功能已迁移
 - **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** AI Agent法律边界问题引发关注，合规治理框架与制度因应成焦点

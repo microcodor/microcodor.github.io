@@ -40,6 +40,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-25
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，GDPval知识工作任务胜率84.9%
+- **[2026国内用Claude和Gemini实测](https://www.eefocus.com/article/1995913.html)** 国内聚合镜像站可一站式免费使用三大模型
+
 ### 2026-04-22
 - **[布林亲自督战:谷歌组建精英Gemini团队专攻AI编程,全力追赶Anthropic Claude](https://m.jrj.com.cn/madapter/finance/2026/04/21142556823268.shtml)** 谷歌组建精英团队由DeepMind工程师Sebastian Borgeaud领导,布林参与督战要求缩小与Anthropic在Agent执行方面的差距
 - **[AI办公的终局,不在模型参数,在场景壁垒](https://baijiahao.baidu.com/s?id=1863059134865479003)** 模型能力差距正在快速收敛,从模型能力比拼转向场景理解与生态壁垒的争夺
