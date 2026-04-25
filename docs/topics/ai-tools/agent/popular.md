@@ -948,3 +948,9 @@ description: 主流 Agent 框架与工具链一览
 - **[Agent支付:AI世界的金融密钥](https://new.qq.com/rain/a/20260418A04OE400)** x402协议和MPP协议推动AI Agent自主支付，Stripe、Visa等金融巨头已支持AI Agent原生支付接口
 - **[提示词工程师要消失了?2026年这个岗位被重新定义](https://baijiahao.baidu.com/s?id=1862781163997980683)** Gartner预测到2026年底40%企业应用将嵌入AI Agent，Agentic AI市场预计增长至520亿美元
 - **[OpenClaw实战:让AI页面"秒开即用",实现Vibecoding真正闭环](https://blog.csdn.net/Kj5j154n7/article/details/160286921)** Microsoft Agent Framework成为Semantic Kernel官方继任者，.NET AI代理进入工业化生产阶段
+
+### 2026-04-26
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** 灵狐AI视频全自动化平台依托AI Agent构建，实现高效产能与专业能力，2025年底平台AI内容投稿量增长185%
+- **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布基于奇智孔明AInnoGC工业大模型的AI Agent应用开发平台，中国工业企业应用大模型及智能体比例从2024年的9.6%快速提升至2025年的47.5%

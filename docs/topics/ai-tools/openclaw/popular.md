@@ -892,3 +892,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[智能体浪潮来袭,CPU迎来"文艺复兴时刻"!英特尔、AMD与ARM股价携手狂飙](https://baijiahao.baidu.com/s?id=1863363601279106233)** OpenClaw这类代理式AI工作流主导的推理工作负载增长，市场意识到CPU作为系统中枢的重要性
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 严格化所有者命令身份验证，修复插件依赖恢复机制，可信执行终端终极防御
 - **[微盟集团发布2025年ESG报告:MSCI ESG评级跃升至A级](https://mtz.china.com/touzi/2026/0424/229486.html)** 微盟WAI月活商户数同比增长66.7%，正式发布面向泛办公人群的智能体产品"一键养虾"(Work Claw)
+
+### 2026-04-26
+- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** OpenClaw的GitHub更新节奏未停下，最新版提升GPT-5系列模型兼容性、修复Telegram频道异常、优化Ollama连接超时
+- **[2026开源AI智能体框架深度评测:OpenClaw与Hermes Agent选型指南](https://developer.baidu.com/article/detail.html?id=6753837)** OpenClaw以Gateway网关架构构建个人助理操作系统，GitHub星标数突破35万
+- **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 从第一性原理审视7项更新：严格化所有者命令身份验证、修复插件依赖恢复机制
+- **[从迭代到生态:OpenClaw 4月成长全景](https://www.sohu.com/a/1014173710_183249)** 4月连续发布五大版本，累计修复80+项问题，新增30+项核心功能，GitHub星标突破25万

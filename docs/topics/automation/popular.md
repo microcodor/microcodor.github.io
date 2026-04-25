@@ -911,3 +911,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台
 - **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce in Slack、Trello AI等11款工具，Agentic AI从任务管理到Agent支持全面覆盖
+
+### 2026-04-26
+- **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skills是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
+- **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill采用"渐进式披露"策略规避MCP的上下文灾难，可自带可执行脚本节省"脑容量"
+- **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper品牌管家、Otter.ai会议纪要、Asana优先级自动排序、Fireflies.ai跟进邮件、Zapier工作流串联

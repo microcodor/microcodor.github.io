@@ -901,3 +901,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[昆仑万维AI商业化快速增长,25年营收同比增长44.78%至81.98亿](https://m.hexun.com/funds/2026-04-24/224053185.html)** 昆仑万维发布2026昆仑万维AGI战略，"4+3战略"支撑AI短剧、AI音乐、AI游戏三大平台
 - **[海康威视质效双升穿越周期,积极拥抱AI锚定长期增长](https://baijiahao.baidu.com/s?id=1863325377725447210)** 海康威视全面拥抱大模型，"大模型质检员"通过视频实时识别监测工序是否合规
 - **[萤石以全栈AI驱动多点开花](https://baijiahao.baidu.com/s?id=1863141950233882460)** "云-边-端"新一代体系化AI，EZVIZ AI CoreX智能大模型主机，IoT设备超3.6亿
+
+### 2026-04-26
+- **[昆仑万维AI商业化快速增长,AI版Netflix和AI版Spotify驱动](https://baijiahao.baidu.com/s?id=1863272781569443602&wfr=spider&for=pc)** 2025年营收同比增长44.78%至81.98亿，海外收入77.23亿同比增长49.91%
+- **[值得买科技发布2025年报:AI驱动高质量发展](https://www.cnstock.com/commonDetail/683497)** AI相关收入8716.60万元，什么值得买AIGC内容占比达56.59%
+- **[松鼠Ai登榜2025年度百大AI产品](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 全学科多模态智适应教育大模型入选，服务超5000万学生
+- **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤4月22日推出基于第二代NEO架构的基础模型，实现理解与生成的深度统一
