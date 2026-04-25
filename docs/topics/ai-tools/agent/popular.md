@@ -32,6 +32,12 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** LangChain以模块化架构和丰富生态著称，AutoGen支持多Agent协作，Dify适合快速原型验证
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
 
+### 2026-04-26
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统，将大模型不确定转化为可预测可维护的生产级系统
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** 灵狐AI视频全自动化平台依托AI Agent构建，实现高效产能与专业能力，2025年底平台AI内容投稿量增长185%
+- **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布基于奇智孔明AInnoGC工业大模型的AI Agent应用开发平台，中国工业企业应用大模型及智能体比例从2024年的9.6%快速提升至2025年的47.5%
+
 ## 近期动态
 
 ### 2026-04-25

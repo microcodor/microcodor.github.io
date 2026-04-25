@@ -38,6 +38,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** 场景选型：数据提取首选Gemini 200万token上下文优势碾压，代码辅助Claude边界条件处理细致，中文内容生成Claude最强
 
+### 2026-04-26
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，GDPval知识工作任务胜率84.9%，OSWorld-Verified计算机环境操作准确率78.7%
+
 ## 近期动态
 
 ### 2026-04-25

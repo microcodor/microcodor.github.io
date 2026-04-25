@@ -32,6 +32,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布,DeepSeek、豆包、kimi、腾讯元宝、通义等入选
 - **[百度发布国内首个医生版"龙虾"医疗AI产品](https://baijiahao.baidu.com/s?id=1861408057054199637)** 阿里健康"氢离子"、京东健康"知医"瞄准医生群体
 
+### 2026-04-26
+- **[昆仑万维AI商业化快速增长,AI版Netflix和AI版Spotify驱动,2025年营收同比增长44.78%至81.98亿](https://baijiahao.baidu.com/s?id=1863272781569443602)** 昆仑万维发布2025年度财报，海外收入持续大幅增长至77.23亿元，同比增长49.91%，依托四大SOTA级AI模型支撑三大AI Native平台
+- **[值得买科技发布2025年报:AI驱动高质量发展 经营效率持续提升](https://www.cnstock.com/commonDetail/683497)** AI相关收入8716.60万元，"什么值得买"升级至第二代，定位"AI驱动的全网兴趣消费指南"，AIGC内容占比达56.59%
+- **[松鼠Ai登榜2025年度百大AI产品,以技术实证教育价值](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选，服务超5000万学生，实现"感知—认知—决策—执行"完整教学闭环
+- **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤发布，基于NEO原生架构，旨在实现理解与生成的统一，探寻多模态的新"尺度定律"
+
 ## 近期动态
 
 ### 2026-04-25

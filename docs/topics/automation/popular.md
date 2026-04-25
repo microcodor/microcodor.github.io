@@ -20,6 +20,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
 - **[AI workflow automation: 14 tools to boost team productivity](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析
 
+### 2026-04-26
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skill是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层，五层优先级不同解决问题也不同
+- **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill封装"如何把一件事做好"的经验方法论，采用渐进式披露策略规避MCP上下文灾难，Workflow是更固定的流程编排
+- **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier五款产品代表五个不同自动化战场，核心从"功能多不多"转向"能不能让你彻底放手"
+
 ## 近期动态
 
 ### 2026-04-24
