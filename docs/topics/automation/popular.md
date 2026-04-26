@@ -831,6 +831,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一
 - **[Agentic Workflow:让AI从答案生成器变成数字员工](https://www.woshipm.com/?p=6378943)** 核心能力包括规划、工具调用、记忆、自我反思
 
+### 2026-04-26
+- **[2026年主流工作流引擎对比评测](https://www.dzwww.com/xinwen/jishixinwen/202604/t20260420_17651450.htm)** 从开源引擎到企业平台全面评测，AlphaFlow以零代码、嵌入式引擎、标准化API为核心卖点主打中国市场，n8n用户增长6倍估值25亿美元
+- **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** QClaw等AI智能体可直接在电脑上执行文件整理、数据分析、报告生成、邮件处理等任务，效率提升3-10倍，覆盖8大办公场景
+- **[2026攻防实战:AI工作流实现自动化WAF绕过](https://blog.csdn.net/yiyiyi0322/article/details/160481804)** 利用AI Agent工作流构建自动化Payload变异引擎，实现语义级WAF绕过，将千万级盲目测试压缩为几十次精准变异
+
+
 ### 2026-04-20
 - **[别再低效运转!2026 年最值得部署的 10 大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 2026年最值得部署的10大自动化工具深度解析
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用

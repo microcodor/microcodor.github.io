@@ -818,6 +818,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高](http://k.sina.com.cn/article_7857201856_1d45362c001904cprg.html)** AI快速融入核心业务
 ### 2026-04-19
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+
+### 2026-04-26
+- **[OpenClaw正式接入DeepSeek V4](http://finance.sina.com.cn/roll/2026-04-26/doc-inhvutnp3468142.shtml)** OpenClaw 2026.4.24版本深度集成Google Meet、全面接入DeepSeek V4、语音通话全线打通、浏览器自动化进化，DeepSeek-V4-Pro限时2.5折优惠截止5月5日
+- **[AI领域新品发布:月之暗面Kimi K2.6、华为鸿蒙AI眼镜等](https://www.zhihu.com/pin/2030395433227433953)** 4月22日集中发布：Kimi K2.6开源定位300子Agent并行运行、华为鸿蒙AI眼镜2499元起、英伟达Vera Rubin开放预订、阿里通义Wan2.8-Image完成迭代
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数破10万亿、Claude 4引入神经符号架构、Gemini 3原生百万上下文、DeepSeek-R1推理成本比GPT-5低90%成全球开发者首选
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%
 - **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型

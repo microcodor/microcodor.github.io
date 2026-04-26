@@ -43,6 +43,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** GitHub Stars达36k+，一周数更节奏为在成百上千个寻找漏洞的团队面前强行把安全等级提上去
 - **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停
 
+### 2026-04-26
+- **[OpenClaw大更新:正式接入DeepSeek V4](http://finance.sina.com.cn/roll/2026-04-26/doc-inhvutnp3468142.shtml)** OpenClaw发布2026.4.24版本，深度集成Google Meet支持会议秘书功能，全面接入DeepSeek V4并修复连续多轮工具调用逻辑，语音通话全线打通支持实时循环
+- **[解析OpenClaw安全挑战及应对策略](https://baijiahao.baidu.com/s?id=1862987467063914331)** 系统分析OpenClaw面临的恶意Skill投毒、提示词注入、混淆代理越权等安全风险，当前超22万个实例暴露公网，81个CVE漏洞中62.9%属高危
+- **[OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** OpenClaw下载量较巅峰期下降一半，日更节奏毁誉参半，正面临可持续性抉择，腾讯、英伟达等大厂宁愿停留在旧版本不敢贸然升级
+
 ### 2026-04-24
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 严格化所有者命令身份验证，修复插件依赖恢复机制，可信执行终端终极防御
 - **[拆解OpenClaw-2026.4.20-AI-Agent自托管网关的工程自白](https://gitcode.csdn.net/69e991fe54b52172bc6bd0bb.html)** 修复成本统计重复累加数十倍Bug，修复会话文件无限增长导致OOM崩溃
