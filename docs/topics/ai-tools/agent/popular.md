@@ -50,6 +50,28 @@ description: 主流 Agent 框架与工具链一览
 - **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM"最后一公里"问题，LangChain生态最完整
 - **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架，整合AutoGen与Semantic Kernel能力
 
+### 2026-04-26
+- **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发,详解如何写好一个AI Agent框架
+- **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国,国产模型借Agent浪潮完成商业化超越
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年",上半年融资总额超80亿元
+
+### 2026-04-25
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details=160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统
+
+### 2026-04-24
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元，79%企业已将AI Agent融入工作流程
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI那个人](https://blog.csdn.net/m0_74942241/article/details=160403548)** 全球85%企业已将AI Agent集成至核心业务，2025年市场估值达113亿美元
+- **[AI生成代码太坑?先验后验,用框架工程让Agent靠谱起来](https://devpress.csdn.net/xclaw/69e5a4dc54b52172bc6af3b2.html)** AI Agent技术进入框架工程阶段，从模型权重改进到上下文工程再到框架工程
+- **[Microsoft AgentFramework是否已取代Semantic Kernel](https://blog.csdn.net/LBA8S9cv9/article/details=160344698)** Microsoft Agent Framework是Semantic Kernel官方继任者，Agent和多Agent编排功能已迁移
+- **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** AI Agent法律边界问题引发关注，合规治理框架与制度因应成焦点
+
+### 2026-04-23
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发，详解如何写好一个AI Agent框架
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+
 ### 2026-04-25
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统

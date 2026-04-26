@@ -23,6 +23,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-04-27
+- **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://www.163.com/dy/article/KRF7NRP70511DSSR.html)** 推理等级偷偷从「高」调成「中」，缓存bug导致每轮对话清空思考记录，一句25词限制的提示词砸了输出质量
+- **[谷歌收200美元的AI动态图表功能,今天被Claude免费开放!](https://www.163.com/dy/article/KRF8EET40511ABV6.html)** Claude白板功能免费开放，支持生成可交互的动态图表、时间线等，免费用户也能用
+- **[欧盟施压谷歌开放安卓AI入口,ChatGPT与Claude或将获系统级权限](https://www.sohu.com/a/1014956650_362225)** 欧盟要求谷歌依据DMA向竞争对手AI助手开放与Gemini相同的安卓系统接入权限
+
+### 2026-04-27
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[Claude降智这件事,反而让我对AI更放心了](https://baijiahao.baidu.com/s?id=1863405663548461128)** Anthropic发布完整事故报告，承认三个独立问题导致性能下降，并完整还原，这是行业罕见的透明度
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据行为

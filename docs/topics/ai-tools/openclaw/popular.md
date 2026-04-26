@@ -40,6 +40,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-04-27
+- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** OpenClaw正式将DeepSeek V4系列模型设为框架默认基础大模型，V4 Flash成为首选推理模型
+- **[今天起,DeepSeek V4成OpenClaw默认模型!](http://finance.sina.com.cn/stock/t/2026-04-26/doc-inhvuxup0132433.shtml)** 修复了DeepSeek在多轮工具调用中的thinking和replay行为，让长链路任务更稳定
+- **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发了十几个版本，有时一两天就来一次，每次更新都可能把用户配置搞崩
+- **[OpenClaw 2026年4月"进化大系"全景白皮书:从"架构重塑"到"生产级基座"](https://blog.csdn.net/jinanwuhuaguo/article/details=160410737)** 4月进化的核心逻辑:引入"负熵流"，将混乱的执行流纳入有序的治理轨道
+
+### 2026-04-27
 - **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 104位开发者联手，v2026.3.31-beta.1首次给AI Agent装上"操作系统"级任务控制面板，ACP/subagent/cron/后台CLI四种执行体统一到SQLite任务账本
 - **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** 不到四个月超28万Star，v2026.3.7版本由196位贡献者完成，上下文引擎插件化解决Agent最大痛点
 - **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万但项目更新未停，最新版提升GPT-5系列兼容性、优化Ollama连接超时
