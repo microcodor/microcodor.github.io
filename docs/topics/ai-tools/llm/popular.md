@@ -853,3 +853,8 @@ description: 主流大模型能力对比与选型参考
 ### 2026-04-26
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5在Terminal-Bench 2.0准确率达82.7%，以一半成本达到行业顶尖性能，GDPval知识工作任务胜率84.9%
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+
+### 2026-04-27
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，自主规划、调用工具、自检纠错直至任务完成，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95861180/article/details/160296522)** GPT-6推理性能提升40%，Claude 4.6降智风波，Google Gemma 4系列开源
+- **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理能力强但"听话"不如前代，Claude上限高下限低如开盲盒，Google用生态和开源抢开发者

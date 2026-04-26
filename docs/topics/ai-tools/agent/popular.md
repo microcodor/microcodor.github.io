@@ -961,3 +961,10 @@ description: 主流 Agent 框架与工具链一览
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统
 - **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** 灵狐AI视频全自动化平台依托AI Agent构建，实现高效产能与专业能力，2025年底平台AI内容投稿量增长185%
 - **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布基于奇智孔明AInnoGC工业大模型的AI Agent应用开发平台，中国工业企业应用大模型及智能体比例从2024年的9.6%快速提升至2025年的47.5%
+
+### 2026-04-27
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM能力"最后一公里"问题，LangChain生态最完整(124K stars)
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 2025年11大AI Agent框架对比，LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架深度调研，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出

@@ -912,3 +912,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[值得买科技发布2025年报:AI驱动高质量发展](https://www.cnstock.com/commonDetail/683497)** AI相关收入8716.60万元，什么值得买AIGC内容占比达56.59%
 - **[松鼠Ai登榜2025年度百大AI产品](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 全学科多模态智适应教育大模型入选，服务超5000万学生
 - **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤4月22日推出基于第二代NEO架构的基础模型，实现理解与生成的深度统一
+
+### 2026-04-27
+- **[巨量引擎发布AI全链路营销方案](https://www.donews.com/news/detail/4/6526414.html)** 平台围绕"策略-内容-转化"闭环完成电商、本地生活及非闭环等全场景商业产品自动化升级
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链产品发布会，发布多款人形机器人
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1开源破局、宇树科技人形机器人登春晚、全球首款通用AI智能体Manus问世
+- **[2025,被AI带飞的三大赛道](https://baijiahao.baidu.com/s?id=1853384148172844446)** 情绪类AI、教育类AI、创作类AI三大赛道爆发，中研普华预测2028年情感陪伴市场突破595亿元
