@@ -35,6 +35,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 严格化所有者命令身份验证，修复插件依赖恢复机制，可信执行终端终极防御
 - **[从迭代到生态:OpenClaw 4月成长全景](https://www.sohu.com/a/1014173710_183249)** GitHub星标突破25万，SkillHub技能市场突破5000+技能包，成为中文领域最活跃开源Agent生态
 - **[2026开源AI智能体框架深度评测:OpenClaw与Hermes Agent选型指南](https://developer.baidu.com/article/detail.html?id=6753837)** OpenClaw以Gateway网关架构构建，Hermes Agent以Engine引擎架构实现自我进化
+- **[OpenClaw使用指南:全方位教你配置与更新大模型](https://blog.51cto.com/u_16099311/14563158)** 配置第三方API Provider，降低token消耗，无缝适配Claude全系列模型
 
 ## 近期动态
 

@@ -37,6 +37,9 @@ description: 主流 Agent 框架与工具链一览
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统，将大模型不确定转化为可预测可维护的生产级系统
 - **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** 灵狐AI视频全自动化平台依托AI Agent构建，实现高效产能与专业能力，2025年底平台AI内容投稿量增长185%
 - **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布基于奇智孔明AInnoGC工业大模型的AI Agent应用开发平台，中国工业企业应用大模型及智能体比例从2024年的9.6%快速提升至2025年的47.5%
+- **[飞书AI Agent在汽车行业跑起来了,比外界想象得更快](https://baijiahao.baidu.com/s?id=1863225371842861599)** 北汽福田长沙工厂柔性化生产场景，龙虾已能在工作群里管理业务
+- **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** 中国法律框架对AI Agent的规制比美国更严格
+- **[ThinkingAI硅谷首秀:在Agent时代,什么才是真正的护城河?](https://baijiahao.baidu.com/s?id=1862953458990234639)** 没有知识、没有方法论的Agent跟没有灵魂的人一样
 
 ## 近期动态
 
