@@ -27,6 +27,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-04-27
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
+- **[2026年主流工作流引擎对比评测](https://www.dzwww.com/xinwen/jishixinwen/202604/t20260420_17651450.htm)** AlphaFlow主打中国市场，n8n用户增长6倍估值25亿美元
+
 ### 2026-04-24
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030291833926963926)** Rules是行为约束，Workflow是预定义代码路径，Agent由模型动态决定过程与工具使用
 - **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台

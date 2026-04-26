@@ -39,6 +39,11 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-27
+- **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 104位开发者联手，v2026.3.31-beta.1首次给AI Agent装上"操作系统"级任务控制面板，ACP/subagent/cron/后台CLI四种执行体统一到SQLite任务账本
+- **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** 不到四个月超28万Star，v2026.3.7版本由196位贡献者完成，上下文引擎插件化解决Agent最大痛点
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万但项目更新未停，最新版提升GPT-5系列兼容性、优化Ollama连接超时
+
 ### 2026-04-25
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** GitHub Stars达36k+，一周数更节奏为在成百上千个寻找漏洞的团队面前强行把安全等级提上去
 - **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停

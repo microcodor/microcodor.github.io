@@ -43,6 +43,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-04-27
+- **[AI工作站正在"去云化":英特尔这次想把大模型拉回本地](https://baijiahao.baidu.com/s?id=1863312670229354169)** 英特尔发布新一代AI工作站平台，以至强600+锐炫Pro GPU组成"双芯架构"，把AI算力从云端重新分发回桌面
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等11大框架深度对比，LangChain生态最完整达124K stars
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出TOTA架构与ISS屏幕语义理解，让Agent"看懂"界面并自主操作
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM"最后一公里"问题，LangChain生态最完整
+- **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架，整合AutoGen与Semantic Kernel能力
+
 ### 2026-04-25
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统

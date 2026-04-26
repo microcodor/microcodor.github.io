@@ -22,6 +22,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-27
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[Claude降智这件事,反而让我对AI更放心了](https://baijiahao.baidu.com/s?id=1863405663548461128)** Anthropic发布完整事故报告，承认三个独立问题导致性能下降，并完整还原，这是行业罕见的透明度
+- **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据行为
+- **[Gemini桌面端终于来了!实测唤起功能是亮点,但整体太糙](http://zhuanlan.zhihu.com/p/2028198793376535467)** Google上线macOS版Gemini桌面应用，解决网页端使用便捷性问题
+- **[2026年主流AI镜像模型对比实测:ChatGPT、Claude与Gemini谁更胜一筹?](https://www.eefocus.com/article/1993139.html)** GPT-4o全能多模态、Claude 3.5编程长文本专家、 Gemini 2.0生态集成
+
 ### 2026-04-24
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
 - **[GPT-6 Spud正式发布](https://blog.51cto.com/u_16099279/14563130)** 推理性能比5.2提升40%，上下文窗口和注意力机制升级，但token消耗量增加
