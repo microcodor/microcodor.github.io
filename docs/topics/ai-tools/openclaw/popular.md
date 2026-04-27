@@ -40,7 +40,11 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-04-27
-- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** OpenClaw正式将DeepSeek V4系列模型设为框架默认基础大模型，V4 Flash成为首选推理模型
+- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** OpenClaw正式将DeepSeek V4系列模型设为框架默认基础大模型，V4 Flash成为首选推理模型，V4 Pro参数规模高达1.6万亿
+- **[今天起,DeepSeek V4成OpenClaw默认模型!](http://finance.sina.com.cn/stock/t/2026-04-26/doc-inhvuxup0132433.shtml)** OpenClaw官方宣布DeepSeek V4 Flash为首选推理模型，修复了多轮工具调用中的thinking和replay行为
+- **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发了十几个版本，有时一两天就来一次，每次更新都可能把用户配置搞崩
+- **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** 日更节奏让用户头疼，大厂对升级持谨慎态度，腾讯、英伟达停留在旧版本
+- **[OpenClaw 2026年4月"进化大系"全景白皮书:从"架构重塑"到"生产级基座"](https://blog.csdn.net/jinanwuhuaguo/article/details/160410737)** 4月进化的核心逻辑：引入"负熵流"，将混乱的执行流纳入有序的治理轨道
 - **[今天起,DeepSeek V4成OpenClaw默认模型!](http://finance.sina.com.cn/stock/t/2026-04-26/doc-inhvuxup0132433.shtml)** 修复了DeepSeek在多轮工具调用中的thinking和replay行为，让长链路任务更稳定
 - **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发了十几个版本，有时一两天就来一次，每次更新都可能把用户配置搞崩
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** 日更节奏让用户头疼，大厂对升级持谨慎态度，腾讯、英伟达停留在旧版本

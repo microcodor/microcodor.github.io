@@ -49,9 +49,8 @@ description: 主流 Agent 框架与工具链一览
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出TOTA架构与ISS屏幕语义理解，让Agent"看懂"界面并自主操作
 - **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM"最后一公里"问题，LangChain生态最完整
 - **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架
-
-### 2026-04-26
-- **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent
+- **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复
+- **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** 中国法律框架对AI Agent的规制比美国更严格，合规治理框架与制度因应成焦点
 
 ### 2026-04-25
 - **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复

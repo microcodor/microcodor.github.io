@@ -23,7 +23,8 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-04-27
-- **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://www.163.com/dy/article/KRF7NRP70511DSSR.html)** 推理等级偷偷从「高」调成「中」，缓存bug导致每轮对话清空思考记录
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[谷歌收200美元的AI动态图表功能,今天被Claude免费开放!](https://www.163.com/dy/article/KRF8EET40511ABV6.html)** Claude白板功能免费开放，支持生成可交互的动态图表、时间线等
 - **[欧盟施压谷歌开放安卓AI入口,ChatGPT与Claude或将获系统级权限](https://www.sohu.com/a/1014956650_362225)** 欧盟要求谷歌依据DMA向竞争对手AI助手开放与Gemini相同的安卓系统接入权限
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
