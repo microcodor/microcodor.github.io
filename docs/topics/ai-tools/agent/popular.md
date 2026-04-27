@@ -48,9 +48,12 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等11大框架深度对比，LangChain生态最完整达124K stars
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出TOTA架构与ISS屏幕语义理解，让Agent"看懂"界面并自主操作
 - **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM"最后一公里"问题，LangChain生态最完整
-- **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架，整合AutoGen与Semantic Kernel能力
+- **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架
 
 ### 2026-04-26
+- **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent
+
+### 2026-04-25
 - **[一条PR标题就能偷走你的API密钥:AI Agent安全裂痕再现](https://baijiahao.baidu.com/s?id=1862882899939710544)** 攻击者通过PR标题即可劫持Claude Code、Gemini CLI等AI Agent，窃取API密钥，研究已获三家厂商确认修复
 - **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发,详解如何写好一个AI Agent框架
 - **[中国AI正在绕过大模型,直奔Agent时代](https://baijiahao.baidu.com/s?id=1862603310271287532)** 中国大模型Token日均调用量首次超越美国,国产模型借Agent浪潮完成商业化超越
