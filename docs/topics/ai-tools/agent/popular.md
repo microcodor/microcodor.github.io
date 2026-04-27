@@ -999,3 +999,6 @@ description: 主流 Agent 框架与工具链一览
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等主流框架深度调研，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+- **[AI Agent的记忆困局:架构、挑战与未来](https://zhuanlan.zhihu.com/p/2027825107708516106)** 2025年新进展引入"空闲时计算"，后台子Agent在用户不活跃时异步整理压缩记忆
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程(Context Engineering)代表从提示词工程的演变，RAG是具体落地形式
+- **[AI Agent的记忆困局:架构、挑战与未来](https://zhuanlan.zhihu.com/p/2027825107708516106)** 现代AI Agent具备"感知-决策-执行-反馈"闭环能力，记忆分为工作记忆、情景记忆、语义记忆、程序记忆四类

@@ -941,3 +941,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce in Slack、Trello AI等各有特色
 - **[收藏!小白程序员必看:轻松分清Automation/Workflow/Agent](https://blog.csdn.net/2401_85325726/article/details/159315136)** 规则固定用Automation，步骤明确用Workflow，目标明确但路径不确定用Agent
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[marktoflow开源AI workflow自动化工具](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 通过Markdown文件定义执行workflow，支持多AI agent和39个集成服务，理想用于数据隐私和本地部署场景
+- **[AI编程工具Skill、MCP、Workflow、Rules、Memories区别解析](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层、Skills是应用层、MCP是驱动层、Auto Memory是日志层、Hooks是事件层
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 2026年3月含n8n恶意链接的邮件总量较2025年1月上涨约686%，攻击者利用平台可信基础设施绕过传统安全防护

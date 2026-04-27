@@ -926,3 +926,6 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** v2026.3.7版本由196位贡献者协同完成，ContextEngine插件接口是开发者等待半年的"杀手锏"
 - **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停，4月连续发布五大版本
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔](https://hub.baai.ac.cn/view/52987)** ContextEngine插件接口让开发者可以完全自定义上下文处理策略，不动核心代码就能换策略
+- **[OpenClaw龙、更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月十几个版本频繁导致用户配置崩溃，企业客户（大厂）卡在旧版本不敢升级
+- **[OpenClaw发布v2026.4.24:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** DeepSeek V4 Flash（284B参数）成为首选推理模型，V4 Pro（1.6万亿参数）供高阶开发者调用，Google Meet深度集成
+- **[OpenClaw v2026.4.14版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160191650)** 安全加固为核心，GPT-5.4-pro首发兼容，网关操作安全策略收紧，多渠道稳定性修复
