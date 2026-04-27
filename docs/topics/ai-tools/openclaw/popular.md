@@ -929,3 +929,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw龙、更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月十几个版本频繁导致用户配置崩溃，企业客户（大厂）卡在旧版本不敢升级
 - **[OpenClaw发布v2026.4.24:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** DeepSeek V4 Flash（284B参数）成为首选推理模型，V4 Pro（1.6万亿参数）供高阶开发者调用，Google Meet深度集成
 - **[OpenClaw v2026.4.14版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160191650)** 安全加固为核心，GPT-5.4-pro首发兼容，网关操作安全策略收紧，多渠道稳定性修复
+
+### 2026-04-28
+- **[OpenClaw发布新版本:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** OpenClaw正式接入DeepSeek V4系列模型，V4Flash设为系统默认大脑，支持高达100万token上下文窗口
+- **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发十几个版本，有时一两天就来一次，每次更新都可能把用户配置搞崩
+- **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** GitHub Stars达36k+，腾讯、英伟达等大厂对升级持谨慎态度，停留在旧版本
+- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** OpenClaw官方宣布DeepSeek V4 Flash为首选推理模型，V4 Pro参数规模高达1.6万亿
+

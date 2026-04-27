@@ -944,3 +944,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[marktoflow开源AI workflow自动化工具](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 通过Markdown文件定义执行workflow，支持多AI agent和39个集成服务，理想用于数据隐私和本地部署场景
 - **[AI编程工具Skill、MCP、Workflow、Rules、Memories区别解析](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层、Skills是应用层、MCP是驱动层、Auto Memory是日志层、Hooks是事件层
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 2026年3月含n8n恶意链接的邮件总量较2025年1月上涨约686%，攻击者利用平台可信基础设施绕过传统安全防护
+
+### 2026-04-28
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skill是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
+- **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill封装"如何把一件事做好"的经验方法论，采用渐进式披露策略规避MCP上下文灾难
+- **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier五款产品代表五个不同自动化战场
+- **[微软的「Workflows工作流智能体」上线啦](https://post.smzdm.com/p/anvex20v/)** 微软推出基于Microsoft Agent Framework的企业级自动化平台，实现从单点问答到端到端解决的转变
+- **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details=160486861)** ottomator-agents基于工作流编排的智能体协作框架，将复杂任务拆解为可重用的节点

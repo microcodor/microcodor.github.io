@@ -1002,3 +1002,10 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent的记忆困局:架构、挑战与未来](https://zhuanlan.zhihu.com/p/2027825107708516106)** 2025年新进展引入"空闲时计算"，后台子Agent在用户不活跃时异步整理压缩记忆
 - **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程(Context Engineering)代表从提示词工程的演变，RAG是具体落地形式
 - **[AI Agent的记忆困局:架构、挑战与未来](https://zhuanlan.zhihu.com/p/2027825107708516106)** 现代AI Agent具备"感知-决策-执行-反馈"闭环能力，记忆分为工作记忆、情景记忆、语义记忆、程序记忆四类
+
+### 2026-04-28
+- **[AI工作站正在"去云化":英特尔这次想把大模型拉回本地](https://baijiahao.baidu.com/s?id=1863312670229354169)** 英特尔发布新一代AI工作站平台，以至强600+锐炫Pro GPU组成"双芯架构"，把AI算力从云端重新分发回桌面
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details=160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，将大模型不确定转化为可预测可维护的生产级系统
+- **[微软Build 2025:AI 智能体时代与开放智能体网络的构建](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xo7y.html)** 1500万开发者使用GitHub Copilot，超23万家机构通过Copilot Studio构建自己的AI智能体和自动化流程
+- **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块

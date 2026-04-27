@@ -873,3 +873,10 @@ description: 主流大模型能力对比与选型参考
 - **[Claude降智事件完整复盘:思考深度下降67%,Anthropic选择完整还原](https://baijiahao.baidu.com/s?id=1863405663548461128)** GitHub 6852个真实会话数据分析揭示思考长度、幻觉率变化，Anthropic发布完整事故报告
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个](https://blog.csdn.net/2601_95861180/article/details=160296522)** GPT-6推理性能提升40%，Claude 4.6降智风波，Google Gemma 4系列开源
 - **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理能力强但"听话"不如前代，Claude上限高下限低如开盲盒，Google用生态和开源抢开发者
+
+### 2026-04-28
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[Claude降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认三个独立问题导致性能下降，推理等级从"高"调成"中"，缓存bug清空思考记录
+- **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据行为
+- **[Claude降智这件事,反而让我对AI更放心了](https://baijiahao.baidu.com/s?id=1863405663548461128)** Anthropic发布完整事故报告，承认调整并解释原因，用户支付同样价格但服务可不一样
+
