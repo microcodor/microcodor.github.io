@@ -39,8 +39,12 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
-### 2026-04-27
-- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** OpenClaw正式将DeepSeek V4系列模型设为框架默认基础大模型，V4 Flash成为首选推理模型，V4 Pro参数规模高达1.6万亿
+### 2026-04-28
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+- **[破解Agent场景落地难题!拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216&wfr=spider&for=pc)** 湘江鲲鹏联合华为鲲鹏推出AI Agent一体化解决方案，Token消耗直降50%
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，为企业提供从硬件到应用的全栈国产化、高性能AI Agent落地路径
+- **[AI 季报 26Q1:OpenClaw、OpenAI 与 Anthropic 的三重对阵、自进化](https://view.inews.qq.com/a/20260401A06Q9J00)** OpenClaw的成功刺激了各大AI公司的创新，Anthropic 52天内更新了74个功能
+- **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发了十几个版本，每次更新都可能把用户配置搞崩，V4 Pro参数规模高达1.6万亿
 - **[今天起,DeepSeek V4成OpenClaw默认模型!](http://finance.sina.com.cn/stock/t/2026-04-26/doc-inhvuxup0132433.shtml)** OpenClaw官方宣布DeepSeek V4 Flash为首选推理模型，修复了多轮工具调用中的thinking和replay行为
 - **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月发了十几个版本，有时一两天就来一次，每次更新都可能把用户配置搞崩
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** 日更节奏让用户头疼，大厂对升级持谨慎态度，腾讯、英伟达停留在旧版本

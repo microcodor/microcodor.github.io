@@ -22,8 +22,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
-### 2026-04-27
-- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+### 2026-04-28
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5在代码、办公、科研、网络安全等核心场景实现对Claude Opus 4.7与Gemini 3.1 Pro的系统性超越
+- **[Gemini、GPT和 Claude 领衔的医药“三国杀”](https://3g.163.com/dy/article/KQASPFOU05566YK3.html)** 赛诺菲已将Claude深度嵌入医学事务工作流，诺和诺德用Claude进行敏感监管资料撰写
+- **[国内AI镜像站实测:GPT、Gemini、Claude三款旗舰模型技术比拼](https://post.smzdm.com/p/ad755nnp/)** GPT-5.4性价比最高，Gemini深度推理能力溢出，Claude适合安全敏感任务
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[谷歌收200美元的AI动态图表功能,今天被Claude免费开放!](https://www.163.com/dy/article/KRF8EET40511ABV6.html)** Claude白板功能免费开放，支持生成可交互的动态图表、时间线等
 - **[欧盟施压谷歌开放安卓AI入口,ChatGPT与Claude或将获系统级权限](https://www.sohu.com/a/1014956650_362225)** 欧盟要求谷歌依据DMA向竞争对手AI助手开放与Gemini相同的安卓系统接入权限
