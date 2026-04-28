@@ -25,6 +25,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill封装"如何把一件事做好"的经验方法论，采用渐进式披露策略规避MCP上下文灾难，Workflow是更固定的流程编排
 - **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier五款产品代表五个不同自动化战场，核心从"功能多不多"转向"能不能让你彻底放手"
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 
 ### 2026-04-28
@@ -64,6 +71,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程到RAG到Agentic Workflow，效率提升10倍的演进路径
 - **[企业未来十年最重要的智能化工作](https://m.thepaper.cn/newsDetail_forward_33016126)** 过程与场景经验、专家判断与品味、行业资源与关系网络、执行入口与控制权
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 ### 2026-04-28
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)** ottomator-agents基于工作流编排的智能体协作框架，将大任务拆解成可重用的节点，每个节点由专门智能体或工具处理
@@ -78,6 +92,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ### 2026-04-21
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n支持连接所有HTTP API网络应用，用户可通过可视化界面搭建自定义自动化工作流
 - **[marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成服务
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 
@@ -191,6 +212,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟:描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具,工作流是markdown文件,支持39种集成、工具调用、本地LLM
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 ### 2026-04-18
 - **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
@@ -221,6 +249,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
@@ -228,6 +263,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250.md)** Gartner预测到2027年70%的大中型企业将部署AI Agent驱动的核心业务工作流，日常重复性任务处理效率提升80%以上
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 ### 2026-04-10
@@ -238,6 +280,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[普通人如何用AI工作流实现"睡后效率"](https://post.smzdm.com/p/avg8kzz9/))** AI工作流本质是复杂任务拆解为自动执行步骤的"菜谱"，四大核心应用场景
 - **[超级个体时代 一个人带一群 Agent 的工作法怎么搭建](https://blog.csdn.net/2502_91534922/article/details/159934347)** 核心工具是LLM、Agent编排框架(LangChain、AutoGen、CrewAI)、快速UI工具(Streamlit)
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 ### 2026-04-09
 - **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束，AI加持后Workflow只需按固定流程执行适合规则明确的任务
@@ -245,6 +294,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow是"流程老管家"，Agent是"自主决策者"，两者结合实现智能自动化
 - **[基于Python的PC微信自动化探索:uiautomation+OpenCV+EasyOCR](https://blog.csdn.net/sy5yp57zo/article/details/159830959)** Microsoft Agent Framework提供Workflow框架用于编排和协调多个智能体，核心概念包括Executor、Edge、SuperStep等
 - **[AI workflow自动化:14款工具提升团队生产力](https://monday.com/blog/project-management/ai-workflow-automation-14-tools-to-boost-team-productivity-and-scale-faster/)** 14款AI工作流自动化工具深度解析，涵盖数据获取、处理分析、自动决策全流程
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 ### 2026-04-08
@@ -292,6 +348,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[外网爆火,比Vibe Coding便宜10倍!北邮重构多智能体编排范式](https://www.163.com/dy/article/KPJE1PSK0511ABV6.html)** 硬编码派与可视化拖拽派之外的新范式
 - **[文献综述还在死磕?这3个AI神器让你效率翻倍](https://www.sohu.com/a/1005010407_100209503)** AI做"地毯式"搜索,AI做"速读员",AI辅助综述
 - **[深信服×FastGPT联合发布SF-FastGPT](https://new.qq.com/rain/a/20260403A03RVB00)** 打造"0专家+好效果"的企业级AI应用
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 ### 2026-04-05
@@ -373,6 +436,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
 - **[Ekinox](https://baike.baidu.com/item/Ekinox/67533960)** 可视化工作流构建器，支持100种集成能力
 - **[YC Demo Day(W26)现场复盘:Make Something Agents Want](https://baijiahao.baidu.com/s?id=1860602687541859764)** YC W26聚焦为agent做服务的产品，Vertical Workflow从22个降至12个
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 ### 2026-04-04
@@ -747,6 +817,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** AI agents是自主的基于规则的系统，能感知环境并采取行动完成目标
 - **[AI workflow自动化编排与任务调度实现](https://www.dtstack.com/bbs/article/471645)** 将数据采集、预处理、模型训练、推理部署等环节自动化串联
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 ### 2026-04-07
 - **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
@@ -809,6 +886,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ## 近期动态
 ### 2026-04-18
 - **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
@@ -844,6 +928,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具，通过Markdown文件定义工作流
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性
 - **[Microsoft Agent Framework Workflow](https://blog.csdn.net/TT1h2bxZf/article/details/160024548)** 微软MAF提供强大Workflow框架编排多智能体
+
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
 ### 2026-04-16

@@ -41,6 +41,13 @@ description: 主流 Agent 框架与工具链一览
 - **[从某头部电商平台诉Perplexity案看中国AI Agent的合规红线](https://mp.weixin.qq.com/s?__biz=MjM5ODI5MzI0NA==&mid=2651695220&idx=3&sn=c37f0c5efc437ae033749792de303cb0)** 中国法律框架对AI Agent的规制比美国更严格
 - **[ThinkingAI硅谷首秀:在Agent时代,什么才是真正的护城河?](https://baijiahao.baidu.com/s?id=1862953458990234639)** 没有知识、没有方法论的Agent跟没有灵魂的人一样
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-28
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
@@ -108,6 +115,13 @@ description: 主流 Agent 框架与工具链一览
 - **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念出发，详解如何写好一个AI Agent框架
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，上半年融资总额超80亿元
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 
@@ -222,10 +236,24 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-04-04
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-11
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大核心能力
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重，Karpathy的AutoResearch可在630行代码内实现自主实验循环
@@ -246,6 +274,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent 架构图解:大模型、记忆、RAG 与工具调用的协同机制](https://blog.csdn.net/gsoj4HR8p/article/details/159894344)** 微软2025年底推出Microsoft Agent Framework(MAF)，集成Semantic Kernel与AutoGen能力，.NET AI代理进入工业化生产阶段
 - **[AI Agent开发路线图2025:从入门到精通](https://k.sina.cn/article_7879848900_1d5acf3c401902w3yy.html)** 从基础准备到初级开发，Python编程、REST API、LangChain、LlamaIndex等技术基础
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-09
 - **[2025年人工智能Agent开发框架全景分析:11个顶级工具深度评测](http://word.baidu.com/noteview/387095f6f21fb7360b4c2e3f5727a5e9856a27ea.html)** AI Agent已突破聊天机器人局限，进化成能自主决策、多模态感知的智能系统，Gartner预测2026年用专业框架开发效率将飙升300%
@@ -253,6 +288,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent 架构演进与工程化实践综述](https://www.bobasyu.cn/archives/ai-agent-jia-gou-yan-jin-yu-gong-cheng-hua-shi-jian-zong-shu)** 系统回顾AI Agent从2018年ReAct论文到2025年企业级框架的演进，深入分析"大脑-工具-记忆-知识"四位一体技术架构
 - **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
 - **[大模型应用开发技术栈完整指南:AI开发框架选型与实践](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w410.html)** 2026年核心技术栈解析，从基础设施层到场景应用层的五层架构，Agent化转型成为主流应用形态
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-08
@@ -278,6 +320,13 @@ description: 主流 Agent 框架与工具链一览
 - **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
 - **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-05
 - **[AI Agent开发路线图2025:从入门到精通,一文读懂智能体技术](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w3yy.html)** 从理解Agent核心概念到掌握LangChain、LlamaIndex等开发框架的完整学习路线
@@ -299,9 +348,23 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://view.inews.qq.com/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-04
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-05
@@ -399,6 +462,13 @@ description: 主流 Agent 框架与工具链一览
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143&wfr=spider&for=pc)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
 - **[如何看待AI Agent 2025年的技术发展趋势? - 知乎](https://www.zhihu.com/question/8588490382)** Agentic Loop成为标准架构、Tool Use从噱头变成核心能力
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-04
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain最受欢迎，AutoGen(38.6K stars)、CrewAI(8.6K stars)等框架深度对比
@@ -416,6 +486,13 @@ description: 主流 Agent 框架与工具链一览
 - **[【国金计算机&科技】再一次谈自定义Agent](https://www.163.com/dy/article/KP78ANFO05568W0A.html)** Anthropic推出Agent Skills，以结构化文件夹为载体构建标准化AI工作手册SOP
 - **[2025年报解读|美图CPO透露:AI Agent能力已落地大部分美图产品](https://baijiahao.baidu.com/s?id=1860899329877972849)** 美图已将AI Agent能力接入大部分产品，美图设计室的Agent功能已是产品收入增长的主要动力
 - **[美图2025财报深度解读:AI Agent如何重构美图?](https://baijiahao.baidu.com/s?id=1860808860718084947)** RoboNeo已登顶全球26个国家和地区应用商店榜首，AI Agent收入快速增长
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-04
@@ -435,6 +512,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AutoGen 架构演进全梳理:从 v0.4 到 Microsoft Agent Framework](https://new.qq.com/rain/a/20260307A06H3A00)** v0.4本质是AutoGen 2.0，三层架构autogen-core/agentchat/ext实现完全异步化
 - **[2024-2025 AI智能体Agent最新进展研究:技术、应用与行业趋势](https://blog.csdn.net/jacky190/article/details/158807578)** 多模态感知与认知融合、自主决策与任务规划、分布式架构与云原生支持成核心技术突破
 - **[【干货】2025 年必学的 8 大 AI Agent 开发框架:全面解析与使用指南](https://blog.csdn.net/m0_48891301/article/details/149801328)** LangChain构建LLM应用基础设施，CrewAI多角色类公司式Agent协作模型，AutoGPT完全自主智能体
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-04
@@ -665,6 +749,13 @@ description: 主流 Agent 框架与工具链一览
 
 （每日更新...）
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 
 ### 2026-04-24
@@ -732,6 +823,13 @@ description: 主流 Agent 框架与工具链一览
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
 - **[AI自动化流程:基于RPA与机器学习的智能任务编排](https://www.dtstack.com/bbs/article/458208)** AI自动化流程正成为驱动业务流程智能化的核心引擎
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-05
 - **[装了龙虾不知道该干嘛?你差的不是更强的 AI Agent,是一张可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包，agent-browser让AI执行浏览器动作
@@ -766,6 +864,13 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain受欢迎，AutoGen、CrewAI等框架深度对比
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册SOP
 - **[2025年AI应用开发新范式报告](https://m.book118.com/html/2026/0314/8101134071010053.shtm)** 126页，AI Agent开发新范式深度解析
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-08
@@ -834,12 +939,26 @@ description: 主流 Agent 框架与工具链一览
 - **[别再卷大模型微调了!2026必学OpenClaw AI Agent](https://blog.csdn.net/2601_94871597/article/details/159938777)** OpenClaw采用本地优先架构保证数据安全，极致轻量化10分钟可跑通
 - **[AI Agent 时代工程范式革命全解](https://blog.csdn.net/m0_59235945/article/details/159862829)** 从Context Engineering到Harness Engineering时代，harness-engineering指人类工程师从亲手写代码转变为为AI智能体设计工具、规则和反馈环境
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 ### 2026-04-13
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** Meta的HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现agent级操作重写神经网络权重
 - **[啥是AI Agent!2025年值得推荐入坑AI Agent的五大工具框架!(新手科普篇)](https://blog.51cto.com/jinjiangongzuos/14539649)** AI Agent是能够感知环境、自主决策并执行任务的智能系统，五大框架包括AutoGen、LangChain等
 - **[Microsoft AutoGen 回顾与 Microsoft Agent Framework 演进](https://post.smzdm.com/p/am9d98lz/)** AutoGen通过"群聊"机制实现任务委派，2025年末Microsoft正式推出Microsoft Agent Framework作为官方继任者MAF
 - **[别再卷大模型微调了!2026必学OpenClaw AI Agent](https://blog.csdn.net/2601_94871597/article/details/159938777)** OpenClaw采用本地优先架构保证数据安全，极致轻量化10分钟可跑通
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-13
@@ -863,6 +982,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent开发路线图2025:从入门到精通](http://zhuanlan.zhihu.com/p/1985379253525697644)** 核心开发层次全解析，2025年趋势：本地化部署、多模态融合、专业化发展
 - **[《AI Agent智能体技术发展报告》正式发布](https://www.163.com/dy/article/KJKMOSIV055240KW.html)** AI Agent从自动化到自主智能的再定义，核心能力包括感知、大脑、行动、记忆四大模块
 
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
+
 ## 近期动态
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，标志着AI辅助开发工具重大转变
@@ -885,6 +1011,13 @@ description: 主流 Agent 框架与工具链一览
 - **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软2025年10月正式宣布为Semantic Kernel继任者，2026年3月引入Agent Skills功能
 - **[AI Agent开发新纪元!Harness Engineering](https://blog.csdn.net/2401_85390073/article/details/160149156)** 2025年底至2026年初在AI工程圈迅速升温的核心概念
 - **[AI Agent的应用方向本质:从替代人的哪种能力理解2025-2026市场全景](https://www.cnblogs.com/wzcnb/p/19849455)** 将AI Agent分成6类：执行型、判断型、生产型等
+
+### 2026-04-29
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[小米2025年年报code agent信息](https://xueqiu.com/7300273648/386302749)** 小米自研code agent，期待对外开放使用
+- **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
+- **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
 ### 2026-04-16

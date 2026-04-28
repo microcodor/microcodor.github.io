@@ -37,6 +37,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[2026开源AI智能体框架深度评测:OpenClaw与Hermes Agent选型指南](https://developer.baidu.com/article/detail.html?id=6753837)** OpenClaw以Gateway网关架构构建，Hermes Agent以Engine引擎架构实现自我进化
 - **[OpenClaw使用指南:全方位教你配置与更新大模型](https://blog.51cto.com/u_16099311/14563158)** 配置第三方API Provider，降低token消耗，无缝适配Claude全系列模型
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 
 ### 2026-04-28
@@ -83,6 +90,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，GPT-5.4和nano模型集成，但升级后出现控制台打不开等问题
 - **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，Windows环境执行加固
 - **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 
@@ -194,6 +208,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw大版本更新之后,Agent开始向"系统级智能体"演化](https://www.163.com/dy/article/KQ7PBO8E055616YL.html)** Dreaming记忆机制首次被组织进"长期运行的Agent系统",记忆从"存储"变成"认知"
 - **[从Agent浪潮到组织变革,腾讯云共探OpenClaw时代的安全边界与企业进化](https://www.163.com/news/article/KQ81DOKA00019UD6.html)** 腾讯云携手业界专家探讨企业AI Agent的安全边界和组织变革路径
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 - **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
 - **[Hermes vs OpenClaw:到底谁代表了Agent的下一阶段?](https://baijiahao.baidu.com/s?id=1862632787232572165)** Hermes把Agent从"会话工具"往"持续工作者"推进，OpenClaw更像入口型产品
@@ -221,6 +242,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[inSai Hilight新版本支持"养虾"调用,新增一键生成TikTok带货视频功能](https://baijiahao.baidu.com/s?id=1861809579267520019)** Hilight Skill上线，标志首次支持一键接入OpenClaw生态，营销视频生产从"人驱动工具"进化为"Agent自动调用"
 - **["OpenClaw之父点赞"终结百虾大战?一场升级版的AI原生革命上演](https://baijiahao.baidu.com/s?id=1861822659231570573)** 网易有道LobsterAI开源获Peter Steinberger公开点赞，把Agent的门槛砸碎让普通用户也能用
 - **[Anthropic封杀48小时,逼出OpenClaw最强反击!龙虾首次会生视频了](https://new.qq.com/rain/a/20260407A040TL00)** OpenClaw 2026.4.5首次内置视频+音乐生成能力，新增"梦境"记忆机制，GPT-5.4已全面接管
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 ### 2026-04-08
@@ -345,6 +373,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[从9 天等待到 5 分钟部署:OpenClaw v2026.3.x 如何让一个人拥有团队的交付能力](https://cloud.tencent.com/developer/article/2645197)** v2026.3.2 breaking changes更新，v2026.3.11功能扩展，Chrome DevTools MCP Attach Mode
 - **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 ### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
@@ -362,6 +397,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复
 - **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 ### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
@@ -378,6 +420,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI世界|新一代智能终端正"飞入寻常百姓家"](https://baijiahao.baidu.com/s?id=1860416743708561684)** 中国信通院发布《新一代智能终端蓝皮书(2025年)》，AI手机、AI PC进入规模化商用
 - **[雷鸟创新拿下全球第一,AR赛道进入中国品牌主导时代](https://baijiahao.baidu.com/s?id=1861070809548430888)** 2025年全球AR眼镜出货量第一，市场份额27%
 - **[商汤2025年财报:生成式AI再度爆发增长51%](https://baijiahao.baidu.com/s?id=1860542102161094200)** 商汤2025年收入增长33%超50亿元，生成式AI爆发增长51%
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 ### 2026-04-04
@@ -715,6 +764,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[当AI助手变成「特洛伊木马」:OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 超过27万个OpenClaw实例暴露公网，安全问题凸显
 - **[ContextEngine:开发者等了半年的上下文引擎](http://zhuanlan.zhihu.com/p/2014275270752904257)** 可插拔上下文引擎，开发者可自定义上下文处理逻辑
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 ### 2026-04-07
 - **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
@@ -758,16 +814,37 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，以自强鲲鹏服务器为物理底座，深度融合OpenClaw与沙箱技术，打造全栈国产化高性能AI Agent落地路径
 - **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](http://app.myzaker.com/news/article.php?pk=69d074fa8e9f093a8d30dc2e)** 三大互联网巨头先后入局，字节拿下官方中国镜像站基础设施赞助，腾讯推出微信ClawBot插件，阿里接入通义千问模型
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 ### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
 - **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122.md)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://www.163.com/dy/article/KPTMRS5S0519QIKK.md)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
 
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ## 近期动态
 ### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
 - **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122.md)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 ### 2026-04-10
@@ -793,6 +870,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw龙吓五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
 - **[OpenClaw 2026年4月"六天六更"万字深度解读剖析](https://blog.csdn.net/jinanwuhuaguo/article/details/160121441)** 从"可信底座"到"智能跃迁"的范式革命，记忆系统回归与安全底座重塑、漏洞清道夫、记忆回灌与审计追踪
 - **[2026年AI代理新趋势:Hermes、OpenClaw与Claude Code核心解析](https://www.163.com/dy/article/KQE5T55N05566SDR.html)** Claude Code进入开发现场，OpenClaw接入所有入口，Hermes拥有长期记忆
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 - **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
@@ -820,6 +904,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[华源证券:OpenClaw启发AIAgent新阶段 能力跃迁与入口争夺](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw看作是个人AI的操作系统
 - **[Openclaw 龙虾五天五连,24小时两更](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代
 - **[OpenClaw大版本更新之后,Agent开始向系统级智能体演化](https://zhuanlan.zhihu.com/p/2025880261334775239)** Dreaming记忆机制首次被组织进长期运行的Agent系统
+
+### 2026-04-29
+- **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
 ### 2026-04-18

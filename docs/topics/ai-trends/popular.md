@@ -38,6 +38,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[松鼠Ai登榜2025年度百大AI产品,以技术实证教育价值](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选，服务超5000万学生，实现"感知—认知—决策—执行"完整教学闭环
 - **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤发布，基于NEO原生架构，旨在实现理解与生成的统一，探寻多模态的新"尺度定律"
 
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+
 ## 近期动态
 
 ### 2026-04-28
@@ -80,6 +86,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，政策支持+技术突破驱动产业爆发
 - **[用友网络发布2025年报:营收91.82亿元,AI相关合同签约16.7亿元](https://www.dzwww.com/xinwen/jishixinwen/202604/t20260420_17651437.htm)** 用友BIP全面升级AI与数据能力，企业AI产品矩阵签约金额达16.7亿元
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点产业链产品发布会，发布多款人形机器人包括"夸父"、"大圣"、"Tina"
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-28
@@ -181,6 +193,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[《熊出没》宣发AI深度合作伙伴,可灵AI用实用价值助力影视行业](https://baijiahao.baidu.com/s?id=1861439719889058332)** AI生成效率较传统CG流程3-4倍提升
 
 
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+
 ## 近期动态
 ### 2026-04-18
 - **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%，净利润25.45亿元同比增长20.37%
@@ -221,6 +239,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[五部门联合印发"人工智能+教育"行动计划](https://baijiahao.baidu.com/s?id=1862166661702763982)** 教育部等五部门联合印发《"人工智能+教育"行动计划》,系统推进AI教育应用
 - **[兆威机电拟投8亿元建灵巧手产业园](https://new.qq.com/rain/a/20260411A02MCJ00)** 柏楚电子2025年营收21.96亿元同比增长26.52%,配天机器人Q1获约3000万元订单
 
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+
 ## 近期动态
 ### 2026-04-13
 - **[华为,AI新品曝光,或将发布!](https://baijiahao.baidu.com/s?id=1862155869802510425)** 中信建投研报指出,2023年9月Meta开启AI眼镜时代,2025年行业进入产品爆发期
@@ -237,6 +261,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi、腾讯元宝、通义等入选
 - **[TCL AiMe陪伴机器人](https://baike.baidu.com/item/TCL%20AiMe陪伴机器人/67155462)** TCL于2025年1月在CES上发布的分体式AI陪伴机器人
 - **[2025年度AI 100](https://baike.baidu.com/item/2025年度AI%20100/67282831)** 量子位智库推出的AI产品风向标，按季度发布包括"旗舰AI 100"和"创新AI 100"两大板块
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-08
@@ -276,6 +306,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[华泰证券业绩会通篇谈AI:AI会以摧枯拉朽之势重塑行业](https://baijiahao.baidu.com/s?id=1861539265205258105)** 华泰确立"All in AI"战略，"数字化运营部"更名为"AI创新发展部"
 - **[从“数云融合”到“企业数智基座”,神州数码发布AI四大增长引擎](https://www.csdn.net/article/2026-04-04/159825125)** 神州数码2025年营收1437.5亿元，AI相关业务收入330.3亿元同比增长47.7%
 - **[英伟达在中国跌下神坛?国产AI芯片崛起](https://baijiahao.baidu.com/s?id=1861524846804858614)** 2025年中国AI芯片市场：英伟达55%、华为20%、阿里平头哥7%、AMD 4%
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-04
@@ -351,6 +387,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[穿越热潮:2025具身智能机器人场景应用白皮书重磅发布](https://www.ageclub.net/article-detail/8697)** SAP携手创业邦发布《2025具身智能机器人场景应用白皮书》
 - **[2025年Nano Banana崭露头角,代理人迷失如何影响AI未来](https://www.163.com/dy/article/KP598IHQ05568E2X.html)** DeepSeek R1发布标志着2025年AI崭露头角，Nano Banana图像生成能力强于ChatGPT
 - **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网与RTE开发者社区联合发布，VoiceAgent成代表性产品形态
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-04
@@ -722,6 +764,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025年OpenAI发布的新款模型](https://baike.baidu.com/item/o3/65594422)** O3系列模型整合强化学习和思维链技术，在ARC-AGI基准测试达87.5%得分
 - **[2025年AI产品发布:国金计算机科技](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic推出Agent Skills构建标准化AI工作手册
 
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+
 ## 近期动态
 ### 2026-04-07
 - **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
@@ -761,12 +809,24 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Sora将关停,全球AI视频赛道迎来新阶段](https://baijiahao.baidu.com/s?id=1861862929847993714)** OpenAI视频生成模型Sora将于4月14日停止服务，AI视频赛道进入新竞争格局
 - **[AI医疗周报:云知声发桌面Agent,联影大模型获国家认可](https://baijiahao.baidu.com/s?id=1861981099583200092)** 国家药监局出台"AI+药品监管"专项规划，联影元智大模型入选国家人工智能应用中试基地核心创新成果
 
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+
 ## 近期动态
 ### 2026-04-11
 - **[2026年Q1全球AI产品价值榜:Agent从"对话窗"变成"数字员工"](https://new.qq.com/rain/a/20260410A05Q7B00.md)** OpenClaw成为史无前例首个GitHub Star超越Linux的项目，中国模型产品在OpenRouter全球Token调用量前五占四席
 - **[国内AI芯片市场大洗牌,华为等开始全面反攻](https://baijiahao.baidu.com/s?id=1862048655709652507.md)** 英伟达市场份额从95%跌至55%，中国市场AI芯片格局生变
 - **[GPT-6即将发布:多模态融合引领AI新潮流](https://it.sohu.com/a/1005686461_122004016.md)** OpenAI GPT-6将于2025年4月14日发布，性能较GPT-5.4提升40%
 - **[AI眼镜元年,狂欢背后的鸡毛](https://baijiahao.baidu.com/s?id=1861878942229967470.html)** 2025年成为中国AI眼镜爆发元年，百度、联想、阿里、理想、雷鸟等厂商密集发布AI眼镜产品
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-10
@@ -799,6 +859,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[熊喵大师发布国内首个数字菜谱AI产品](https://finance.sina.cn/tech/2026-04-13/detail-inhukeeu5540516.d.html)** 「Mer宝·AI」通过自然语言交互实现"一句话生成菜"，完成菜品制作全链路闭环
 - **[联想新财年将发AI主机新品类](https://baijiahao.baidu.com/s?id=1862344353251982519)** 联想2026/27新财年将推AI主机，提供三级算力方案，围绕法律服务、工业设计、媒体创作、代码开发四大场景打造专业AI能力
 - **[鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999)** 万语大模型构建三大AI产品生态，近视防控AI、视网膜检测AI、抗压能力监测AI，活跃服务网点增长至8599个
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-18
@@ -835,6 +901,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高,混元3.0将于4月发布](http://k.sina.com.cn/article_7857201856_1d45362c001904cprg.html)** AI快速融入游戏、广告和社交等核心业务
 - **[国内最大规模6万卡AI4S计算集群投用](https://baijiahao.baidu.com/s?id=1862524070047945062)** 中科曙光在郑州国家超算互联网核心节点正式投用
 - **[AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** Manus一夜刷屏，AI Agent概念全线爆发
+
+### 2026-04-29
+- **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
+- **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
 ### 2026-04-16
