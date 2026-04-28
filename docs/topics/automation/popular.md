@@ -34,6 +34,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-04-29
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+- **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
+
 ### 2026-04-28
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
 - **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，使用markdown文件定义工作流

@@ -49,6 +49,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
+### 2026-04-29
+- **[JiuwenClaw发布Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** OpenJiuwen开源社区发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
+- **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
+- **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+
 ### 2026-04-28
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
 - **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块

@@ -46,6 +46,11 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-29
+- **[JiuwenClaw发布Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** OpenJiuwen开源社区发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[OpenClaw零代码自动化框架实战:从部署到高价值Skill安装最全避坑指南](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性
+
 ### 2026-04-28
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块
 - **[破解Agent场景落地难题!拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216&wfr=spider&for=pc)** 湘江鲲鹏联合华为鲲鹏推出AI Agent一体化解决方案，Token消耗直降50%

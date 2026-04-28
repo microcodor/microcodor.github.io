@@ -27,6 +27,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-04-29
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布，中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** Cursor 3用智能体管理控制台取代传统代码编辑器，将传统IDE置于次要位置
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+
 ### 2026-04-28
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5在代码、办公、科研、网络安全等核心场景实现对Claude Opus 4.7与Gemini 3.1 Pro的系统性超越
