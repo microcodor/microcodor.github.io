@@ -955,3 +955,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier五款产品代表五个不同自动化战场
 - **[微软的「Workflows工作流智能体」上线啦](https://post.smzdm.com/p/anvex20v/)** 微软推出基于Microsoft Agent Framework的企业级自动化平台，实现从单点问答到端到端解决的转变
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details=160486861)** ottomator-agents基于工作流编排的智能体协作框架，将复杂任务拆解为可重用的节点
+
+### 2026-04-28
+- **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)** ottomator-agents基于工作流编排的智能体协作框架，将大任务拆解成可重用的节点
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** 用操作系统类比：CLAUDE.md是内核参数，Skills是应用程序，MCP是硬件驱动
+- **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier代表五个自动化战场，核心从功能多不多转向能不能让你彻底放手

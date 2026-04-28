@@ -1022,3 +1022,9 @@ description: 主流 Agent 框架与工具链一览
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，将大模型不确定转化为可预测可维护的生产级系统
 - **[微软Build 2025:AI 智能体时代与开放智能体网络的构建](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xo7y.html)** 1500万开发者使用GitHub Copilot，超23万家机构通过Copilot Studio构建自己的AI智能体和自动化流程
 - **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块
+
+### 2026-04-28
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI等主流框架，行业正经历从"无序自回归循环"向"结构化确定性编排"的整合
+- **[2025开源AI Agent工具全景图](https://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM能力"最后一公里"问题，LangChain生态最完整达124K stars
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic Agent Skills构建标准化AI工作手册SOP，OpenClaw定义可复制Agent工程化范式
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识

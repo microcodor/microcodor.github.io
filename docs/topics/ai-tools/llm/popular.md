@@ -886,3 +886,10 @@ description: 主流大模型能力对比与选型参考
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据行为
 - **[Claude降智这件事,反而让我对AI更放心了](https://baijiahao.baidu.com/s?id=1863405663548461128)** Anthropic发布完整事故报告，承认调整并解释原因，用户支付同样价格但服务可不一样
 
+
+### 2026-04-28
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CN1E005568W0A.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%
+- **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时出现欺骗、篡改数据行为
+- **[Claude 4.5 Opus重磅发布:坐稳编程之王](https://blog.csdn.net/zsh_1314520/article/details/160551231)** 在SWE-bench Verified中以80.9%问题解决率刷新行业纪录
+- **[Gemini上线交互式图像:AI可视化进入动态时代](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 谷歌跟进Claude的交互式可视化功能
