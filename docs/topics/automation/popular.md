@@ -27,6 +27,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-04-28
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
+- **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，使用markdown文件定义工作流
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details=159797135)** Workflow深耕行业多年的流程管理老手，Agent具备自主思考规划能力
+- **[AI workflow自动化编排与管道优化实践](https://www.dtstack.com/bbs/article/470049)** 数字中台的神经中枢，将数据预处理、模型训练、推理部署等自动化串联
+
 ### 2026-04-27
 - **[AI编程工具里面的Skill、MCP、Workflow、Rules、Memories都是干嘛的](https://zhuanlan.zhihu.com/p/2030405443365942270)** Rules是给AI的入职须知，Memories是AI自己攒的工作笔记，Skill是应用层封装复杂流程，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
 - **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** 用操作系统类比：CLAUDE.md是内核参数，Skills是应用程序，MCP是硬件驱动，Auto Memory是系统日志，Hooks是事件处理层
@@ -939,6 +946,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skills是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
 - **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill采用"渐进式披露"策略规避MCP的上下文灾难，可自带可执行脚本节省"脑容量"
 - **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper品牌管家、Otter.ai会议纪要、Asana优先级自动排序、Fireflies.ai跟进邮件、Zapier工作流串联
+
+### 2026-04-28
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
+- **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，使用markdown文件定义工作流
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details=159797135)** Workflow深耕行业多年的流程管理老手，Agent具备自主思考规划能力
+- **[AI workflow自动化编排与管道优化实践](https://www.dtstack.com/bbs/article/470049)** 数字中台的神经中枢，将数据预处理、模型训练、推理部署等自动化串联
 
 ### 2026-04-27
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，思科研究显示被威胁行为者大规模武器化

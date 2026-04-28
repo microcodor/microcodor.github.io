@@ -40,6 +40,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-04-28
+- **[昆仑万维AI商业化快速增长,AI版Netflix和AI版Spotify驱动,2025年营收同比增长44.78%至81.98亿](https://baijiahao.baidu.com/s?id=1863272781569443602)** 昆仑万维2025年营收81.98亿元同比增长44.78%，天工AI模型领跑全球
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布年度AI产品榜单，覆盖AI智能助手、AI教育、AI创作等领域
+- **[实力加冕!松鼠Ai登榜2025年度百大AI产品,以技术实证教育价值](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选
+- **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤科技开发，旨在实现理解与生成的统一
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型
+
 ### 2026-04-27
 - **[2025年AI产品发布](http://k.sina.com.cn/article_7857201856_1d45362c001904qjc2.html)** 全球AI竞争范式转向技术红利普惠化，推理成本18个月骤降280倍
 - **[新势力车企盈利破局 多元布局AI业务谋增长](http://k.sina.com.cn/article_7857201856_1d45362c001904pcw8.html)** 理想汽车连续三年盈利，零跑汽车首次实现年度盈利，蔚来第四季度首季度盈利，加速布局AI眼镜、人形机器人等具身智能
@@ -928,6 +935,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[值得买科技发布2025年报:AI驱动高质量发展](https://www.cnstock.com/commonDetail/683497)** AI相关收入8716.60万元，什么值得买AIGC内容占比达56.59%
 - **[松鼠Ai登榜2025年度百大AI产品](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 全学科多模态智适应教育大模型入选，服务超5000万学生
 - **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤4月22日推出基于第二代NEO架构的基础模型，实现理解与生成的深度统一
+
+### 2026-04-28
+- **[昆仑万维AI商业化快速增长,AI版Netflix和AI版Spotify驱动,2025年营收同比增长44.78%至81.98亿](https://baijiahao.baidu.com/s?id=1863272781569443602)** 昆仑万维2025年营收81.98亿元同比增长44.78%，天工AI模型领跑全球
+- **[2025年度AI 100旗舰产品榜](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布年度AI产品榜单，覆盖AI智能助手、AI教育、AI创作等领域
+- **[实力加冕!松鼠Ai登榜2025年度百大AI产品,以技术实证教育价值](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选
+- **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤科技开发，旨在实现理解与生成的统一
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型
 
 ### 2026-04-27
 - **[巨量引擎发布AI全链路营销方案](https://www.donews.com/news/detail/4/6526414.html)** 平台围绕"策略-内容-转化"闭环完成电商、本地生活及非闭环等全场景商业产品自动化升级

@@ -51,10 +51,10 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-04-28
 - **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识
-- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic Agent Skills构建标准化AI工作手册SOP，OpenClaw定义可复制Agent工程化范式
-- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details=159972856)** Meta HyperAgents通过达尔文选择过程实现自进化，DARWIN框架实现权重重写
+- **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** ReAct模式与Plan-and-Execute模式理论篇，AI Agent框架基础理论详解
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软推出开源AI代理开发框架，结合AutoGen与Semantic Kernel优势
+- **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Skills可配置性突破，OpenClaw开源框架机制解析，决定自定义Agent能力三大要素
 - **[回看2025,AI的系统工程时刻:重构智能的底座与边界](https://baijiahao.baidu.com/s?id=1861088138056459143)** 阿里云对AI技术栈进行全方位重构，多模态技术走向成熟
-- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 从LangGraph、CrewAI、AutoGen等主流框架设计理念详解框架设计
 
 ### 2026-04-27
 - **[AI工作站正在"去云化":英特尔这次想把大模型拉回本地](https://baijiahao.baidu.com/s?id=1863312670229354169)** 英特尔发布新一代AI工作站平台，以至强600+锐炫Pro GPU组成"双芯架构"，把AI算力从云端重新分发回桌面
