@@ -42,6 +42,12 @@ description: 主流 Agent 框架与工具链一览
 - **[ThinkingAI硅谷首秀:在Agent时代,什么才是真正的护城河?](https://baijiahao.baidu.com/s?id=1862953458990234639)** 没有知识、没有方法论的Agent跟没有灵魂的人一样
 
 ## 近期动态
+### 2026-04-28
+- **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
+- **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块
+- **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** 全新工程领域Harness Engineering正成为决定Agent成败的关键战场，将大模型不确定性转化为可预测、可扩展的生产级系统
+- **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/65485316)** 创新奇智发布面向制造业的企业级智能体开发平台AInno75B，中国工业企业应用大模型及智能体比例从2024年9.6%提升至2025年47.5%
+- **[AI营销专家灵狐解锁电商视频高效破局新路径](https://baijiahao.baidu.com/s?id=1863439786393275109&wfr=spider&for=pc)** 灵狐AI视频全自动化平台依托AI Agent，2025年底平台AI内容投稿量增长185%
 
 ### 2026-04-28
 - **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识

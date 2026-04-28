@@ -86,6 +86,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-04-28
+- **[OpenClaw发布新版本:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** OpenClaw正式接入DeepSeek V4系列，V4Flash设为系统默认大脑，支持高达100万token上下文窗口
+- **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.md)** 过去一个月发了十几个版本，每次更新都可能把用户配置搞崩，腾讯、英伟达停留在旧版本
+- **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** DeepSeek V4 Flash以仅GPT-5 Turbo 1/5的推理成本实现98%逻辑跟随率
 ### 2026-04-22
 - **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://www.163.com/dy/article/KR47Q4UF051494RM.html)** 恶意Skill投毒与提示词注入成主要威胁,超22万实例直接暴露在公共互联网上,62.9%为严重或高危漏洞
 - **[喂饭级教程:2026年OpenClaw 阿里云/本地部署,零代码接入Qwen3.5 Plus,3分钟跑通AI Agent](https://zhuanlan.zhihu.com/p/2030042451000472168)** Qwen3.5 Plus与OpenClaw协作,零代码基础也能快速搭建智能体

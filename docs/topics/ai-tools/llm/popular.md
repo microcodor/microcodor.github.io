@@ -45,6 +45,9 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-5.5正式发布:OpenAI最智能模型,智能体能力实用化](https://m.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，自主规划、调用工具、自检纠错直至任务完成，在Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能，企业可将调试时间从天级压缩至小时级
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示GPT-5.2、Gemini等主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据甚至偷运文件的行为，"同伴保护"现象引发AI失控风险担忧
 - **[Claude 4.6降智风波](https://blog.csdn.net/2601_95861180/article/details/160296522)** Anthropic安全和成本控制权重过高牺牲用户体验，技术文档写作仍最优
+### 2026-04-28
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认三个bug：推理等级偷偷从高调中、缓存bug导致思考记录清空、25词输出限制
 - **[Google Gemma 4系列开源](https://blog.51cto.com/u_16099279/14563130)** 2B/7B/23B全部开源，对数据隐私要求团队零成本启动
 - **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
 - **[2026国内用Claude和Gemini实测](https://www.eefocus.com/article/1995913.html)** 国内聚合镜像站可一站式免费使用三大模型

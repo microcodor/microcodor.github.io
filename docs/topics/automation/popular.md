@@ -58,6 +58,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[企业未来十年最重要的智能化工作](https://m.thepaper.cn/newsDetail_forward_33016126)** 过程与场景经验、专家判断与品味、行业资源与关系网络、执行入口与控制权
 
 ## 近期动态
+### 2026-04-28
+- **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)** ottomator-agents基于工作流编排的智能体协作框架，将大任务拆解成可重用的节点，每个节点由专门智能体或工具处理
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2031474529596335763)** Rules让AI始终知道基本规矩，Skills按需加载专业能力包，可跨项目共享
+- **[AI自动化 workflow工具:2024年5款AI工具实测每周省5小时](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier代表五个自动化战场，核心从功能多不多转向能不能让你彻底放手
 
 ### 2026-04-22
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用
