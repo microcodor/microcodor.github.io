@@ -49,6 +49,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
 ## 近期动态
+
+### 2026-04-29
+- **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块
+- **[企业能把安全交给Agent么?丨ToB产业观察](https://www.163.com/dy/article/KRH803NV05118O92.html)** 2026年正在被行业定义为"智能体爆发元年"，安全焦点正从单一模型的内容安全向复杂智能体的行为与意图安全快速迁移
+- **[2025年智能体将改变世界:小白程序员必备大模型学习指南(收藏版)](https://blog.csdn.net/2601_95337142/article/details/160548027)** 人工智能智能体AI Agent指的是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统
+
 ### 2026-04-29
 - **[JiuwenClaw发布Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** OpenJiuwen开源社区发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
 - **[2026年怎么安装Hermes Agent/OpenClaw?](https://weibo.com/ttarticle/p/show?id=2309405292753390272535)** OpenClaw零代码自动化、模块化技能扩展、多平台适配核心特性
