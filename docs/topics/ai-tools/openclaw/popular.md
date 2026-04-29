@@ -50,6 +50,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[JiuwenClaw发布Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** OpenJiuwen开源社区发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
 - **[OpenClaw零代码自动化框架实战:从部署到高价值Skill安装最全避坑指南](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性
+- **[今天起,DeepSeek V4成OpenClaw默认模型!](https://baijiahao.baidu.com/s?id=1863576555027538169)** DeepSeek V4 Flash正式成为默认大模型，250k+星标的全球最火开源Agent框架把中国最强开源AI推上C位
+- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw将默认模型换成杭州的DeepSeek V4，100万token上下文长度，装得更多烧得更少
+- **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** OpenClaw Stars量达36k+，但更新太频繁反而给用户造成负担，腾讯、英伟达等大厂停留在旧版本不敢贸然升级
 
 ### 2026-04-28
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是一个基于LLM的多Agent任务编排框架,通过统一调度接口整合感知、规划与执行模块

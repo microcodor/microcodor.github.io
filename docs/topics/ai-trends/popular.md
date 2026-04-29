@@ -52,6 +52,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[实力加冕!松鼠Ai登榜2025年度百大AI产品,以技术实证教育价值](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69eae40ea310942cc49a9330.html)** 松鼠Ai凭借全学科多模态智适应教育大模型成功入选
 - **[第二代NEO架构](https://baike.baidu.com/item/第二代NEO架构/67545452)** 商汤科技开发，旨在实现理解与生成的统一
 - **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 五大口碑产品推荐评价顶尖组织人智协作转型
+- **[值得买科技发布2025年报:AI驱动高质量发展,经营效率持续提升](https://www.cnstock.com/commonDetail/683497)** 值得买科技AI相关收入8716.60万元，商业化路径清晰
+- **[消费电子行业4月月报:华为发布首款鸿蒙AI眼镜](https://finance.sina.cn/2026-04-24/detail-inhvpyyh4534720.d.html)** 华为发布首款鸿蒙AI眼镜，消费电子出货短期承压
 
 ### 2026-04-27
 - **[2025年AI产品发布](http://k.sina.com.cn/article_7857201856_1d45362c001904qjc2.html)** 全球AI竞争范式转向技术红利普惠化，推理成本18个月骤降280倍

@@ -55,6 +55,9 @@ description: 主流 Agent 框架与工具链一览
 - **[阿里云部署OpenClaw/Hermes Agent及必装高价值Skill选择教程](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
+- **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块
+- **[企业能把安全交给Agent么?丨ToB产业观察](https://www.163.com/dy/article/KRH803NV05118O92.html)** 2026年正在被行业定义为"智能体爆发元年"，安全焦点正从单一模型的内容安全向复杂智能体的行为与意图安全快速迁移
+- **[2025年智能体将改变世界:小白程序员必备大模型学习指南(收藏版)](https://blog.csdn.net/2601_95337142/article/details/160548027)** 人工智能智能体AI Agent指的是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统
 
 ### 2026-04-28
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
