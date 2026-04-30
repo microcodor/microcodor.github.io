@@ -46,6 +46,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-01
+- **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[OpenClaw:具身智能的“智能中枢”,重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** 基于LLM的多Agent任务编排框架，专为复杂具身智能任务场景设计
+- **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** v2026.3.7版本由196位贡献者协同完成，突破上下文瓶颈、强化持久化能力
+- **[拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216)** 鲲鹏算力筑基，沙箱百毫秒级启动，Token消耗直降50%
+- **[虽然OpenClaw为DeepSeek V4又更了一版](http://app.myzaker.com/news/article.php?pk=69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，语音对话时可调用完整Agent处理复杂问题
+
 ### 2026-04-30
 - **[OpenClaw接入DeepSeek V4:支持实时语音通话](https://baijiahao.baidu.com/s?id=1863576092843460847)** OpenClaw迅速发布版本更新，正式完成对DeepSeek-V4 Flash和Pro两个版本的全面适配
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://baijiahao.baidu.com/s?id=1863682166159187765)** v2026.4.25版本一口气塞进13个语音提供商、OTEL全链路可观测性和插件冷启动优化，官方口号Less mystery, more machinery

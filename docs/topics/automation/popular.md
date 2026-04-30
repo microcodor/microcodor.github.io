@@ -41,6 +41,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流，Rules是规则层，Memories是记忆层
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)**ottomator-agents基于工作流编排的智能体协作框架，将复杂任务拆解成可重用的节点
 
+### 2026-05-01
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
+- **[大模型落地B端营销:京东物流Agentic Workflow降本50%](https://new.qq.com/rain/a/20260429A036D800)** 京东物流通过构建Agentic Workflow破解"机械感"难题，实现降本50%
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 工程师实践：提示工程省20-30%，RAG达2-3倍，Agentic Workflow终达10倍
+- **[Qoder Skills完全指南:让AI按你的标准执行](https://new.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的"菜谱"，MCP提供厨房，让AI稳定交付高质量结果
+
 ### 2026-04-29
 - **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
 - **[2026年金融AI投研软件选哪款AI工具好?](https://baijiahao.baidu.com/s?id=1863702443748170860)** AI小二集成丰富Skill、MCP和Workflow，大幅降低生成式AI幻觉风险

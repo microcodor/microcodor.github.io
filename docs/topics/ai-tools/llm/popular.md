@@ -33,6 +33,12 @@ description: 主流大模型能力对比与选型参考
 - **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认推理等级被偷偷从"高"调成"中"、缓存bug、25词限制三个bug导致性能下降
 - **[昆仑万维AI商业化快速增长,AI版Netflix和AI版Spotify驱动](https://baijiahao.baidu.com/s?id=1863272781569443602)** 昆仑万维2025年营收81.98亿元同比增长44.78%，海外收入77.23亿元同比增长49.91%
 
+### 2026-05-01
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 从硬件架构到批处理策略深度解析，MoE部署受制于一个机架72块GPU，单次推理成本可能高出批量1000倍
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** 在代码、办公、科研、网络安全等核心场景实现对Claude Opus 4.7与Gemini 3.1 Pro的系统性超越
+- **[Gemini、GPT和 Claude 领衔的医药“三国杀”](https://m.163.com/dy/article/KQASPFOU05566YK3.md)** 赛诺菲将Claude深度嵌入医学事务工作流，诺和诺德用Claude进行敏感监管资料撰写
+
 ### 2026-04-30
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认推理等级被偷偷从"高"调成"中"、缓存bug、25词限制三个bug导致性能下降
