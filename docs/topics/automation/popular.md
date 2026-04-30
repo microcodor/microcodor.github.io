@@ -44,6 +44,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)**ottomator-agents基于工作流编排的智能体协作框架，将复杂任务拆解成可重用的节点
 - **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier五款产品代表五个不同自动化战场
 
+### 2026-04-30
+- **[京东物流如何用Agentic Workflow破解"机械感"难题](https://new.qq.com/rain/a/20260429A036D800)** 京东物流通过Agentic Workflow实现从僵化指令向动态决策的跨越，底层自动化数据飞轮与维智能评估体系建设
+- **[Adobe推出Firefly AI助手实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe推出Firefly AI助手公测版，实现跨应用工作流自动化
+- **[零代码造AI工作流:AWS新工具实测](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** AWS新工具实测，4小时工作压缩至3分钟，无需编码或机器学习专业知识
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
+- **[AI智能体工作流编排:从单体架构到流水线协作](https://blog.csdn.net/weixin_36149538/article/details/160486861)**ottomator-agents基于工作流编排的智能体协作框架
+
 ### 2026-04-28
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n被大规模武器化，2026年3月含恶意链接邮件较2025年1月上涨约686%
 - **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，使用markdown文件定义工作流

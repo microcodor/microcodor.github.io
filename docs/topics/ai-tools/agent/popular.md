@@ -48,6 +48,13 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
 - **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
+### 2026-04-30
+- **[AI agent到底有多大创新?](https://www.zhihu.com/question/657739588/answer/2031046788036178658)** 2025至2026年生物医药AI Agent技术从概念验证迈入产业落地阶段，AI Agent只需设定目标，便能自主规划、决策并采取行动
+- **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被行业定义为"智能体爆发元年"，"意图主权"是智能体安全的基础
+- **[创意资讯|"AI Agent"加速场景应用](https://mp.weixin.qq.com/s?__biz=MzA5MzEwNTYyNw==&mid=2652975382&idx=3&sn=9f9b819e74c14ba38dbcb875d747c8d3)** AI Agent从办公软件与编程IDE走出，步入博物馆、景区、剧场与街区
+- **[到Multi-Agent:AI Agent架构的三次跃迁](https://zhuanlan.zhihu.com/p/2031168707041424196)** 从ReAct到Multi-Agent，每一次跃迁解决不同问题，2025年Agent的PoC成功率不到30%
+- **[药物研发AI Agent平台都有哪些?](https://zhuanlan.zhihu.com/p/2031042854060024427)** 摩熵数科PharnexCloud等11个主流生物医药AI Agent开发平台，覆盖药品研发全链条
+
 ## 近期动态
 
 ### 2026-04-29
