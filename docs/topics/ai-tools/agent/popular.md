@@ -57,6 +57,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-04-30
+- **[AI agent到底有多大创新?](https://www.zhihu.com/question/657739588/answer/2031046788036178658)** 2025年至2026年生物医药AI Agent技术已从概念验证迈入产业落地阶段，AI Agent只需设定目标便能自主规划、决策并采取行动
+- **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被行业定义为"智能体爆发元年"，"意图主权"是智能体安全的基础
+- **[AI Agent 框架探秘:拆解 OpenHands](https://blog.csdn.net/ZCjURbiG0/article/details/160597817)** Microsoft Agent Framework将Semantic Kernel与AutoGen深度融合，标志.NET平台AI代理开发进入工业化生产阶段
+- **[创意资讯|"AI Agent"加速场景应用](https://mp.weixin.qq.com/s?__biz=MzA5MzEwNTYyNw==&mid=2652975382&idx=3&sn=9f9b819e94c14ba38dbcb875d747c8d3)** AI Agent从办公软件与编程IDE走出，步入博物馆、景区、剧场与街区
+- **[到Multi-Agent:AI Agent架构的三次跃迁](https://zhuanlan.zhihu.com/p/2031168707041424196)** 从ReAct到Multi-Agent，每一次跃迁解决不同问题，2025年Agent的PoC成功率不到30%
+
 ### 2026-04-29
 - **[AI Agent生产级基础设施全栈指南:从评估、观测到防护的实战架构设计深度解析](https://www.homenew.cc/tech-trends/057/)** 构建生产级AI Agent基础设施的全栈方案，涵盖评估体系、可观测性、安全防护、成本治理四大模块
 - **[企业能把安全交给Agent么?丨ToB产业观察](https://www.163.com/dy/article/KRH803NV05118O92.html)** 2026年正在被行业定义为"智能体爆发元年"，安全焦点正从单一模型的内容安全向复杂智能体的行为与意图安全快速迁移

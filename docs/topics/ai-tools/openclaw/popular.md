@@ -48,8 +48,9 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-04-30
 - **[OpenClaw接入DeepSeek V4:支持实时语音通话](https://baijiahao.baidu.com/s?id=1863576092843460847)** OpenClaw迅速发布版本更新，正式完成对DeepSeek-V4 Flash和Pro两个版本的全面适配
-- **[OpenClaw大更新,AI智能体不再是黑箱](https://baijiahao.baidu.com/s?id=1863682166159187765)** v2026.4.25版本一口气塞进13个语音提供商、OTEL全链路可观测性和插件冷启动优化
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://baijiahao.baidu.com/s?id=1863682166159187765)** v2026.4.25版本一口气塞进13个语音提供商、OTEL全链路可观测性和插件冷启动优化，官方口号Less mystery, more machinery
 - **[百度把龙虾、剪辑Agent、Office Agent全塞进网盘](https://baijiahao.baidu.com/s?id=1863621126244523042)** 百度文库网盘联合发布GenFlow4.0，已支持在网盘PC端、APP端一键部署OpenClaw
+- **[一键配置各大模型的开源神器CC-Switch](https://baijiahao.baidu.com/s?id=1863768043320167768)** CC-Switch支持Claude、Codex、Gemini、Opencode、Openclaw、HermesAgent六大类软件应用配置
 
 ### 2026-04-29
 - **[JiuwenClaw发布Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** OpenJiuwen开源社区发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
