@@ -60,6 +60,11 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-05-01
 - **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程(Context Engineering)代表从提示词工程向动态状态感知演进，RAG到Agent是2025标志性转变，MCP作为AI的"USB接口"成行业标准
 - **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，系统性拆解AI Agent框架设计与实现
+- **[2025年Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评，LangChain适合快速验证，LlamaIndex适合RAG，AutoGen适合多Agent协作
+- **[企业能把安全交给Agent么?丨ToB产业观察](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被定义为智能体爆发元年，意图主权是智能体安全的基础
+- **[AI - 尝试一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Anthropic发布Agent Skills，允许将特定领域知识打包成独立的Skill
+- **[2025年智能体将改变世界:小白程序员必备大模型学习指南](https://blog.csdn.net/2601_95337142/article/details/160548027)** AI Agent是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/sY3yOUgSM/article/details/160548426)** Microsoft Agent Framework是Semantic Kernel官方继任者
 - **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 涵盖自进化AI系统、多Agent协作、HyperAgents、DARWIN框架等六大主题
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 六大关键组件与四项底层技术深度解析，ReAct循环、Orchestrator编排、状态管理、安全校验
 - **[系统拆解 AI Agent 框架设计门道](https://devpress.csdn.net/xclaw/69e201fa0a2f6a37c5a09a28.html)** LangGraph、CrewAI、OpenAI Agents SDK行业主流框架对比

@@ -44,6 +44,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
+- **[恺英网络的2025AI棋局:一手提质增效,一手掘金千亿未来市场](https://baijiahao.baidu.com/s?id=1863719701491349309)** 恺英网络2025年营收53.25亿元，AI工具SOON可将数月研发周期压缩至小时级
+- **[2025致远互联AI产品战略发布暨生态伙伴大会](https://baike.baidu.com/item/2025致远互联AI产品战略发布暨生态伙伴大会/65495798)** 发布新一代智能体产品家族CoMi Family，四层结构五大特性
+- **[AI原生](https://baike.baidu.com/item/AI原生/66783700)** OpenMind推出全球首个AI原生开源机器人系统OM1 Beta
+- **[萤石网络近一周发布AI新品 披露2025年营收59.01亿元](http://www.eeo.com.cn/2026/0426/853357.shtml)** 萤石网络发布智能大模型主机EZVIZ AI CoreX，2025年营收59.01亿元
 ## 近期动态
 
 ### 2026-04-30

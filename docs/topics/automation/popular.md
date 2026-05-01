@@ -32,6 +32,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
+- **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 ## 近期动态
 
 ### 2026-04-30

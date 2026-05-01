@@ -25,6 +25,9 @@ description: 主流大模型能力对比与选型参考
 - **[模型大战后,AI竞争的下半场在哪里?](https://new.qq.com/rain/a/20260428A0399H00)** 当GPT、Claude、Gemini等通用大模型的基础能力趋于收敛，模型大战第一阶段已经落幕
 - **[ChatGPT、Gemini、Claude、Grok四款AI哪款最好?](https://www.zhihu.com/question/1991548303863718602/answer/2032251423614837642)** 四款AI除Grok外均长期使用，按场景推荐：写代码选Claude、综合选ChatGPT、学术研究选Gemini
 
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 从硬件架构到批处理策略深度解析，MoE部署受制于一个机架72块GPU，单次推理成本可能高出批量1000倍
+- **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认推理等级被偷偷从高调成中、缓存bug、25词限制三个bug导致性能下降
+- **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 ## 近期动态
 
 ### 2026-04-29

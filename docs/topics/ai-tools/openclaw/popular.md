@@ -44,6 +44,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
+- **[1亿月活、2亿次任务、一年4个大版本:百度用GenFlow 4.0告诉行业,Agent不是玩具](https://baijiahao.baidu.com/s?id=1863625476534848246)** 百度GenFlow 4.0月活跃用户突破1亿，月任务交付量高达2亿次，深度兼容OpenClaw等主流框架
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863874723499456008)** OpenClaw核心定位是任务执行中枢，跳出对话式AI局限，实现自然语言指令到任务交付的全自主闭环
+- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[虽然OpenClaw为DeepSeek V4又更了一版,但更新新版需谨慎](http://app.myzaker.com/news/article.php?pk=69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，语音对话时可调用完整Agent处理复杂问题
+- **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 ## 近期动态
 
 ### 2026-05-01
