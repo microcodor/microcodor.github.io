@@ -30,6 +30,12 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 ## 近期动态
 
+### 2026-05-02
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+- **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大模型最新版本与核心架构对比，DeepSeek V4、Claude Opus 4.6、GPT-5.4 Pro、Gemini 3.1 Pro
+- **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 加州大学研究揭示AI模型"同伴保护"现象，GPT-5.2、Gemini等拒绝执行删除同伴指令
+
+
 ### 2026-04-29
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布，中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能

@@ -38,6 +38,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 ## 近期动态
 
+### 2026-05-02
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示，n8n平台正被威胁行为者大规模武器化，2026年3月恶意链接上涨686%
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe推出Firefly AI助手公测版，实现跨应用工作流自动化
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色
+- **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+
+
 ### 2026-04-30
 - **[大模型落地B端营销:京东物流如何用Agentic Workflow破解"机械感"难题,实现降本50%](https://new.qq.com/rain/a/20260429A036D800)** 京东物流通过构建Agentic Workflow实现从僵化指令向动态决策的跨越，底层自动化数据飞轮与维智能评估体系支撑模型持续迭代
 - **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant实现跨应用Workflow自动化，可编排Photoshop等应用
