@@ -1085,3 +1085,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[英伟达发布Vera Rubin GPU：AI训练性能提升3倍](https://nvidia.com/vera-rubin)** 英伟达发布新一代AI训练GPU
 - **[用友网络AI产品签约金额达16.7亿元](https://baijiahao.baidu.com/s?id=1864000000000000012)** 用友网络AI产品签约金额创新高
 - **[2025年AI产品发布会：新老巨头同台竞技](https://baijiahao.baidu.com/s?id=1864000000000000013)** 2025年AI产品发布会密集召开
+
+### 2026-05-02
+- **[「深度」AI智能体上车元年已经到来](https://baijiahao.baidu.com/s?id=1863973208153595323)** 北京车展信号明确：AI智能体上车元年已来，豆包大模型搭载多款新车型，上汽荣威"家越"系列下半年量产
+- **[硅谷首发:Moonix AI眼镜不到15克](https://36kr.com/p/3790195985199878)** 心眸科技发布Moonix AI眼镜，14.9g极致轻薄，超100款镜框可选
+- **[AI斩杀线,Anthropic还要制造多少条?](https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkccr3600759.shtml)** Anthropic发布Claude Design新产品，可对话创建网页/App设计方案和演示PPT
+- **[告别参数内卷,追觅锚定2036智能家电新十年](https://www.163.com/dy/article/KRRI61C1051288MF.html)** 追觅科技在硅谷发布AI家电愿景，X60系列空调首创双机械臂结构
+- **[271亿元营收背后,科大讯飞的增长、投入与AI商业化深水区](https://baijiahao.baidu.com/s?id=1863966942042933265)** 科大讯飞2025年营收271.05亿元，大模型开发者达229万，API收入同比增长263%

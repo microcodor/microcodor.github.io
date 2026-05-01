@@ -1084,3 +1084,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[字节跳动发布OpenCLAW企业版ClawHub Pro](https://baijiahao.baidu.com/s?id=1864000000000000002)** 字节跳动发布ClawHub Pro企业版，聚焦安全合规
 - **[OpenCLAW与华为鲲鹏完成原生适配](https://baijiahao.baidu.com/s?id=1864000000000000003)** OpenCLAW与华为鲲鹏完成原生适配，政企市场加速
 - **[ClawHub技能市场突破20000+技能包](https://clawhub.com/skills)** ClawHub技能市场持续扩张，突破20000+技能包
+
+### 2026-05-02
+- **[Mercury强势逆袭!2026 AI战局完胜OpenClaw与Hermes三大致命弱点](https://www.163.com/dy/article/KRS9HRDK05566SCS.html)** 分析OpenClaw与Hermes三大短板：安全权限失控、Token成本爆炸、人格记忆混乱
+- **[AI Agent 框架选型指南:OpenClaw、LangChain、AutoGPT、CrewAI 深度对比](https://cloud.tencent.com/developer/article/2663410)** OpenClaw专注多渠道消息接入和本地化部署，"一套代码，多端运行"
+- **[OpenClaw 2026.4.29 更新](https://www.bilibili.com/read/cv48409845/)** 群聊体验大幅优化、记忆系统升级为"人际关系网"、人物维基People Wiki上线
+- **[Hermes解析:自进化智能体范式与OpenClaw对比评测](https://baijiahao.baidu.com/s?id=1863952467330079147)** Hermes核心创新在于内置自进化闭环系统，围绕"执行—提炼—沉淀—复用—自省"五阶段构建
+- **[OpenClaw AI Agent框架曝三处中危漏洞:提示词注入可篡改网关配置](https://blog.csdn.net/OPHKVPS/article/details/160682450)** 安全研究人员发现三处中危漏洞，现已修复

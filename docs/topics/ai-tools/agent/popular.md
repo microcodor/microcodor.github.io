@@ -57,8 +57,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
-### 2026-05-01
-- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 上下文工程(Context Engineering)代表从提示词工程向动态状态感知演进，RAG到Agent是2025标志性转变，MCP作为AI的"USB接口"成行业标准
+### 2026-05-02
+- **[邓亚峰:把 Agent 当作"一个人",数字生产力革命才刚刚开始](https://finance.sina.com.cn/tech/roll/2026-05-01/doc-inhwkptm3466175.shtml)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
+- **[2025全国累计词元调用量21100万亿;星动纪元完成超2亿美元融资](https://new.qq.com/rain/a/20260501A05HZ600)** 英伟达推出Nemotron 3 Nano Omni开源全模态推理模型，商汤发布日日新SenseNova U1系列原生理解生成统一模型
+- **[OpenClaw/Hermes 7×24 AI助理扫盲指南,附阿里云最新几种搭建方案](https://developer.aliyun.com/article/1732229)** OpenClaw两个月斩获近10万GitHub星标，成为史上增长最快的开源项目之一
+- **[2025年AI Agent框架选型指南:从LangChain到AutoGen](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架
 - **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，系统性拆解AI Agent框架设计与实现
 - **[2025年Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评，LangChain适合快速验证，LlamaIndex适合RAG，AutoGen适合多Agent协作
 - **[企业能把安全交给Agent么?丨ToB产业观察](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被定义为智能体爆发元年，意图主权是智能体安全的基础

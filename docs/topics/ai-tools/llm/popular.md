@@ -992,3 +992,7 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-5 Ultra正式版发布：Symphony架构，Agent能力质的飞跃](https://openai.com/gpt-5)** OpenAI发布GPT-5正式版，采用全新Symphony架构
 - **[DeepSeek V4全面开放API：性价比超越GPT-5](https://deepseek.com/v4)** DeepSeek V4开放API，推理成本大幅降低
 - **[Claude vs GPT vs Gemini：2025年大模型选型指南](https://developer.baidu.com/article/6750000)** 2025年主流大模型深度对比与选型建议
+
+### 2026-05-02
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 研究人员提出"不可压缩知识探针"评测框架，估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+- **[DeepSeek给AI装了根赛博手指,于是它能看见了](https://tech.ifeng.com/c/8slaIT4ImHz)** DeepSeek报告指出自然语言本身限制了空间推理，模型能"看见"但无法理解"左边那只狗"
