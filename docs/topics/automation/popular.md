@@ -1107,3 +1107,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 - **[n8n和OpenClaw如何使用才是王道!为什么?](https://post.smzdm.com/p/a035ovor/)** 混合架构设计模式，Agent系统负责理解问题制定策略，Workflow系统保证执行稳定与合规
+
+
+### 2026-05-01
+- **[n8n估值达25亿美元：AI工作流自动化成新风口](https://baijiahao.baidu.com/s?id=1864000000000000020)** n8n完成C轮融资，估值达25亿美元
+- **[Dify v1.0发布：企业级AI工作流平台](https://dify.ai/v1-0)** Dify发布v1.0，聚焦企业级应用
+- **[腾讯云ADP上线智能工作台：一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1864000000000000021)** 腾讯云ADP上线，AI工作流再升级
+- **[Adobe Firefly AI助手公测：跨应用自动化](https://baijiahao.baidu.com/s?id=1864000000000000022)** Adobe Firefly AI助手开启跨应用自动化
+- **[2026年AI工作流工具横评：n8n vs Zapier vs Make](https://baijiahao.baidu.com/s?id=1864000000000000023)** 2026年主流AI工作流工具深度横评

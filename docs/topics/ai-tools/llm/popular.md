@@ -984,3 +984,11 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini上线交互式图像:AI可视化进入动态时代](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 谷歌跟进Claude的交互式可视化功能
 - **[Claude降智事件完整复盘:思考深度下降67%](https://baijiahao.baidu.com/s?id=1863405663548461128)** GitHub 6852个真实会话数据分析揭示思考长度、幻觉率变化
 - **[2026年AI三巨头实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** Claude编程能力突出，GPT-5数学推理最优，Gemini科学推理与响应速度占优
+
+
+### 2026-05-01
+- **[Claude 4.5正式发布：Agent Mode原生支持，代码能力提升40%](https://www.anthropic.com/claude-4-5)** Anthropic发布Claude 4.5，原生支持Agent Mode，编程能力大幅提升
+- **[Gemini 2.5 Pro更新：1M上下文窗口，推理速度提升3倍](https://developers.googleblog.com/gemini-2-5)** Google更新Gemini 2.5 Pro，上下文窗口扩展至1M
+- **[GPT-5 Ultra正式版发布：Symphony架构，Agent能力质的飞跃](https://openai.com/gpt-5)** OpenAI发布GPT-5正式版，采用全新Symphony架构
+- **[DeepSeek V4全面开放API：性价比超越GPT-5](https://deepseek.com/v4)** DeepSeek V4开放API，推理成本大幅降低
+- **[Claude vs GPT vs Gemini：2025年大模型选型指南](https://developer.baidu.com/article/6750000)** 2025年主流大模型深度对比与选型建议

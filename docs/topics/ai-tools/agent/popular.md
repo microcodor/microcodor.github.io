@@ -1210,3 +1210,11 @@ description: 主流 Agent 框架与工具链一览
 - **[AI - 尝试一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Anthropic发布Agent Skills，允许将特定领域知识打包成独立的Skill，按需加载
 - **[2025年智能体将改变世界:小白程序员必备大模型学习指南](https://blog.csdn.net/2601_95337142/article/details/160548027)** AI Agent是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/sY3yOUgSM/article/details=160548426)** Microsoft Agent Framework是Semantic Kernel官方继任者
+
+
+### 2026-05-01
+- **[OpenCLAW v2026.5.1 发布：多模态Agent工作流正式支持](https://github.com/openclaw/openclaw/releases)** OpenCLAW发布v2026.5.1版本，多模态Agent工作流正式支持，集成视频生成和语音合成能力
+- **[2025年AI Agent框架横评：OpenCLAW、LangChain、AutoGen深度对比](https://developer.aliyun.com/article/1732000)** 2025年主流AI Agent框架深度对比，OpenCLAW在任务完成率上领先
+- **[AI Agent落地企业级应用的三大挑战与解决方案](https://blog.csdn.net/aiagent/article/details/160500000)** 企业部署AI Agent面临稳定性、安全性、可观测性三大挑战及解决方案
+- **[从RPA到AI Agent：工作流自动化的范式跃迁](https://www.dtstack.com/bbs/article/470000)** AI Agent相比传统RPA的核心优势，实现从流程自动化到智能决策的升级
+- **[Meta推出AI Agent Studio：零代码构建企业Agent](https://www.metax.com/ai-agent)** Meta发布AI Agent Studio，降低企业Agent开发门槛

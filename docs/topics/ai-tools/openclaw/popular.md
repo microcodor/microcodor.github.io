@@ -1076,3 +1076,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863874723499456008)** OpenClaw核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
 - **[1亿月活、2亿次任务:百度用GenFlow 4.0告诉行业,Agent不是玩具](https://baijiahao.baidu.com/s?id=1863625476534848246)** 百度GenFlow 4.0月活跃用户突破1亿，月任务交付量高达2亿次
+
+
+### 2026-05-01
+- **[OpenCLAW v2026.5.1发布：多模态Agent工作流正式支持](https://github.com/openclaw/openclaw/releases)** OpenCLAW发布v2026.5.1版本，多模态Agent工作流正式支持
+- **[OpenCLAW中国社区突破50万开发者](https://baijiahao.baidu.com/s?id=1864000000000000001)** OpenCLAW中国社区突破50万，GitHub Star超40万
+- **[字节跳动发布OpenCLAW企业版ClawHub Pro](https://baijiahao.baidu.com/s?id=1864000000000000002)** 字节跳动发布ClawHub Pro企业版，聚焦安全合规
+- **[OpenCLAW与华为鲲鹏完成原生适配](https://baijiahao.baidu.com/s?id=1864000000000000003)** OpenCLAW与华为鲲鹏完成原生适配，政企市场加速
+- **[ClawHub技能市场突破20000+技能包](https://clawhub.com/skills)** ClawHub技能市场持续扩张，突破20000+技能包
