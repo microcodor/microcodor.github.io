@@ -1100,3 +1100,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)** ottomator-agents基于工作流编排的智能体协作框架，将大任务拆解成可重用的节点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** 用操作系统类比：CLAUDE.md是内核参数，Skills是应用程序，MCP是硬件驱动
 - **[2024年5款AI工具实测:每周省5小时的秘密](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier代表五个自动化战场，核心从功能多不多转向能不能让你彻底放手
+
+### 2026-05-01
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
+- **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
+- **[n8n和OpenClaw如何使用才是王道!为什么?](https://post.smzdm.com/p/a035ovor/)** 混合架构设计模式，Agent系统负责理解问题制定策略，Workflow系统保证执行稳定与合规

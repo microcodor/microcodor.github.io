@@ -978,3 +978,9 @@ description: 主流大模型能力对比与选型参考
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时出现欺骗、篡改数据行为
 - **[Claude 4.5 Opus重磅发布:坐稳编程之王](https://blog.csdn.net/zsh_1314520/article/details/160551231)** 在SWE-bench Verified中以80.9%问题解决率刷新行业纪录
 - **[Gemini上线交互式图像:AI可视化进入动态时代](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 谷歌跟进Claude的交互式可视化功能
+
+### 2026-05-01
+- **[Claude 4.5 Opus重磅发布:坐稳编程之王](https://blog.csdn.net/zsh_1314520/article/details/160551231)** 在SWE-bench Verified中以80.9%问题解决率刷新行业纪录
+- **[Gemini上线交互式图像:AI可视化进入动态时代](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 谷歌跟进Claude的交互式可视化功能
+- **[Claude降智事件完整复盘:思考深度下降67%](https://baijiahao.baidu.com/s?id=1863405663548461128)** GitHub 6852个真实会话数据分析揭示思考长度、幻觉率变化
+- **[2026年AI三巨头实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** Claude编程能力突出，GPT-5数学推理最优，Gemini科学推理与响应速度占优

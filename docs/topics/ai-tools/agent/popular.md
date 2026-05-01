@@ -1203,3 +1203,10 @@ description: 主流 Agent 框架与工具链一览
 - **[2025开源AI Agent工具全景图](https://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层：核心框架层解决LLM能力"最后一公里"问题，LangChain生态最完整达124K stars
 - **[「国金计算机&科技」再一次谈自定义Agent](https://baijiahao.baidu.com/s?id=1860993742535393166)** Anthropic Agent Skills构建标准化AI工作手册SOP，OpenClaw定义可复制Agent工程化范式
 - **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识
+
+### 2026-05-01
+- **[2025年Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评，LangChain适合快速验证，LlamaIndex适合RAG，AutoGen适合多Agent协作
+- **[企业能把安全交给Agent么?丨ToB产业观察](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被定义为智能体爆发元年，意图主权是智能体安全的基础
+- **[AI - 尝试一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Anthropic发布Agent Skills，允许将特定领域知识打包成独立的Skill，按需加载
+- **[2025年智能体将改变世界:小白程序员必备大模型学习指南](https://blog.csdn.net/2601_95337142/article/details/160548027)** AI Agent是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/sY3yOUgSM/article/details=160548426)** Microsoft Agent Framework是Semantic Kernel官方继任者

@@ -1068,3 +1068,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[龙虾夹住中国芯:OpenClaw 2026重磅更新,DeepSeek V4登顶全球Agent默认模型](https://baijiahao.baidu.com/s?id=1863520858261425534)** DeepSeek V4 Flash以仅GPT-5 Turbo 1/5的推理成本实现98%逻辑跟随率
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** 日更节奏让用户头疼，大厂对升级持谨慎态度
 - **[OpenClaw大更新:正式接入DeepSeek V4](https://baijiahao.baidu.com/s?id=1863604391871557289)** 深度集成Google Meet支持会议秘书功能
+
+### 2026-05-01
+- **[OpenClaw v2026.4.27版本更新](https://www.bilibili.com/read/cv48346463)** DeepInfra模型提供商、运营商托管式代理路由、更严格的模型选择规则、网关渠道与会话稳定性优化
+- **[OpenClaw升级太狠了!AI工作流直接起飞](https://post.smzdm.com/p/a2626kx7/)** API能力深度集成、技能与工具统一管理、多平台交互体验优化
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://hub.baai.ac.cn/view/54331)** 13个语音提供商、OTEL全链路可观测性、插件冷启动优化
+- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863874723499456008)** OpenClaw核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
+- **[1亿月活、2亿次任务:百度用GenFlow 4.0告诉行业,Agent不是玩具](https://baijiahao.baidu.com/s?id=1863625476534848246)** 百度GenFlow 4.0月活跃用户突破1亿，月任务交付量高达2亿次

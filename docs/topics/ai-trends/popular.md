@@ -1069,3 +1069,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[深信服2025秋季AI新品发布](https://baijiahao.baidu.com/s?id=1847480682441348466)** 推出CoStrict AI Coding平台和新一代AICP算力平台
 - **[2025世界人工智能大会的十大发布](https://baijiahao.baidu.com/s?id=1838984204794216728)** 中国移动"九天"、中国电信企业战略升级、中国联通"UniAI"等重磅发布
 - **[2025年OpenAI发布的新款模型](https://baike.baidu.com/item/o3/65594422)** o3系列模型详细介绍，推理能力更上一层楼
+
+### 2026-05-01
+- **[恺英网络的2025AI棋局:一手提质增效,一手掘金千亿未来市场](https://baijiahao.baidu.com/s?id=1863719701491349309)** 恺英网络2025年营收53.25亿元，AI工具SOON可将数月研发周期压缩至小时级
+- **[2025致远互联AI产品战略发布暨生态伙伴大会](https://baike.baidu.com/item/2025致远互联AI产品战略发布暨生态伙伴大会/65495798)** 发布新一代智能体产品家族CoMi Family，四层结构五大特性
+- **[AI原生](https://baike.baidu.com/item/AI原生/66783700)** OpenMind推出全球首个AI原生开源机器人系统OM1 Beta
+- **[萤石网络近一周发布AI新品 披露2025年营收59.01亿元](http://www.eeo.com.cn/2026/0426/853357.shtml)** 萤石网络发布智能大模型主机EZVIZ AI CoreX，2025年营收59.01亿元
+- **[万兴科技2025年营收15.3亿元](https://baijiahao.baidu.com/s?id=1863627817799339163)** AI服务器调用量超13亿次，同比增长超140%
+- **[格灵深瞳2025财报:营收增长32.61%](https://baijiahao.baidu.com/s?id=1863881260211596042)** AI原生自进化产品体系成形
