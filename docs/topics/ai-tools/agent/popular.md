@@ -72,6 +72,13 @@ description: 主流 Agent 框架与工具链一览
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 六大关键组件与四项底层技术深度解析，ReAct循环、Orchestrator编排、状态管理、安全校验
 - **[系统拆解 AI Agent 框架设计门道](https://devpress.csdn.net/xclaw/69e201fa0a2f6a37c5a09a28.html)** LangGraph、CrewAI、OpenAI Agents SDK行业主流框架对比
 
+### 2026-05-03
+- **[人工智能仍未解决的十大根本难题](https://new.qq.com/rain/a/20260502A02EDW00)** AI仍面临因果理解、世界模型与常识、长程规划与自主性等根本难题，OpenAI正迎来指数级跃迁
+- **[2025年AI Agent开发范式变化个人观察](https://zhuanlan.zhihu.com/p/1987538975129368133)** 从RAG到Agent已成定局，上下文工程与MCP标准化协议成为行业共识
+- **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，系统性拆解AI Agent框架设计与实现
+- **[研究报告:最新 AI Agent 架构与设计模式(2025-2026)](https://blog.csdn.net/weixin_48502593/article/details/159972856)** 涵盖自进化AI系统、多Agent协作、HyperAgents、DARWIN框架等六大主题
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程��道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 六大关键组件与四项底层技术深度解析
+
 ### 2026-04-30
 - **[AI agent到底有多大创新?](https://www.zhihu.com/question/657739588/answer/2031046788036178658)** 2025年至2026年生物医药AI Agent技术已从概念验证迈入产业落地阶段，AI Agent只需设定目标便能自主规划、决策并采取行动
 - **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被行业定义为"智能体爆发元年"，"意图主权"是智能体安全的基础

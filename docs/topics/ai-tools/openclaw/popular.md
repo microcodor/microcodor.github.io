@@ -58,6 +58,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
 
 
+### 2026-05-03
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL在昇腾平台适配，Star数暴涨1k+
+- **[破解Agent场景落地难题!拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216)** 鲲鹏算力筑基，沙箱百毫秒级启动，Token消耗直降50%
+- **[OpenClaw、Hermes、Superagent:Agent时代三条路线,该怎么选?](https://baijiahao.baidu.com/s?id=1862215978340408952)** OpenClaw代表生态优先、Hermes代表学习效率优先、Superagent代表安全治理优先
+- **[解析OpenClaw安全挑战及应对策略](https://baijiahao.baidu.com/s?id=1862987467063914331)** 恶意Skills投毒与提示词注入是主要威胁，超22万OpenClaw实例暴露公网
+
 ### 2026-05-01
 - **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
 - **[OpenClaw:具身智能的“智能中枢”,重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** 基于LLM的多Agent任务编排框架，专为复杂具身智能任务场景设计

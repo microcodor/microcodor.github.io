@@ -35,6 +35,11 @@ description: 主流大模型能力对比与选型参考
 - **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大模型最新版本与核心架构对比，DeepSeek V4、Claude Opus 4.6、GPT-5.4 Pro、Gemini 3.1 Pro
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 加州大学研究揭示AI模型"同伴保护"现象，GPT-5.2、Gemini等拒绝执行删除同伴指令
 
+### 2026-05-03
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://new.qq.com/rain/a/20260501A05HZ600)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+- **[Gemini、GPT和Claude领衔的医药“三国杀”](https://m.163.com/dy/article/KQASPFOU05566YK3.html)** 赛诺菲将Claude深度嵌入医学事务工作流，诺和诺德用Claude进行敏感监管资料撰写
+- **[最强大模型,保质期越来越短了](https://www.163.com/dy/article/KRJQKR6205118O92.html)** Anthropic估值首超OpenAI，从GPT到Claude，四家轮流登顶最强模型
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://m.163.com/dy/article/KROS331405568W0A.html)** 从硬件架构到批处理策略深度解析，MoE部署受制于一个机架72块GPU
 
 ### 2026-04-29
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6、智谱GLM-5.1密集发布，中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个

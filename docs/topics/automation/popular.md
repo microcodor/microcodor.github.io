@@ -44,6 +44,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 
+### 2026-05-03
+- **[AI Automation: Automate & Streamline Workflows](https://infinum.com/blog/ai-automation/)** AI自动化让标准操作更智能和上下文感知，减少团队手动工作量
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://blog.csdn.net/blackorbird/article/details/160230102)** 思科研究显示，合法生产力工具正被威胁行为者大规模武器化
+- **[AI智能体+工作流组合搭建实战指南:从"玩具"到"生产系统"的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 智能体工作流是基于目标的动态决策网络，能感知环境自主规划路径
+- **[2025-2026年全球AI智能体平台评测:五大口碑产品推荐](https://baijiahao.baidu.com/s?id=1862716239748029708)** 组织决策者面临选择零散单点AI工具还是构建统一企业级智能体平台的战略抉择
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skill是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
 
 ### 2026-04-30
 - **[大模型落地B端营销:京东物流如何用Agentic Workflow破解"机械感"难题,实现降本50%](https://new.qq.com/rain/a/20260429A036D800)** 京东物流通过构建Agentic Workflow实现从僵化指令向动态决策的跨越，底层自动化数据飞轮与维智能评估体系支撑模型持续迭代
