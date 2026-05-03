@@ -52,6 +52,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统
 - **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制的个人工作流自动化平台
 
+### 2026-05-04
+- **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** Amazon Quick新自动化模块，用自然语言描述需求即可生成工作流，无需编码或机器学习专业知识
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** 高度可定制的个人工作流自动化平台，深度整合AI能力重塑数字信息交互方式
+
 ### 2026-05-02
 - **[AI Automation: Automate & Streamline Workflows](https://infinum.com/blog/ai-automation/)** AI自动化让标准操作更智能和上下文感知，减少团队手动工作量
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://blog.csdn.net/blackorbird/article/details/160230102)** 思科研究显示，合法生产力工具正被威胁行为者大规模武器化

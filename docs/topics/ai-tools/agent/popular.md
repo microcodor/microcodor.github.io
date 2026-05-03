@@ -57,6 +57,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-04
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 2025年AI Agent开发技术栈全景解析，包含感知模块、知识库、推理与规划引擎、行动模块四大核心组件
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[AI - 尝试一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Anthropic发布Agent Skills，允许将特定领域知识打包成独立的Skill，采用渐进式披露的信息加载方式
+
 ### 2026-05-03
 - **[人工智能仍未解决的十大根本难题](https://new.qq.com/rain/a/20260502A02EDW00)** AI仍面临因果理解、世界模型与常识、长程规划与自主性等根本难题，OpenAI正迎来指数级跃迁
 - **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正被定义为"智能体爆发元年"，安全焦点正从"内容安全"向"行为与意图安全"迁移

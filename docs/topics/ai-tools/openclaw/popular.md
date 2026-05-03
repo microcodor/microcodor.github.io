@@ -51,6 +51,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 ## 近期动态
 
+### 2026-05-04
+- **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765)** v2026.4.25版本接入13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
+- **[今天起,ChatGPT合体OpenClaw!Codex上线「养宠」,码农觉都不睡了](http://finance.sina.com.cn/wm/2026-05-02/doc-inhwnssi5763828.shtml)** OpenAI官宣ChatGPT账号可直接登录OpenClaw，Codex同步开启电子宠物模式
+
 ### 2026-05-03
 - **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765&wfr=spider&for=pc)** v2026.4.25版本接入13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
