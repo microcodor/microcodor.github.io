@@ -45,9 +45,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
 
-### 2026-05-02
-
 ### 2026-05-03
+
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI助手公测版实现跨应用工作流自动化
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统
+- **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制的个人工作流自动化平台
+
+### 2026-05-02
 - **[AI Automation: Automate & Streamline Workflows](https://infinum.com/blog/ai-automation/)** AI自动化让标准操作更智能和上下文感知，减少团队手动工作量
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://blog.csdn.net/blackorbird/article/details/160230102)** 思科研究显示，合法生产力工具正被威胁行为者大规模武器化
 - **[AI智能体+工作流组合搭建实战指南:从"玩具"到"生产系统"的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 智能体工作流是基于目标的动态决策网络，能感知环境自主规划路径

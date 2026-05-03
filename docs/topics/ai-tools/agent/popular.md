@@ -58,7 +58,11 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-03
-- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等，分析指出行业正经历从"无序的自回归循环"向"结构化、确定性编排"的巨大整合
+- **[人工智能仍未解决的十大根本难题](https://new.qq.com/rain/a/20260502A02EDW00)** AI仍面临因果理解、世界模型与常识、长程规划与自主性等根本难题，OpenAI正迎来指数级跃迁
+- **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正被定义为"智能体爆发元年"，安全焦点正从"内容安全"向"行为与意图安全"迁移
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[AI - 尝试一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Anthropic发布Agent Skills，允许将特定领域知识打包成独立的Skill，采用渐进式披露的信息加载方式
+- **[2025年智能体将改变世界:小白程序员必备大模型学习指南](https://blog.csdn.net/2601_95337142/article/details/160548027)** AI Agent是具备感知能力、决策能力、执行能力与反馈能力的自主运行系统 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等，分析指出行业正经历从"无序的自回归循环"向"结构化、确定性编排"的巨大整合
 - **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分为核心框架层、技能层、数据层、部署层，LangChain生态最完整达124K Stars
 - **[人工智能仍未解决的十大根本难题](https://new.qq.com/rain/a/20260502A02EDW00)** 包括因果理解、世界模型与常识、长程规划与自主性等核心挑战
 - **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正被定义为"智能体爆发元年"，安全焦点正从"内容安全"向"行为与意图安全"迁移

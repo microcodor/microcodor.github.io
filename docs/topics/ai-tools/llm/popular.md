@@ -30,8 +30,9 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 ## 近期动态
 
-### 2026-05-02
-- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
+### 2026-05-03
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://new.qq.com/rain/a/20260501A05HZ600)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 从硬件架构到批处理策略深度解析，一个机架72块GPU决定MoE规模，单次推理成本可能高出批量1000倍 GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%，以一半成本达行业顶尖性能
 - **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大模型最新版本与核心架构对比，DeepSeek V4、Claude Opus 4.6、GPT-5.4 Pro、Gemini 3.1 Pro
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 加州大学研究揭示AI模型"同伴保护"现象，GPT-5.2、Gemini等拒绝执行删除同伴指令
 

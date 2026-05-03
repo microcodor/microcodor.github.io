@@ -51,8 +51,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 ## 近期动态
 
-### 2026-05-02
-- **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 104位开发者联手，OpenClaw首次装上任务控制面板，让AI能够自己管理自己
+### 2026-05-03
+- **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765&wfr=spider&for=pc)** v2026.4.25版本接入13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
+- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[OpenClaw多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 已发布v2026.4.20版本修复三个中危漏洞，建议立即升级 104位开发者联手，OpenClaw首次装上任务控制面板，让AI能够自己管理自己
 
 ### 2026-05-03
 - **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw发布重磅更新，提出Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
