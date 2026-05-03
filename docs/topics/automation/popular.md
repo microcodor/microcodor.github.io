@@ -40,9 +40,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ### 2026-05-02
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示，n8n平台正被威胁行为者大规模武器化，2026年3月恶意链接上涨686%
-- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe推出Firefly AI助手公测版，实现跨应用工作流自动化
+
+### 2026-05-03
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色
 - **[收藏!小白程序员必看:轻松分清 Automation/Workflow/Agent,AI 应用不再难!](https://blog.csdn.net/2401_85325726/article/details/159315136)** Automation适合规则固定、Workflow适合多阶段协作、Agent适合自主规划
+
+### 2026-05-02
 
 ### 2026-05-03
 - **[AI Automation: Automate & Streamline Workflows](https://infinum.com/blog/ai-automation/)** AI自动化让标准操作更智能和上下文感知，减少团队手动工作量

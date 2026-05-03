@@ -53,9 +53,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-05-02
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431&wfr=spider&for=pc)** 104位开发者联手，OpenClaw首次装上任务控制面板，让AI能够自己管理自己
-- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549&wfr=spider&for=pc)** OpenClaw是基于LLM的多Agent任务编排框架，通过统一调度接口整合感知、规划与执行模块
-- **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** v2026.3.7版本由196位贡献者协同完成，上下文引擎插件化突破
-- **[Openclaw 龙虾五天五连,24小时两更,火力全开!到底更新了些什么?](https://baijiahao.baidu.com/s?id=1862338249865175670)** 记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理
+
+### 2026-05-03
+- **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw发布重磅更新，提出Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
+- **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765&wfr=spider&for=pc)** v2026.4.25版本一口气塞进13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
+- **[龙虾最大痛点被官方插件升级!对话永不忘记,GPT和Gemini最强模型都可接入](http://zhuanlan.zhihu.com/p/2014322685174383267)** 可插拔的上下文引擎让"记性"变好，上下文管理插件化解决Agent最大痛点
+
+### 2026-05-02
 
 
 ### 2026-05-03

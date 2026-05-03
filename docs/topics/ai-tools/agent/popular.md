@@ -57,6 +57,12 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-03
+- **[2025年主流AI Agent框架调研](https://www.cnblogs.com/hanjg/p/19545638)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel等，分析指出行业正经历从"无序的自回归循环"向"结构化、确定性编排"的巨大整合
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分为核心框架层、技能层、数据层、部署层，LangChain生态最完整达124K Stars
+- **[人工智能仍未解决的十大根本难题](https://new.qq.com/rain/a/20260502A02EDW00)** 包括因果理解、世界模型与常识、长程规划与自主性等核心挑战
+- **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正被定义为"智能体爆发元年"，安全焦点正从"内容安全"向"行为与意图安全"迁移
+
 ### 2026-05-02
 - **[邓亚峰:把 Agent 当作"一个人",数字生产力革命才刚刚开始](https://finance.sina.com.cn/tech/roll/2026-05-01/doc-inhwkptm3466175.shtml)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 - **[2025全国累计词元调用量21100万亿;星动纪元完成超2亿美元融资](https://new.qq.com/rain/a/20260501A05HZ600)** 英伟达推出Nemotron 3 Nano Omni开源全模态推理模型，商汤发布日日新SenseNova U1系列原生理解生成统一模型
