@@ -1007,3 +1007,12 @@ description: 主流 Agent 框架与工具链一览
 - **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架
 
+## 近期动态
+### 2026-05-04
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 什么是AI Agent框架，LangChain、AutoGen、CrewAI等11大框架深度对比与实战
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤单,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出TOTA架构与ISS屏幕语义理解，让Agent能看懂界面并自主操作
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，核心框架层解决LLM能力的最后一公里
+- **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架
+
+

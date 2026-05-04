@@ -1148,3 +1148,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Hermes Agent 深度解析:会自我进化的 AI Agent 究竟有多强?](https://zhuanlan.zhihu.com/p/2030045404964853256)** Hermes核心创新在于内置自进化闭环系统，围绕"执行—提炼—沉淀—复用—自省"五阶段构建
 - **[诺贝尔奖得主哈萨比斯爆料,虚拟细胞和超级智能的时代即将来临](https://new.qq.com/rain/a/20260501A047NR00)** DeepMind正推进"虚拟细胞"研究，预计十年内能模拟完整细胞系统
 - **[2026年AIGC圈行业黑话指南](https://www.hxsd.com/content/59325/)** LLM、Token、Prompt、Skills、Project、RAG、API、MCP、Workflow、Agent等核心概念解读
+### 2026-05-04
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 2026年3月含n8n恶意链接的邮件总量较2025年1月上涨约686%
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+- **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** AWS推出AI工作流自动化工具，把重复性任务变成可复用的AI工作流
+
+

@@ -1108,3 +1108,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI斩杀线,Anthropic还要制造多少条?](https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkccr3600759.shtml)** Anthropic发布Claude Design新产品，可对话创建网页/App设计方案和演示PPT
 - **[告别参数内卷,追觅锚定2036智能家电新十年](https://www.163.com/dy/article/KRRI61C1051288MF.html)** 追觅科技在硅谷发布AI家电愿景，X60系列空调首创双机械臂结构
 - **[271亿元营收背后,科大讯飞的增长、投入与AI商业化深水区](https://baijiahao.baidu.com/s?id=1863966942042933265)** 科大讯飞2025年营收271.05亿元，大模型开发者达229万，API收入同比增长263%
+### 2026-05-04
+- **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** AI相关业务营收达184.66亿元占比52.6%，正式超越传统IT服务成为第一大收入来源
+- **[紫光股份发布2025年报:规模再创新高,利润节节攀升,AI红利持续释放](https://baijiahao.baidu.com/s?id=1862453920480557191)** AI服务器、以太网交换机等多款产品市场份额稳居前二
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 集中发布一批四川造智能机器人和大模型产品
+- **[百度2025十大科技前沿发明发布](http://www.xinhuanet.com/tech/20251103/be7e89ea77ca4c6d922c4b4b0bcc2130/c.html)** 涵盖大模型、深度学习框架、AI算力、智能体等全栈技术体系
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1开源、宇树科技人形机器人登春晚、Manus通用AI智能体问世
+
+

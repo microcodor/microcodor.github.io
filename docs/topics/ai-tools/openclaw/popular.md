@@ -1115,3 +1115,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 2026.4.29 更新](https://www.bilibili.com/read/cv48409845/)** 群聊体验大幅优化、记忆系统升级为"人际关系网"、人物维基People Wiki上线
 - **[Hermes解析:自进化智能体范式与OpenClaw对比评测](https://baijiahao.baidu.com/s?id=1863952467330079147)** Hermes核心创新在于内置自进化闭环系统，围绕"执行—提炼—沉淀—复用—自省"五阶段构建
 - **[OpenClaw AI Agent框架曝三处中危漏洞:提示词注入可篡改网关配置](https://blog.csdn.net/OPHKVPS/article/details/160682450)** 安全研究人员发现三处中危漏洞，现已修复
+### 2026-05-04
+- **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw实现多智能体自主协同，支持Team Skills标准化能力包规范
+- **[104人重写底层,OpenClaw装上任务大脑,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 104位开发者联手，OpenClaw装上任务控制面板，统一到SQLite-backed任务账本
+- **[OpenClaw大更新,AI智能体不再是黑箱](https://baijiahao.baidu.com/s?id=1863682166159187765)** 13个语音提供商、OTEL全链路可观测性、插件冷启动优化，口号Less mystery, more machinery
+
+
