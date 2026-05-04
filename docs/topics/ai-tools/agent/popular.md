@@ -1015,4 +1015,10 @@ description: 主流 Agent 框架与工具链一览
 - **[Microsoft Agent Framework 2025](https://devblogs.microsoft.com/semantic-kernel/2025/)** 微软发布统一Agent框架
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架
 
+### 2026-05-04
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备自主性、感知能力、决策能力、行动能力、适应性五大核心技术特征
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 协议标准化、工具链生态爆发、企业接受度跨越鸿沟，四条件同时满足Agent才真正商用
+- **[AI - 尝试 一下Agent Skills](https://blog.csdn.net/limingdinghao/article/details/160434629)** Agent Skills允许将特定领域知识打包成独立的Skill，在运行时按需加载到Agent的上下文中
+- **[一文读懂Agent、Skills与MCP:AI智能体时代的三个核心概念](https://baijiahao.baidu.com/s?id=1863749972465466913)** Skills把做事方法固化成资产，是模块化的能力扩展Agent功能
+
 

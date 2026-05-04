@@ -1119,5 +1119,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw实现多智能体自主协同，支持Team Skills标准化能力包规范
 - **[104人重写底层,OpenClaw装上任务大脑,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 104位开发者联手，OpenClaw装上任务控制面板，统一到SQLite-backed任务账本
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://baijiahao.baidu.com/s?id=1863682166159187765)** 13个语音提供商、OTEL全链路可观测性、插件冷启动优化，口号Less mystery, more machinery
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** OpenClaw核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162)** OpenAI将OpenClaw纳入生态版图，Codex新增具有自主学习和进化能力的"电子宠物"
+- **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 安全研究人员披露三个中危漏洞，已在2026.4.20版本修复
 
 

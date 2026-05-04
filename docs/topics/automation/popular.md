@@ -1152,5 +1152,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 2026年3月含n8n恶意链接的邮件总量较2025年1月上涨约686%
 - **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
 - **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** AWS推出AI工作流自动化工具，把重复性任务变成可复用的AI工作流
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制、以AI为大脑的个人工作流自动化平台，整合AI能力重塑数字信息交互
+- **[Taskade AI工作流:无代码构建AI应用和工作流自动化](https://www.taskade.com/ai/workflows)** Taskade提供 Genesis Flow Builder，用自然语言描述流程即可构建自动化
 
 

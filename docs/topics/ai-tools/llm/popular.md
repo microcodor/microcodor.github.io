@@ -1016,5 +1016,6 @@ description: 主流大模型能力对比与选型参考
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 芯片工程师Reiner Pope用黑板推演拆解前沿大模型底层逻辑，揭示MoE架构被限制在一个机架72块GPU以内的物理瓶颈
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CENG70534A4SC.html)** OpenAI推出GPT-5.5，Terminal-Bench 2.0准确率达82.7%，在代码、办公、科研场景实现系统性超越
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 研究人员提出IKP评测框架，估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+- **[GPT-5.5在Terminal-Bench 2.0上拿到82.7%准确率](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** GPT-5.5在SWE-Bench Pro达到58.6%，Claude 4.6 Opus开放百万级上下文
 
 
