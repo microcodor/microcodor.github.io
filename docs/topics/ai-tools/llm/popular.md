@@ -1019,3 +1019,10 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-5.5在Terminal-Bench 2.0上拿到82.7%准确率](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** GPT-5.5在SWE-Bench Pro达到58.6%，Claude 4.6 Opus开放百万级上下文
 
 
+
+### 2026-05-05
+- **[2026年AI大模型巅峰对决:GPT-5.5、Claude Opus 4.7与Gemini 3.1 Pro全面横评](https://lanjingapp.cn/7246.html)** Claude Opus 4.7采用1M超长上下文窗口，编程能力持续领先
+- **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://blog.csdn.net/steamboy54/article/details/160756076)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6被开发者评为综合体验最佳
+- **[2026.5 AI终极评测:GPT-5.5登顶,Claude 4.7守王座](https://www.cnblogs.com/malixiao/p/19971538)** GPT-5.5在Terminal-Bench得分82.7%横扫竞品，Claude Opus 4.7守编程王座
+- **[80%富人在用Claude:美国AI用户大调查出炉](https://baijiahao.baidu.com/s?id=1864218864541341611)** 高收入人群ChatGPT触达率37%，Claude仅6%但浓度高
+- **[苹果WWDC 2026前瞻:iOS 27或携多项创新功能亮相](https://www.cnr.cn/tech/gstj/20260504/t20260504_527609591.shtml)** Siri应用将与ChatGPT、Gemini和Claude等聊天机器人深度整合

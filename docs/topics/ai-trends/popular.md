@@ -1119,3 +1119,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025致远互联AI产品战略发布暨生态伙伴大会](https://baike.baidu.com/item/2025致远互联AI产品战略发布暨生态伙伴大会/65495798)** 正式发布新一代智能体产品家族"CoMi Family"
 
 
+
+### 2026-05-05
+- **[OPPO携多项AI终端技术成果亮相2025世界人工智能大会](http://k.sina.com.cn/article_7857141524_1d4527714019025kde.html)** 行业首发AI健康档案，端侧AI处理速度超200 token/s
+- **[苹果iOS 27将重心转向AI](https://baijiahao.baidu.com/s?id=1864211529325687484)** Siri将被重塑为独立App并支持多任务指令
+- **[独家|字节首个付费豆包会员将推出,AI大模型免费时代结束了](http://k.sina.com.cn/article_7857201856_1d45362c0019051pu6.html)** 豆包会员分为标准版、加强版、专业版三档，月费50元起
+- **[5万亿AI Agent经济爆发!谷歌UCP、OpenAI ACP](https://baijiahao.baidu.com/s?id=1864229891212521904)** ACP协议打通AI助手的交易闭环
+- **[腾讯AI的时代之问:姚顺雨是不是另一个张小龙?](https://www.thepaper.cn/newsDetail_forward_33093355)** 腾讯混元Hy3 preview开源，88天完成纠偏

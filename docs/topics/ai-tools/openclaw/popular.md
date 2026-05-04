@@ -1124,3 +1124,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 安全研究人员披露三个中危漏洞，已在2026.4.20版本修复
 
 
+
+### 2026-05-05
+- **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期
+- **[OpenClaw大更新:正式接入DeepSeekV5](https://baijiahao.baidu.com/s?id=1864267615228710933)** 2026.4.24凌晨发布新版本，把AI直接塞进工作流
+- **[阿里云/本地零基础喂饭级部署 Hermes Agent / OpenClaw](https://developer.aliyun.com/article/1732430)** 零基础部署OpenClaw + Obsidian CLI，让AI用你的知识库创作
+- **[2026年阿里云安装OpenClaw百炼token配置详解](https://weibo.com/ttarticle/p/show?id=2309405294953235611810)** 阿里云百炼免费大模型API配置步骤全解析

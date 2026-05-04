@@ -1157,3 +1157,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Taskade AI工作流:无代码构建AI应用和工作流自动化](https://www.taskade.com/ai/workflows)** Taskade提供 Genesis Flow Builder，用自然语言描述流程即可构建自动化
 
 
+
+### 2026-05-05
+- **[构建AI原生的科学知识图谱服务:浙大联合上海AI Lab发布SciGraph-SCP Server](https://hub.baai.ac.cn/view/54433)** 首个专为科学智能体打造的AI原生科学图谱服务，支持OpenClaw等多个开源智能体框架
+- **[SAP AI Core](https://baike.baidu.com/item/SAP%20AI%20Core/67732936)** SAP AI Core与核心业务应用深度集成，AI能直接操作采购订单等业务对象
+- **[AI剪片翻车现场:95%的活儿它干了,剩下5%要你命](https://www.163.com/dy/article/KS4FVEDD05561FZH.html)** AI擅长造零件但讲故事是盲区，工作流设计是关键
+- **[前沿!Ai手搓审计方案-基于IMA+Kiro的审计应用](http://finance.sina.com.cn/wm/2026-05-04/doc-inhwtmeh9917310.md)** 基于IMA+Kiro+Obsidian实现知识管理-输出-维护的工作流
+- **[百万Token治不好AI的失忆症:大模型时代的记忆底牌](http://finance.sina.com.cn/wm/2026-05-04/doc-inhwspyt0259257.shtml)** 上下文长度是工作内存不等于长期记忆，外挂记忆形态分为三类

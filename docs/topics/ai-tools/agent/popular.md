@@ -1022,3 +1022,10 @@ description: 主流 Agent 框架与工具链一览
 - **[一文读懂Agent、Skills与MCP:AI智能体时代的三个核心概念](https://baijiahao.baidu.com/s?id=1863749972465466913)** Skills把做事方法固化成资产，是模块化的能力扩展Agent功能
 
 
+
+### 2026-05-05
+- **[AI Agent智能体开发实战:LangChain自动化工作流](https://blog.csdn.net/corn1949/article/details/160744844)** AI Agent是能自主思考和行动的系统，可理解复杂任务目标、拆解执行步骤、调用外部工具
+- **[5万亿AI Agent经济爆发!谷歌UCP、OpenAI ACP,重新定义未来商业](http://finance.sina.com.cn/wm/2026-05-04/doc-inhwsyqm0719628.shtml)** 2025年全球代理式商务市场规模已达57亿美元，预计2033年将飙升至654.7亿美元
+- **[人工智能仍未解决的十大根本难题](https://baijiahao.baidu.com/s?id=1864185554954456873&wfr=spider&for=pc)** AI仍在因果理解、世界模型与常识、长程规划等核心维度持续突破
+- **[盘点A股AI应用公司2025年成绩单:普遍实现收入增长](https://www.163.com/dy/article/KS43V8QD0512B07B.html)** 金山办公WPS AI月活超8013万，同比增长307%
+- **[OpenAI要做的手机,比豆包更进一步](https://finance.sina.cn/2026-05-04/detail-inhwsuhm4014587.d.html)** OpenAI正与联发科和高通合作开发手机处理器，预计2028年量产
