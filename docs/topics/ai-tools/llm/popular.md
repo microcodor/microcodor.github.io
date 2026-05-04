@@ -1026,3 +1026,8 @@ description: 主流大模型能力对比与选型参考
 - **[2026.5 AI终极评测:GPT-5.5登顶,Claude 4.7守王座](https://www.cnblogs.com/malixiao/p/19971538)** GPT-5.5在Terminal-Bench得分82.7%横扫竞品，Claude Opus 4.7守编程王座
 - **[80%富人在用Claude:美国AI用户大调查出炉](https://baijiahao.baidu.com/s?id=1864218864541341611)** 高收入人群ChatGPT触达率37%，Claude仅6%但浓度高
 - **[苹果WWDC 2026前瞻:iOS 27或携多项创新功能亮相](https://www.cnr.cn/tech/gstj/20260504/t20260504_527609591.shtml)** Siri应用将与ChatGPT、Gemini和Claude等聊天机器人深度整合
+
+### 2026-05-05
+- **[GPT-6代号Spud发布:Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，代码、推理、智能体任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至2月年化收入超25亿美元，成为AI开发者工具市场焦点
+- **[Gemini桌面端正式发布:实测唤起功能是亮点](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** macOS版Gemini桌面端上线，默认不打开对话列表

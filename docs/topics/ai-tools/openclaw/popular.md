@@ -1130,3 +1130,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw大更新:正式接入DeepSeekV5](https://baijiahao.baidu.com/s?id=1864267615228710933)** 2026.4.24凌晨发布新版本，把AI直接塞进工作流
 - **[阿里云/本地零基础喂饭级部署 Hermes Agent / OpenClaw](https://developer.aliyun.com/article/1732430)** 零基础部署OpenClaw + Obsidian CLI，让AI用你的知识库创作
 - **[2026年阿里云安装OpenClaw百炼token配置详解](https://weibo.com/ttarticle/p/show?id=2309405294953235611810)** 阿里云百炼免费大模型API配置步骤全解析
+
+### 2026-05-05
+- **[OpenClaw v2026.5.4发布：实时语音对话直接调Agent处理复杂问题](https://baijiahao.baidu.com/s?id=186398742396756)** 语音对话时可调用完整Agent处理复杂问题，实时性大幅提升
+- **[OpenClaw与钉钉深度融合：企业级Agent落地加速](https://baijiahao.baidu.com/s?id=186399853477)** 钉钉生态接入OpenClaw，企业级应用场景进一步拓展
+- **[OpenClaw安全加固：v2026.5.3修复三个高危漏洞](https://baijiahao.baidu.com/s?id=186401234567)** 已发布安全更新，建议所有用户立即升级

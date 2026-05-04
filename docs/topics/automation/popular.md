@@ -1164,3 +1164,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI剪片翻车现场:95%的活儿它干了,剩下5%要你命](https://www.163.com/dy/article/KS4FVEDD05561FZH.html)** AI擅长造零件但讲故事是盲区，工作流设计是关键
 - **[前沿!Ai手搓审计方案-基于IMA+Kiro的审计应用](http://finance.sina.com.cn/wm/2026-05-04/doc-inhwtmeh9917310.md)** 基于IMA+Kiro+Obsidian实现知识管理-输出-维护的工作流
 - **[百万Token治不好AI的失忆症:大模型时代的记忆底牌](http://finance.sina.com.cn/wm/2026-05-04/doc-inhwspyt0259257.shtml)** 上下文长度是工作内存不等于长期记忆，外挂记忆形态分为三类
+
+### 2026-05-05
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[YC W26:AI投资从平台转向垂直Agent](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施，Vertical Workflow数量下降
+- **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** 五层优先级不同解决问题也不同

@@ -1029,3 +1029,8 @@ description: 主流 Agent 框架与工具链一览
 - **[人工智能仍未解决的十大根本难题](https://baijiahao.baidu.com/s?id=1864185554954456873&wfr=spider&for=pc)** AI仍在因果理解、世界模型与常识、长程规划等核心维度持续突破
 - **[盘点A股AI应用公司2025年成绩单:普遍实现收入增长](https://www.163.com/dy/article/KS43V8QD0512B07B.html)** 金山办公WPS AI月活超8013万，同比增长307%
 - **[OpenAI要做的手机,比豆包更进一步](https://finance.sina.cn/2026-05-04/detail-inhwsuhm4014587.d.html)** OpenAI正与联发科和高通合作开发手机处理器，预计2028年量产
+
+### 2026-05-05
+- **[AI Agent框架选型指南:CrewAI、LangChain、AutoGen深度对比](https://developer.aliyun.com/article/1724991)** CrewAI适合多Agent协作场景，LangChain适合快速原型，AutoGen适合企业级应用
+- **[OpenAI Agent SDK发布：原生Agent开发框架](https://baijiahao.baidu.com/s?id=186215489372)** OpenAI官方发布Agent SDK，原生支持Agent开发
+- **[Anthropic Claude Agent:计算机操作能力突破](https://baijiahao.baidu.com/s?id=1860527127265635427)** Anthropic升级Claude Code可直接操控电脑

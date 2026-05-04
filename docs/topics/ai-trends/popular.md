@@ -1126,3 +1126,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[独家|字节首个付费豆包会员将推出,AI大模型免费时代结束了](http://k.sina.com.cn/article_7857201856_1d45362c0019051pu6.html)** 豆包会员分为标准版、加强版、专业版三档，月费50元起
 - **[5万亿AI Agent经济爆发!谷歌UCP、OpenAI ACP](https://baijiahao.baidu.com/s?id=1864229891212521904)** ACP协议打通AI助手的交易闭环
 - **[腾讯AI的时代之问:姚顺雨是不是另一个张小龙?](https://www.thepaper.cn/newsDetail_forward_33093355)** 腾讯混元Hy3 preview开源，88天完成纠偏
+
+### 2026-05-05
+- **[软通动力AI业务营收占比超52%](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%
+- **[AI产业链迎共振:国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
+- **[2025年度AI 100旗舰产品榜发布](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi等入选
