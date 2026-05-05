@@ -1149,3 +1149,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[微盟推出AI智能办公产品Work Claw](https://baijiahao.baidu.com/s?id=1861329044931129887)** 聚焦泛办公人群，WAI平均月活商户数同比增长66.7%
 - **[装了龙虾不知道该干嘛?差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包
 
+
+### 2026-05-06
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP发布政策文件，禁止客户使用OpenClaw等外部AI Agent访问SAP系统
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL在昇腾平台适配，Star数暴涨1k+
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号，记忆系统重构、安全加固、多平台通道修复
+- **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331)** 安全风险分析，恶意Skill投毒与提示词注入成主要威胁
+- **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，全栈国产化方案

@@ -1041,3 +1041,9 @@ description: 主流大模型能力对比与选型参考
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数破10万亿、Claude 4引入神经符号架构
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
 
+
+### 2026-05-06
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863965237043355033)** 研究人员提出“不可压缩知识探针”方法估算模型参数，GPT-5.5约9万亿、Claude Opus 4.7约4万亿
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** 芯片工程师用黑板拆解训练与推理逻辑，批处理可省1000倍成本
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 核心结论：MoE架构被限制在一个机架72块GPU以内
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 估算方法引争议，但提供了模型容量思考框架

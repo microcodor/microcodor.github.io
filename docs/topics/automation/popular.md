@@ -1183,3 +1183,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三���Agent架构：规划层、执行层、反馈层
 - **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** 用自然语言描述需求即可生成工作流
 
+
+### 2026-05-06
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n平台被威胁行为者大规模武器化用于网络攻击
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe Firefly AI助手公测版实现跨应用工作流自动化
+- **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** AWS推出零代码AI工作流工具，把重复任务变成可复用AI工作流
+- **[15 Best AI workflow automation tools to automate tasks in 2026](https://truno.com/blog/best-ai-workflow-automation-tools)** 2026年最佳AI工作流自动化工具盘点，71%组织已在至少一个业务功能中使用生成式AI
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出

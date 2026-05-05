@@ -1047,3 +1047,10 @@ description: 主流 Agent 框架与工具链一览
 - **[GPT-6即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** 采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Gartner预测:到2027年70%的企业将部署AI Agent驱动的核心业务工作流](https://blog.csdn.net/2405_88636357/article/details=159934250)** AI Agent驱动的智能工作流自动化
 
+
+### 2026-05-06
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 什么是AI Agent框架，11个最佳框架深度对比，LangChain最受欢迎
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出TOTA架构与ISS屏幕语义理解，让Agent“看懂”界面并自主操作
+- **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，核心框架层解决LLM能力“最后一公里”问题
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 13种主流Agent框架全景对比，LangGraph、CrewAI、Dify深度解析
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖了LangGraph、AutoGen、CrewAI、Semantic Kernel等主流框架
