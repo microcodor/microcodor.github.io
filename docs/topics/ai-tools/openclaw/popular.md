@@ -51,6 +51,14 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 ## 近期动态
 
+### 2026-05-05
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162&wfr=spider&for=pc)** OpenAI官宣ChatGPT账号可直接登录OpenClaw，Codex新增"宠物模式"功能
+- **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** 下一代AI将回归智能本质——以记忆为底座、以推理为核心、以自主进化为方向
+- **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 已发布v2026.4.20版本修复三个中危漏洞，建议立即升级
+- **[OpenClaw 安装软件供应商生态扩容 摩豆智能MaudelClaw打造国产企业级AI Agent平台](https://www.163.com/dy/article/KRPHDSJ20530SHJ6.html)** 北京摩豆智能推出MaudelClaw企业级智能体管理平台，全栈自研、国产适配
+- **[秒删!苹果APP惊现Claude痕迹,4万亿帝国AI底裤被扒](https://baijiahao.baidu.com/s?id=1864061958375559057&wfr=spider&for=pc)** 苹果内部AI系统JunoAI竟是用ClaudeCode开发的
+
 ### 2026-05-04
 - **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765)** v2026.4.25版本接入13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
 - **[今天起,ChatGPT合体OpenClaw!Codex上线「养宠」,码农觉都不睡了](http://finance.sina.com.cn/wm/2026-05-02/doc-inhwnssi5763828.shtml)** OpenAI官宣ChatGPT账号可直接登录OpenClaw，Codex同步开启电子宠物模式

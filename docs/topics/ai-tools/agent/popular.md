@@ -57,6 +57,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-05
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 2025年AI Agent开发技术栈全景解析，包含感知模块、知识库、推理与规划引擎、行动模块四大核心组件
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[一文读懂Agent、Skills与MCP:AI智能体时代的三个核心概念](https://baijiahao.baidu.com/s?id=1863749972465466913&wfr=spider&for=pc)** AI智能体市场规模将从2024年的51亿美元增长至2030年的471亿美元，2025年也被称为"AI智能体元年"
+- **[AI Agent下半场:比模型更卷的是Skill生态](https://zhuanlan.zhihu.com/p/2033154249081798703)** 当模型的智商不再构成壁垒，真正的竞争就转移到了"如何让AI把事干成"
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/GFNWl4aCF/article/details/160743869)** Microsoft Agent Framework是Semantic Kernel的官方继任者，本质上是Semantic Kernel的2.0版本
+
 ### 2026-05-04
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 2025年AI Agent开发技术栈全景解析，包含感知模块、知识库、推理与规划引擎、行动模块四大核心组件
 - **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟

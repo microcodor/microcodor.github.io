@@ -38,6 +38,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 ## 近期动态
 
+### 2026-05-05
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00?adChannelId=tech)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制的个人工作流自动化平台，解决信息过载和上下文切换
+- **[【2026最新收藏版】小白&程序员必看!Agent、Workflow、MCP三大AI核心概念详解](https://blog.csdn.net/youmaob/article/details=160627492)** Agent是智能助手，Workflow是自动化工具，MCP是通用协议，三者组合协作
+- **[AI工作流引擎:构建智能自动化流水线的核心技术解析](https://blog.csdn.net/weixin_26969967/article/details=160638737)** aiflowy基于人工智能的自动化工作流编排与执行引擎
+- **[n8n和OpenClaw如何使用才是王道!为什么?](https://post.smzdm.com/p/a035ovor/)** 混合架构"Thinking Layer + Execution Layer"是未来核心竞争力
+- **[AI智能体+工作流组合搭建实战指南:从"玩具"到"生产系统"的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 工作流是连接智能体的神经网络和指挥系统，基于目标的动态决策网络
+
 ### 2026-05-02
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示，n8n平台正被威胁行为者大规模武器化，2026年3月恶意链接上涨686%
 
