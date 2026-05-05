@@ -1137,3 +1137,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[软通动力AI业务营收占比超52%](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%
 - **[AI产业链迎共振:国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
 - **[2025年度AI 100旗舰产品榜发布](https://baike.baidu.com/item/2025年度AI%20100旗舰产品榜/67282755)** 量子位智库发布，DeepSeek、豆包、kimi等入选
+### 2026-05-06
+- **[爱芯元智2025年报:双轮驱动重构增长曲线,端-车-边缘协同](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670379975&idx=1&sn=8c357fbdb45dabca7ef2fa94d80cf692)** SoC出货量达8600万颗，智能汽车业务同比增长618.2%
+- **[软通动力2025年AI营收占比超52%](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%
+- **[恺英网络2025年营收53.25亿元,AI工具SOON可将研发周期压缩至小时级](https://baijiahao.baidu.com/s?id=1863719701491349309)** AI工具SOON可将数月研发周期压缩至小时级
+

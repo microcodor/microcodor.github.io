@@ -1035,3 +1035,9 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-6代号Spud发布:Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，代码、推理、智能体任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至2月年化收入超25亿美元，成为AI开发者工具市场焦点
 - **[Gemini桌面端正式发布:实测唤起功能是亮点](https://www.163.com/dy/article/KQLMGGM2051100B9.html)** macOS版Gemini桌面端上线，默认不打开对话列表
+### 2026-05-06
+- **[字节首个付费"豆包会员"将推出,AI大模型免费时代结束了](http://k.sina.com.cn/article_7857201856_1d45362c0019051pu6.html)** 豆包会员分为标准版、加强版、专业版三个版本，价格每月50元起
+- **[科大讯飞2025年报:8亿净利润,AI公司第一次跑通商业闭环](https://baijiahao.baidu.com/s?id=1863732018057612426)** 271亿营收，归母净利润8.39亿，大模型中标数量与金额双双蝉联行业第一
+- **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数破10万亿、Claude 4引入神经符号架构
+- **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
+

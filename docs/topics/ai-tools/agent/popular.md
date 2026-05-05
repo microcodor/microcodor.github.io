@@ -1041,3 +1041,9 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent框架选型指南:CrewAI、LangChain、AutoGen深度对比](https://developer.aliyun.com/article/1724991)** CrewAI适合多Agent协作场景，LangChain适合快速原型，AutoGen适合企业级应用
 - **[OpenAI Agent SDK发布：原生Agent开发框架](https://baijiahao.baidu.com/s?id=186215489372)** OpenAI官方发布Agent SDK，原生支持Agent开发
 - **[Anthropic Claude Agent:计算机操作能力突破](https://baijiahao.baidu.com/s?id=1860527127265635427)** Anthropic升级Claude Code可直接操控电脑
+### 2026-05-06
+- **[Claude Code年化收入超25亿美元,成AI开发者工具市场焦点](https://baijiahao.baidu.com/s?id=1862183323738947190)** 截至今年2月的年化收入已超过25亿美元
+- **[Cursor 3发布:IDE不重要了,智能体控制台上位](http://finance.sina.com.cn/wm/2026-04-08/doc-inhtucsc9635996.shtml)** 用智能体管理控制台取代传统代码编辑器
+- **[GPT-6即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** 采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Gartner预测:到2027年70%的企业将部署AI Agent驱动的核心业务工作流](https://blog.csdn.net/2405_88636357/article/details=159934250)** AI Agent驱动的智能工作流自动化
+

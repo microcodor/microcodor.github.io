@@ -1143,3 +1143,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.5.4发布：实时语音对话直接调Agent处理复杂问题](https://baijiahao.baidu.com/s?id=186398742396756)** 语音对话时可调用完整Agent处理复杂问题，实时性大幅提升
 - **[OpenClaw与钉钉深度融合：企业级Agent落地加速](https://baijiahao.baidu.com/s?id=186399853477)** 钉钉生态接入OpenClaw，企业级应用场景进一步拓展
 - **[OpenClaw安全加固：v2026.5.3修复三个高危漏洞](https://baijiahao.baidu.com/s?id=186401234567)** 已发布安全更新，建议所有用户立即升级
+### 2026-05-06
+- **[OpenClaw正式接入DeepSeek V4](http://finance.sina.com.cn/roll/2026-04-26/doc-inhvutnp3468142.shtml)** 深度集成Google Meet、全面接入DeepSeek V4、语音通话全线打通
+- **[OpenClaw GitHub Star超越Linux,成开源史上第一](https://new.qq.com/rain/a/20260410A05Q7B00)** 史无前例首个GitHub Star超越Linux的项目
+- **[微盟推出AI智能办公产品Work Claw](https://baijiahao.baidu.com/s?id=1861329044931129887)** 聚焦泛办公人群，WAI平均月活商户数同比增长66.7%
+- **[装了龙虾不知道该干嘛?差的是可执行的技能地图](https://baijiahao.baidu.com/s?id=1859728031891932158)** Skill是给AI装"手脚"的能力包
+

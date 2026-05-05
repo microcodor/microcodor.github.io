@@ -1177,3 +1177,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
 - **[YC W26:AI投资从平台转向垂直Agent](https://www.donews.com/news/detail/4/6482262.html)** YC W26 Demo Day聚焦Agent基础设施，Vertical Workflow数量下降
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories区别](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** 五层优先级不同解决问题也不同
+### 2026-05-06
+- **[腾讯云ADP上线智能工作台:一句话生成企业级应用](https://baijiahao.baidu.com/s?id=1863724885452458168)** 一句话生成企业级AI Agent，可快速嵌入企业已有系统
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** 实现跨应用工作流自动化，可编排Photoshop等应用
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三���Agent架构：规划层、执行层、反馈层
+- **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** 用自然语言描述需求即可生成工作流
+
