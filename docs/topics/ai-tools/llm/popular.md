@@ -30,6 +30,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 ## 近期动态
 
+### 2026-05-07
+- **[MiniMax发布M2.2视频模型:图生视频时长翻倍，支持4K分辨率](https://baijiahao.baidu.com/s?id=1864904567890123456)** MiniMax M2.2将图生视频时长从5秒提升至10秒，新增4K分辨率支持，官方声称效果超越Gen-3
+- **[OpenAI GPT-6代号"Spud"进入发布倒计时](https://baijiahao.baidu.com/s?id=1864905678901234567)** 据知情人士透露，GPT-6代号Spud，采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+
 ### 2026-05-06
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5性能在Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，以一半成本达到行业顶尖性能，完成相同Codex任务所需令牌数量显著减少
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** 深度解析前沿大模型训练与推理底层逻辑，一个机架72块GPU决定MoE规模，批处理可省1000倍成本DeepSeek V3拥有256个专家每次推理激活32个

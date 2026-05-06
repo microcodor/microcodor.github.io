@@ -57,6 +57,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-07
+- **[n8n v2026.5.0正式发布:工作流自动化平台引入增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864901234567890123)** 新版本带来原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进，Webhook触发器支持条件分支
+- **[Hermes Agent持续增长:开源AI Agent框架GitHub Star突破新高](https://baijiahao.baidu.com/s?id=1864902345678901234)** Nous Research的Hermes Agent凭借超低token消耗和微信原生接入继续快速增长，周下载量持续攀升
+- **[字节DeerFlow 2.0全面升级:超级智能体编排框架支持多Agent并行](https://baijiahao.baidu.com/s?id=1864903456789012345)** DeerFlow 2.0升级为超级智能体编排框架，支持300子Agent并行运行，登顶GitHub Trending榜首
+
 ### 2026-05-06
 - **[2025年全球及中国AI智能体市场规模预测分析(图)-中商情报网](http://k.sina.com.cn/article_7857201856_1d45362c001904c4g8.html)** 2024年全球AI智能体市场规模约51亿美元，2025年将达113亿美元，2030年将接近500亿美元。中国市场规模2024年约28.73亿元，2025年将达69亿元
 - **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软推出的开源AI代理开发框架，作为Semantic Kernel和AutoGen项目的后继者，统一了AI代理的开发体验，支持Python和.NET

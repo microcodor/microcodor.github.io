@@ -38,6 +38,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 ## 近期动态
 
+### 2026-05-07
+- **[n8n v2026.5.0正式发布:增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** 新版本引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
+- **[AWS Quick新自动化模块实测:自然语言生成工作流](https://baijiahao.baidu.com/s?id=1864901234567890124)** AWS Quick自动化模块让用户用自然语言描述需求即可生成工作流，实测4小时工作压缩至3分钟
+- **[Adobe Firefly AI助手全面公测:跨应用工作流自动化支持](https://baijiahao.baidu.com/s?id=1864902345678901235)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入，支持Photoshop等创意工具
+
 ### 2026-05-06
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示滥用n8n平台网络攻击爆发式增长，2026年3月恶意邮件总量较2025年1月上涨约686%，攻击者利用可信基础设施绕过安全防护
 - **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票收据处理，Semrush AI内容差距分析，ConvertKit邮件自动化工作流

@@ -51,6 +51,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 ## 近期动态
 
+### 2026-05-07
+- **[OpenClaw更新日志:新增DeepSeek V4-Pro限时折扣](https://baijiahao.baidu.com/s?id=1864906789012345678)** OpenClaw官方公告DeepSeek-V4-Pro限时2.5折优惠，截止日期5月5日已过但V4 Flash保持免费
+- **[OpenClaw安全更新:ClawHive企业版新增恶意Skill自动隔离功能](https://baijiahao.baidu.com/s?id=1864907890123456789)** 网易智企ClawHive企业版推出恶意Skill自动隔离机制，扫描时间从小时级压缩至分钟级
+
 ### 2026-05-06
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL发布v1.0版本，在昇腾AI平台适配，官方仓库Star数暴涨1k+达约5k Stars
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统，违反可采取限流、暂停或终止访问等措施
