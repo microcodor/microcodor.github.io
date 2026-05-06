@@ -30,6 +30,11 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
 ## 近期动态
 
+### 2026-05-06
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+
+## 近期动态
+
 ### 2026-05-05
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数、GPT-5.4约2.2万亿参数
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991&wfr=spider&for=pc)** 从硬件架构到批处理策略深度解析，一个机架72块GPU决定MoE规模，单次推理成本可能高出批量1000倍

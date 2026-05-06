@@ -38,6 +38,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 ## 近期动态
 
+### 2026-05-06
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush AI分析内容差距，ConvertKit自动化邮件营销
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
+
+## 近期动态
+
 ### 2026-05-05
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00?adChannelId=tech)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
 - **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制的个人工作流自动化平台，解决信息过载和上下文切换
