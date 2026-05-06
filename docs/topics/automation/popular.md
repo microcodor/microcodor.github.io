@@ -39,6 +39,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-06
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示滥用n8n平台网络攻击爆发式增长，2026年3月恶意邮件总量较2025年1月上涨约686%，攻击者利用可信基础设施绕过安全防护
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票收据处理，Semrush AI内容差距分析，ConvertKit邮件自动化工作流
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe Firefly AI助手实现跨应用工作流自动化
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程到RAG再到智能体工作流，三层递进实现效率提升10倍
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://view.inews.qq.com/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP是厨房，Rules是全局约束，三者结合让AI稳定交付高质量结果
+
+## 近期动态
+
+### 2026-05-06
 - **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush AI分析内容差距，ConvertKit自动化邮件营销
 - **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
 

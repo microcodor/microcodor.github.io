@@ -52,6 +52,15 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-06
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL发布v1.0版本，在昇腾AI平台适配，官方仓库Star数暴涨1k+达约5k Stars
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统，违反可采取限流、暂停或终止访问等措施
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过AI agent解决批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
+- **[破解Agent场景落地难题!拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216)** 湘江鲲鹏联合华为鲲鹏推出AIAgent一体化解决方案，沙箱百毫秒级快速启动、Token消耗直降50%
+- **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331&wfr=spider&for=pc)** 恶意Skill数量几周内飙升至800多个涨幅142%，OpenClaw被记录的81个CVE漏洞中62.9%为严重或高危漏洞
+
+## 近期动态
+
+### 2026-05-06
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 

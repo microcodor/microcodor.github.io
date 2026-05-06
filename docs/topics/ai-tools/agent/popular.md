@@ -58,8 +58,11 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-06
-- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 2025年AI Agent开发技术栈全景解析，包含感知模块、知识库、推理与规划引擎、行动模块四大核心组件
-- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[2025年全球及中国AI智能体市场规模预测分析(图)-中商情报网](http://k.sina.com.cn/article_7857201856_1d45362c001904c4g8.html)** 2024年全球AI智能体市场规模约51亿美元，2025年将达113亿美元，2030年将接近500亿美元。中国市场规模2024年约28.73亿元，2025年将达69亿元
+- **[Microsoft Agent Framework](https://baike.baidu.com/item/Microsoft%20Agent%20Framework/67560677)** 微软推出的开源AI代理开发框架，作为Semantic Kernel和AutoGen项目的后继者，统一了AI代理的开发体验，支持Python和.NET
+- **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，系统性拆解AI Agent框架设计与实现，包含理论篇与实践篇
+- **[系统拆解 AI Agent 框架设计门道,助你成为 2025 工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 从LangGraph、CrewAI、OpenAI Agents SDK等主流框架设计理念出发，详解AI Agent框架的六大关键组件和四项底层技术
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是"AI Agent元年"，2025年8月国务院发布《关于深入实施"人工智能+"行动的意见》，明确培育"智能体即服务"新业态
 
 ## 近期动态
 

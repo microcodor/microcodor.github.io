@@ -31,11 +31,16 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-06
-- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5性能在Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，以一半成本达到行业顶尖性能，完成相同Codex任务所需令牌数量显著减少
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** 深度解析前沿大模型训练与推理底层逻辑，一个机架72块GPU决定MoE规模，批处理可省1000倍成本DeepSeek V3拥有256个专家每次推理激活32个
+- **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://3g.163.com/dy/article/KQASPFOU05566YK3.html)** 赛诺菲把Claude深度嵌进医学事务工作流，诺和诺德用Claude进行敏感监管资料撰写，长文本处理和低幻觉是Claude底色
+- **[Gemini 3.1 Pro 今天血洗全场:Claude 和 GPT 全线崩盘](https://cloud.tencent.com/developer/article/2659162)** Gemini 3.1 Pro在ARC-AGI-2达77.1%，原生支持200万token，代码生成SWE-bench Verified预计逼近80%
+- **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://blog.csdn.net/2601_95861180/article/details/160296522)** GPT-6推理能力提升40%但token消耗增加，Claude Opus 4.6降智争议持续，Google Gemma 4系列开源7B版本本地推理效果好
 
 ## 近期动态
 
-### 2026-05-05
+### 2026-05-06
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数、GPT-5.4约2.2万亿参数
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991&wfr=spider&for=pc)** 从硬件架构到批处理策略深度解析，一个机架72块GPU决定MoE规模，单次推理成本可能高出批量1000倍
 
