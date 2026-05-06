@@ -1218,3 +1218,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill、MCP、Slash Command、Rules、Sub-agent构成AI工具生态全映射
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00?adChannelId=tech)** 菜谱=Skill、厨师=Agent、食材=MCP，AI工具生态完整类比
 
+### 2026-05-07 自动化工具
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n平台被威胁行为者大规模武器化用于网络攻击，2026年3月恶意链接上涨686%
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush智能分析内容差距，ConvertKit个性化邮件
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe Firefly AI助手公测版实现跨应用工作流自动化
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 主流AI工作流自动化工具盘点，Agentforce in Slack、Trello AI等
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+

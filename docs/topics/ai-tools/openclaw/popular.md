@@ -1188,3 +1188,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[MIAOYUN|每周AI新鲜事儿 260430](https://baijiahao.baidu.com/s?id=1863885686434815590)** OpenClaw、Claude等AI Agent密集更新
 - **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** GHSA三个中危漏洞，v2026.4.20版本已修复
 
+### 2026-05-07 OpenClaw更新
+- **[苹果官方APP惊现Claude.md,24小时秒删!4万亿帝国AI底裤被扒光](https://baijiahao.baidu.com/s?id=1864045318636071754)** 苹果Support App泄露文件显示内部用Claude构建Juno AI客服系统
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源框架AReaL v1.0发布，构建完备Agentic RL训练底座，已达约5K Stars
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号，记忆系统重构、安全加固、多平台通道修复
+- **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331)** 安全风险分析，恶意Skill投毒与提示词注入成主要威胁
+- **[虽然OpenClaw 为 DeepSeek V4 又更了一版,但"更新新版需谨慎"](http://www.myzaker.com/article/69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，支持realtime voice loops
+

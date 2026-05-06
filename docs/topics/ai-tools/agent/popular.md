@@ -1079,3 +1079,10 @@ description: 主流 Agent 框架与工具链一览
 - **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 协议标准化、工具链生态爆发、企业接受度跨越鸿沟，四条件同时满足
 - **[通用贬值,原生越贵:110%增长背后的迈富时"场景Token"垄断逻辑](https://baijiahao.baidu.com/s?id=1863892678097683305)** 2026年Q1 AI业务收入同比超110%增幅
 
+### 2026-05-07 AI Agent框架
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、AutoGen、CrewAI、Semantic Kernel等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 基于Pydantic构建的轻量级框架，带来全面重构的工具链系统和革命性的交互体验提升
+- **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 深度解析AI Agent开发平台的核心技术实现路径，从架构设计到工具链整合
+- **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制，CrewAI在多智能体协作方面表现突出
+

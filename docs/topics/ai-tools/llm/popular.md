@@ -1068,3 +1068,10 @@ description: 主流大模型能力对比与选型参考
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** DeepSeek V3拥有256个专家每次激活32个，MoE架构被限制在一个机架72块GPU以内
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://ishare.ifeng.com/c/s/v002udE5WaBW2UL49CpISMa0VovkhPtygEGUaGdpxQDEGr8__)** 基于冷门事实性知识的记忆容量无法压缩，主要取决于模型参数规模
 
+### 2026-05-07 LLM动态
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863965237043355033)** 研究人员提出"不可压缩知识探针"评测框架，估算GPT-5.5约9万亿、Claude Opus 4.7约4万亿、Claude Sonnet 4.6约1.7万亿
+- **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大前沿AI模型深度技术对比，MoE已成为主流架构
+- **[2026年AI模型选择指南:一站式体验三大旗舰模型](http://k.sina.com.cn/article_7879848900_1d5acf3c401902ww1m.html)** Gemini 3.1 Pro、GPT-5.4与Claude 4.6三大顶级模型同台竞技
+- **[Gemini 3.1 Pro今天血洗全场:Claude和GPT全线崩盘](https://cloud.tencent.com/developer/article/2659162)** ARC-AGI-2达77.1%断层领先，原生支持200万token
+- **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://finance.sina.cn/2026-02-28/detail-inhpiryq3057759.d.html)** AI模型在军事模拟中的决策表现分析
+
