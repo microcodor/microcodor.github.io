@@ -1069,3 +1069,10 @@ description: 主流 Agent 框架与工具链一览
 - **[通用贬值,原生越贵:迈富时"场景Token"垄断逻辑](https://baijiahao.baidu.com/s?id=1863892678097683305)** 2026年Q1 AI业务收入同比超110%增幅
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/GFNWl4aCF/article/details/160743869)** Microsoft Agent Framework成为Semantic Kernel官方继任者
 
+### 2026-05-07
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 智能体需要感知模块、知识库/记忆模块、推理与规划引擎、行动模块四大核心组件
+- **[ESG报告也能看出AI公司成色?迈富时这次把"负责任创新"写进了业绩逻辑里](https://www.ithome.com/0/946/053.htm)** 场景+数据+平台+模型四层架构全面跑通，人效同比提升62.7%
+- **[国际城市观察|AI时代城市关键词:包容、普惠、绿色、规则输出与终身学习](https://www.163.com/dy/article/KRP0F0IB0514R9P4.html)** 城市将升级为可编程的公共平台，通过AI算法与海量数据深度驱动
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 协议标准化、工具链生态爆发、企业接受度跨越鸿沟，四条件同时满足
+- **[通用贬值,原生越贵:110%增长背后的迈富时"场景Token"垄断逻辑](https://baijiahao.baidu.com/s?id=1863892678097683305)** 2026年Q1 AI业务收入同比超110%增幅
+

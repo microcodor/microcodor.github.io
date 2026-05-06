@@ -1202,3 +1202,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流:让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已逐步被多Agent架构替代，混合架构成未来趋势
 - **[n8n和OpenClaw如何使用才是王道](https://post.smzdm.com/p/a035ovor/)** 混合架构成AI应用落地下一阶段分水岭
 
+### 2026-05-07
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks用AI自动归类支出、给出省钱建议，ConvertKit用自动化工作流实现用户分群
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI的价值在分层运营而非完全替代人工，高价值客户仍需手写
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://view.inews.qq.com/a/20260430A01V2A00)** Skill是给AI的菜谱，MCP是厨房的食材，专业工具通过Skills封装
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill、MCP、Slash Command、Rules、Sub-agent构成AI工具生态全映射
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00?adChannelId=tech)** 菜谱=Skill、厨师=Agent、食材=MCP，AI工具生态完整类比
+

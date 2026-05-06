@@ -1172,3 +1172,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度测评:国内Top级OpenClaw私有化部署服务商全解析](https://dy.163.com/article/KRM2HDQ90518TA2V.md)** Gateway+Agent+Skills+Memory四层架构
 - **[MaudelClaw打造国产企业级 AI Agent 平台](https://www.163.com/dy/article/KRPHDSJ20530SHJ6.html)** 全栈自研、国产适配、多智能体协同
 
+### 2026-05-07
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP发布政策文件，禁止客户使用OpenClaw等外部AI Agent访问SAP系统
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162)** OpenClaw以开源龙虾席卷全球形成百虾争鸣，Codex新增宠物模式实现自主学习和进化
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，分层解耦架构打通大模型、工具、系统与用户的连接
+- **[MIAOYUN|每周AI新鲜事儿 260430](https://baijiahao.baidu.com/s?id=1863885686434815590)** OpenClaw、Claude等AI Agent密集更新
+- **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** GHSA三个中危漏洞，v2026.4.20版本已修复
+

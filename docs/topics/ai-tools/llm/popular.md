@@ -1056,3 +1056,10 @@ description: 主流大模型能力对比与选型参考
 ### 2026-05-06 NEW
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991&wfr=spider&for=pc)** 从硬件架构到批处理策略深度解析，一个机架72块GPU决定MoE规模，单次推理成本可能高出批量1000倍
 
+### 2026-05-07
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996)** 通过黑盒测试揭示大模型参数真相，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 芯片工程师Reiner Pope用黑板推演拆解训练与推理逻辑，不批量处理单次推理成本可能高出1000倍
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 估算GPT-5.5约9万亿、Claude Opus 4.7约4万亿、Gemini 2.5 Pro约1.2万亿
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** DeepSeek V3拥有256个专家每次激活32个，MoE架构被限制在一个机架72块GPU以内
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://ishare.ifeng.com/c/s/v002udE5WaBW2UL49CpISMa0VovkhPtygEGUaGdpxQDEGr8__)** 基于冷门事实性知识的记忆容量无法压缩，主要取决于模型参数规模
+
