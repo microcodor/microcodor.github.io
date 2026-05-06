@@ -1155,3 +1155,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** “开启大模型·遇见机器人”，首批“四川造”智能机器人发布
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1开源、宇树科技人形机器人登春晚、Manus通用AI智能体发布
 - **[年终盘点:2025年AI,8个改变世界的里程碑](https://baijiahao.baidu.com/s?id=1852746944207851619)** GPT-5.x系列与“推理范式”确立，Gemini 3 + Nano Banana多模态突破
+
+### 2026-05-06 NEW
+- **[科大讯飞2025年报:狂砸研发拿下大模型双料冠军](https://baijiahao.baidu.com/s?id=1863822586778869168&wfr=spider&for=pc)** 中标金额23.16亿元位列全行业第一，星火X1.5性能达到GPT-5的95%以上
+- **[豆神教育2025年营收破10亿元](https://baijiahao.baidu.com/s?id=1863854425929774447&wfr=spider&for=pc)** 多款AI产品落地驱动增长，AI双师、AI超能训练场等构建三位一体AI教育生态
+- **[芯联集成:AI风口来袭,第二增长曲线加速爆发](https://baijiahao.baidu.com/s?id=1863858171261436564&wfr=spider&for=pc)** 2025年营收81.8亿元同比增长25.67%，2026年将突破百亿
+- **[三六零:营收增9.37%、净利转正](https://baijiahao.baidu.com/s?id=1863877265083317960&wfr=spider&for=pc)** "AI+安全"战略重塑增长内核，研发投入占营收超37%
+- **[2025世界人工智能大会:各种机器人引爆全场](https://wap.eastmoney.com/a/202507263468328894.html)** 60款以上智能机器人亮相，宇树机器人现场演绎"武林争霸"
+- **[codex](https://baike.baidu.com/item/codex/63322048)** 2025年10月OpenAI推出的AI代码生成训练模型，成为增长最快的产品之一
+

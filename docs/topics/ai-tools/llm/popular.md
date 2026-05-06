@@ -1052,3 +1052,7 @@ description: 主流大模型能力对比与选型参考
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991)** 芯片工程师用黑板拆解训练与推理逻辑，批处理可省1000倍成本
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 核心结论：MoE架构被限制在一个机架72块GPU以内
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 估算方法引争议，但提供了模型容量思考框架
+
+### 2026-05-06 NEW
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863863832423982991&wfr=spider&for=pc)** 从硬件架构到批处理策略深度解析，一个机架72块GPU决定MoE规模，单次推理成本可能高出批量1000倍
+

@@ -1162,3 +1162,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 五天五个版本号，记忆系统重构、安全加固、多平台通道修复
 - **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331)** 安全风险分析，恶意Skill投毒与提示词注入成主要威胁
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，全栈国产化方案
+
+### 2026-05-06 NEW
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP明确限制通过API接入能规划、选择或执行一系列API调用的半自主或生成式AI系统
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式](https://baijiahao.baidu.com/s?id=1864155851223054162&wfr=spider&for=pc)** OpenAI反向操作收编OpenClaw，Codex新增宠物模式实现自主学习和进化
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
+- **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** v2026.4.20版本已修复全部三个安全漏洞
+- **[OpenClaw 升级实录:差点彻底放弃](https://www.163.com/dy/article/KS01NTPS055616YL.md)** 版本升级后性能飞升，Qwen3.5-9B响应压缩到秒级
+- **[深度测评:国内Top级OpenClaw私有化部署服务商全解析](https://dy.163.com/article/KRM2HDQ90518TA2V.md)** Gateway+Agent+Skills+Memory四层架构
+- **[MaudelClaw打造国产企业级 AI Agent 平台](https://www.163.com/dy/article/KRPHDSJ20530SHJ6.html)** 全栈自研、国产适配、多智能体协同
+

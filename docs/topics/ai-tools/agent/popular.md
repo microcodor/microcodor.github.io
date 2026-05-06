@@ -1060,3 +1060,12 @@ description: 主流 Agent 框架与工具链一览
 - **[2025开源AI Agent工具全景图](http://zhuanlan.zhihu.com/p/1992410866923091778)** Agent工具生态分层架构，核心框架层解决LLM能力“最后一公里”问题
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 13种主流Agent框架全景对比，LangGraph、CrewAI、Dify深度解析
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖了LangGraph、AutoGen、CrewAI、Semantic Kernel等主流框架
+
+### 2026-05-06 NEW
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备自主性、感知能力、决策能力、行动能力和适应性五个核心技术特征
+- **[AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[AI Agent下半场:比模型更卷的是Skill生态](https://zhuanlan.zhihu.com/p/2033154249081798703)** 当模型智商不再构成壁垒，真正的竞争转移到如何让AI把事干成
+- **[迈富时2025年ESG报告:把"负责任创新"写进业绩逻辑](https://www.ithome.com/0/946/053.htm)** 场景+数据+平台+模型四层架构全面跑通，人效同比提升62.7%
+- **[通用贬值,原生越贵:迈富时"场景Token"垄断逻辑](https://baijiahao.baidu.com/s?id=1863892678097683305)** 2026年Q1 AI业务收入同比超110%增幅
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/GFNWl4aCF/article/details/160743869)** Microsoft Agent Framework成为Semantic Kernel官方继任者
+

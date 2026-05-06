@@ -1196,3 +1196,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** AWS推出零代码AI工作流工具，把重复任务变成可复用AI工作流
 - **[15 Best AI workflow automation tools to automate tasks in 2026](https://truno.com/blog/best-ai-workflow-automation-tools)** 2026年最佳AI工作流自动化工具盘点，71%组织已在至少一个业务功能中使用生成式AI
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+
+### 2026-05-06 NEW
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
+- **[AI 工作流:让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已逐步被多Agent架构替代，混合架构成未来趋势
+- **[n8n和OpenClaw如何使用才是王道](https://post.smzdm.com/p/a035ovor/)** 混合架构成AI应用落地下一阶段分水岭
+
