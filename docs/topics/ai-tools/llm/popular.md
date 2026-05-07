@@ -1108,3 +1108,9 @@ description: 主流大模型能力对比与选型参考
 - **[被低谷的生产力杀手锏:2026年我为什么从 GPT 转向了 Gemini?](https://zhuanlan.zhihu.com/p/2035155158187910892)** Gemini 200万超长上下文、与Google生态原生缝合、Veo 3.1视频生成成独家优势
 - **[文心一言5.1预览版上线LMSYS竞技场,暂列总榜第13位](https://baijiahao.baidu.com/s?id=1864418161075747481)** 文心5.1 Preview以1476分Elo评分成为前十五名中唯一上榜的中国国产模型
 
+
+### 2026-05-08
+- **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由切换Claude、Gemini或ChatGPT作为默认AI服务
+- **[苹果全面开放第三方AI模型,将允许用户选用多款第三方人工智能服务](https://baijiahao.baidu.com/s?id=1864391817969614482&wfr=spider&for=pc)** Siri从"人工智障"变"模型调度员"，根据任务复杂度调用不同模型
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** ProgramBench测试200个项目，9个顶级模型通过率均为0%
+- **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** MatX CEO详解Token成本和定价，从两个最基础的硬件参数推导AI产业

@@ -1227,3 +1227,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[2026年极速部署 Hermes Agent/OpenClaw 教程及常见问题解答](https://zhuanlan.zhihu.com/p/2035304936876025810)** 阿里云一键部署方案，预置专属应用镜像，简化传统部署复杂配置流程
 - **[2026年零门槛部署 Windows 系统本地及云上 AI 助手:Hermes Agent/OpenClaw 保姆级教程](https://zhuanlan.zhihu.com/p/2035393229907080349)** 从环境搭建到程序安装全程拆解，无技术基础也能顺利部署
 
+
+### 2026-05-08
+- **[燧弘华创发布OpenClaw一体机全家桶:HonMaaS全栈赋能](http://news.10jqka.com.cn/20260507/c676521566.shtml)** 推出OpenClaw一体机全系产品，两款机型精准覆盖经济型、旗舰型场景，出厂即预装OpenClaw运行系统
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** AI Agent解决Zabbix批量更新配置和获取数据复杂的问题
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式](https://baijiahao.baidu.com/s?id=1864155851223054162&wfr=spider&for=pc)** OpenAI将OpenClaw纳入生态版图，Codex新增"宠物模式"功能
+- **[OpenClaw最新版5.2体验:这只"龙虾"AI助手,到底有多猛](https://post.smzdm.com/p/a4qnl83w/)** v2026.5.2正式版发布，半年内于GitHub获得36万Star

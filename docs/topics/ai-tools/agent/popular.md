@@ -68,3 +68,10 @@ description: 主流 Agent 框架与工具链一览
 - **[邓亚峰:把 Agent 当作"一个人",数字生产力革命才刚刚开始](https://baijiahao.baidu.com/s?id=1863972201158178323)** 下一代AI将回归记忆、推理、自主进化，以记忆为底座、以推理为核心、以自主进化为方向
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/gyNWDy7D4/article/details/160718523)** Microsoft Agent Framework是Semantic Kernel的官方继任者，本质上是Semantic Kernel的2.0版本
 - **[271亿元营收背后,科大讯飞的增长、投入与AI商业化深水区](http://baijiahao.baidu.com/s?id=1863966942042933265)** 科大讯飞2025年营收271.05亿元同比增长16.12%，讯飞AI开放平台已开放920项AI能力，AI开发者规模突破1000万
+
+### 2026-05-08
+- **[AI的诸神黄昏:从凡人计算到生生不息的自进化](https://baijiahao.baidu.com/s?id=1864094969124600757&wfr=spider&for=pc)** 顶尖模型性能提升进入每增加10倍算力仅提升1%阶段，杰弗里·辛顿提出"非永生/凡人计算"概念，或成为突破方向
+- **[对话韩三楚:给大众新汽车装上大脑](https://new.qq.com/rain/a/20260507A075BS00)** 大众汽车发布"全域智能体AI"产品技术路线图，目标是成为全球汽车科技领航者
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** Gartner预测到2028年约15%的日常工作决策将由代理型AI完成
+- **[迈富时2025年ESG报告:把"负责任创新"写进业绩逻辑](https://www.ithome.com/0/946/053.htm)** 推出AI-Agentforce企业级智能体中台3.0，人效同比提升62.7%
+- **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** Gartner预测2026年底40%企业应用将嵌入AI智能体，LangChain是绕不开的开发框架

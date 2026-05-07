@@ -1255,3 +1255,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026技术前沿:从大模型到Agent,AI正在重构软件形态](https://it.sohu.com/a/1018963393_122049597)** Agent+工作流结合触发条件、状态流转、可视化编排成企业级应用标配
 - **[AI智能体平台实战:从零构建可视化多智能体工作流](https://blog.csdn.net/weixin_42676876/article/details/160841953)** tarikstafford/ai-agent-platform现代化AI智能体工作流框架与托管平台
 
+
+### 2026-05-08
+- **[思科借星战日发布AI助手"银河模式",限时开放至6月4日](https://www.163.com/dy/article/KSC46QEH05118UGF.html)** 思科发布"银河模式"AI助手，深度推理功能可协助分析网络诊断结果、审查故障现象
+- **[Taskade Automation功能更新:集成AI agents](https://www.taskade.com/wiki/automation)** 多Agent协调、上下文处理、学习自动化、自然语言触发器等特性
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界里的"菜谱"，可以稳定交付高质量结果
+- **[AI工作流让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已被多Agent架构逐步替代，但理解AI应用编排的底层思路仍有价值
+- **[AI驱动的代码生成与自动化工作流平台](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
