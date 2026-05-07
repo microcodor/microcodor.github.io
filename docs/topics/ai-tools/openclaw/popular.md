@@ -1002,6 +1002,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性，官方口号Less mystery, more machinery
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
+### 2026-05-07
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** Zabbix与OpenClaw的智能运维集成实践，用自然语言管理Zabbix系统
+- **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，由Claude Opus 4.6驱动，年内整合进Instagram
+- **[OpenClaw龙虾爆火的隐忧:AI Agent安全边界的构筑与挑战](https://dy.163.com/article/KS8TT2LU05118BIV.html)** GitHub 2025报告AI开源项目年增187%，OpenClaw超24万星标，但也面临恶意Skill攻击
+- **[2026年极速部署 Hermes Agent/OpenClaw 教程及常见问题解答](https://zhuanlan.zhihu.com/p/2035304936876025810)** 阿里云一键部署方案，预置专属应用镜像
+- **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
+
 ## 近期动态
 ### 2026-04-18
 - **[华源证券:OpenClaw启发AIAgent新阶段 能力跃迁与入口争夺](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw比作个人AI的操作系统，腾讯、阿里云相继上线一键部署方案

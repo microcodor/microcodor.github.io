@@ -48,6 +48,12 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏!2026年版AI发展全解析](https://blog.csdn.net/2301_76168381/article/details/160595063)** 2026年AI Agent自主进化期
 - **[AI Agent目前应用落地有哪些局限性?](https://www.zhihu.com/question/624354739/answer/2032398064313423748)** Gartner预测到2027年超过40%的代理式AI项目将失败或被取消
 
+### 2026-05-07
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五大核心技术特征：自主性、感知能力、决策能力、行动能力、适应性
+- **[从MCP到A2A:2026年AI Agent协议时代](https://www.chenxutan.com/d/2189.html)** MCP定位AI模型的USB接口，A2A解决Agent间协作的标准化问题
+- **[AI Agent沙箱三国杀:OpenSandbox vs CubeSandbox vs E2B](https://www.chenxutan.com/d/2122.html)** 阿里开源OpenSandbox、腾讯开源CubeSandbox、E2B形成三足鼎立
+
 ### 2026-04-30
 - **[AI agent到底有多大创新?](https://www.zhihu.com/question/657739588/answer/2031046788036178658)** 2025至2026年生物医药AI Agent技术从概念验证迈入产业落地阶段，AI Agent只需设定目标，便能自主规划、决策并采取行动
 - **[企业能把安全交给Agent么?](https://baijiahao.baidu.com/s?id=1863596606157843826)** 2026年正在被行业定义为"智能体爆发元年"，"意图主权"是智能体安全的基础

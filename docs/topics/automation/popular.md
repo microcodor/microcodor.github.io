@@ -1034,6 +1034,14 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Adobe公测Firefly AI助手:编排Photoshop等应用](https://new.qq.com/rain/a/20260428A01Y2P00)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
+### 2026-05-07
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush智能分析内容差距，ConvertKit邮件自动化
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** ConvertKit邮件自动化、HubSpot AI优化等工具实测
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让AI稳定交付高质量结果
+- **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定
+- **[AI智能体+工作流组合搭建实战指南:从"玩具"到"生产系统"的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 四种核心设计模式：反思模式、工具使用模式、规划模式、多智能体协作模式
+- **[AI驱动的代码生成与自动化工作流平台:从单次提示到可编程流程的范式转变](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
+
 ## 近期动态
 ### 2026-04-16
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具

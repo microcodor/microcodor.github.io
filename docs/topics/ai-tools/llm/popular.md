@@ -908,6 +908,14 @@ description: 主流大模型能力对比与选型参考
 - **[模型大战后,AI竞争的下半场在哪里?](https://new.qq.com/rain/a/20260428A0399H00)** 当GPT、Claude、Gemini等通用大模型的基础能力趋于收敛，模型大战第一阶段已经落幕
 - **[ChatGPT、Gemini、Claude、Grok四款AI哪款最好?](https://www.zhihu.com/question/1991548303863718602/answer/2032251423614837642)** 四款AI除Grok外均长期使用，按场景推荐：写代码选Claude、综合选ChatGPT、学术研究选Gemini
 
+### 2026-05-07
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://dy.163.com/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 论文估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数、Gemini 2.5 Pro约1.2万亿参数
+- **[从模型接入到网关治理:一站式调用 GPT / Claude / Gemini 的工程化思路](https://developer.aliyun.com/article/1732531)** 统一网关负责供应商适配、鉴权、模型映射、限流、日志、成本统计和失败转移
+- **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导Token成本与定价
+- **[2026年AI大模型巅峰对决:GPT-5.5、Claude Opus 4.7与Gemini 3.1 Pro全面横评](https://lanjingapp.cn/7246.html)** 三大旗舰模型核心参数对比及编程能力实测
+
 ## 近期动态
 ### 2026-04-18
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
