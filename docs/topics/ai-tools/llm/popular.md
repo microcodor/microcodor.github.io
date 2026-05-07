@@ -28,6 +28,13 @@ description: 主流大模型能力对比与选型参考
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** 从硬件架构到批处理策略深度解析，MoE部署受制于一个机架72块GPU，单次推理成本可能高出批量1000倍
 - **[Claude终于认了!降智坐实,越聊越傻,3个bug全曝光](https://baijiahao.baidu.com/s?id=1863526576270590501)** Anthropic承认推理等级被偷偷从高调成中、缓存bug、25词限制三个bug导致性能下降
 - **[2026年AI编程能力实测:Claude vs GPT vs Gemini](https://www.eefocus.com/article/2003426.html)** Claude 3.5在算法和调试方面表现突出，GPT-4o在自然语言需求理解上更优，Gemini在速度和多模态上有优势
+
+### 2026-05-07
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://www.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 研究人员提出"不可压缩知识探针"方法估算模型参数：GPT-5.5约9万亿、Claude Opus 4.7约4万亿、Gemini 2.5 Pro约1.2万亿
+- **[从模型接入到网关治理:一站式调用 GPT / Claude / Gemini 的工程化思路](https://developer.aliyun.com/article/1732531)** 统一网关负责供应商适配、鉴权、模型映射、限流、日志、成本统计和失败转移，需要做好网络、支付、合规三方面限制处理
+- **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
 ### 2026-05-07

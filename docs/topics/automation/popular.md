@@ -36,6 +36,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/answer/2032105795853218651)** Skill是给AI做事的方法，MCP是驱动层让AI操作外部系统，Workflow是标准工作流
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
+
+### 2026-05-07
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade引入AI代理直接嵌入自动化流程，支持自然语言创建自动化、多智能体协调、上下文处理、学习自动化
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让用户无需每次从头解释，AI也能稳定交付高质量结果
+- **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
 ### 2026-05-07

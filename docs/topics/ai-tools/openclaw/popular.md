@@ -49,6 +49,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
 - **[虽然OpenClaw为DeepSeek V4又更了一版,但更新新版需谨慎](http://app.myzaker.com/news/article.php?pk=69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，语音对话时可调用完整Agent处理复杂问题
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
+
+### 2026-05-07
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统，AI Agent不能随意调用API、批量抓取数据
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162)** Codex新增"宠物模式"功能，代表AI编程工具从被动执行向自主进化的关键跃迁
+- **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，由Claude Opus 4.6和Claude Sonnet 4.6模型驱动，计划第四季度前整合进Instagram
+- **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
 ### 2026-05-07
