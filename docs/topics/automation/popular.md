@@ -1234,3 +1234,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 主流AI工作流自动化工具盘点，Agentforce in Slack、Trello AI等
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 
+
+### 2026-05-07
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush智能分析内容差距，ConvertKit邮件自动化
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** ConvertKit邮件自动化、HubSpot AI优化等工具实测，从决策时间节省到品牌调性平衡
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让AI稳定交付高质量结果
+- **[2026技术前沿:从大模型到Agent,AI正在重构软件形态](https://it.sohu.com/a/1018963393_122049597)** Agent+工作流结合触发条件、状态流转、可视化编排成企业级应用标配
+- **[AI智能体平台实战:从零构建可视化多智能体工作流](https://blog.csdn.net/weixin_42676876/article/details/160841953)** tarikstafford/ai-agent-platform现代化AI智能体工作流框架与托管平台
+

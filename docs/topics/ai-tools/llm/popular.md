@@ -1085,3 +1085,11 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3.1 Pro今天血洗全场:Claude和GPT全线崩盘](https://cloud.tencent.com/developer/article/2659162)** ARC-AGI-2达77.1%断层领先，原生支持200万token
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://finance.sina.cn/2026-02-28/detail-inhpiryq3057759.d.html)** AI模型在军事模拟中的决策表现分析
 
+
+### 2026-05-07
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://dy.163.com/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+- **[2026实测:如何在国内免费AI镜像站上搭建GPT+Gemini+Claude三模型协同工作台](https://www.sohu.com/a/1018795568_122730557)** RskAi同时接入ChatGPT 5.5、Gemini 3.1 Pro和Claude 3.5 Sonnet，实现跨模型上下文保持
+- **[被低谷的生产力杀手锏:2026年我为什么从 GPT 转向了 Gemini?](https://zhuanlan.zhihu.com/p/2035155158187910892)** Gemini 200万超长上下文、与Google生态原生缝合、Veo 3.1视频生成成独家优势
+- **[文心一言5.1预览版上线LMSYS竞技场,暂列总榜第13位](https://baijiahao.baidu.com/s?id=1864418161075747481)** 文心5.1 Preview以1476分Elo评分成为前十五名中唯一上榜的中国国产模型
+

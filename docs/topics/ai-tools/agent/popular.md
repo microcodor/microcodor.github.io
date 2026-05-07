@@ -1085,7 +1085,11 @@ description: 主流 Agent 框架与工具链一览
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/GFNWl4aCF/article/details/160743869)** Microsoft Agent Framework成为Semantic Kernel官方继任者
 
 ### 2026-05-07
-- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 智能体需要感知模块、知识库/记忆模块、推理与规划引擎、行动模块四大核心组件
+- **[开源打破"AI黑箱"!集结全球大咖,GOSIM Paris 2026带你看懂Agent时代大变局](https://baijiahao.baidu.com/s?id=1864444458611591951&wfr=spider&for=pc)** 斯坦福2026 AI指数报告:中美顶尖模型性能差距缩至3%内，中国日均Token调用量突破140万亿
+- **[AI Agent(智能体)——不只是会答话的AI,而是会干活的AI](https://cloud.tencent.com/developer/article/2664997)** 2024年说"少用Agent"而2026年Agent成了主角，从聊天到任务拆解、工具调用、多智能体协作
+- **[AI产业彻底重构 核心从模型比拼转向系统竞争](https://baijiahao.baidu.com/s?id=1864471470532780571&wfr=spider&for=pc)** GMI Cloud蒋剑彪:AI产业从"模型为王"转向"系统制胜"，拼全链路系统能力
+- **[透视万兴科技:从漫剧到"龙虾",软件如何成为Token时代创意中枢](https://finance.sina.cn/2026-05-06/detail-inhwxxkm5876107.d.html)** AI Agent绕过界面直接操作软件，"流程化软件"正退化为"智能Agent的插件"
+- **[2025/2026企业级智能体开发平台推荐:优选全栈平台蚂蚁数科Agentar](https://www.csdn.net/article/2026-05-06/160824984)** 全球AI智能体市场复合年增长率超40%，中国以72.7%增速领跑，2028年预计达8.52万亿
 - **[ESG报告也能看出AI公司成色?迈富时这次把"负责任创新"写进了业绩逻辑里](https://www.ithome.com/0/946/053.htm)** 场景+数据+平台+模型四层架构全面跑通，人效同比提升62.7%
 - **[国际城市观察|AI时代城市关键词:包容、普惠、绿色、规则输出与终身学习](https://www.163.com/dy/article/KRP0F0IB0514R9P4.html)** 城市将升级为可编程的公共平台，通过AI算法与海量数据深度驱动
 - **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 协议标准化、工具链生态爆发、企业接受度跨越鸿沟，四条件同时满足

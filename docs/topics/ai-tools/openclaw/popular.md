@@ -1205,3 +1205,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331)** 安全风险分析，恶意Skill投毒与提示词注入成主要威胁
 - **[虽然OpenClaw 为 DeepSeek V4 又更了一版,但"更新新版需谨慎"](http://www.myzaker.com/article/69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，支持realtime voice loops
 
+
+### 2026-05-07
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** Zabbix与OpenClaw的智能运维集成实践，用自然语言管理Zabbix系统
+- **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，由Claude Opus 4.6驱动，年内整合进Instagram
+- **[OpenClaw龙虾爆火的隐忧:AI Agent安全边界的构筑与挑战](https://dy.163.com/article/KS8TT2LU05118BIV.html)** GitHub 2025报告AI开源项目年增187%，OpenClaw超24万星标，但也面临恶意Skill攻击
+- **[2026年极速部署 Hermes Agent/OpenClaw 教程及常见问题解答](https://zhuanlan.zhihu.com/p/2035304936876025810)** 阿里云一键部署方案，预置专属应用镜像，简化传统部署复杂配置流程
+- **[2026年零门槛部署 Windows 系统本地及云上 AI 助手:Hermes Agent/OpenClaw 保姆级教程](https://zhuanlan.zhihu.com/p/2035393229907080349)** 从环境搭建到程序安装全程拆解，无技术基础也能顺利部署
+
