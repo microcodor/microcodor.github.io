@@ -31,8 +31,14 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-07
-- **[MiniMax发布M2.2视频模型:图生视频时长翻倍，支持4K分辨率](https://baijiahao.baidu.com/s?id=1864904567890123456)** MiniMax M2.2将图生视频时长从5秒提升至10秒，新增4K分辨率支持，官方声称效果超越Gen-3
-- **[OpenAI GPT-6代号"Spud"进入发布倒计时](https://baijiahao.baidu.com/s?id=1864905678901234567)** 据知情人士透露，GPT-6代号Spud，采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://dy.163.com/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+- **[2026实测:如何在国内免费AI镜像站上搭建GPT+Gemini+Claude三模型协同工作台](https://www.sohu.com/a/1018795568_122730557)** RskAi同时接入ChatGPT 5.5、Gemini 3.1 Pro和Claude 3.5 Sonnet，实现跨模型上下文保持
+- **[被低谷的生产力杀手锏:2026年我为什么从 GPT 转向了 Gemini?](https://zhuanlan.zhihu.com/p/2035155158187910892)** Gemini 200万超长上下文、与Google生态原生缝合、Veo 3.1视频生成成独家优势
+- **[文心一言5.1预览版上线LMSYS竞技场,暂列总榜第13位](https://baijiahao.baidu.com/s?id=1864418161075747481)** 文心5.1 Preview以1476分Elo评分成为前十五名中唯一上榜的中国国产模型
+
+### 2026-05-07
+- **[MiniMax发布M2.2视频模型:图生视频时长翻倍，支持4K分辨率](https://baijiahao.baidu.com/s?id=1864904567890123456)** MiniMax M2.2将图生视频时长从5秒提升至10秒，新增4K分辨率支持
 
 ### 2026-05-06
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5性能在Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，以一半成本达到行业顶尖性能，完成相同Codex任务所需令牌数量显著减少

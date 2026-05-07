@@ -52,8 +52,14 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-07
-- **[OpenClaw更新日志:新增DeepSeek V4-Pro限时折扣](https://baijiahao.baidu.com/s?id=1864906789012345678)** OpenClaw官方公告DeepSeek-V4-Pro限时2.5折优惠，截止日期5月5日已过但V4 Flash保持免费
-- **[OpenClaw安全更新:ClawHive企业版新增恶意Skill自动隔离功能](https://baijiahao.baidu.com/s?id=1864907890123456789)** 网易智企ClawHive企业版推出恶意Skill自动隔离机制，扫描时间从小时级压缩至分钟级
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过AI agent解决批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
+- **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，计划第四季度整合进Instagram，由Claude驱动
+- **[OpenClaw龙虾爆火的隐忧:AI Agent安全边界的构筑与挑战](https://dy.163.com/article/KS8TT2LU05118BIV.html)** 恶意Skill数量几周内飙升至800多个涨幅142%，安全成焦点
+- **[2026年极速部署 Hermes Agent/OpenClaw 教程及常见问题解答](https://zhuanlan.zhihu.com/p/2035304936876025810)** 阿里云一键部署方案，简化传统部署流程，无需专业技术储备
+- **[2026年零门槛部署 Windows 系统本地及云上 AI 助手:Hermes Agent/OpenClaw 保姆级教程](https://zhuanlan.zhihu.com/p/2035393229907080349)** Windows系统用户全程教程，零技术基础也能部署
+
+### 2026-05-07
+- **[OpenClaw更新日志:新增DeepSeek V4-Pro限时折扣](https://baijiahao.baidu.com/s?id=1864906789012345678)** DeepSeek-V4-Pro限时2.5折优惠
 
 ### 2026-05-06
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL发布v1.0版本，在昇腾AI平台适配，官方仓库Star数暴涨1k+达约5k Stars

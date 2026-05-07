@@ -58,6 +58,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-07
+- **[开源打破"AI黑箱"!集结全球大咖,GOSIM Paris 2026带你看懂Agent时代大变局](https://baijiahao.baidu.com/s?id=1864444458611591951&wfr=spider&for=pc)** 斯坦福《2026年AI指数报告》显示中美顶尖模型性能差距缩至3%以内，中国日均Token调用量突破140万亿
+- **[AI Agent——不只是会答话的AI,而是会干活的AI](https://cloud.tencent.com/developer/article/2664997)** 2026年Agent从"能对话"走向"能做事"，从内容生成到任务拆解、工具调用、多智能体协作成为基础设施
+- **[AI产业彻底重构:核心从模型比拼转向系统竞争](https://baijiahao.baidu.com/s?id=1864471470532780571&wfr=spider&for=pc)** AI产业从"模型为王"转向"系统制胜"，全链路系统能力成胜负手
+- **[透视万兴科技:从漫剧到"龙虾",软件如何成为Token时代创意中枢](https://finance.sina.cn/2026-05-06/detail-inhwxxkm5876107.d.html)** AI Agent绕过界面直接操作软件，"流程化软件"正退化为"智能Agent的插件"
+- **[2025/2026企业级智能体开发平台推荐:优选全栈平台蚂蚁数科Agentar](https://www.csdn.net/article/2026-05-06/160824984)** 全球AI智能体市场CAGR超40%，中国以72.7%增速领跑，2028年预计达8.52万亿元
+
+### 2026-05-07
 - **[n8n v2026.5.0正式发布:工作流自动化平台引入增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864901234567890123)** 新版本带来原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进，Webhook触发器支持条件分支
 - **[Hermes Agent持续增长:开源AI Agent框架GitHub Star突破新高](https://baijiahao.baidu.com/s?id=1864902345678901234)** Nous Research的Hermes Agent凭借超低token消耗和微信原生接入继续快速增长，周下载量持续攀升
 - **[字节DeerFlow 2.0全面升级:超级智能体编排框架支持多Agent并行](https://baijiahao.baidu.com/s?id=1864903456789012345)** DeerFlow 2.0升级为超级智能体编排框架，支持300子Agent并行运行，登顶GitHub Trending榜首

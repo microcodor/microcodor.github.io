@@ -42,6 +42,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[n8n v2026.5.0正式发布:增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** 新版本引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
 - **[AWS Quick新自动化模块实测:自然语言生成工作流](https://baijiahao.baidu.com/s?id=1864901234567890124)** AWS Quick自动化模块让用户用自然语言描述需求即可生成工作流，实测4小时工作压缩至3分钟
 - **[Adobe Firefly AI助手全面公测:跨应用工作流自动化支持](https://baijiahao.baidu.com/s?id=1864902345678901235)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入，支持Photoshop等创意工具
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** ConvertKit邮件自动化、HubSpot AI优化等工具实测，从决策时间节省到品牌调性平衡
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界菜谱，MCP是厨房，Rules是全局约束，三者结合让AI稳定交付
+- **[2026技术前沿:从大模型到Agent,AI正在重构软件形态](https://it.sohu.com/a/1018963393_122049597)** Agent+工作流结合触发条件、状态流转、可视化编排成企业级应用标配
+- **[AI智能体平台实战:从零构建可视化多智能体工作流](https://blog.csdn.net/weixin_42676876/article/details/160841953)** tarikstafford/ai-agent-platform现代化AI智能体工作流框架与托管平台
 
 ### 2026-05-06
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195&wfr=spider&for=pc)** 思科研究显示滥用n8n平台网络攻击爆发式增长，2026年3月恶意邮件总量较2025年1月上涨约686%，攻击者利用可信基础设施绕过安全防护
