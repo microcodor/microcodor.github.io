@@ -37,6 +37,12 @@ description: 主流大模型能力对比与选型参考
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
+### 2026-05-08
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://www.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** ProgramBench测试200个项目从零手写，9大顶级模型完整通过率0%，最强Claude Opus 4.7平均通过率51.2%
+- **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导Token成本与定价，深入解析大模型训练推理底层逻辑
+
 ### 2026-05-07
 - **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://dy.163.com/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能

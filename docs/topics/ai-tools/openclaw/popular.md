@@ -58,6 +58,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
+### 2026-05-08
+- **[燧弘华创发布OpenClaw一体机全家桶:HonMaaS全栈赋能,AI智能体开箱即用](http://news.10jqka.com.cn/20260507/c676521566.shtml)** 燧弘华创推出OpenClaw一体机全系产品，硬件+平台+模型+服务全栈闭环，"插电联网即能用"
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入半自主或生成式AI系统，违反可采取限流、暂停或终止访问等措施
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过AI agent解决批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
+- **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162)** Codex新增"宠物模式"功能，代表AI编程工具从被动执行向自主进化的关键跃迁
+- **[OpenClaw 最新版5.2体验:这只"龙虾"AI助手,到底有多猛](https://post.smzdm.com/p/a4qnl83w/)** OpenClaw v2026.5.2正式版发布，半年内获36万Star，跻身开源赛道头部
+
 ### 2026-05-07
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过AI agent解决批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
 - **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，计划第四季度整合进Instagram，由Claude驱动
