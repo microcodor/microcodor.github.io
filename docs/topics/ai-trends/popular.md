@@ -1232,3 +1232,15 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[做AI的年轻人,被前司「追债」](https://baijiahao.baidu.com/s?id=1864491471864500425&wfr=spider&for=pc)** 中国AI人才缺口超580万人，核心技术岗位缺口超80万人
 - **[春潮启智,AI赋能:2026年5月,如来Tathāgata AI智能体重塑工商千行](https://baijiahao.baidu.com/s?id=1864072362234497582&wfr=spider&for=pc)** 政治局会议首次用"全面实施"取代"深化拓展"，AI从新兴技术成长为核心生产力
 - **[东小二自助数字人正式发布:AI驱动知识管理革新,助力企业降本增效超97万元](https://baijiahao.baidu.com/s?id=1864316125183616836&wfr=spider&for=pc)** 知识生产效率提升300%，统一检索效率提升500%
+
+
+### 2026-05-08
+- **[健康的活,优雅的老,十方融海梨花AI硬件用科技温度伴乐龄前行](http://m.bjnews.com.cn/detail/1778155947129846.html)** 首款专为中老年群体打造的AI声学学习机，涵盖"1+2+3"AI声学硬件生态矩阵，已服务超2300万用户
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745&wfr=spider&for=pc)** 全年营收1.55亿元同比增32.61%，AI Edge Studio可将开发周期压缩至3小时
+- **[做AI的年轻人,被前司「追债」](https://baijiahao.baidu.com/s?id=1864491471864500425&wfr=spider&for=pc)** 中国AI人才缺口超580万人，核心技术岗位缺口超80万人，竞业纠纷暴增
+- **[春潮启智,AI赋能:2026年5月,如来Tathāgata AI智能体重塑工商千行](https://baijiahao.baidu.com/s?id=1864072362234497582&wfr=spider&for=pc)** 政治局会议首次用"全面实施"取代"深化拓展"，AI从新兴技术成长为核心生产力
+- **[东小二自助数字人正式发布:AI驱动知识管理革新,助力企业降本增效超97万元](https://baijiahao.baidu.com/s?id=1864316125183616836&wfr=spider&for=pc)** 知识生产效率提升300%，统一检索效率提升500%
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布，内置骑手AI助手，已覆盖数百万蓝骑士，累计主动服务超16亿次
+- **[Neural4D](https://baike.baidu.com/item/Neural4D/67392124)** DreamTech发布新一代3D基础模型架构，上下文长度突破100万Tokens
+- **[AI PC](https://baike.baidu.com/item/AI%20PC/64620668)** 2025年前11个月中国线上市场AI PC销量占比达38%，同比激增123%
+

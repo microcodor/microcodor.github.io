@@ -1269,3 +1269,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界里的"菜谱"，可以稳定交付高质量结果
 - **[AI工作流让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已被多Agent架构逐步替代，但理解AI应用编排的底层思路仍有价值
 - **[AI驱动的代码生成与自动化工作流平台](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
+
+
+### 2026-05-08
+- **[思科借星战日发布AI助手"银河模式",限时开放至6月4日](https://www.163.com/dy/article/KSC46QEH05118UGF.html)** 思科发布"银河模式"AI助手，深度推理功能可协助分析网络诊断结果
+- **[Taskade Automation功能更新:集成AI agents](https://www.taskade.com/wiki/automation)** 多Agent协调、上下文处理、学习自动化、自然语言触发器等特性
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，可以稳定交付高质量结果
+- **[AI工作流让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已被多Agent架构逐步替代，但理解AI应用编排的底层思路仍有价值
+- **[AI驱动的代码生成与自动化工作流平台](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
+- **[AI智能体+工作流组合搭建实战指南:从“玩具”到“生产系统”的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 四种核心设计模式：反思模式、工具使用模式、规划模式、多智能体协作模式
+- **[为什么你用AI还是慢?因为你缺一条“找--理--写--干”的自动化流水线](https://mp.weixin.qq.com/s?__biz=MzA3MDk4NzMzNg==&mid=2651982475&idx=1&sn=285d6f5f372297a00e64f8296ccee492)** 打通办公四大核心环节：找、理、写、干
+- **[10个AI工具实测:谁真能让你少加班?](https://www.163.com/dy/article/KS72CG8C05561FZY.html)** 内容生产型、流程自动化型、垂直场景型三类工具实测对比
+

@@ -75,3 +75,15 @@ description: 主流 Agent 框架与工具链一览
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** Gartner预测到2028年约15%的日常工作决策将由代理型AI完成
 - **[迈富时2025年ESG报告:把"负责任创新"写进业绩逻辑](https://www.ithome.com/0/946/053.htm)** 推出AI-Agentforce企业级智能体中台3.0，人效同比提升62.7%
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** Gartner预测2026年底40%企业应用将嵌入AI智能体，LangChain是绕不开的开发框架
+
+
+### 2026-05-08
+- **[AI的诸神黄昏:从凡人计算到生生不息的自进化](https://baijiahao.baidu.com/s?id=1864094969124600757&wfr=spider&for=pc)** OpenAI完成1220亿美元融资估值8520亿美元，顶尖模型性能提升进入每增加10倍算力仅提升1%阶段，杰弗里·辛顿提出"非永生/凡人计算"概念
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布，采用"智能体元编程"技术，支持以自然语言描述业务逻辑自动拆解生成执行指令
+- **[拆解AI Agent的内部工作原理:从一个循环聊到效率与效果的平衡术](https://cloud.tencent.com/developer/article/2664960)** Agent本质是LLM在循环里不断调用工具，核心是感知-思考-行动循环和工具调用JSON生成
+- **[AI Agent框架探秘:拆解OpenHands---Microagents](https://blog.csdn.net/WL7vI5i3j/article/details/160825039)** 微软2025年底推出MicrosoftAgentFramework，融合Semantic Kernel与AutoGen
+- **[AI Agent技术综述:LangChain、AutoGen与国产Agent框架深度对比](https://corn1949.blog.csdn.net/article/details/160798805)** 四大核心组件：感知层、推理层、工具层、执行层
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 具备自主性、感知能力、决策能力、行动能力、适应性五大核心技术特征
+- **[AI Agent上车元年:整车全域智能进化](https://baijiahao.baidu.com/s?id=1864492388762048203)** NeuSAR OS构建AI汽车数字底座，可实现30%-50%降本增效
+- **[AI Agent大升级!2025智能个人助理新功能](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 多模态交互+智能家居联动，本地部署AI Agent响应速度比云端快0.8秒
+

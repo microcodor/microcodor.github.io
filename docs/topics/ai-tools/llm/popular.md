@@ -1120,3 +1120,13 @@ description: 主流大模型能力对比与选型参考
 - **[苹果全面开放第三方AI模型,将允许用户选用多款第三方人工智能服务](https://baijiahao.baidu.com/s?id=1864391817969614482&wfr=spider&for=pc)** Siri从"人工智障"变"模型调度员"，根据任务复杂度调用不同模型
 - **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** ProgramBench测试200个项目，9个顶级模型通过率均为0%
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** MatX CEO详解Token成本和定价，从两个最基础的硬件参数推导AI产业
+
+
+### 2026-05-08
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** ProgramBench测试200个项目从零手写，9大顶级模型完整通过率0%，最强Claude Opus 4.7平均通过率51.2%
+- **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导Token成本与定价，深入解析大模型训练推理底层逻辑
+- **[从模型接入到网关治理:一站式调用 GPT / Claude / Gemini 的工程化思路](https://developer.aliyun.com/article/1732531)** 统一网关负责供应商适配、鉴权、模型映射、限流、日志、成本统计和失败转移
+- **[2026年AI大模型巅峰对决:GPT-5.5、Claude Opus 4.7与Gemini 3.1 Pro全面横评](https://lanjingapp.cn/7246.html)** 上下文窗口：Claude 1M最长，GPT-5.5达512K，Gemini支持2M；编程能力Claude领先
+- **[2026实测:如何在国内免费AI镜像站上搭建GPT+Gemini+Claude三模型协同工作台](https://www.sohu.com/a/1018795568_122730557)** RskAi同时接入三模型，实现跨模型上下文保持，零成本搭建三模型协同工作流
+
