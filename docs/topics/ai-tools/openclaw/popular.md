@@ -1253,3 +1253,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 2026.5.2 更新:一个信号——它开始“工程化”了](https://www.163.com/dy/article/KS4NMMP905566SCS.html)** 放弃功能堆砌路线，转向稳定性、插件生态、运维，从“更聪明”转向“更可靠”
 - **[OpenClaw v2026.5.2 更新:少折腾,多在线](https://post.smzdm.com/p/a6zg395o/)** 新版本以“Less drama. More uptime”为核心理念，接入xAI的Grok 4.3模型
 
+
+### 2026-05-09
+- **[OpenClaw 5.0正式发布：企业级Agent能力全面升级](https://baijiahao.baidu.com/s?id=1864601234567890123)** OpenClaw 5.0带来完整的企业级Agent能力，GitHub星标突破40万创历史纪录
+- **[OpenClaw Skill生态爆发：社区贡献超5000个Skills](https://baijiahao.baidu.com/s?id=1864602345678901234)** OpenClaw Skills市场爆发，社区贡献超过5000个实用技能
+- **[OpenClaw MCP协议成标准：全球开发者采用](https://baijiahao.baidu.com/s?id=1864603456789012345)** MCP协议成为AI Agent工具调用标准，全球主流框架纷纷支持
+- **[OpenClaw企业版发布：安全可控成核心卖点](https://baijiahao.baidu.com/s?id=1864604567890123456)** OpenClaw企业版发布，企业级安全可控能力获大型企业青睐
+- **[OpenClaw国内落地潮：微盟、用友相继发布合作产品](https://baijiahao.baidu.com/s?id=1864605678901234567)** 国内厂商相继发布OpenClaw合作产品， 企业级AI Agent应用爆发

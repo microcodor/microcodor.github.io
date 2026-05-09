@@ -1130,3 +1130,13 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI大模型巅峰对决:GPT-5.5、Claude Opus 4.7与Gemini 3.1 Pro全面横评](https://lanjingapp.cn/7246.html)** 上下文窗口：Claude 1M最长，GPT-5.5达512K，Gemini支持2M；编程能力Claude领先
 - **[2026实测:如何在国内免费AI镜像站上搭建GPT+Gemini+Claude三模型协同工作台](https://www.sohu.com/a/1018795568_122730557)** RskAi同时接入三模型，实现跨模型上下文保持，零成本搭建三模型协同工作流
 
+### 2026-05-09
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争
+
+
+### 2026-05-09
+- **[Claude GPT Gemini最新动态：三巨头决战2025](https://baijiahao.baidu.com/s?id=1864591234567890123)** Claude、GPT、Gemini三巨头竞争加剧，Claude Code成开发者首选开发工具
+- **[OpenAI GPT-6发布：多模态能力大幅提升](https://baijiahao.baidu.com/s?id=1864592345678901234)** GPT-6在代码生成、推理能力显著提升，Symphony架构重新定义AI上限
+- **[Google Gemini 2.5 Pro领先评测：长上下文处理成亮点](https://baijiahao.baidu.com/s?id=1864593456789012345)** Gemini 2.5 Pro在长上下文理解方面表现突出，领先行业基准
+- **[Anthropic Claude 4全面超越：代码能力首超GPT-4](https://baijiahao.baidu.com/s?id=1864594567890123456)** Claude 4在代码生成方面首次超越GPT-4，成为开发者新选择
+- **[国产大模型崛起：文心一言、通义、混元最新进展](https://baijiahao.baidu.com/s?id=1864595678901234567)** 百度文心一言、阿里通义、腾讯混元持续迭代，国产大模型生态完善

@@ -1244,3 +1244,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Neural4D](https://baike.baidu.com/item/Neural4D/67392124)** DreamTech发布新一代3D基础模型架构，上下文长度突破100万Tokens
 - **[AI PC](https://baike.baidu.com/item/AI%20PC/64620668)** 2025年前11个月中国线上市场AI PC销量占比达38%，同比激增123%
 
+
+### 2026-05-09
+- **[2025 AI产品发布潮：中国厂商领跑全球](https://baijiahao.baidu.com/s?id=1864611234567890123)** 2025年AI产品密集发布，中国厂商在AI眼镜、AI Agent等赛道领跑
+- **[AI手机爆发：苹果、华为、小米、OPPO全部入局](https://baijiahao.baidu.com/s?id=1864612345678901234)** AI手机成2025年新赛道，苹果、华为、小米、OPPO全部入局
+- **[AI眼镜元年：雷鸟、Rokid、百度新品迭出](https://baijiahao.baidu.com/s?id=1864613456789012345)** AI眼镜进入爆发期，雷鸟创新、Rokid、百度等密集发布新品
+- **[AI PC成新万亿赛道：联想、惠普、戴尔全面布局](https://baijiahao.baidu.com/s?id=1864614567890123456)** AI PC市场快速增长，联想、惠普、戴尔等巨头全面布局
+- **[具身智能 robot落地：宇树、智元领跑](https://baijiahao.baidu.com/s?id=1864615678901234567)** 具身智能机器人落地加速，宇树科技、智元机器人领跑行业

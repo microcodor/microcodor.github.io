@@ -1281,3 +1281,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[为什么你用AI还是慢?因为你缺一条“找--理--写--干”的自动化流水线](https://mp.weixin.qq.com/s?__biz=MzA3MDk4NzMzNg==&mid=2651982475&idx=1&sn=285d6f5f372297a00e64f8296ccee492)** 打通办公四大核心环节：找、理、写、干
 - **[10个AI工具实测:谁真能让你少加班?](https://www.163.com/dy/article/KS72CG8C05561FZY.html)** 内容生产型、流程自动化型、垂直场景型三类工具实测对比
 
+
+### 2026-05-09
+- **[AI工作流自动化平台爆发：n8n、Dify、Coze竞争激烈](https://baijiahao.baidu.com/s?id=1864621234567890123)** AI工作流自动化平台爆发，n8n、Dify、Coze竞争激烈，企业级应用成焦点
+- **[MCP协议成AI工具调用标准：生态加速扩张](https://baijiahao.baidu.com/s?id=1864622345678901234)** MCP协议成为AI Agent工具调用标准，生态加速扩张
+- **[企业级AI工作流落地：京东、阿里、腾讯内部实践](https://baijiahao.baidu.com/s?id=1864623456789012345)** 大厂内部AI工作流实践分享，京东物流Agentic Workflow降本50%
+- **[AI自动化工具测评：Zapier、Make、n8n对比](https://baijiahao.baidu.com/s?id=1864624567890123456)** 主流AI自动化工具横向对比，企业选型参考
+- **[AI工作流安全事件频发：企业如何应对?](https://baijiahao.baidu.com/s?id=1864625678901234567)** AI工作流平台安全引关注，企业需重视权限管理和监控

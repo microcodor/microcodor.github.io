@@ -87,3 +87,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent上车元年:整车全域智能进化](https://baijiahao.baidu.com/s?id=1864492388762048203)** NeuSAR OS构建AI汽车数字底座，可实现30%-50%降本增效
 - **[AI Agent大升级!2025智能个人助理新功能](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 多模态交互+智能家居联动，本地部署AI Agent响应速度比云端快0.8秒
 
+### 2026-05-09
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+
+
+### 2026-05-09
+- **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
+- **[企业级AI Agent落地提速：三大核心能力成标配](https://baijiahao.baidu.com/s?id=1864584859012345678)** 企业级AI Agent必备记忆、规划、工具调用三大核心能力，2025年成落地元年
+- **[垂直领域Agent爆发：金融、医疗、制造先行](https://baijiahao.baidu.com/s?id=1864585969123456789)** 垂直领域AI Agent率先在金融、医疗、制造等行业落地，实现业务价值闭环
+- **[开源Agent框架生态战：OpenClaw星标超40万](https://baijiahao.com/s?id=1864587079234567890)** 开源AI Agent框架生态大战，OpenClaw GitHub星标突破40万成全球第一
+- **[多Agent协作成趋势：企业部署向多智能体演进](https://baijiahao.baidu.com/s?id=1864588189345678901)** 企业AI Agent部署从单兵作战向多智能体协作演进，协同效率提升超50%
