@@ -1147,3 +1147,8 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI三巨头实测:Gemini3.1Pro vs Claude4 vs GPT-5](https://blog.csdn.net/zhuiyisuifeng/article/details=160882143)** 三大模型各代表不同技术路线，Gemini强调多模态与长上下文，Claude强调稳定输出与推理质量
 - **[Gemini3.1Pro对比GPT-5.5Claude性能价格应用场景全解析](https://www.jianshu.com/p/11f52e22789d)** Gemini 3.1 Pro在ARC-AGI-2上得分77.1%，价格仅为Claude的七分之一
 - **[大模型爆发年](https://post.smzdm.com/p/axkvvr02/)** ChatGPT、Claude、Gemini和Grok已各自形成鲜明的技术特色与应用生态
+
+### 2026-05-09
+- **[中国大模型在Hugging Face下载量占41%](https://baijiahao.baidu.com/s?id=1863675623946000109)** 阿里Qwen系列衍生模型超11.3万个，DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
+- **[2026年Q1全球AI产品价值榜:Agent从"对话窗"变成"数字员工"](https://new.qq.com/rain/a/20260410A05Q7B00)** OpenClaw成史无前例首个GitHub Star超越Linux的项目，中国模型产品在OpenRouter全球Token调用量前五占四席
+- **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层

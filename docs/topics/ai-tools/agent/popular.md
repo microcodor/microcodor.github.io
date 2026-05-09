@@ -104,3 +104,8 @@ description: 主流 Agent 框架与工具链一览
 - **[一人抵十人:AI Agent正让"一人公司"成为2026年最火创业模式](https://baijiahao.baidu.com/s?id=1864573605106323303)** AI Agent是一个能自己去干活的下属，自主性是核心区别
 - **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"
 - **[微软2026工作趋势报告:AI转型真正掉队的,不是员工,而是组织](https://mp.weixin.qq.com/s?__biz=MzA4OTYwNzk0NA==&mid=2649750690&idx=1&sn=0b0e6f2f342f77a7d4564fbfb9b50b97)** 微软报告称AI和Agent承担越多执行工作，人类的能动性越被放大
+
+### 2026-05-09
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+- **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
+- **[企业级AI Agent落地提速：三大核心能力成标配](https://baijiahao.baidu.com/s?id=1864584859012345678)** 企业级AI Agent必备记忆、规划、工具调用三大核心能力，2025年成落地元年

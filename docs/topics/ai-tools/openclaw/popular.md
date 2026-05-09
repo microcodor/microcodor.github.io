@@ -1266,3 +1266,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Meta加速推进AI Agent开发:旗下Instagram或将集成全新AI购物工具](https://k.sina.cn/article_5952915720_162d2490806703vq1c.html)** Meta正在开发AI代理产品"Hatch"，被命名为更接近于OpenClaw
 - **[阿里云2026年安装Hermes Agent/OpenClaw配置Token Plan简析](https://developer.aliyun.com/ask/702572)** 阿里云开发者社区问答
 - **[梁文锋自掏200亿领投DeepSeek,阿里或出局](https://baijiahao.baidu.com/s?id=1864680620253309198)** 傅盛称龙虾三万已全面切换到DeepSeek V4 Pro
+
+### 2026-05-09
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+- **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
+- **[开源Agent框架生态战：OpenClaw星标超40万](https://baijiahao.com/s?id=1864587079234567890)** 开源AI Agent框架生态大战，OpenClaw GitHub星标突破40万成全球第一

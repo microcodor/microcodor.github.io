@@ -1258,3 +1258,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Epoch系列](https://baike.baidu.com/item/Epoch系列/67752301)** 奕行智能推出，基于RISC-V开源指令集，2026年实现大规模量产
 - **[gpt-realtime](https://baike.baidu.com/item/gpt-realtime/66712493)** OpenAI于2025年8月推出端到端语音对话模型
 - **[谁还在电商傻傻比价?AI已经帮你把好货挑完了](https://baijiahao.baidu.com/s?id=1864585902289743554)** 阿里的AI布局以"生态打通+人格化落地"为核心
+
+### 2026-05-09
+- **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
+- **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
+- **[垂直领域Agent爆发：金融、医疗、制造先行](https://baijiahao.baidu.com/s?id=1864585969123456789)** 垂直领域AI Agent率先在金融、医疗、制造等行业落地，实现业务价值闭环

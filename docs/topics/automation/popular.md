@@ -1295,3 +1295,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[不用再学AI了!生成结果包稳的Agent来了](https://baijiahao.baidu.com/s?id=1864603436056970483)** 胖鹅AI打出"低提示词"旗号，不要求懂Prompt Engineering就能产出成果
 - **[零代码搭建企业级AI自动化系统](https://m.163.com/dy/article/KSE173MU0556BLS2.html)** 北京欧倍尔智慧办公实现全链路自动化，从云端数据更新到AI分析全程无人值守
 - **[🤖AI协同工作流:2026年企业效率](https://www.douyin.com/note/7637419369038941455)** 企业流程自动化演进到需要智能体协同的复杂工作流处理
+
+### 2026-05-09
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade引入AI代理直接嵌入自动化流程，支持自然语言创建自动化、多智能体协调、上下文处理、学习自动化
+- **[n8n v2026.5.0正式发布:增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** 新版本引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP提供厨房，两者结合让用户无需每次从头解释
