@@ -1158,3 +1158,14 @@ description: 主流大模型能力对比与选型参考
 - **[iOS 27将允许选用Claude或Gemini作为第三方人工智能服务](https://www.163.com/dy/article/KS975ARG05119L7G.html)** 苹果已与谷歌达成合作协议，为Apple智能和Siri功能搭载基于Gemini大模型的人工智能服务
 - **[苹果全面开放第三方AI模型](https://baijiahao.baidu.com/s?id=1864391817969614482)** 用户可以一键将默认大模型从ChatGPT切换至Claude甚至接入企业私有部署的模型，Siri变成模型调度员
 - **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** Meta联合斯坦福、哈佛放出ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+
+### 2026-05-10
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](http://m.shoufangtuan.com/mnews/75117628)** Meta联合斯坦福、哈佛放出ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+- **[xAI解散,但Grok还没死!马斯克声称新模型正在训练](https://baijiahao.baidu.com/s?id=1864678829146415241)** 最新一代旗舰大模型训练算力来源已全面切换到Blackwell
+- **[Gemini3.1Pro对比GPT-4o编程数据分析多模态三场景实测](https://www.jianshu.com/p/5f82772eb941)** Gemini 3.1 Pro在SWE-Bench Verified得分80.6%超越GPT-5.3-Codex的76.2%
+- **[当前,如何评价Gemini、Claude、ChatGPT、DeepSeek和Grok的综合表现?](https://www.zhihu.com/question/2017722470329771134/answer/2036519499378189865)** ChatGPT性价比首选，GPT-5.3和GPT-5.4合并图片与视频生成
+- **[解散 xAI,马斯克想用造火箭的方法,重造 AI 公司](https://baijiahao.baidu.com/s?id=1864675079264814677)** xAI被解散装进SpaceX，Grok在模型跑分上偶尔能拿第一但商业化、企业市场、开发者生态三场仗都没赢
+- **[2026年国内大模型API中转站深度评测:谁是开发者出海的性价比之王?](https://cloud.tencent.com/developer/article/2666409)** NoneLinear一站式接入主流大模型，完全兼容OpenAI SDK
+- **[拒绝腾讯20%股份和阿里生态链,梁文峰究竟在守卫什么](https://finance.sina.cn/stock/jdts/2026-05-09/detail-inhxhuvc6807429.d.html)** DeepSeek首次被曝启动外部融资，估值超400亿美元，阿里腾讯投资均遭婉拒
+- **[蚂蚁百灵发布万亿级旗舰思考模型 Ring-2.6-1T](https://finance.sina.cn/2026-05-09/detail-inhxhqpm3532130.d.html)** 蚂蚁百灵发布万亿级旗舰思考模型，PinchBench得分87.60
+- **[世上没有免费的豆包](https://baijiahao.baidu.com/s?id=1864673323396177055)** 豆包开启付费模式，标准版68元/月、加强版200元/月、专业版500元/月

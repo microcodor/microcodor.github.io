@@ -1307,3 +1307,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让AI稳定交付高质量结果
 - **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，流程不再是固定的DAG而是运行时"长出来"的
 - **[10个适合企业软件开发的开源AI无代码工具](https://www.bilibili.com/read/cv48727655.md)** NocoBase等开源AI无代码工具在数据模型、页面配置、工作流等环节融入AI搭建能力
+
+### 2026-05-10
+- **[AI工作流引擎:构建可观测、可扩展的AI应用开发框架](https://blog.csdn.net/weixin_42519772/article/details/160936964)** nicepkg/ai-workflow项目专门为AI应用构建工作流引擎，抽象出节点、边和工作流核心概念
+- **[顾欣:支持和赋能工业AI规模化落地](https://baijiahao.baidu.com/s?id=1864681374725589728)** 西门子Xcelerator平台支持和赋能工业AI规模化落地
+- **[AI技能编排框架OpenClaw-Skill:工程化构建智能体工作流](https://blog.csdn.net/weixin_26913055/article/details/160936006)** openclaw-skill框架对技能进行高度原子化抽象，定义输入输出模式和自描述性
+- **[Agent架构的未来:从单体智能到协作生态的演进之路](https://new.qq.com/rain/a/20260509A06XCJ00)** 从单体Agent到多Agent协作生态，类似从单体应用到微服务的架构范式转移
+- **[AI编码双阶段工作流:从规格驱动到高效工程实践](https://blog.csdn.net/weixin_42525482/article/details/160937603)** 规格驱动的双阶段工作流，规划师和执行者分离，整体交付时间缩短至少30%
+- **[视觉大模型结合Agentic Workflow:侠客工坊重构移动端GUI自动化的技术实践](https://developer.aliyun.com/article/1733429)** 侠客工坊首创"Agentic Workflow"智能体工作流方案，实现高精度可管控的AI手机数字员工
+- **[从0到10万Star只需一个周末:开源项目的信任危机](https://new.qq.com/rain/a/20260509A06KPV00)** YC CEO开源GStack，23个专业角色、8个工具模块，通过Slash Command调用
+- **[浙大联合上海AI Lab发布:首个AI原生科学知识图谱上线](https://www.163.com/dy/article/KSGRGL1205568W0A.html)** SciGraph-SCP已集成8个科学领域逾3.7亿+实体、37亿+三元组
+- **[从Prompt到Context:易点天下Agentic AI工程化实践](https://finance.sina.cn/2026-05-09/detail-inhxhzcf3403721.d.html)** 从"怎么措辞"彻底切换到"每一步该给什么信息"的上下文工程
+- **[36氪精选:学历卡到985硕博,你我都是AI人肉标注师?](http://finance.sina.com.cn/wm/2026-05-09/doc-inhxhkfp3574154.shtml)** 高薪数据标注员月薪1万以上，985毕业生参与AI训练成趋势

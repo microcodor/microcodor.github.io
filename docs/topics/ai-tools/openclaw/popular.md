@@ -1278,3 +1278,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入能够规划、选择或执行一系列API调用的半自主或生成式AI系统
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** Zabbix与OpenClaw的智能运维实践
 - **[Meta加速推进AI Agent开发:旗下Instagram或将集成全新AI购物工具](https://k.sina.cn/article_5952915720_162d2490806703vq1c.html)** Meta正在开发AI代理产品"Hatch"，被命名为更接近于OpenClaw
+
+### 2026-05-10
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口从GUI转向MCP，从"人找系统"变成"系统找人"
+- **[Meta加速推进AI Agent开发:旗下Instagram或将集成全新AI购物工具](https://k.sina.cn/article_5952915720_162d2490806703vq1c.html)** Meta正在开发AI代理产品"Hatch"，能够调用工作流、持续执行任务
+- **[OpenClaw 2026.5.3 Beta 更新解读:文件传输插件、安装加固、Gateway 优化与 Agent Runtime 稳定性](https://blog.csdn.net/weixin_47431459/article/details/160798123)** 文件传输插件、Gateway性能优化、运行时可靠性增强
+- **[OpenClaw爆火背后:AI不再只是聊天,而是开始真正替你干活](https://blog.51cto.com/u_15428632/14588766)** OpenClaw是开源的个人AI助理，可以运行在你的电脑上
+- **[OpenClaw 2026.5.3 Latest Stable 更新解读](https://blog.csdn.net/weixin_47431459/article/details/160799796)** 文件传输插件、插件安装/更新体系、Gateway性能优化
+- **[OpenClaw 2026.5.3-1 修正版更新解读](https://blog.csdn.net/weixin_47431459/article/details/160800337)** 修复官方bundled plugin被安装扫描器误拦问题
+- **[OpenClaw本周五大核心技能推荐:构建完整AI智能体系](https://post.smzdm.com/p/arzgovl7/)** Skill Vetter安全门、Self-Improving Agent进化、Ontology长期记忆、Gog工具执行、Proactive Agent主动智能
+- **[3步用OpenClaw搭建本地AI工作流(附避坑指南)](https://post.smzdm.com/p/a4qn94mk/)** OpenClaw把常用聊天界面和本地AI能力打通，让你直接指挥AI干本地活

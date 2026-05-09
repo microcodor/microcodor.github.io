@@ -116,3 +116,14 @@ description: 主流 Agent 框架与工具链一览
 - **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://baijiahao.baidu.com/s?id=1864636144899566179)** 2026年NAS关键词是把智能体塞进AI NAS，Panther Lake让35B参数模型在本地跑出50 TPS的推理速度
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://blog.csdn.net/qq1137623160/article/details/160801342)** Gartner预测到2026年底40%的企业应用将嵌入AI智能体，OpenClaw项目不到60天超越React十年积累
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/ipt036nW6/article/details/160792747)** Microsoft Agent Framework是Semantic Kernel的官方继任者，定位为构建、部署和管理AI代理的统一企业级平台
+
+### 2026-05-10
+- **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 2025年被行业称为"AI Agent工程化元年"，Agent正从"工具"变为"数字员工"
+- **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图AI Agent RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"
+- **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://new.qq.com/rain/a/20260509A0010300)** 2026年NAS关键词是把智能体塞进AI NAS，静态数据容器变成"赛博帮手"
+- **[Agentic AI——当AI学会主动思考与决策,世界将如何被重塑?](https://blog.51cto.com/u_17680712/14589472)** Citi预测Agentic AI将推动全球经济进入"代劳经济"时代
+- **[2026年了,AI应用到底走到哪一步了?](https://zhuanlan.zhihu.com/p/2036237987277746569)** AI Agent是2026年最真实的"生产力革命"，核心是规划、执行、记忆、自主决策
+- **[AI Agent Harness Engineering 在游戏中的应用:NPC、策划与测试](https://gitcode.csdn.net/69ff36670a2f6a37c5a8c60e.html)** AI Agent Harness是AI Agent的"游戏专属经纪人+工具箱+规则护栏"
+- **[大模型行业全景:从职位分类到核心技术,全面解析2025-2026年人才需求](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160934557)** AI Agent工程师成为第三梯队应用落地的核心技术岗位
+- **[2025 AI超级员工系统深度评测](https://www.sohu.com/a/1020159061_122636885)** 使用AI进行全链路营销的企业平均人效提升300%以上
+- **[入坑指南:人工智能训练师 vs 智能体训练师](https://it.sohu.com/a/1016361153_122728820)** 智能体训练师是AI应用的"架构设计师"，聚焦模型到应用
