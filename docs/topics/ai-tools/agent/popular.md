@@ -109,3 +109,10 @@ description: 主流 Agent 框架与工具链一览
 - **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
 - **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
 - **[企业级AI Agent落地提速：三大核心能力成标配](https://baijiahao.baidu.com/s?id=1864584859012345678)** 企业级AI Agent必备记忆、规划、工具调用三大核心能力，2025年成落地元年
+
+### 2026-05-09
+- **[AI的诸神黄昏:从凡人计算到生生不息的自进化](https://baijiahao.baidu.com/s?id=1864094969124600757)** 全球投入大模型的总算力已突破1200 EFLOPS，训练算力达420 EFLOPS，但顶尖模型的性能提升已进入每增加10倍算力仅提升1%能力的阶段
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** Gartner预测到2028年约15%的日常工作决策将由代理型AI完成，智能体需具备五大核心技术特征
+- **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://baijiahao.baidu.com/s?id=1864636144899566179)** 2026年NAS关键词是把智能体塞进AI NAS，Panther Lake让35B参数模型在本地跑出50 TPS的推理速度
+- **[AI Agent爆火,但你真的懂LangChain吗?](https://blog.csdn.net/qq1137623160/article/details/160801342)** Gartner预测到2026年底40%的企业应用将嵌入AI智能体，OpenClaw项目不到60天超越React十年积累
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/ipt036nW6/article/details/160792747)** Microsoft Agent Framework是Semantic Kernel的官方继任者，定位为构建、部署和管理AI代理的统一企业级平台

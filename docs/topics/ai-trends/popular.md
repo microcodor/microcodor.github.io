@@ -1263,3 +1263,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
 - **[AI Agent驱动产能升级,AI营销专家灵狐解锁电商视频高效新路径](https://cj.sina.com.cn/articles/view/5056607977/12d65b6e9001018s98)** 灵狐依托AI Agent构建AI视频全自动化平台，2025年底平台AI内容投稿量增长185%
 - **[垂直领域Agent爆发：金融、医疗、制造先行](https://baijiahao.baidu.com/s?id=1864585969123456789)** 垂直领域AI Agent率先在金融、医疗、制造等行业落地，实现业务价值闭环
+
+### 2026-05-09
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年公司实现营业总收入1.55亿元，AI Edge Studio可将传统6-8周的开发周期压缩至最快3小时
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布的AI智能头盔，内置骑手AI助手"AI小饿"，已覆盖数百万蓝骑士，累计主动服务次数超16亿次
+- **[Neural4D](https://baike.baidu.com/item/Neural4D/67392124)** DreamTech发布新一代3D基础模型架构Neural4D-2.5，支持100万Tokens上下文长度
+- **[Robo.ai发布2025财年财报](https://baijiahao.baidu.com/s?id=1864705127630328651)** 战略转型推进，确立"AI软件、智能硬件、智慧资产"核心方向，整体现金流实现转正
+- **[AI PC](https://baike.baidu.com/item/AI%20PC/64620668)** 2025年前11个月中国线上市场AI PC销量占比达38%，同比激增123%

@@ -1152,3 +1152,9 @@ description: 主流大模型能力对比与选型参考
 - **[中国大模型在Hugging Face下载量占41%](https://baijiahao.baidu.com/s?id=1863675623946000109)** 阿里Qwen系列衍生模型超11.3万个，DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
 - **[2026年Q1全球AI产品价值榜:Agent从"对话窗"变成"数字员工"](https://new.qq.com/rain/a/20260410A05Q7B00)** OpenClaw成史无前例首个GitHub Star超越Linux的项目，中国模型产品在OpenRouter全球Token调用量前五占四席
 - **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三层Agent架构：规划层、执行层、反馈层
+
+### 2026-05-09
+- **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://dy.163.com/article/KS8CPG020511D6RL.html)** iOS 27将允许用户把第三方人工智能服务设为Apple智能功能的默认服务，Claude、Gemini都将接入
+- **[iOS 27将允许选用Claude或Gemini作为第三方人工智能服务](https://www.163.com/dy/article/KS975ARG05119L7G.html)** 苹果已与谷歌达成合作协议，为Apple智能和Siri功能搭载基于Gemini大模型的人工智能服务
+- **[苹果全面开放第三方AI模型](https://baijiahao.baidu.com/s?id=1864391817969614482)** 用户可以一键将默认大模型从ChatGPT切换至Claude甚至接入企业私有部署的模型，Siri变成模型调度员
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** Meta联合斯坦福、哈佛放出ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%

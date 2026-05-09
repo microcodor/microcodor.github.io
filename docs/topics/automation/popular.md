@@ -1300,3 +1300,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade引入AI代理直接嵌入自动化流程，支持自然语言创建自动化、多智能体协调、上下文处理、学习自动化
 - **[n8n v2026.5.0正式发布:增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** 新版本引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP提供厨房，两者结合让用户无需每次从头解释
+
+### 2026-05-09
+- **[微步在线:以AI+TI双引擎实战落地](https://www.163.com/dy/article/KSD7KFH30556BMUA.md)** 以"AI+TI"双引擎为核心，构建"产品+情报+服务"的全栈安全生态
+- **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI的价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让AI稳定交付高质量结果
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，流程不再是固定的DAG而是运行时"长出来"的
+- **[10个适合企业软件开发的开源AI无代码工具](https://www.bilibili.com/read/cv48727655.md)** NocoBase等开源AI无代码工具在数据模型、页面配置、工作流等环节融入AI搭建能力
