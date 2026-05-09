@@ -1260,3 +1260,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw MCP协议成标准：全球开发者采用](https://baijiahao.baidu.com/s?id=1864603456789012345)** MCP协议成为AI Agent工具调用标准，全球主流框架纷纷支持
 - **[OpenClaw企业版发布：安全可控成核心卖点](https://baijiahao.baidu.com/s?id=1864604567890123456)** OpenClaw企业版发布，企业级安全可控能力获大型企业青睐
 - **[OpenClaw国内落地潮：微盟、用友相继发布合作产品](https://baijiahao.baidu.com/s?id=1864605678901234567)** 国内厂商相继发布OpenClaw合作产品， 企业级AI Agent应用爆发
+
+### 2026-05-09
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 在产品层面，腾讯先是为QClaw增加了多Agent机制和打通三方应用的连接器功能
+- **[Meta加速推进AI Agent开发:旗下Instagram或将集成全新AI购物工具](https://k.sina.cn/article_5952915720_162d2490806703vq1c.html)** Meta正在开发AI代理产品"Hatch"，被命名为更接近于OpenClaw
+- **[阿里云2026年安装Hermes Agent/OpenClaw配置Token Plan简析](https://developer.aliyun.com/ask/702572)** 阿里云开发者社区问答
+- **[梁文锋自掏200亿领投DeepSeek,阿里或出局](https://baijiahao.baidu.com/s?id=1864680620253309198)** 傅盛称龙虾三万已全面切换到DeepSeek V4 Pro

@@ -97,3 +97,10 @@ description: 主流 Agent 框架与工具链一览
 - **[垂直领域Agent爆发：金融、医疗、制造先行](https://baijiahao.baidu.com/s?id=1864585969123456789)** 垂直领域AI Agent率先在金融、医疗、制造等行业落地，实现业务价值闭环
 - **[开源Agent框架生态战：OpenClaw星标超40万](https://baijiahao.com/s?id=1864587079234567890)** 开源AI Agent框架生态大战，OpenClaw GitHub星标突破40万成全球第一
 - **[多Agent协作成趋势：企业部署向多智能体演进](https://baijiahao.baidu.com/s?id=1864588189345678901)** 企业AI Agent部署从单兵作战向多智能体协作演进，协同效率提升超50%
+
+### 2026-05-09
+- **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://baijiahao.baidu.com/s?id=1864636144899566179&wfr=spider&for=pc)** 2026年NAS关键词是把智能体塞进AI NAS，静态的数据容器变成了7×24小时能帮用户干活的"赛博帮手"
+- **[分钟搞懂深度学习AI:自我进化的最简五步法](https://blog.csdn.net/qNcdokHrj/article/details=160897538)** 微软在2025年底推出MicrosoftAgentFramework，将Semantic Kernel与AutoGen深度融合
+- **[一人抵十人:AI Agent正让"一人公司"成为2026年最火创业模式](https://baijiahao.baidu.com/s?id=1864573605106323303)** AI Agent是一个能自己去干活的下属，自主性是核心区别
+- **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"
+- **[微软2026工作趋势报告:AI转型真正掉队的,不是员工,而是组织](https://mp.weixin.qq.com/s?__biz=MzA4OTYwNzk0NA==&mid=2649750690&idx=1&sn=0b0e6f2f342f77a7d4564fbfb9b50b97)** 微软报告称AI和Agent承担越多执行工作，人类的能动性越被放大

@@ -1288,3 +1288,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[企业级AI工作流落地：京东、阿里、腾讯内部实践](https://baijiahao.baidu.com/s?id=1864623456789012345)** 大厂内部AI工作流实践分享，京东物流Agentic Workflow降本50%
 - **[AI自动化工具测评：Zapier、Make、n8n对比](https://baijiahao.baidu.com/s?id=1864624567890123456)** 主流AI自动化工具横向对比，企业选型参考
 - **[AI工作流安全事件频发：企业如何应对?](https://baijiahao.baidu.com/s?id=1864625678901234567)** AI工作流平台安全引关注，企业需重视权限管理和监控
+
+### 2026-05-09
+- **[微步在线:以AI+TI双引擎实战落地](https://www.163.com/dy/article/KSD7KFH30556BMUA.html)** 威胁情报行业开创者，以"AI+TI"双引擎构建全栈安全生态
+- **[10个适合企业软件开发的开源AI无代码工具](https://www.bilibili.com/read/cv48727655)** 拖拽式无代码工具与AI结合，NocoBase等平台既保留快速开发灵活性也能承载长期维护能力
+- **[不用再学AI了!生成结果包稳的Agent来了](https://baijiahao.baidu.com/s?id=1864603436056970483)** 胖鹅AI打出"低提示词"旗号，不要求懂Prompt Engineering就能产出成果
+- **[零代码搭建企业级AI自动化系统](https://m.163.com/dy/article/KSE173MU0556BLS2.html)** 北京欧倍尔智慧办公实现全链路自动化，从云端数据更新到AI分析全程无人值守
+- **[🤖AI协同工作流:2026年企业效率](https://www.douyin.com/note/7637419369038941455)** 企业流程自动化演进到需要智能体协同的复杂工作流处理

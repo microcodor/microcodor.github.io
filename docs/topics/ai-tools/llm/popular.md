@@ -1140,3 +1140,10 @@ description: 主流大模型能力对比与选型参考
 - **[Google Gemini 2.5 Pro领先评测：长上下文处理成亮点](https://baijiahao.baidu.com/s?id=1864593456789012345)** Gemini 2.5 Pro在长上下文理解方面表现突出，领先行业基准
 - **[Anthropic Claude 4全面超越：代码能力首超GPT-4](https://baijiahao.baidu.com/s?id=1864594567890123456)** Claude 4在代码生成方面首次超越GPT-4，成为开发者新选择
 - **[国产大模型崛起：文心一言、通义、混元最新进展](https://baijiahao.baidu.com/s?id=1864595678901234567)** 百度文心一言、阿里通义、腾讯混元持续迭代，国产大模型生态完善
+
+### 2026-05-09
+- **[Gemini vs GPT vs Claude:2026三大模型编程能力实测对比](https://blog.csdn.net/2601_95961016/article/details=160877475)** 三者都能提升开发效率，Claude在长上下文代码阅读和补丁生成上很稳，GPT在工具调用上表现均衡，Gemini在多模态输入上进步明显
+- **[Claude"入侵"Office,微软要放弃Copilot了吗?](https://www.163.com/dy/article/KSDIBHLI05568W0A.html)** Claude for Microsoft 365作为第三方加载项入驻Office，与Copilot并排存在
+- **[2026年AI三巨头实测:Gemini3.1Pro vs Claude4 vs GPT-5](https://blog.csdn.net/zhuiyisuifeng/article/details=160882143)** 三大模型各代表不同技术路线，Gemini强调多模态与长上下文，Claude强调稳定输出与推理质量
+- **[Gemini3.1Pro对比GPT-5.5Claude性能价格应用场景全解析](https://www.jianshu.com/p/11f52e22789d)** Gemini 3.1 Pro在ARC-AGI-2上得分77.1%，价格仅为Claude的七分之一
+- **[大模型爆发年](https://post.smzdm.com/p/axkvvr02/)** ChatGPT、Claude、Gemini和Grok已各自形成鲜明的技术特色与应用生态

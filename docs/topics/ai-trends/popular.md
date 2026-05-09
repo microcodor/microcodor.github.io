@@ -1251,3 +1251,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI眼镜元年：雷鸟、Rokid、百度新品迭出](https://baijiahao.baidu.com/s?id=1864613456789012345)** AI眼镜进入爆发期，雷鸟创新、Rokid、百度等密集发布新品
 - **[AI PC成新万亿赛道：联想、惠普、戴尔全面布局](https://baijiahao.baidu.com/s?id=1864614567890123456)** AI PC市场快速增长，联想、惠普、戴尔等巨头全面布局
 - **[具身智能 robot落地：宇树、智元领跑](https://baijiahao.baidu.com/s?id=1864615678901234567)** 具身智能机器人落地加速，宇树科技、智元机器人领跑行业
+
+### 2026-05-09
+- **[NAVIGATE 2026领航者峰会](https://baijiahao.baidu.com/s?id=1864677160792730511)** 新华三集团主办，算力×联接 AI×未来，于英涛称需要不抢风口不造概念的筑基者
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度自研AI芯片，2027年年初正式上市
+- **[Epoch系列](https://baike.baidu.com/item/Epoch系列/67752301)** 奕行智能推出，基于RISC-V开源指令集，2026年实现大规模量产
+- **[gpt-realtime](https://baike.baidu.com/item/gpt-realtime/66712493)** OpenAI于2025年8月推出端到端语音对话模型
+- **[谁还在电商傻傻比价?AI已经帮你把好货挑完了](https://baijiahao.baidu.com/s?id=1864585902289743554)** 阿里的AI布局以"生态打通+人格化落地"为核心
