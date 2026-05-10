@@ -50,6 +50,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"
 ### 2026-05-10
 - **[AI工作流自动化:n8n增强AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** n8n v2026.5.0引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
 - **[AWS Quick新自动化模块:自然语言生成工作流](https://baijiahao.baidu.com/s?id=1864901234567890124)** AWS Quick自动化模块让用户用自然语言描述需求即可生成工作流，实测4小时工作压缩至3分钟
@@ -80,12 +86,24 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"
 ### 2026-05-06
 - **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush AI分析内容差距，ConvertKit自动化邮件营销
 - **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
 
 ## 近期动态
 
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"
 ### 2026-05-05
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://news.qq.com/rain/a/20260430A01V2A00?adChannelId=tech)** Skill是AI世界的菜谱，MCP提供厨房，让AI稳定交付高质量结果
 - **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制的个人工作流自动化平台，解决信息过载和上下文切换
@@ -196,7 +214,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-28
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-28
 - **[AI智能体工作流编排:从单体架构到流水线协作的工程实践](https://blog.csdn.net/weixin_36149538/article/details/160486861)** ottomator-agents基于工作流编排的智能体协作框架，将大任务拆解成可重用的节点，每个节点由专门智能体或工具处理
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2031474529596335763)** Rules让AI始终知道基本规矩，Skills按需加载专业能力包，可跨项目共享
 - **[AI自动化 workflow工具:2024年5款AI工具实测每周省5小时](https://m.163.com/dy/article/KR75SD4A05561FZU.html)** Jasper、Otter.ai、Asana、Fireflies.ai、Zapier代表五个自动化战场，核心从功能多不多转向能不能让你彻底放手
@@ -219,6 +243,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"
 ### 2026-04-25
 - **[AI编程工具里的Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2030794270584611737)** CLAUDE.md是规则层，Skills是应用层，MCP是驱动层，Auto Memory是日志层，Hooks是事件层
 - **[从"连接"到"精通":一文讲透AI编程的Skill、MCP与Workflow](https://post.smzdm.com/p/aqr7z32p/)** Skill封装"如何把一件事做好"的经验和方法论，采用"渐进式披露"策略规避上下文灾难
@@ -337,7 +367,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-18
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-18
 - **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
 - **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
@@ -374,7 +410,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"- **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
 - **[AI工作流自动化工具 marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25.md)** 开源AI工作流自动化工具，工作流是markdown文件，支持39种集成、工具调用、本地LLM
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250.md)** Gartner预测到2027年70%的大中型企业将部署AI Agent驱动的核心业务工作流，日常重复性任务处理效率提升80%以上
 - **[AI在业务流程自动化中的极限究竟在哪里?](https://news.sina.cn/bignews/insight/2026-04-05/detail-inhtnckt1750386.d.html)** 三类难以跨越的自动化鸿沟：描述-执行鸿沟、物理世界与常识推理、边缘场景算力精度悖论
@@ -389,7 +431,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-10
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-10
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源工作流自动化工具，39个集成，拖拽式设计器
 - **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details/159934250)** 70%的大中型企业将部署AI Agent驱动的核心业务工作流，效率提升80%
@@ -405,7 +453,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-09
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-09
 - **[收藏!小白程序员必看:轻松入门AI Workflow与Agent,解锁智能自动化新技能](https://blog.csdn.net/m0_57081622/article/details/159915448)** 传统Workflow升级为AI Workflow的核心四步：触发、编排、执行、结束，AI加持后Workflow只需按固定流程执行适合规则明确的任务
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu，目标是成为"口袋里的全模态超级办公助理"
 - **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow是"流程老管家"，Agent是"自主决策者"，两者结合实现智能自动化
@@ -420,7 +474,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-08
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-08
 - **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
 - **[给OpenClaw做硬件没前途,但给上下文系统做,是值得的](https://hub.baai.ac.cn/view/53635)** 泛灵人工智能推出超级办公助理硬件产品，x86芯片直接跑本地Ubuntu
 - **[收藏备用!Workflow与Agent详解:小白也能看懂的AI自动化核心](https://blog.csdn.net/youmaob/article/details/159797135)** Workflow深耕多年的"流程老管家"，AI时代升级为AI Workflow
@@ -474,7 +534,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-05
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-05
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
 - **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
 - **[【国内动态】第一批"首席龙虾官"](https://www.163.com/dy/article/KPLIME6805568W0A.html)** 某公司招聘Agent方向技术负责人，需熟悉OpenClaw、LangChain、CrewAI
@@ -562,7 +628,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-04
 - **[AI workflow自动化编排与流水线构建实践](https://www.dtstack.com/bbs/article/467956)** 数据摄入清洗、特征工程自动化、模型训练与超参优化、模型版本控制
 - **[AI产品经理必学n8n:从核心认知到实战落地](https://blog.csdn.net/Julialove102123/article/details=150594988)** N8N是开源低代码节点式工作流自动化工具，支持1000+工具/接口
 - **[iOS 27重磅升级:AI自然语言生成快捷指令](https://m.sohu.com/coo/zmtq/1003862450_223764)** 用户可通过自然语言、语音指令让AI自主解析需求并生成快捷指令
@@ -942,7 +1014,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-07
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-07
 - **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
 - **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
@@ -1011,7 +1089,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-04-18
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-18
 - **[日更狂魔!Claude Code 2.1.108 正式上线](https://blog.csdn.net/Java_Chuck/article/details=160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具
 - **[40分钟消失术:AI工作流工具把注意力碎片焊成整块时间](https://www.163.com/dy/article/KQFSE4KS05561FZH.html)** AI工作流工具消除决策缝隙，把分散动作压缩成单一流程
 - **[这个程序员用1个AI代理干掉了80%的重复工作](https://www.163.com/dy/article/KQCPBH7705561FZQ.html)** 用Prefect做工作流编排，三个工具模块加LLM层，总代码量不到200行
@@ -1062,7 +1146,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI驱动的代码生成与自动化工作流平台:从单次提示到可编程流程的范式转变](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
 
 ## 近期动态
-### 2026-04-16
+
+### 2026-05-11
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子，已逐步被多Agent架构替代
+- **[10个适合企业软件开发的开源AI无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+- **[AutoGen Studio实战:可视化构建AI智能体协作工作流](https://blog.csdn.net/weixin_42554162/article/details/160904739)** 基于微软AutoGen构建的可视化、低代码AI智能体协作平台，通过拖拽方式构建"AI团队"### 2026-04-16
 - **[marktoflow](https://www.mcpworld.com/en/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI workflow自动化工具
 ### 2026-04-19
 - **[日更狂魔!Claude Code 2.1.108正式上线](https://blog.csdn.net/Java_Chuck/article/details/160179197)** Claude Code实现从人指挥到AI执行的质变，支持Routine功能和Skill工具

@@ -63,6 +63,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
 ### 2026-05-10
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent
@@ -94,12 +98,20 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
 ### 2026-05-06
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入"能够规划、选择或执行一系列API调用"的半自主或生成式AI系统
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 
 ## 近期动态
 
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
 ### 2026-05-05
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 - **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162&wfr=spider&for=pc)** OpenAI官宣ChatGPT账号可直接登录OpenClaw，Codex新增"宠物模式"功能
@@ -207,6 +219,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统
 ### 2026-04-28
 - **[OpenClaw发布新版本:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** OpenClaw正式接入DeepSeek V4系列，V4Flash设为系统默认大脑，支持高达100万token上下文窗口
 - **[OpenClaw更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.md)** 过去一个月发了十几个版本，每次更新都可能把用户配置搞崩，腾讯、英伟达停留在旧版本
@@ -323,7 +339,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-- **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统- **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
 - **[Hermes vs OpenClaw:到底谁代表了Agent的下一阶段?](https://baijiahao.baidu.com/s?id=1862632787232572165)** Hermes把Agent从"会话工具"往"持续工作者"推进，OpenClaw更像入口型产品
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL引入OpenClaw Agent训练完整样例
 - **[《OpenClaw实战指南》出版:从部署到上手,手把手教你打造超级AI助手](https://baijiahao.baidu.com/s?id=1862621208930764301)** 帮助读者真正将AI助手融入日常工作中
@@ -358,7 +378,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-08
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-08
 - **[OpenClaw更新,首次内置QQ官方插件](https://baijiahao.baidu.com/s?id=1861249468665023384)** 2026.3.31版本内置QQ Bot，支持多账号、凭证管理、Slash命令、提醒以及媒体消息收发
 - **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 统一后台任务生命周期管理，引入task flow注册表，被阻塞任务可持久化blocked状态
 - **[OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配、ACP持久化通道绑定
@@ -488,7 +512,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
@@ -512,7 +540,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
@@ -536,7 +568,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-04
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://www.163.com/dy/article/KPETS5QL0511ABV6.html)** 统一生命周期管理、task flow注册表、被阻塞任务可持久化blocked状态
 - **[开发者不眠!OpenClaw连续两天密集更新,国内大厂决战"养虾"潮](https://baijiahao.baidu.com/s?id=1861326529912481969&wfr=spider&for=pc)** 上下文引擎插件化、GPT-5.4与Gemini 3.1双大模型首发适配
 - **[OpenClaw v2026.3.31:AI Agent迎来"任务大脑"](https://www.sohu.com/a/1004150165_122362510)** SQLite-backed任务账本、taskflow注册表、子任务结果回溯父会话
@@ -879,7 +915,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-07
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-07
 - **[彻底封杀!Claude全面封禁OpenClaw,开发者低价撸AI时代结束](https://www.163.com/dy/article/KPMI6N6N0530RMN7.html)** Anthropic宣布封禁OpenClaw，理由是安全风险，GPT、Gemini等大模型或将跟进限制第三方工具
 - **[告别只会聊天的对话框:OpenClaw带你进入AI Agent新时代](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==)** OpenClaw超越React成为全球排名第一的开源软件项目，GitHub星标突破30万
 - **[超58万个OpenClaw实例暴露公网,却无企业级紧急关停开关](https://baijiahao.baidu.com/s?id=1861503422777284317)** AI智能体治理停留在工具层补丁，影子AI成攻击者入口
@@ -929,7 +969,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-11
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
 - **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122.md)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://www.163.com/dy/article/KPTMRS5S0519QIKK.md)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
@@ -942,7 +986,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-11
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-11
 - **[腾讯QClaw V2大版本发布:迭代超30个功能,持续降低"养虾"门槛](https://baijiahao.baidu.com/s?id=1861987408289519816.md)** 腾讯基于OpenClaw打造的本地AI助手，主打零门槛部署，新增多Agent、应用连接器和龙虾管家三大功能
 - **[快速蹿红的Hermes Agent,会成为下一个OpenClaw吗?](https://baijiahao.baidu.com/s?id=1861979601664019122.md)** Hermes的GitHub Star数超35k，OpenRouter上token使用量攀升，是否能成为下一个OpenClaw引发讨论
 
@@ -954,7 +1002,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-### 2026-04-10
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-10
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"](https://baijiahao.baidu.com/s?id=1861798316219194109)** Agent World推出，独立邮箱身份、云手机、云电脑，定位于"满配AI伙伴"
 - **[OpenClaw 2026.4.5版本深度解析](https://zhuanlan.zhihu.com/p/2024533019592065790)** 内置视频生成工具video_generate，音乐生成工具music_generate，ComfyUI工作流集成
 - **[OpenClaw 4.5 深度解析:从"梦境"记忆到多模态生产](https://zhuanlan.zhihu.com/p/2024995233302160068)** Dreaming记忆机制增强，模拟人类睡眠三阶段
@@ -986,7 +1038,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-- **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统- **[OpenClaw v2026.4.1 发布!16 大核心功能升级 + 28 项关键修复](https://blog.51cto.com/moonfdd/14549639)** 任务管理、搜索集成、模型适配、跨平台体验、渠道优化、系统稳定性六大核心方向升级
 - **[Hermes vs OpenClaw:到底谁代表了Agent的下一阶段?](https://baijiahao.baidu.com/s?id=1862632787232572165)** Hermes把Agent从"会话工具"往"持续工作者"推进，OpenClaw更像入口型产品
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL引入OpenClaw Agent训练完整样例
 - **[《OpenClaw实战指南》出版:从部署到上手,手把手教你打造超级AI助手](https://baijiahao.baidu.com/s?id=1862621208930764301)** 帮助读者真正将AI助手融入日常工作中
@@ -1027,7 +1083,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
 
 ## 近期动态
-### 2026-04-18
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过AI agent解决Zabbix批量更新配置和获取数据复杂的问题，以自然语言管理Zabbix系统### 2026-04-18
 - **[华源证券:OpenClaw启发AIAgent新阶段 能力跃迁与入口争夺](https://baijiahao.baidu.com/s?id=1862506047807761047)** 黄仁勋将OpenClaw比作个人AI的操作系统，腾讯、阿里云相继上线一键部署方案
 - **[从Token经济到业绩兑现,窥迈富时如何构建AI时代的价值闭环](https://baijiahao.baidu.com/s?id=1862408906339256915)** 迈富时AI应用业务收入14.9亿元同比增长76.5%，与沐曦达成深度战略合作
 - **[OpenClaw 2026年4月六天六更万字深度解读剖析](https://blog.csdn.net/jinanwuhuaguo/article/details=160121441)** 标志着OpenClaw完成了从个人数字员工操作系统向生产级、可信赖、生态繁荣且记忆智能的AI Agent平台的终极范式跃迁

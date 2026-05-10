@@ -64,6 +64,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[灵犀智能体](https://baike.baidu.com/item/灵犀智能体/67728085)** 中国移动发布的AI智能助理，月活跃用户数突破7000万，"2026行动计划"明确构建"1+1+N²"智能体产品体系
 ## 近期动态
 
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体
 ### 2026-05-10
 - **[字节豆包会员正式上线:iOS版68元/月，打响AI大模型付费第一枪](https://baijiahao.baidu.com/s?id=1864908901234567890)** 豆包会员分标准版、加强版、专业版三档，价格每月50元起，iOS版内购价格最低68元
 - **[Google Veo 3即将发布:视频生成能力大幅提升](https://baijiahao.baidu.com/s?id=1864909012345678901)** Google在I/O大会预告Veo 3，生成质量较前代提升明显，内置AI音乐生成功能
@@ -93,12 +99,24 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体
 ### 2026-05-06
 - **[科大讯飞2025年报:狂砸研发拿下大模型双料冠军后,红利何时兑现?](https://baijiahao.baidu.com/s?id=1863822586778869168&wfr=spider&for=pc)** 2025年大模型中标金额23.16亿元位列行业第一，星火X1.5整体性能达到GPT-5的95%以上
 - **[豆神教育2025年营收破10亿元 多款AI产品落地驱动增长](https://baijiahao.baidu.com/s?id=1863854425929774447&wfr=spider&for=pc)** 营收10.06亿元同比增长32.96%，"AI双师""AI超能训练场"等产品构建三位一体AI教育生态
 
 ## 近期动态
 
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体
 ### 2026-05-05
 - **[独家|字节首个付费"豆包会员"将推出,AI大模型免费时代结束了](http://k.sina.com.cn/article_7857201856_1d45362c0019051pu6.html)** 豆包会员分为标准版、加强版、专业版三个版本，价格每月50元起，iOS版内购价格最低68元起
 - **[科大讯飞2025年报深度拆解:8亿净利润背后,一家AI公司第一次真正跑通了商业闭环](https://baijiahao.baidu.com/s?id=1863732018057612426&wfr=spider&for=pc)** 271亿营收，归母净利润8.39亿，大模型中标数量与金额双双蝉联行业第一
@@ -190,6 +208,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体
 ### 2026-04-29
 - **[软通动力:2025年AI营收占比超52%,深度适配DeepSeek-V4](https://baijiahao.baidu.com/s?id=1863705707157449937)** AI相关业务营收达184.66亿元，占比首次突破52.6%，同比增速超40%
 - **[软通动力2025年AI营收占比达52.6%,率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** 率先完成DeepSeek-V4全栈适配与部署，华方A800TA3推理速度较传统方案提升35倍
@@ -301,7 +325,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-18
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-18
 - **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%，净利润25.45亿元同比增长20.37%
 - **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型
 - **[英伟达发布全球首个开源量子AI模型ISING](https://baijiahao.baidu.com/s?id=1862591614699945605)** 在量子处理器校准与量子纠错领域实现技术突破
@@ -347,7 +377,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-13
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-13
 - **[华为,AI新品曝光,或将发布!](https://baijiahao.baidu.com/s?id=1862155869802510425)** 中信建投研报指出,2023年9月Meta开启AI眼镜时代,2025年行业进入产品爆发期
 - **[华为云将发AI全系产品,"龙虾"系列成焦点](https://baijiahao.baidu.com/s?id=1862075791455928348)** 华为云6月INSPIRE创想者大会将集中发布AI全系产品,包括行业智能体开发平台和"龙虾"系列产品
 - **[安谋计划2025年发表AI芯片](https://laoyaoba.com/n/903946)** 日本软银旗下安谋国际计划研发AI芯片,并于2025年发表首批产品
@@ -370,7 +406,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-08
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-08
 - **[微盟推出AI智能办公产品Work Claw](https://baijiahao.baidu.com/s?id=1861329044931129887)** 4月2日发布，聚焦泛办公人群，WAI平均月活商户数同比增长66.7%
 - **[全球首款自带物理直觉的世界模型在沪发布](https://baijiahao.baidu.com/s?id=1861240767923527528)** 五一视界发布51World Model，让AI遵循物理规律推演，实现与真实场景全要素交互
 - **[鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999)** 以自研万语大模型为统一技术底座，构建三大AI健康产品线，营收1.73亿元同比增长10.8%
@@ -415,7 +457,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-04
 - **[万语大模型构建三大AI产品生态丨鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999&wfr=spider&for=pc)** 营收1.73亿元同比增长10.8%,净亏损同比收窄90.2%,AI健康全球化布局加速
 - **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网发布"三维二轨"评估体系,VoiceAgent成代表性产品形态
 - **[快手可灵AI收入突破2000万美元/月](https://baijiahao.baidu.com/s?id=1860956362104294858&wfr=spider&for=pc)** 全年收入目标上调至1.4亿美元,全球用户规模突破6000万
@@ -496,7 +544,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-04
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-04
 - **[万语大模型构建三大AI产品生态丨鹰瞳科技2025年业绩报发布](https://baijiahao.baidu.com/s?id=1861353029346720999&wfr=spider&for=pc)** 营收1.73亿元同比增长10.8%,净亏损同比收窄90.2%,AI健康全球化布局加速
 - **[2025对话式AI发展白皮书](https://baike.baidu.com/item/2025对话式AI发展白皮书/66968639)** 声网发布"三维二轨"评估体系,VoiceAgent成代表性产品形态
 - **[快手可灵AI收入突破2000万美元/月](https://baijiahao.baidu.com/s?id=1860956362104294858&wfr=spider&for=pc)** 全年收入目标上调至1.4亿美元,全球用户规模突破6000万
@@ -872,7 +926,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-07
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-07
 - **[聊聊MiniMax和智谱财报:谁先跑通盈利模型?](https://baijiahao.baidu.com/s?id=1861499003343266333)** MiniMax 2025年营收5.6亿元，海外收入占比73%；智谱主攻政企数字化与MaaS底层基建
 - **[微软发布三款AI模型并面临英国反垄断调查](https://baijiahao.baidu.com/s?id=1861472515207399268)** 微软推出MAI-Voice-1、MAI-Transcribe-1、MAI-Image-2三款多模态AI模型
 - **[57k Star霸榜GitHub!字节这款超级智能体](https://baijiahao.baidu.com/s?id=1861498024967970990)** 字节DeerFlow 2.0升级为"超级智能体编排框架"，登顶GitHub Trending榜首
@@ -917,7 +977,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-11
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-11
 - **[2026年Q1全球AI产品价值榜:Agent从"对话窗"变成"数字员工"](https://new.qq.com/rain/a/20260410A05Q7B00.md)** OpenClaw成为史无前例首个GitHub Star超越Linux的项目，中国模型产品在OpenRouter全球Token调用量前五占四席
 - **[国内AI芯片市场大洗牌,华为等开始全面反攻](https://baijiahao.baidu.com/s?id=1862048655709652507.md)** 英伟达市场份额从95%跌至55%，中国市场AI芯片格局生变
 - **[GPT-6即将发布:多模态融合引领AI新潮流](https://it.sohu.com/a/1005686461_122004016.md)** OpenAI GPT-6将于2025年4月14日发布，性能较GPT-5.4提升40%
@@ -930,7 +996,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-10
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-10
 - **[中兴通讯2025年度业绩说明会:构筑AI端到端全栈竞争力](http://news.10jqka.com.cn/20260407/c675806160.shtml)** "连接+算力"双轮驱动战略升级，算力业务收入同比增长150%
 - **[国内AI芯片市场大洗牌,华为等开始全面反攻](https://baijiahao.baidu.com/s?id=1862048655709652507)** 英伟达市场份额从95%跌至55%，国产AI芯片正在崛起
 - **[直击谷歌I/O 2025:谷歌AI眼镜剑指主流市场](https://k.sina.cn/article_7879848900_1d5acf3c401902w9jg.html)** Project Beam开启3D通讯时代，Project Astra实现无感翻译
@@ -968,7 +1040,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675506972394319)** 中国大模型在Hugging Face下载量占41%，阿里Qwen系列衍生模型超11.3万个
 
 ## 近期动态
-### 2026-04-18
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-18
 - **[营收破300亿、净利狂砍25亿,安克仍在狂奔](https://baijiahao.baidu.com/s?id=1862438458348341190)** 安克创新2025年营收305.14亿元同比增长23.49%，净利润25.45亿元同比增长20.37%
 - **[华为AI眼镜将于4月20日正式发布](https://baijiahao.baidu.com/s?id=1862593912045928538)** 鸿蒙AI眼镜整机轻至35.5克，内置端侧盘古大模型
 - **[英伟达发布全球首个开源量子AI模型ISING](https://baijiahao.baidu.com/s?id=1862591614699945605)** 在量子处理器校准与量子纠错领域实现技术突破
@@ -1018,7 +1096,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[第二代豆包AI手机预计2026上半年亮相](https://baijiahao.baidu.com/s?id=1864208565021872907)** 搭载高通第五代骁龙8至尊版，将与阿里系达成初步协议
 
 ## 近期动态
-### 2026-04-16
+
+### 2026-05-11
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，研发费用同比下降23%，推出AI Edge Studio开发平台
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度2025年11月发布新一代AI芯片，针对超大规模多模态大模型训练和推理场景优化
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+- **[AI布](https://baike.baidu.com/item/AI布/66239379)** 纺织产业首个AI大模型，已接入企业5000余家，开发8个智能体
+- **[长虹追光Q10Air](https://baike.baidu.com/item/长虹追光Q10Air/67212926)** 长虹发布高端mini led电视，搭载沧海智能体### 2026-04-16
 - **[腾讯发布2025年全年业绩:AI驱动盈利创新高](http://k.sina.com.cn/article_7857201856_1d45362c001904cprg.html)** AI快速融入核心业务
 ### 2026-04-19
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
