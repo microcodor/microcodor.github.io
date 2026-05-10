@@ -143,3 +143,10 @@ description: 主流 Agent 框架与工具链一览
 - **[大模型行业全景:从职位分类到核心技术,全面解析2025-2026年人才需求](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160934557)** AI Agent工程师成为第三梯队应用落地的核心技术岗位
 - **[2025 AI超级员工系统深度评测](https://www.sohu.com/a/1020159061_122636885)** 使用AI进行全链路营销的企业平均人效提升300%以上
 - **[入坑指南:人工智能训练师 vs 智能体训练师](https://it.sohu.com/a/1016361153_122728820)** 智能体训练师是AI应用的"架构设计师"，聚焦模型到应用
+
+### 2026-05-10
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，采用"智能体元编程"技术，支持自然语言构建智能体，智能体上线周期3周以内
+- **[AI Agent 实现范式演进:从 Workflow 到 Autonomous Agent Runtime](https://zhuanlan.zhihu.com/p/2036887469535258427)** 从 Workflow/状态机范式(LangGraph、Dify、Coze)向 Autonomous Agent Runtime(Claude Agent SDK、OpenAI Agents SDK)演进的核心变化分析
+- **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 按时间线盘点Agent热门新词，看懂AI从「聊天工具」到「数字生产力」的完整进化路径
+- **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** 大模型智能体开发完全指南，LangChain被称"AI应用操作系统"
+- **[2025年技术奇点即将来临:AI如何重塑我们的未来与2026年智能时代的展望](https://blog.51cto.com/u_16213716/14584008)** AI Agent从概念走向规模化落地，企业级Agent开始接管客服、运维、数据分析等任务

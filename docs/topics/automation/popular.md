@@ -1421,3 +1421,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[浙大联合上海AI Lab发布:首个AI原生科学知识图谱上线](https://www.163.com/dy/article/KSGRGL1205568W0A.html)** SciGraph-SCP已集成8个科学领域逾3.7亿+实体、37亿+三元组
 - **[从Prompt到Context:易点天下Agentic AI工程化实践](https://finance.sina.cn/2026-05-09/detail-inhxhzcf3403721.d.html)** 从"怎么措辞"彻底切换到"每一步该给什么信息"的上下文工程
 - **[36氪精选:学历卡到985硕博,你我都是AI人肉标注师?](http://finance.sina.com.cn/wm/2026-05-09/doc-inhxhkfp3574154.shtml)** 高薪数据标注员月薪1万以上，985毕业生参与AI训练成趋势
+
+### 2026-05-10
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

@@ -1241,3 +1241,6 @@ description: 主流大模型能力对比与选型参考
 - **[拒绝腾讯20%股份和阿里生态链,梁文峰究竟在守卫什么](https://finance.sina.cn/stock/jdts/2026-05-09/detail-inhxhuvc6807429.d.html)** DeepSeek首次被曝启动外部融资，估值超400亿美元，阿里腾讯投资均遭婉拒
 - **[蚂蚁百灵发布万亿级旗舰思考模型 Ring-2.6-1T](https://finance.sina.cn/2026-05-09/detail-inhxhqpm3532130.d.html)** 蚂蚁百灵发布万亿级旗舰思考模型，PinchBench得分87.60
 - **[世上没有免费的豆包](https://baijiahao.baidu.com/s?id=1864673323396177055)** 豆包开启付费模式，标准版68元/月、加强版200元/月、专业版500元/月
+
+### 2026-05-10
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程

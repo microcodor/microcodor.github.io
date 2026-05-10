@@ -1358,3 +1358,6 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 2026.5.3-1 修正版更新解读](https://blog.csdn.net/weixin_47431459/article/details/160800337)** 修复官方bundled plugin被安装扫描器误拦问题
 - **[OpenClaw本周五大核心技能推荐:构建完整AI智能体系](https://post.smzdm.com/p/arzgovl7/)** Skill Vetter安全门、Self-Improving Agent进化、Ontology长期记忆、Gog工具执行、Proactive Agent主动智能
 - **[3步用OpenClaw搭建本地AI工作流(附避坑指南)](https://post.smzdm.com/p/a4qn94mk/)** OpenClaw把常用聊天界面和本地AI能力打通，让你直接指挥AI干本地活
+
+### 2026-05-10
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
