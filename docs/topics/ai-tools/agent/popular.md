@@ -43,6 +43,11 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** LangChain以模块化架构和丰富生态著称，AutoGen支持多Agent协作，Dify适合快速原型验证
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
 
+
+### 2026-05-10
+- **[Manus GP:全球首个通用AI Agent平台](https://baijiahao.baidu.com/s?id=1864678230188233089)** Monica.im发布，全球首个通用AI Agent平台，支持多模态输入和复杂任务自动化
+- **[OpenClaw Agent Skills:企业级自动化新范式](https://baijiahao.baidu.com/s?id=1864582717181947790)** Agent框架竞争转向工具生态，开发者关注"能高效完成任务"的工具
+- **[企业级AI Agent:从玩具到生产的演进之路](https://baijiahao.baidu.com/s?id=1864625896647578933)** Gartner预测2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
 ### 2026-04-26
 - **[AI Agent:别再被这词吓到!读完这篇,你就是饭局上最能聊AI的那个人](https://blog.csdn.net/m0_74942241/article/details/160403548)** AI Agent = LLM(大脑)+ Memory(记忆)+ Planning(规划)+ToolUse(工具调用)+ Action(执行)，2026年Agent已能从历史交互中学习，月均性能自动提升15%
 - **[Harness Engineering:Agent开发的关键战场](https://zhuanlan.zhihu.com/p/2030310148112130119)** Harness Engineering是专门针对AI Agent的软件工程分支，研究如何通过系统化工程方法构建、部署、运行和维护可靠的AI Agent系统，将大模型不确定转化为可预测可维护的生产级系统

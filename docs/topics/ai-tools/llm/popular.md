@@ -69,6 +69,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-05-10
+- **[GPT-5.5正式发布:Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1864690123456789012)** OpenAI采用全新Symphony架构，在代码生成、逻辑推理、智能体三大核心任务提升超40%
+- **[Claude 4.6上线:企业级Agent能力增强](https://baijiahao.baidu.com/s?id=1864681234567890123)** Anthropic发布Claude 4.6，企业级Agent能力大幅增强，新增批量处理和团队协作功能
+- **[Gemini 2.5 Pro:多模态能力再升级](https://baijiahao.baidu.com/s?id=1864672345678901234)** Google Gemini 2.5 Pro多模态能力再升级，支持更长的上下文理解和复杂推理任务
+
 ### 2026-05-06
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863987032041872996&wfr=spider&for=pc)** 研究人员提出「不可压缩知识探针」方法估算模型参数量，GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数、GPT-5.4约2.2万亿参数

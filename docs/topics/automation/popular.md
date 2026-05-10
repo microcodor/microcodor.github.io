@@ -50,6 +50,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
+### 2026-05-10
+- **[AI工作流自动化:n8n增强AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1864900123456789012)** n8n v2026.5.0引入原生AI代理功能，支持MCP协议连接，可视化编辑器大幅改进
+- **[AWS Quick新自动化模块:自然语言生成工作流](https://baijiahao.baidu.com/s?id=1864901234567890124)** AWS Quick自动化模块让用户用自然语言描述需求即可生成工作流，实测4小时工作压缩至3分钟
+- **[Adobe Firefly AI助手全面公测:跨应用工作流自动化](https://baijiahao.baidu.com/s?id=1864902345678901235)** Firefly AI Assistant重点在跨应用Workflow，维护Context减少重复输入
+
 ### 2026-05-08
 - **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade引入AI代理直接嵌入自动化流程，多智能体协调、上下文处理、学习自动化

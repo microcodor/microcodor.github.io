@@ -63,6 +63,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
+### 2026-05-10
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP 明确限制通过 API 接入"能够规划、选择或执行一系列 API 调用"的半自主或生成式 AI 系统
+
 ### 2026-05-08
 - **[燧弘华创发布OpenClaw一体机全家桶:HonMaaS全栈赋能,AI智能体开箱即用](http://news.10jqka.com.cn/20260507/c676521566.shtml)** 燧弘华创推出OpenClaw一体机全系产品，硬件+平台+模型+服务全栈闭环，"插电联网即能用"
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP限制通过API接入半自主或生成式AI系统，违反可采取限流、暂停或终止访问等措施
