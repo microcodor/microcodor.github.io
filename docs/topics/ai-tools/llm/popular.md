@@ -5,6 +5,13 @@ description: 主流大模型能力对比与选型参考
 
 # 大模型评测清单
 
+### 2026-05-10
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** Gemini、Claude 未来都有可能进入 Apple Intelligence 的核心入口，iPhone、iPad 和 Mac 将变成"分发多家 AI 模型的系统平台"
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench 作者发布新 benchmark ProgramBench，所有一线模型全部 0% 完成率，意味着今天的大模型依然不会做软件工程
+- **[Gemini vs GPT vs Claude:2026三大模型编程能力实测对比](https://blog.csdn.net/2601_95961016/article/details/160877475)** Claude 在长上下文代码阅读和补丁生成上很稳，GPT 在工具调用、调试链路和综合推理上表现均衡，Gemini 在多模态输入上进步明显
+- **[Claude“入侵”Office,微软要放弃Copilot了吗?](https://www.sohu.com/a/1019768488_116132)** Claude for Excel、PowerPoint 和 Word 正式全面可用，Claude for Outlook 进入公开测试
+- **[GPT-5.5横评:四大模型谁更强](https://blog.csdn.net/zqy421463209/article/details/160882138)** Claude 指令遵循强适合高质量要求场景，Gemini 多模态是强项，Grok 时效性最强
+
 > 最后更新：自动汇总
 
 ### 2026-04-01

@@ -5,6 +5,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 # 热点主题清单
 
+### 2026-05-10
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，推出AI Edge Studio开发平台，研发费用同比下降23%
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么2025年7月发布，内置骑手AI助手"AI小饿"，已覆盖数百万蓝骑士，累计服务超16亿次
+- **[Neural4D-2.5](https://baike.baidu.com/item/Neural4D/67392124)** DreamTech推出的AI驱动多模态3D资产生成平台，训练成本仅为行业1/30
+- **[gpt-realtime](https://baike.baidu.com/item/gpt-realtime/66712493)** OpenAI 2025年8月推出的语音对话模型，采用端到端Speech-to-Speech架构
+- **[OpenAI十个月狂发六版:GPT-5到5.5的迭代密码](https://www.163.com/dy/article/KS8O87GG05561FZQ.html)** 2025年8月至2026年4月十个月内六个版本，"月更"成新常态
+
 > 最后更新：自动汇总
 
 ### 2026-04-01
