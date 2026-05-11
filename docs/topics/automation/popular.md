@@ -1441,3 +1441,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[10 个适合企业软件开发的开源 AI 无代码工具](https://www.bilibili.com/read/cv48727655)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
+
+### 2026-05-12
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力，核心区别在于容错能力
+- **[AI写代码让你变慢:两年踩坑后的workflow修复方案](https://www.163.com/dy/article/KSL2P8JS05561FZQ.html)** AI生成的代码以特定方式"合理"，模式匹配优先于正确性，需要把验证强制纳入循环
+- **[收藏版:AI 应用开发学习指南:从入门到实践,程序员必备](https://blog.csdn.net/CSDN_430422/article/details/160976116)** AI工程师不等于算法工程师，AI应用工程师是构建AI驱动的应用和系统，需要工程能力加上AI应用层知识
+- **[Agent评测的下半场:为什么需要一个「活的」Benchmark?](https://www.163.com/dy/article/KSLBCATQ0511ABV6.html)** Claw-Eval-Live提出"活的"benchmark概念，确保评测内容紧跟企业实际痛点
+- **[万字观止:如果AI真的要成为同事,Hermes可能是最值得研究的开源样本](https://www.woshipm.com/?p=6330708)** Hermes Agent想做的是"下一次别再从零开始"，让Agent能够积累经验而非每次从零开始

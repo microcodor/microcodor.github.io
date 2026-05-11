@@ -1373,3 +1373,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP 明确限制通过 API 接入"能够规划、选择或执行一系列 API 调用"的半自主或生成式 AI 系统
+
+### 2026-05-12
+- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** OpenClaw月访问量环比-50.67%，4月4日Anthropic切断第三方工具免费用量来源是直接原因
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，OpenClaw引出MoltBook等多种新玩法
+- **[揭秘「全民养龙虾」:2026中国OpenClaw用户及企业应用调研报告](https://www.163.com/dy/article/KSLLT3LT05568RX6.html)** 中国养虾的用户真实状态分析，AI Agent时代是否真的来临
+- **[OpenClaw终于长出手和眼!Peter正式发布Peekaboo v3,一日三更](https://m.sohu.com/a/1021154020_473283)** Peekaboo v3补上了OpenClaw最缺的一环，让AI能看屏幕、点按钮、操作真实桌面
+- **[广发如是说 | 关于光通信](https://finance.sina.com.cn/wm/2026-05-11/doc-inhxnscv0696249.shtml)** AI驱动25年光互联板块业绩高增，光模块龙头企业先发优势显著

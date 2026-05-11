@@ -1257,3 +1257,10 @@ description: 主流大模型能力对比与选型参考
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
 - **[Gemini vs GPT vs Claude:2026三大模型编程能力实测对比](https://blog.csdn.net/2601_95961016/article/details/160877475)** Claude长上下文代码阅读稳，GPT工具调用均衡，Gemini多模态进步明显
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://www.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
+
+### 2026-05-12
+- **[一折买Claude,川普、孙宇晨集体杀入!AI「中转站」水有多深?](http://finance.sina.com.cn/wm/2026-05-11/doc-inhxpatr0578997.shtml)** 标注为Gemini-2.5的接口在医学问答测试中正确率只有37%，官方API的成绩是83.82%
+- **[2026年国内使用GPT、Gemini、Claude顶级模型的完整评测指南](https://www.jianshu.com/p/3b6bed10181b)** 主流镜像站深度评测，KULAAI在五个维度表现均衡，支持文件上传+联网搜索
+- **[一夜爆火的AI中转站,到底有多赚钱?](https://baijiahao.baidu.com/s?id=1864858752323398677)** 川普家族推出WorldClaw项目，聚合300多个AI模型主打7折优惠
+- **[苹果的"期货AI"翻车了:库克欠的不是功能,是技术债](https://finance.sina.cn/2026-05-11/detail-inhxphzp0562226.d.html)** 苹果同意支付2.5亿美元了结Siri AI功能延迟交付诉讼
+- **[让AI接管我家:钢铁侠有的,我也能有](http://app.myzaker.com/news/article.php?pk=6a01615e8e9f095c2100df23)** 128GB统一内存的M5 Max MacBook Pro本地运行650亿参数大模型

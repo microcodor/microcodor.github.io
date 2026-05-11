@@ -163,6 +163,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** 大模型智能体开发完全指南，LangChain被誉为"AI应用操作系统"
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/Jr4UyQVi7/article/details/160798039)** Microsoft Agent Framework是Semantic Kernel官方继任者，构建企业级AI代理平台
 
+### 2026-05-12
+- **[2026AI Agent行业全景:三大赛道驱动智能体产业化升级](https://news.10jqka.com.cn/20260511/c676592748.shtml)** 2025年已成为AI Agent规模化落地的元年，全球79%的组织已启动AI Agent部署，市场规模达232亿元
+- **[AI Agent行业报告解读:2026年智能体市场规模与增长预测](https://blog.csdn.net/2502_91534727/article/details/160964601)** 2026年全球AI Agent市场预测数据对比：Gartner 127亿美元、IDC 162亿美元、麦肯锡215亿美元
+- **[AI Agent 面试题 049:Agent技术在2024-2025年有哪些重要的里程碑事件?](https://blog.csdn.net/weixin_42618497/article/details/160288880)** 系统性剖析Agent定义与演进、里程碑、技术进展等关键技术要点
+- **[大模型安全伦理与合规](https://developer.aliyun.com/article/1733889)** AI安全已成为必答题，斯坦福2026 AI Index报告显示2025年全球AI安全事件达362起同比增长55%
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力，二者核心区别在于容错能力
+
 ### 2026-05-11
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时公司开发的企业级智能体平台，引入"智能体元编程"技术，支持以自然语言构建智能体
 - **[AI Agent 实现范式演进:从 Workflow 到 Autonomous Agent Runtime](https://zhuanlan.zhihu.com/p/2036887469535258427)** 知乎报告分析AI Agent实现范式从Workflow向Autonomous Agent Runtime演进
