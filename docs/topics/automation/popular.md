@@ -1412,6 +1412,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ### 2026-05-10
 - **[AI工作流引擎:构建可观测、可扩展的AI应用开发框架](https://blog.csdn.net/weixin_42519772/article/details/160936964)** nicepkg/ai-workflow项目专门为AI应用构建工作流引擎，抽象出节点、边和工作流核心概念
+
+### 2026-05-11
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n平台被大规模武器化用于网络攻击，2026年3月恶意链接上涨686%
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 用户实践分享：从提示工程→RAG→智能体工作流三层递进，最终实现10倍效率提升
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe Firefly AI助手公测版实现跨应用工作流自动化
+- **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** AI工作流自动化指南，机器学习、自然语言处理融入业务流程
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 将AI作为"胶水"连接不同工具和API构建智能化自动化脚本
+
+### 2026-05-10
+- **[AI工作流引擎:构建可观测、可扩展的AI应用开发框架](https://blog.csdn.net/weixin_42519772/article/details/160936964)** nicepkg/ai-workflow项目
 - **[顾欣:支持和赋能工业AI规模化落地](https://baijiahao.baidu.com/s?id=1864681374725589728)** 西门子Xcelerator平台支持和赋能工业AI规模化落地
 - **[AI技能编排框架OpenClaw-Skill:工程化构建智能体工作流](https://blog.csdn.net/weixin_26913055/article/details/160936006)** openclaw-skill框架对技能进行高度原子化抽象，定义输入输出模式和自描述性
 - **[Agent架构的未来:从单体智能到协作生态的演进之路](https://new.qq.com/rain/a/20260509A06XCJ00)** 从单体Agent到多Agent协作生态，类似从单体应用到微服务的架构范式转移

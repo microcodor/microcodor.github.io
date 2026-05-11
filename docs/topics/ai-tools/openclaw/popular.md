@@ -1359,5 +1359,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw本周五大核心技能推荐:构建完整AI智能体系](https://post.smzdm.com/p/arzgovl7/)** Skill Vetter安全门、Self-Improving Agent进化、Ontology长期记忆、Gog工具执行、Proactive Agent主动智能
 - **[3步用OpenClaw搭建本地AI工作流(附避坑指南)](https://post.smzdm.com/p/a4qn94mk/)** OpenClaw把常用聊天界面和本地AI能力打通，让你直接指挥AI干本地活
 
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，从单次问答到持续工作流，腾讯支持接入QQ、企业微信及个人微信
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 开源Agentic RL框架AReaL引入OpenClaw Agent训练完整样例，Star数暴涨
+- **[四个真实场景还原ToClaw:当远程控制遇上AI Agent](https://baijiahao.baidu.com/s?id=1862697254001440120)** ToDesk推出ToClaw，一分钟部署，实现"龙虾军团"并发作战
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入半自主或生成式AI系统
+- **[破解Agent场景落地难题!拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216)** 湘江鲲鹏联合华为鲲鹏推出一体化解决方案
+
 ### 2026-05-10
-- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器

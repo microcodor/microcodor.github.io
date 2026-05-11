@@ -1231,8 +1231,15 @@ description: 主流大模型能力对比与选型参考
 - **[苹果全面开放第三方AI模型](https://baijiahao.baidu.com/s?id=1864391817969614482)** 用户可以一键将默认大模型从ChatGPT切换至Claude甚至接入企业私有部署的模型，Siri变成模型调度员
 - **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** Meta联合斯坦福、哈佛放出ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
 
+### 2026-05-11
+- **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零重建，所有模型0%完成率，Claude Opus 4.7仅3%任务接近完成95%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** GPT-5.5在Terminal-Bench 2.0准确率达82.7%，GDPval知识工作任务胜率84.9%，以一半成本达行业顶尖性能
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果即将在iOS 27、macOS 27中开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT
+- **[Gemini、GPT和Claude领衔的医药“三国杀”](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude主攻文本密集场景，Gemini+DeepMind走硬核科学路线，谷歌Isomorphic Labs签下近30亿美元协议
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863865404649513559)** 芯片工程师Reiner Pope用方程拆解训练推理逻辑，MoE架构被限制在72块GPU机架内
+
 ### 2026-05-10
-- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](http://m.shoufangtuan.com/mnews/75117628)** Meta联合斯坦福、哈佛放出ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](http://m.shoufangtuan.com/mnews/75117628)** Meta联合斯坦福、哈佛放出ProgramBench
 - **[xAI解散,但Grok还没死!马斯克声称新模型正在训练](https://baijiahao.baidu.com/s?id=1864678829146415241)** 最新一代旗舰大模型训练算力来源已全面切换到Blackwell
 - **[Gemini3.1Pro对比GPT-4o编程数据分析多模态三场景实测](https://www.jianshu.com/p/5f82772eb941)** Gemini 3.1 Pro在SWE-Bench Verified得分80.6%超越GPT-5.3-Codex的76.2%
 - **[当前,如何评价Gemini、Claude、ChatGPT、DeepSeek和Grok的综合表现?](https://www.zhihu.com/question/2017722470329771134/answer/2036519499378189865)** ChatGPT性价比首选，GPT-5.3和GPT-5.4合并图片与视频生成

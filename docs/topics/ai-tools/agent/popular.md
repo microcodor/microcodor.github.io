@@ -144,6 +144,12 @@ description: 主流 Agent 框架与工具链一览
 - **[2025 AI超级员工系统深度评测](https://www.sohu.com/a/1020159061_122636885)** 使用AI进行全链路营销的企业平均人效提升300%以上
 - **[入坑指南:人工智能训练师 vs 智能体训练师](https://it.sohu.com/a/1016361153_122728820)** 智能体训练师是AI应用的"架构设计师"，聚焦模型到应用
 
+### 2026-05-11
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 自2023年起Agent赛道代际演进已拉开，Cursor、扣子、AutoGLM、Manus、Claude Code等产品相继发布，OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长
+- **[黑灯社区——人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** 基于Software 3.0理论，从领导力到协作模式的全面重构，人从"参与决策"到"主导决策"到"协调智能体"
+- **[2025年全球及中国AI智能体市场规模预测分析](http://k.sina.com.cn/article_7857201856_1d45362c001904c4g8.html)** 2024年全球AI智能体市场规模约51亿美元，2025年将达113亿美元，中国市场规模2025年将达69亿元
+- **[Top 14 Frameworks for Building AI Agents in 2026](https://brightdata.com/blog/ai/best-ai-agent-frameworks)** 全面解析2026年最流行的14个AI Agent框架，涵盖架构、记忆管理、任务编排和工具集成
+
 ### 2026-05-10
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布企业级智能体开发平台，采用"智能体元编程"技术，支持自然语言构建智能体，智能体上线周期3周以内
 - **[AI Agent 实现范式演进:从 Workflow 到 Autonomous Agent Runtime](https://zhuanlan.zhihu.com/p/2036887469535258427)** 从 Workflow/状态机范式(LangGraph、Dify、Coze)向 Autonomous Agent Runtime(Claude Agent SDK、OpenAI Agents SDK)演进的核心变化分析

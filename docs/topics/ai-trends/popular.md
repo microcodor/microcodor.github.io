@@ -1367,8 +1367,15 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Robo.ai发布2025财年财报](https://baijiahao.baidu.com/s?id=1864705127630328651)** 战略转型推进，确立"AI软件、智能硬件、智慧资产"核心方向，整体现金流实现转正
 - **[AI PC](https://baike.baidu.com/item/AI%20PC/64620668)** 2025年前11个月中国线上市场AI PC销量占比达38%，同比激增123%
 
+### 2026-05-11
+- **[国产算力路径渐显成效,这份财报验证大模型兑现能力](https://baijiahao.baidu.com/s?id=1864663920276339341)** 科大讯飞2025年营收271.05亿元同比增长16.12%，归母净利润8.39亿元同比增长49.35%
+- **[2025-2026中国AI企业全产业链全景盘点](https://www.ithome.com/0/938/150.htm)** 十大权威榜单核验，头部综合AI巨头全栈布局，中国AI产业稳居全球第一梯队
+- **[做AI的年轻人,被前司「追债」](https://www.163.com/dy/article/KSGC7VCB0521LJQQ.html)** 中国AI人才缺口超580万人，核心技术岗位缺口超80万人，竞业纠纷暴增
+- **[AI原生](https://baike.baidu.com/item/AI原生/66783700)** 全球首个"AI原生"开源机器人系统OM1 Beta由OpenMind发布，支持多种机器人形态
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 国内外科技企业密集发布AI Agent产品，MCP与A2A开放标准推动智能体生态协同
+
 ### 2026-05-10
-- **[国产算力路径渐显成效,这份财报验证大模型兑现能力](https://finance.sina.cn/2026-05-09/detail-inhxhzcc3517174.d.html)** 科大讯飞2025年营收271.05亿元同比增长16.12%，归母净利润8.39亿元同比增长49.35%
+- **[国产算力路径渐显成效,这份财报验证大模型兑现能力](https://finance.sina.cn/2026-05-09/detail-inhxhzcc3517174.d.html)** 科大讯飞2025年营收271.05亿元同比增长16.12%
 - **[中国机器人的全球化野心、“踢馆”硅谷,及Physical AI的爆发准备](https://www.163.com/dy/article/KSFVE73A05118O92.html)** 魔法原子的首届全球具身智能创新大会在Santa Clara举办
 - **[Robo.ai发布2025财年财报 战略转型推进](https://baijiahao.baidu.com/s?id=1864705127630328651)** Robo.ai推进人工智能赛道战略转型，核心方向为"AI软件、智能硬件、智慧资产"
 - **[AI科技推动吉利汽车ESG加速发展](https://baijiahao.baidu.com/s?id=1864683998827935862)** 吉利汽车全域AI布局，行业首个"智能汽车全域AI"技术体系
