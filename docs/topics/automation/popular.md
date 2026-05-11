@@ -1434,3 +1434,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ### 2026-05-10
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+
+### 2026-05-11
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade引入AI代理直接嵌入自动化流程，支持自然语言创建自动化、多智能体协调、上下文处理、学习自动化
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让用户无需每次从头解释，AI也能稳定交付高质量结果
+- **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[10 个适合企业软件开发的开源 AI 无代码工具](https://www.bilibili.com/read/cv48727655)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统

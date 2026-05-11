@@ -1251,3 +1251,9 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-10
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
+
+### 2026-05-11
+- **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
+- **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
+- **[Gemini vs GPT vs Claude:2026三大模型编程能力实测对比](https://blog.csdn.net/2601_95961016/article/details/160877475)** Claude长上下文代码阅读稳，GPT工具调用均衡，Gemini多模态进步明显
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://www.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能

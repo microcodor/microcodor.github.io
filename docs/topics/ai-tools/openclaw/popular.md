@@ -1368,3 +1368,8 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-05-10
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器
+
+### 2026-05-11
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP 明确限制通过 API 接入"能够规划、选择或执行一系列 API 调用"的半自主或生成式 AI 系统
