@@ -156,3 +156,9 @@ description: 主流 Agent 框架与工具链一览
 - **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 按时间线盘点Agent热门新词，看懂AI从「聊天工具」到「数字生产力」的完整进化路径
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** 大模型智能体开发完全指南，LangChain被称"AI应用操作系统"
 - **[2025年技术奇点即将来临:AI如何重塑我们的未来与2026年智能时代的展望](https://blog.51cto.com/u_16213716/14584008)** AI Agent从概念走向规模化落地，企业级Agent开始接管客服、运维、数据分析等任务
+### 2026-05-11
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时公司开发的企业级智能体平台，引入"智能体元编程"技术，支持以自然语言构建智能体
+- **[AI Agent 实现范式演进:从 Workflow 到 Autonomous Agent Runtime](https://zhuanlan.zhihu.com/p/2036887469535258427)** 知乎报告分析AI Agent实现范式从Workflow向Autonomous Agent Runtime演进
+- **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 2025年被行业称为"AI Agent工程化元年"，Agent正从"工具"变为"数字员工"
+- **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** 大模型智能体开发完全指南，LangChain被誉为"AI应用操作系统"
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/Jr4UyQVi7/article/details/160798039)** Microsoft Agent Framework是Semantic Kernel官方继任者，构建企业级AI代理平台
