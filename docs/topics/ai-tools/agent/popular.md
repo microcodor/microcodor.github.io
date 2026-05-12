@@ -32,6 +32,13 @@ description: 主流 Agent 框架与工具链一览
 
 > 最后更新：自动汇总
 
+### 2026-05-12
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
+- **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 2025年AI Agent开发已从单一任务执行转向多场景自适应，核心能力包括环境感知、决策推理、多模态交互及自主进化
+- **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details/149342394)** 涵盖LangChain、AutoGen、CrewAI、Semantic Kernel等11个主流框架的深度对比分析
+- **[2025年AI Agent将如何变革?](https://baijiahao.baidu.com/s?id=1819845849007160102)** 预计到2025年AI Agent的应用市场将达到数百亿美元规模，2025年有望成为AI Agent商业爆发元年
+- **[晓|2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
+
 ### 2026-04-01
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 涵盖LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、LlamaIndex Workflows、Google ADK等主流框架，行业正经历从"无序的自回归循环"向"结构化、确定性编排"的整合
