@@ -12,6 +12,13 @@ description: 主流大模型能力对比与选型参考
 - **[Claude“入侵”Office,微软要放弃Copilot了吗?](https://www.sohu.com/a/1019768488_116132)** Claude for Excel、PowerPoint 和 Word 正式全面可用，Claude for Outlook 进入公开测试
 - **[GPT-5.5横评:四大模型谁更强](https://blog.csdn.net/zqy421463209/article/details/160882138)** Claude 指令遵循强适合高质量要求场景，Gemini 多模态是强项，Grok 时效性最强
 
+### 2026-05-12
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench 作者发布新 benchmark ProgramBench，所有一线模型全部 0% 完成率，意味着今天的大模型依然不会做软件工程
+- **[从模型接入到网关治理:一站式调用 GPT / Claude / Gemini 的工程化思路](https://developer.aliyun.com/article/1732531)** 一站式调用不只是开发便利性问题，它会影响成本、稳定性、合规和团队迭代速度
+- **[2026年主流AI镜像模型对比实测:ChatGPT、Claude与Gemini谁更胜一筹?](https://www.eefocus.com/article/1993139.html)** GPT-4o全能型多模态、Claude 3.5编程与长文本专家、Gemini 2.0谷歌生态AI核心
+- **[Gemini 3.1 Pro 今天血洗全场:Claude 和 GPT 全线崩盘,开发者已经疯了](https://cloud.tencent.com/developer/article/2659162)** Gemini 3.1 Pro在ARC-AGI-2达77.1%，原生支持200万token，编码真实世界表现屠榜
+- **[2026年5月主流API中转站横评:DeepSeek、Claude、GPT如何高效集成?](https://baijiahao.baidu.com/s?id=1864714162117556500)** 国内团队接GPT/Claude/Gemini通常会遇到网络、支付、合规三类限制
+
 > 最后更新：自动汇总
 
 ### 2026-04-01

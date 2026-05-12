@@ -10,6 +10,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP 明确限制通过 API 接入"能够规划、选择或执行一系列 API 调用"的半自主或生成式 AI 系统
 
+### 2026-05-12
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初以来OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，凭借庞大的开源生态以及Agent Skills等应用还引发出MoltBook等多种新玩法
+- **[「数智周报」梁文锋自掏200亿领投DeepSeek,阿里或出局;豆包拟增加付费服务](https://baijiahao.baidu.com/s?id=1864680620253309198)** 傅盛称其AI Agent产品"龙虾三万"已全面切换到DeepSeek V4 Pro，价格仅为Sonnet的1/17
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用 Agent"
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入半自主或生成式AI系统
+- **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理等密集迭代
+
 > 最后更新：自动汇总
 
 ### 2026-04-01
