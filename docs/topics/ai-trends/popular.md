@@ -26,6 +26,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度发布新一代AI芯片，针对超大规模多模态大模型的训练和推理场景进行深度优化
 - **[GPT-5-Codex-Mini](https://baike.baidu.com/item/GPT-5-Codex-Mini/67714335)** OpenAI发布轻量级AI编程模型，SWE-bench Verified得分71.3%
 
+### 2026-05-13
+- **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品Manus一夜刷屏，在GAIA基准测试中超越OpenAI同层次大模型
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度发布新一代AI芯片，针对超大规模多模态大模型的训练和推理，2027年年初上市
+- **[2025 OpenAI 重磅发布:ChatGPT-5 完整解析](https://blog.csdn.net/zsh_1314520/article/details/160991150)** GPT-5采用原生多语言统一架构，已迭代至GPT-5.5版本，全球超8亿用户
+- **[GPT-5-Codex-Mini](https://baike.baidu.com/item/GPT-5-Codex-Mini/67714335)** OpenAI发布轻量级AI编程模型，开发者可获得约4倍使用额度
+- **[viaim](https://baike.baidu.com/item/viaim/67422327)** 未来智能发布面向个人商务办公场景的AI智能体viaim大脑，"一脑多端"生态战略
+
 > 最后更新：自动汇总
 
 ### 2026-05-12

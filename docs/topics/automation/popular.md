@@ -21,6 +21,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 > 最后更新：自动汇总
 
+### 2026-05-13
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade推出Intelligent Process Automation，100+服务集成和104+自动化动作，支持AI Agent智能决策
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[10 个适合企业软件开发的开源 AI 无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，结合AI生成和协作能力
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力，二者核心区别在于容错能力
+- **[基于n8n与AI构建智能自动化工作流:从原理到实践](https://blog.csdn.net/weixin_27134143/article/details/160906953)** 基于开源自动化工具n8n构建AI工作流模板库，深度集成GPT、Claude等AI服务
+
 ### 2026-05-12
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示滥用n8n平台网络攻击爆发式增长，2026年3月恶意邮件总量较2025年1月上涨约686%
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 2026年最佳AI工作流自动化工具对比，Agentforce、Trello等各有特色

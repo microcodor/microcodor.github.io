@@ -184,6 +184,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** 大模型智能体开发完全指南，LangChain被誉为"AI应用操作系统"
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/Jr4UyQVi7/article/details/160798039)** Microsoft Agent Framework是Semantic Kernel官方继任者，构建企业级AI代理平台
 
+### 2026-05-13
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 自2023年起Agent赛道代际演进已拉开，Cursor、扣子、AutoGLM、Manus、Claude Code等产品相继发布，OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长
+- **[AI-Agent安全性实战-提示注入防御与工具调用沙箱隔离](https://blog.csdn.net/fox0329/article/details/160898182)** OWASP 2025年LLM Top 10将"提示注入"列为首位风险，从5种真实攻击模式出发给出三层防御架构
+- **[Agent架构的未来:从单体智能到协作生态的演进之路](https://new.qq.com/rain/a/20260509A06XCJ00)** 正从"单体 Agent"时代迈向"多 Agent 协作生态"时代，类似从单体应用到微服务的架构范式转移
+- **[AI Agent 面试题 049:Agent技术在2024-2025年有哪些重要的里程碑事件?](https://blog.csdn.net/weixin_42618497/article/details/160288880)** 系统性剖析Agent定义与演进、里程碑、技术进展等关键技术要点
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/GFNWl4aCF/article/details/160977143)** Microsoft Agent Framework是Semantic Kernel的官方继任者，本质上是Semantic Kernel的2.0版本
+
 ### 2026-05-12
 - **[2026AI Agent行业全景:三大赛道驱动智能体产业化升级](https://news.10jqka.com.cn/20260511/c676592748.shtml)** 2025年已成为AI Agent规模化落地的元年，全球79%的组织已启动AI Agent部署，市场规模达232亿元
 - **[AI Agent行业报告解读:2026年智能体市场规模与增长预测](https://blog.csdn.net/2502_91534727/article/details/160964601)** 2026年全球AI Agent市场预测数据对比：Gartner 127亿美元、IDC 162亿美元、麦肯锡215亿美元
