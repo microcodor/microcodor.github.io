@@ -17,6 +17,13 @@ description: 主流 Agent 框架与工具链一览
 - **[入坑指南:人工智能训练师 vs 智能体训练师](https://it.sohu.com/a/1016361153_122728820)** 智能体训练师是AI应用的"架构设计师"，聚焦模型到应用
 
 ### 2026-05-12
+- **[黑灯社区——人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** Software 3.0时代，大语言模型成为解释者，语境转化为记忆，提示词成为新的编程语言
+- **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布智能体元编程技术平台，支持以自然语言描述业务逻辑
+- **[AI Agent 的枪口,和软件板块的第二次定价](https://zhuanlan.zhihu.com/p/2036222992783512171)** Datadog报告约5%的AI模型请求在生产环境中失败，69%公司使用三个或更多模型
+- **[拆解AI Agent的内部工作原理](https://cloud.tencent.com/developer/article/2664960)** Agent本质是LLM在循环里不断调用工具，Simon Willison给出最精准定义
+- **[AI Agent 框架探秘:拆解 OpenHands---Microagents](https://blog.csdn.net/MgL58nG65/article/details/160932014)** 微软推出Microsoft Agent Framework，标志.NET AI代理进入工业化生产阶段
+
+### 2026-05-12
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 2025年Agent智能体框架正从"提示词工程"向"代理原生"架构演进，主流平台已累计支持构建超过130万个智能体
 - **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 2025年AI Agent开发已从单一任务执行转向多场景自适应，核心能力包括环境感知、决策推理、多模态交互及自主进化
 - **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details/149342394)** 涵盖LangChain、AutoGen、CrewAI、Semantic Kernel等11个主流框架的深度对比分析

@@ -19,6 +19,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2025最强AI产品一文看尽丨量子位智库年度AI 100](http://zhuanlan.zhihu.com/p/1997717493217776168)** 量子位智库正式发布2025年度AI 100产品榜单，QQ浏览器、夸克、DeepSeek等国民级应用领跑
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1开源破局、宇树科技人形机器人登春晚、全球首款通用AI智能体Manus问世
 
+### 2026-05-12
+- **[中国优秀AI企业观察:联想以AI基建领跑产业升级](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a017348a310942cc49ab9bb.html)** 联想AI平板小新Pro 13发布端侧一键部署"天禧AI PadClaw"，xClaw龙虾云方案完成企业级私有化部署
+- **[科大讯飞联手中国移动,发布全球首款三端覆盖的5G AI智能终端](https://www.163.com/dy/article/KSLS8V1E0553TB9L.html)** "灵犀·星火智盒"系列发布，成为全球首款覆盖民用、商用、政用三端的原生5G AI智能终端
+- **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，推出AI Edge Studio开发平台，研发费用同比下降23%
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度发布新一代AI芯片，针对超大规模多模态大模型的训练和推理场景进行深度优化
+- **[GPT-5-Codex-Mini](https://baike.baidu.com/item/GPT-5-Codex-Mini/67714335)** OpenAI发布轻量级AI编程模型，SWE-bench Verified得分71.3%
+
 > 最后更新：自动汇总
 
 ### 2026-04-01

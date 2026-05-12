@@ -17,6 +17,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入半自主或生成式AI系统
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理等密集迭代
 
+### 2026-05-12
+- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://app.myzaker.com/news/article.php?pk=6a02a54a8e9f0956161a32cb)** Peekaboo v3实现像素级截图和UI读取，能完成点击、输入文字、快捷键等操作
+
 > 最后更新：自动汇总
 
 ### 2026-04-01

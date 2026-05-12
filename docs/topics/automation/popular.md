@@ -12,6 +12,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子
 - **[10 个适合企业软件开发的开源 AI 无代码工具](https://www.bilibili.com/read/cv48727655)** NocoBase等开源AI无代码/低代码平台，帮助团队搭建可长期维护的业务系统
 
+### 2026-05-12
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade推出Intelligent Process Automation，100+服务集成和104+自动化动作，支持AI Agent智能决策
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://m.163.com/dy/article/KS72LH1L05561FZK.html)** ConvertKit的自动化工作流把触发条件可视化，实现智能邮件营销自动化
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[10 个适合企业软件开发的开源 AI 无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，结合AI生成和协作能力
+- **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，MCP提供专业厨房让AI能访问工具和数据
+
 > 最后更新：自动汇总
 
 ### 2026-04-01

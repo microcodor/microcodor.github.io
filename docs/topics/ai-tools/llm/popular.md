@@ -13,6 +13,13 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-5.5横评:四大模型谁更强](https://blog.csdn.net/zqy421463209/article/details/160882138)** Claude 指令遵循强适合高质量要求场景，Gemini 多模态是强项，Grok 时效性最强
 
 ### 2026-05-12
+- **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27 将允许用户自由选择 Claude、Gemini 或 ChatGPT 作为 Apple Intelligence 的首选 AI 服务
+- **[Gemini vs GPT vs Claude:2026三大模型编程能力实测对比(含SWE-bench数据)](https://blog.csdn.net/2601_95961016/article/details/160877475)** Claude 在长上下文代码阅读和补丁生成上很稳，GPT 在工具调用、调试链路和综合推理上表现均衡
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新 Extensions 扩展机制，Claude 和 Gemini 都将加入可选列表
+- **[iOS 27 将允许选用 Claude 或 Gemini 作为第三方人工智能服务](https://dy.163.com/article/KS975ARG05119L7G.html)** 苹果已与谷歌达成合作协议，计划在 iOS 27 系统中搭载基于 Gemini 大模型的人工智能服务
+- **[API逆向揭秘:GPT、Claude、Gemini参数量引发热议](https://m.sohu.com/a/1019109250_121956424)** 研究人员通过黑盒API调用来逆向估算任意语言模型的参数规模
+
+### 2026-05-12
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench 作者发布新 benchmark ProgramBench，所有一线模型全部 0% 完成率，意味着今天的大模型依然不会做软件工程
 - **[从模型接入到网关治理:一站式调用 GPT / Claude / Gemini 的工程化思路](https://developer.aliyun.com/article/1732531)** 一站式调用不只是开发便利性问题，它会影响成本、稳定性、合规和团队迭代速度
 - **[2026年主流AI镜像模型对比实测:ChatGPT、Claude与Gemini谁更胜一筹?](https://www.eefocus.com/article/1993139.html)** GPT-4o全能型多模态、Claude 3.5编程与长文本专家、Gemini 2.0谷歌生态AI核心
