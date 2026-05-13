@@ -12,6 +12,7 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[制药业换挡 AI引擎启动](https://baijiahao.baidu.com/s?id=1864944926792073109)** CADD正快速向AIDD演进，英矽智能与礼来达成1.15亿美元首付款合作
 - **[CPU王者归来:AI浪潮引爆需求指数级增长,国产品牌将迎来哪些机遇](https://baijiahao.baidu.com/s?id=1864954321700788124)** Agentic AI改变数据中心架构，CPU需求大幅增加，英特尔DCAI收入同比增长22%
 - **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品Manus在GAIA基准测试中超越OpenAI
+- **[AI智能体从业生存指南:5类工种及成长路径](https://baijiahao.baidu.com/s?id=1865029403444424191)** AgentWorkflow Engineer、Skill Developer、MCP Developer等五类新职业
 
 ### 2026-05-10
 - **[加速产品化转型,格灵深瞳发布2025年年度报告](https://baijiahao.baidu.com/s?id=1864410027183475745)** 全年营收1.55亿元同比增长32.61%，推出AI Edge Studio开发平台，研发费用同比下降23%

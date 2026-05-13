@@ -6,6 +6,12 @@ description: 主流 Agent 框架与工具链一览
 # Agent 工具清单
 
 ### 2026-05-13
+- **[AI智能体从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
+- **[你的Backtrader该扔了:2025年AI Agent驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
+- **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持
+- **[既要安全又要弹性,理想汽车如何解开企业OpenClaw落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"，解决安全和弹性问题
+
+### 2026-05-13
 - **[沙盘推演:大模型吞噬互联网](https://baijiahao.baidu.com/s?id=1864940396352956306)** 市场开始担忧大模型对互联网巨头的挤压，约10%互联网流量开始向AI工具迁移，未来3-5年或提升至30%-40%
 - **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
 - **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持

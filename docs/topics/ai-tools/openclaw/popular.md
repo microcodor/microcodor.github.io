@@ -6,12 +6,13 @@ description: OpenCLAW AI Agent 框架最新动态
 # OpenCLAW 资讯
 
 ### 2026-05-13
-- **[360漏洞挖掘智能体再升级:发现20余个“龙虾漏洞”](https://baijiahao.baidu.com/s?id=1864982295773950147)** 360针对OpenClaw及10款衍生智能体开展安全研究，累计发现20余个安全漏洞
+- **[360漏洞挖掘智能体再升级:发现20余个"龙虾漏洞"](https://baijiahao.baidu.com/s?id=1864982295773950147)** 360针对OpenClaw及10款衍生智能体开展安全研究，累计发现20余个安全漏洞
 - **[既要安全又要弹性,理想汽车如何解开企业 OpenClaw 落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"
 - **[OpenClaw低调更新重磅版本,龙虾长手长脚了](https://post.smzdm.com/p/avgew9m7/)** Peekaboo v3实现像素级截图、UI读取，能完成点击、输入文字等操作
 - **[揭秘「全民养龙虾」:2026中国OpenClaw用户及企业应用调研报告](https://k.sina.cn/article_5953466437_162dab0450670ak5u8.html)** 调研2000位个人用户和100家企业，接近5成用户仅仅是听说过
 - **[OpenClaw安装技术支持商摩豆智能:以全栈国产AI Agent平台赋能企业智能化落地](https://www.163.com/dy/article/KSNUH5UD0530SHJ6.html)** 摩豆智能基于MaudelClaw提供全栈国产化技术方案
 - **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%
+- **[AI智能体从业生存指南:5类工种及成长路径](https://baijiahao.baidu.com/s?id=1865029403444424191)** AgentWorkflow Engineer、Skill Developer、MCP Developer等五类新职业
 
 ### 2026-05-10
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
@@ -26,20 +27,20 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 记忆系统重构、安全加固、多平台通道修复、视频生成接入、本地语音推理等密集迭代
 
 ### 2026-05-12
-- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
-- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[OpenClaw凉了,Claude涨了34%--4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
 - **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://app.myzaker.com/news/article.php?pk=6a02a54a8e9f0956161a32cb)** Peekaboo v3实现像素级截图和UI读取，能完成点击、输入文字、快捷键等操作
 
 ### 2026-05-13
-- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
-- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[OpenClaw凉了,Claude涨了34%--4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，Hermes Agent催生新范式
 
 > 最后更新：自动汇总
 
 ### 2026-05-12
-- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
-- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[OpenClaw凉了,Claude涨了34%--4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
 - **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://app.myzaker.com/news/article.php?pk=6a02a54a8e9f0956161a32cb)** Peekaboo v3实现像素级截图和UI读取，能完成点击、输入文字、快捷键等操作
 
 ### 2026-04-01
@@ -66,7 +67,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[2026年 OpenClaw 阿里云ECS云服务器部署喂饭级图文教程](https://developer.aliyun.com/article/1728304)** 阿里云 ECS 一键部署方案，20 分钟完成
 
 ### 2026-04-26
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停，4月连续发布五大版本
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停，4月连续发布五大版本
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 严格化所有者命令身份验证，修复插件依赖恢复机制，可信执行终端终极防御
 - **[从迭代到生态:OpenClaw 4月成长全景](https://www.sohu.com/a/1014173710_183249)** GitHub星标突破25万，SkillHub技能市场突破5000+技能包，成为中文领域最活跃开源Agent生态
 - **[2026开源AI智能体框架深度评测:OpenClaw与Hermes Agent选型指南](https://developer.baidu.com/article/detail.html?id=6753837)** OpenClaw以Gateway网关架构构建，Hermes Agent以Engine引擎架构实现自我进化
@@ -81,7 +82,7 @@ description: OpenCLAW AI Agent 框架最新动态
 
 - **[1亿月活、2亿次任务、一年4个大版本:百度用GenFlow 4.0告诉行业,Agent不是玩具](https://baijiahao.baidu.com/s?id=1863625476534848246)** 百度GenFlow 4.0月活跃用户突破1亿，月任务交付量高达2亿次，深度兼容OpenClaw等主流框架
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863874723499456008)** OpenClaw核心定位是任务执行中枢，跳出对话式AI局限，实现自然语言指令到任务交付的全自主闭环
-- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[全球最火AI框架把默认大脑换了--换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
 - **[虽然OpenClaw为DeepSeek V4又更了一版,但更新新版需谨慎](http://app.myzaker.com/news/article.php?pk=69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，语音对话时可调用完整Agent处理复杂问题
 - **[AI工具圈炸了!OpenClaw v2026.4.23版本,到底藏着多少惊喜?](https://www.163.com/dy/article/KRN1J42J05566SDR.html)** v2026.4.23版本内核重构、多模态爆发、免密绘图、全平台图像模型接入
 
@@ -145,7 +146,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-05-05
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 - **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具为何一夜变天?](https://baijiahao.baidu.com/s?id=1864155851223054162&wfr=spider&for=pc)** OpenAI官宣ChatGPT账号可直接登录OpenClaw，Codex新增"宠物模式"功能
-- **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** 下一代AI将回归智能本质——以记忆为底座、以推理为核心、以自主进化为方向
+- **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** 下一代AI将回归智能本质--以记忆为底座、以推理为核心、以自主进化为方向
 - **[OpenClaw 多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 已发布v2026.4.20版本修复三个中危漏洞，建议立即升级
 - **[OpenClaw 安装软件供应商生态扩容 摩豆智能MaudelClaw打造国产企业级AI Agent平台](https://www.163.com/dy/article/KRPHDSJ20530SHJ6.html)** 北京摩豆智能推出MaudelClaw企业级智能体管理平台，全栈自研、国产适配
 - **[秒删!苹果APP惊现Claude痕迹,4万亿帝国AI底裤被扒](https://baijiahao.baidu.com/s?id=1864061958375559057&wfr=spider&for=pc)** 苹果内部AI系统JunoAI竟是用ClaudeCode开发的
@@ -157,7 +158,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-05-03
 - **[OpenClaw大更新,AI智能体不再是黑箱!官方口号:少点神秘](https://baijiahao.baidu.com/s?id=1863682166159187765&wfr=spider&for=pc)** v2026.4.25版本接入13个语音提供商、OTEL全链路可观测性，官方口号"Less mystery, more machinery"
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
-- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[全球最火AI框架把默认大脑换了--换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
 - **[OpenClaw多项漏洞可导致策略绕过与主机劫持](https://new.qq.com/rain/a/20260429A02MN900)** 已发布v2026.4.20版本修复三个中危漏洞，建议立即升级 104位开发者联手，OpenClaw首次装上任务控制面板，让AI能够自己管理自己
 
 ### 2026-05-03
@@ -176,7 +177,7 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-05-01
 - **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
-- **[OpenClaw:具身智能的“智能中枢”,重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** 基于LLM的多Agent任务编排框架，专为复杂具身智能任务场景设计
+- **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** 基于LLM的多Agent任务编排框架，专为复杂具身智能任务场景设计
 - **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** v2026.3.7版本由196位贡献者协同完成，突破上下文瓶颈、强化持久化能力
 - **[拓维信息旗下湘江鲲鹏重磅推出OpenClaw部署新范式](https://baijiahao.baidu.com/s?id=1862321994800098216)** 鲲鹏算力筑基，沙箱百毫秒级启动，Token消耗直降50%
 - **[虽然OpenClaw为DeepSeek V4又更了一版](http://app.myzaker.com/news/article.php?pk=69edb44bb15ec0165f3f35bc)** 实时语音功能大升级，语音对话时可调用完整Agent处理复杂问题
@@ -192,7 +193,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw零代码自动化框架实战:从部署到高价值Skill安装最全避坑指南](https://developer.aliyun.com/article/1731669)** 12%的Skill存在恶意行为，真正值得装的核心Skill仅30个左右
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://www.163.com/dy/article/KRJK5LA80511ABV6.html)** v2026.4.25版本塞进13个语音提供商、OTEL全链路可观测性
 - **[今天起,DeepSeek V4成OpenClaw默认模型!](https://baijiahao.baidu.com/s?id=1863576555027538169)** DeepSeek V4 Flash正式成为默认大模型，250k+星标的全球最火开源Agent框架把中国最强开源AI推上C位
-- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw将默认模型换成杭州的DeepSeek V4，100万token上下文长度，装得更多烧得更少
+- **[全球最火AI框架把默认大脑换了--换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw将默认模型换成杭州的DeepSeek V4，100万token上下文长度，装得更多烧得更少
 - **[下载量掉到巅峰期一半、日更被骂惨,OpenClaw热还能维持多久?](https://baijiahao.baidu.com/s?id=1863251231020166402)** OpenClaw Stars量达36k+，但更新太频繁反而给用户造成负担，腾讯、英伟达等大厂停留在旧版本不敢贸然升级
 
 ### 2026-04-28
@@ -238,7 +239,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[104人重写底层,OpenClaw装上「任务大脑」,连QQ机器人都能管](https://baijiahao.baidu.com/s?id=1861264150279307431)** 后台任务统一生命周期管理，task flow注册表实现多任务编排"父记录"概念
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** ClawHub插件市场上线，GPT-5.4和nano模型集成，但升级后出现控制台打不开等问题
 - **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 全新公开插件SDK上线，废弃旧扩展API，Windows环境执行加固
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
 
 ### 2026-04-29
 - **[openJiuwen开源社区首发Coordination Engineering让智能体从单兵作战到精锐团队](http://finance.sina.cn/2026-04-28/detail-inhwaavw8433044.d.html)** JiuwenClaw发布Coordination Engineering新范式，支持多智能体自主分工、高效沟通与无缝协作
@@ -299,7 +300,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-04-20
 - **[OpenClaw v2026.4.15版本更新全解析](https://blog.csdn.net/m0_66434421/article/details=160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配、SSRF终极防护
 - **[OpenClaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
-- **[天融信网络审计系统再升级:让AIAgent安全上岗](https://baijiahao.baidu.com/s?id=1860803132981430023)** 天融信提出"平台—主机—模型—数据—应用"五层闭环安全体系
+- **[天融信网络审计系统再升级:让AIAgent安全上岗](https://baijiahao.baidu.com/s?id=1860803132981430023)** 天融信提出"平台-主机-模型-数据-应用"五层闭环安全体系
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw实现AI从交互到主动系统级执行的核心突破
 
 ### 2026-04-19 (新增)
@@ -345,7 +346,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** OpenClaw创始人宣称下一代产品将融入AI视频生成能力，成为全球首个官方适配阿里千问大模型的智能体框架
 
 ### 2026-04-14
-- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
+- **[OpenClaw 版本更新如何影响通信效率?-- 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座
 
@@ -379,7 +380,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[《OpenClaw实战指南》出版:从部署到上手,手把手教你打造超级AI助手](https://baijiahao.baidu.com/s?id=1862621208930764301)** 帮助读者真正将AI助手融入日常工作中
 
 ### 2026-04-15
-- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
+- **[OpenClaw 版本更新如何影响通信效率?-- 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑的"满配"运行基座
 
@@ -529,7 +530,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架
 - **[OpenClaw被曝出33个漏洞,蚂蚁安全实验室盯上Agent软肋](https://baijiahao.baidu.com/s?id=1861074288925329209)** 蚂蚁安全实验室专项安全审计，提交33个漏洞报告，8个已修复
 - **[OpenClaw v3.28发布:Grok联网搜索、MiniMax画图、插件审批钩子](https://baijiahao.baidu.com/s?id=1861130830818141640)** xAI/Grok接入Responses API、MiniMax新增图像生成、requireApproval审批功能上线
-- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)**YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)**YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 - **[从9 天等待到 5 分钟部署:OpenClaw v2026.3.x 如何让一个人拥有团队的交付能力](https://cloud.tencent.com/developer/article/2645197)** v2026.3.2 breaking changes更新，v2026.3.11功能扩展，Chrome DevTools MCP Attach Mode
 - **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
@@ -625,7 +626,7 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ### 2026-03-31
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
-- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 - **[从9 天等待到 5 分钟部署:OpenClaw v2026.3.x 如何让一个人拥有团队的交付能力](https://cloud.tencent.com/developer/article/2645197)** OpenClaw v2026.3.2 breaking changes更新，v2026.3.11功能扩展，秘密模型临时访问，Chrome DevTools MCP Attach Mode
 - **[OpenClaw v2026.3.7 深度解析:从微内核到可插拔上下文引擎,走向生产级 AI Agent 架构](https://www.51cto.com/article/838689.html)** 文本驱动、本地优先、事件调度、微内核+插件化、中心决策边缘执行五大系统哲学
@@ -640,7 +641,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
 - **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨
-- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
 - **[杨植麟、张鹏、罗福莉等同台谈"龙虾",AI应用加速涌现!未来12个月大模型往哪儿去?](https://baijiahao.baidu.com/s?id=1861007447308685699)** 中关村论坛热议OpenClaw与AI开源，杨植麟、张鹏、罗福莉等业界大咖同台探讨
@@ -648,7 +649,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[当AI助手变成"特洛伊木马":OpenClaw安全危机警示录](https://baijiahao.baidu.com/s?id=1859370253956366039)** 安全研究者发现NPM恶意依赖包攻击，全球超27万实例暴露公网，约40%与APT组织关联
 ### 2026-03-30
 - **[OpenClaw星标破26万!Agent元年引爆ASIC千亿市场](http://finance.sina.com.cn/stock/t/2026-03-29/doc-inhsruya7360433.shtml)** OpenClaw GitHub星标突破26万，成为最热门AI Agent框架，ASIC产业需求随Agent爆发增长
-- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** YC W26 Demo Day聚焦Agent基础设施，OpenClaw更新时发生升级事故，OpenAI将停止运营SORA视频应用
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 - **[OpenClaw大更新:插件市场上线,/btw 侧边提问,AI agent 从工具变成了平台](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991534&idx=1&sn=6b048e7d052852d7aaa8224e35d514f9)** ClawHub插件市场上线、/btw侧边提问、OpenShell+SSH沙盒、内置搜索引擎
@@ -665,7 +666,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-03-29
 - **[「电子行业专题报告」OpenClaw赋能AI Agent新范式](https://baijiahao.baidu.com/s?id=1860536589368541317)** OpenClaw v3.8发布，行业首创ACP全链路指令溯源机制，完成12+项安全漏洞修复
 - **[小米大模型负责人罗福莉:OpenClaw是Agent框架革命性事件,多数场景已接近Claude最新模型水准](https://baijiahao.baidu.com/s?id=1860811564014749098)** 罗福莉表示OpenClaw开源特性有利于社区参与，harness系统和skills体系保证下限
-- **[「数智周报」林俊旸:“智能体式思考”将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** 2026中关村论坛现场签约34个重大投资项目
+- **[「数智周报」林俊旸:"智能体式思考"将成为主流](https://baijiahao.baidu.com/s?id=1860895807637557042)** 2026中关村论坛现场签约34个重大投资项目
 - **[金融学术前沿|AI Agent元年:OpenClaw如何重塑AI商业化路径与资本市场映射](https://www.thepaper.cn/newsDetail_forward_32843003)** 复旦报告显示OpenClaw推动AI从工具属性向生产力属性跃迁
 - **[OpenClaw最大规模更新,告别npm,一场关于个人AI助手的自我革命](https://baijiahao.baidu.com/s?id=1860640027673280951)** 告别npm拥抱ClawHub，构建专属插件市场，沙箱架构全面升级
 
@@ -875,7 +876,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw更新3.12版,更快更安全](https://baijiahao.baidu.com/s?id=1859603950937760715)** Control UI模块化翻新、Ollama完整接入流程、多模态记忆系统、Agent编排能力增强
 
 ### 2026-03-30
-- **[黄仁勋一句话,揭露了OpenClaw的“阴谋”](https://baijiahao.baidu.com/s?id=1860957054511565447)** OpenClaw深度优化了与CUDA及英伟达硬件的兼容性，可通过Agent自动操作电脑、调用工具、执行任务
+- **[黄仁勋一句话,揭露了OpenClaw的"阴谋"](https://baijiahao.baidu.com/s?id=1860957054511565447)** OpenClaw深度优化了与CUDA及英伟达硬件的兼容性，可通过Agent自动操作电脑、调用工具、执行任务
 - **[补齐OpenClaw进化拼图!AReaL v1.0开源,智能体强化学习一键接入](https://baijiahao.baidu.com/s?id=1858704041540091570)** 蚂蚁和清华大学联合打造AReaL v1.0，零代码接入OpenClaw训练，兼容任意Agent框架
 - **[OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860500918484726803)** 全新公开插件SDK上线，彻底废弃旧扩展API，ClawHub插件作为分发首选渠道
 - **[觉都不睡了!龙虾又上新:OpenClaw 3.8来袭](https://baijiahao.baidu.com/s?id=1859177823615298551)** ACP来源识别、openclaw backup官方备份功能、Telegram假冒问题修复
@@ -987,7 +988,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Anthropic封杀48小时,逼出OpenClaw最强反击!龙虾首次会生视频了](https://new.qq.com/rain/a/20260407A040TL00)** OpenClaw 2026.4.5首次支持原生视频+音乐生成，内置"梦境"记忆机制，可调用11家视频提供商
 
 ### 2026-04-10
-- **[阿里千问、DeepSeek齐出手 国产大模型“升级”Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力并成为全球首个官方适配阿里千问的智能体框架
+- **[阿里千问、DeepSeek齐出手 国产大模型"升级"Agent能力](https://baijiahao.baidu.com/s?id=1862000396835380383)** 阿里发布Qwen3.6-Plus，DeepSeek上线专家模式，下一代OpenClaw将融入AI视频生成能力并成为全球首个官方适配阿里千问的智能体框架
 - **[国产AI Agent重大突破!宝德鲲鹏OpenClaw一体机发布,Token消耗直降20%](https://baijiahao.baidu.com/s?id=1861956683870749876)** 宝德鲲鹏OpenClaw一体机发布，以自强鲲鹏服务器为物理底座，深度融合OpenClaw与沙箱技术，打造全栈国产化高性能AI Agent落地路径
 - **[字节腾讯阿里抢滩OpenClaw AI Agent生态加速落地](http://app.myzaker.com/news/article.php?pk=69d074fa8e9f093a8d30dc2e)** 三大互联网巨头先后入局，字节拿下官方中国镜像站基础设施赞助，腾讯推出微信ClawBot插件，阿里接入通义千问模型
 
@@ -1089,7 +1090,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw大更新!合规化已成必然,有国内厂商早已提前布局](https://baijiahao.baidu.com/s?id=1860543716532210512)** ClawHub技能市场内置，插件生态合规化管理，安全防御逻辑下沉到执行管线深处
 
 ### 2026-04-14
-- **[OpenClaw 版本更新如何影响通信效率?—— 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进，原生流式响应支持
+- **[OpenClaw 版本更新如何影响通信效率?-- 2026年深度解析](https://developer.cloud.tencent.com/article/2654181)** MCP/ACP协议优化，二进制序列化格式升级，心跳与保活机制改进，原生流式响应支持
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** 从v2026.4.7到v2026.4.11密集迭代，记忆系统重构、安全加固、多平台通道修复、视频生成接入
 - **[扣子宣布2.5版本升级,探索AI Agent从"工具"到"伙伴"的关键一步](https://baijiahao.baidu.com/s?id=1861886097795917857)** Agent World提供人格、技能、装备三项支撑，新增独立邮箱身份、云电脑、云手机
 
@@ -1175,7 +1176,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.4.15 版本更新全解析](https://blog.csdn.net/m0_66434421/article/details/160257071)** 模型健康OAuth实时监控、LanceDB云存储记忆、Claude Opus 4.7深度适配
 - **[3分钟阿里云/本地部署OpenClaw AI Agent +配置免费大模型+Cherry Studio可视化安装指南](https://developer.aliyun.com/article/1728709)** Cherry Studio零代码自动化适配，多模型兼容
 - **[突破AI进化的瓶颈:OpenClaw与Hermes缺一不可](https://www.163.com/dy/article/KQPQ18C2055616YL.md)** ClawHub 收录超 13729 个技能，Hermes 两个月突破 8.5 万星标
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停
 
 ### 2026-04-23
 - **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启，上下文预算优化
@@ -1183,12 +1184,12 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[2026年OpenClaw阿里云部署实操+集成搜索skill](https://developer.aliyun.com/article/1728382)** 阿里云部署实操指南，让AI Agent真正实现"知行合一"
 
 ### 2026-04-24
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停，GPT-5系列兼容性提升
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 从大众围观的网红变成更窄更现实的生产工具，GitHub更新节奏未停，GPT-5系列兼容性提升
 - **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构，Tool Loop Guard默认开启(阈值10次)，上下文预算优化
 - **[OpenClaw 使用指南:全方位教你配置与更新大模型](https://blog.51cto.com/u_16099311/14563158)** 第三方API配置指南，可接入Claude全系列模型
 
 ### 2026-04-24
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** OpenClaw从大众围观的网红变成更窄更贵更现实的生产工具，GitHub更新未停下
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** OpenClaw从大众围观的网红变成更窄更贵更现实的生产工具，GitHub更新未停下
 - **[OpenClaw v2026.4.15 :当 AI Agent 开始学会"忘记"不重要的事](https://zhuanlan.zhihu.com/p/2029198522998690412)** 梦境存储重构、Tool Loop Guard默认开启、上下文预算优化三大核心改进
 - **[OpenClaw使用指南:全方位教你配置与更新大模型](https://blog.51cto.com/u_16099311/14563158)** 配置第三方API降低token消耗，接入Claude全系列模型
 - **[AI Agent范式升级:从OpenClaw看产业链增长机遇](https://www.sgpjbg.com/info/6c00c7a74f5b9300392b7316bfd1b19a.md)** 2026年现象级开源AI Agent，驱动AI从交互生成向行动执行演进
@@ -1199,7 +1200,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[停更9天后OpenClaw迎来3.22大更新,但我们劝普通用户千万别急着升级](https://baijiahao.baidu.com/s?id=1860509186359823733)** 沉寂9天之后，OpenClaw正式推送里程碑的3.22大版本更新，插件架构大换血
 - **[刚刚,OpenClaw最猛升级!底层架构大换血,全网等了9天](https://baijiahao.baidu.com/s?id=1860458273242655383)** 底层架构大换血，GPT-5.4登场，插件架构全面革新
 - **[Openclaw 龙虾五天五连,24小时两更,火力全开](https://baijiahao.baidu.com/s?id=1862338249865175670)** OpenClaw团队似乎根本不需要休息，五天五连更新
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 年初那阵子OpenClaw在中文AI圈和海外开发者社区内成为新时代AI生产力的代名词
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 年初那阵子OpenClaw在中文AI圈和海外开发者社区内成为新时代AI生产力的代名词
 
 ### 2026-04-24
 - **[OpenClaw:具身智能的"智能中枢",重塑未来AI Agent协作新范式](https://baijiahao.baidu.com/s?id=1861375493224618549)** OpenClaw统筹多模态感知Agent协同，联动路径规划、动作规划生成符合物理约束的行动方案
@@ -1219,7 +1220,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[微盟集团发布2025年ESG报告:MSCI ESG评级跃升至A级](https://mtz.china.com/touzi/2026/0424/229486.html)** 微盟WAI月活商户数同比增长66.7%，正式发布面向泛办公人群的智能体产品"一键养虾"(Work Claw)
 
 ### 2026-04-26
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** OpenClaw的GitHub更新节奏未停下，最新版提升GPT-5系列模型兼容性、修复Telegram频道异常、优化Ollama连接超时
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** OpenClaw的GitHub更新节奏未停下，最新版提升GPT-5系列模型兼容性、修复Telegram频道异常、优化Ollama连接超时
 - **[2026开源AI智能体框架深度评测:OpenClaw与Hermes Agent选型指南](https://developer.baidu.com/article/detail.html?id=6753837)** OpenClaw以Gateway网关架构构建个人助理操作系统，GitHub星标数突破35万
 - **[OpenClaw v2026.4.21深度解读剖析:从"细粒度收敛"到"可信执行终端"](https://blog.csdn.net/jinanwuhuaguo/article/details/160406867)** 从第一性原理审视7项更新：严格化所有者命令身份验证、修复插件依赖恢复机制
 - **[从迭代到生态:OpenClaw 4月成长全景](https://www.sohu.com/a/1014173710_183249)** 4月连续发布五大版本，累计修复80+项问题，新增30+项核心功能，GitHub星标突破25万
@@ -1227,7 +1228,7 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-04-27
 - **[104人重写底层,OpenClaw装上「任务大脑」](https://baijiahao.baidu.com/s?id=1861264150279307431)** 104位开发者联手，第一次给AI Agent装上「操作系统」级的任务控制面板，让AI能够自己管理自己
 - **[开发者不眠!OpenClaw连续两天密集更新](https://baijiahao.baidu.com/s?id=1861326529912481969)** v2026.3.7版本由196位贡献者协同完成，ContextEngine插件接口是开发者等待半年的"杀手锏"
-- **[“龙虾热”凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停，4月连续发布五大版本
+- **["龙虾热"凉了吗?](https://baijiahao.baidu.com/s?id=1862975780872904219)** 微信指数从亿级回落百万，Agent生态进入用户沉淀筛选期，GitHub更新节奏未停，4月连续发布五大版本
 - **[刚刚,OpenClaw史上最猛更新!AI记忆可自由插拔](https://hub.baai.ac.cn/view/52987)** ContextEngine插件接口让开发者可以完全自定义上下文处理策略，不动核心代码就能换策略
 - **[OpenClaw龙、更新82次崩82次,NPM下载量腰斩,竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 过去一个月十几个版本频繁导致用户配置崩溃，企业客户（大厂）卡在旧版本不敢升级
 - **[OpenClaw发布v2026.4.24:DeepSeek V4Flash正式成为系统默认模型](https://baijiahao.baidu.com/s?id=1863585839379448003)** DeepSeek V4 Flash（284B参数）成为首选推理模型，V4 Pro（1.6万亿参数）供高阶开发者调用，Google Meet深度集成
@@ -1251,7 +1252,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw v2026.4.27版本更新](https://www.bilibili.com/read/cv48346463)** DeepInfra模型提供商、运营商托管式代理路由、更严格的模型选择规则、网关渠道与会话稳定性优化
 - **[OpenClaw升级太狠了!AI工作流直接起飞](https://post.smzdm.com/p/a2626kx7/)** API能力深度集成、技能与工具统一管理、多平台交互体验优化
 - **[OpenClaw大更新,AI智能体不再是黑箱](https://hub.baai.ac.cn/view/54331)** 13个语音提供商、OTEL全链路可观测性、插件冷启动优化
-- **[全球最火AI框架把默认大脑换了——换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
+- **[全球最火AI框架把默认大脑换了--换的不是GPT,不是Claude](https://baijiahao.baidu.com/s?id=1863598796739784480)** OpenClaw把默认大模型换成DeepSeek V4，原生支持100万token上下文长度
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863874723499456008)** OpenClaw核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
 - **[1亿月活、2亿次任务:百度用GenFlow 4.0告诉行业,Agent不是玩具](https://baijiahao.baidu.com/s?id=1863625476534848246)** 百度GenFlow 4.0月活跃用户突破1亿，月任务交付量高达2亿次
 
@@ -1267,7 +1268,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Mercury强势逆袭!2026 AI战局完胜OpenClaw与Hermes三大致命弱点](https://www.163.com/dy/article/KRS9HRDK05566SCS.html)** 分析OpenClaw与Hermes三大短板：安全权限失控、Token成本爆炸、人格记忆混乱
 - **[AI Agent 框架选型指南:OpenClaw、LangChain、AutoGPT、CrewAI 深度对比](https://cloud.tencent.com/developer/article/2663410)** OpenClaw专注多渠道消息接入和本地化部署，"一套代码，多端运行"
 - **[OpenClaw 2026.4.29 更新](https://www.bilibili.com/read/cv48409845/)** 群聊体验大幅优化、记忆系统升级为"人际关系网"、人物维基People Wiki上线
-- **[Hermes解析:自进化智能体范式与OpenClaw对比评测](https://baijiahao.baidu.com/s?id=1863952467330079147)** Hermes核心创新在于内置自进化闭环系统，围绕"执行—提炼—沉淀—复用—自省"五阶段构建
+- **[Hermes解析:自进化智能体范式与OpenClaw对比评测](https://baijiahao.baidu.com/s?id=1863952467330079147)** Hermes核心创新在于内置自进化闭环系统，围绕"执行-提炼-沉淀-复用-自省"五阶段构建
 - **[OpenClaw AI Agent框架曝三处中危漏洞:提示词注入可篡改网关配置](https://blog.csdn.net/OPHKVPS/article/details/160682450)** 安全研究人员发现三处中危漏洞，现已修复
 ### 2026-05-04
 - **[openJiuwen开源社区首发Coordination工程,开启AI协作新范式](http://k.sina.com.cn/article_1747383115_6826f34b02003fkgs.html)** JiuwenClaw实现多智能体自主协同，支持Team Skills标准化能力包规范
@@ -1349,9 +1350,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[皮查伊去年亲自演示的网页浏览AI Agent,悄悄关停了](https://baijiahao.baidu.com/s?id=1864523320397757709)** Google Labs部分参与Project Mariner员工被调往更高优先级项目，相关能力已整合进Gemini Agent
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过OpenClaw以自然语言管理Zabbix系统，解决批量更新配置和数据获取复杂问题
 - **[ChatGPT合体OpenClaw、Codex上线宠物模式,AI编程工具一夜变天](https://baijiahao.baidu.com/s?id=1864155851223054162)** OpenClaw以开源龙虾形象席卷全球，Codex新增"宠物模式"支持自主学习和进化
-- **[OpenClaw 最新版5.2体验:这只“龙虾”AI助手,到底有多猛](https://post.smzdm.com/p/a4qnl83w)** v2026.5.2正式版发布，半年内GitHub获得36万Star，支持20多个即时通讯平台
-- **[OpenClaw 2026.5.2 更新:一个信号——它开始“工程化”了](https://www.163.com/dy/article/KS4NMMP905566SCS.html)** 放弃功能堆砌路线，转向稳定性、插件生态、运维，从“更聪明”转向“更可靠”
-- **[OpenClaw v2026.5.2 更新:少折腾,多在线](https://post.smzdm.com/p/a6zg395o/)** 新版本以“Less drama. More uptime”为核心理念，接入xAI的Grok 4.3模型
+- **[OpenClaw 最新版5.2体验:这只"龙虾"AI助手,到底有多猛](https://post.smzdm.com/p/a4qnl83w)** v2026.5.2正式版发布，半年内GitHub获得36万Star，支持20多个即时通讯平台
+- **[OpenClaw 2026.5.2 更新:一个信号--它开始"工程化"了](https://www.163.com/dy/article/KS4NMMP905566SCS.html)** 放弃功能堆砌路线，转向稳定性、插件生态、运维，从"更聪明"转向"更可靠"
+- **[OpenClaw v2026.5.2 更新:少折腾,多在线](https://post.smzdm.com/p/a6zg395o/)** 新版本以"Less drama. More uptime"为核心理念，接入xAI的Grok 4.3模型
 
 
 ### 2026-05-09
@@ -1368,7 +1369,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[梁文锋自掏200亿领投DeepSeek,阿里或出局](https://baijiahao.baidu.com/s?id=1864680620253309198)** 傅盛称龙虾三万已全面切换到DeepSeek V4 Pro
 
 ### 2026-05-09
-- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
 - **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
 - **[开源Agent框架生态战：OpenClaw星标超40万](https://baijiahao.com/s?id=1864587079234567890)** 开源AI Agent框架生态大战，OpenClaw GitHub星标突破40万成全球第一
 
@@ -1405,15 +1406,15 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP 明确限制通过 API 接入"能够规划、选择或执行一系列 API 调用"的半自主或生成式 AI 系统
 
 ### 2026-05-12
-- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** OpenClaw月访问量环比-50.67%，4月4日Anthropic切断第三方工具免费用量来源是直接原因
+- **[OpenClaw凉了,Claude涨了34%--4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** OpenClaw月访问量环比-50.67%，4月4日Anthropic切断第三方工具免费用量来源是直接原因
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，OpenClaw引出MoltBook等多种新玩法
 - **[揭秘「全民养龙虾」:2026中国OpenClaw用户及企业应用调研报告](https://www.163.com/dy/article/KSLLT3LT05568RX6.html)** 中国养虾的用户真实状态分析，AI Agent时代是否真的来临
 - **[OpenClaw终于长出手和眼!Peter正式发布Peekaboo v3,一日三更](https://m.sohu.com/a/1021154020_473283)** Peekaboo v3补上了OpenClaw最缺的一环，让AI能看屏幕、点按钮、操作真实桌面
 - **[广发如是说 | 关于光通信](https://finance.sina.com.cn/wm/2026-05-11/doc-inhxnscv0696249.shtml)** AI驱动25年光互联板块业绩高增，光模块龙头企业先发优势显著
 
 ### 2026-05-13
-- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[OpenClaw凉了,Claude涨了34%--4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 华为AReaL在昇腾AI平台完成适配，全面打通大规模MoE模型训练与Agent场景落地
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用 Agent"
-- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://cj.sina.com.cn/articles/view/1716314577/664ce1d100101jp0k)** 易观分析发布中国Agent产业生态报告，解读价值链与破局路径
+- **[重构与崛起--OpenClaw时代的中国Agent产业生态报告](https://cj.sina.com.cn/articles/view/1716314577/664ce1d100101jp0k)** 易观分析发布中国Agent产业生态报告，解读价值链与破局路径

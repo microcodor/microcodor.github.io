@@ -11,8 +11,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI正在吞掉哪些SaaS:Ramp图里的新赢家](https://new.qq.com/rain/a/20260512A02AA000)** Ramp报告基于5万+企业数据，AI-native工具开始进入企业日常软件栈
 - **[别再说 AI 开发就是调接口了!5 种主流模式一次讲清](https://baijiahao.baidu.com/s?id=1864943625982092003)** HTTP API、SDK、框架、MCP、Agent框架五大模式全解析
 - **[OpenSpec定制化全攻略:让AI开发工作流精准适配你的团队](https://developer.cloud.tencent.com/article/2667733)** 项目配置、自定义模式、全局覆盖三个层级定制
-- **[教师真正需要的不是AI出题,而是省时间的模板](https://www.163.com/dy/article/KSNF36K605561FZY.html)** 模板化出题比空泛的"AI智能生成"更贴近真实课堂
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** 行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具
 
 ### 2026-05-10
 - **[AI Workflow Automation Tools: TotalAgility](http://www.kofax.com/Products/totalagility/)** Tungsten Automation 的AI工作流自动化工具，可将处理和周转时间减少高达90%
