@@ -5,6 +5,13 @@ description: 主流 Agent 框架与工具链一览
 
 # Agent 工具清单
 
+### 2026-05-14
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升,Token呈现爆发式增长，自2023年起Agent赛道代际演进已拉开
+- **[黑灯社区——人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** Software 3.0时代，大语言模型成为解释者，提示词成为新的编程语言
+- **[AI Agent 的枪口,和软件板块的第二次定价](https://zhuanlan.zhihu.com/p/2036222992783512171)** Datadog报告约5%的AI模型请求在生产环境中失败，69%公司使用三个或更多模型
+- **[AI Agent 框架探秘:拆解 OpenHands---Microagents](https://blog.csdn.net/WwYUcG3Mm/article/details=161019661)** 微软推出Microsoft Agent Framework，标志.NET AI代理进入工业化生产阶段
+- **[为什么83%的企业在2025年底紧急替换AI Agent?](https://blog.csdn.net/FastCompile/article/details=161043131)** 2026年必须升级的4个底层能力清单：状态同步、决策溯源、工具拓扑、跨Agent协作
+
 ### 2026-05-13
 - **[AI智能体从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
 - **[你的Backtrader该扔了:2025年AI Agent驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
