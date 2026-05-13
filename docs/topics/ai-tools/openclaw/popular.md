@@ -1410,3 +1410,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[揭秘「全民养龙虾」:2026中国OpenClaw用户及企业应用调研报告](https://www.163.com/dy/article/KSLLT3LT05568RX6.html)** 中国养虾的用户真实状态分析，AI Agent时代是否真的来临
 - **[OpenClaw终于长出手和眼!Peter正式发布Peekaboo v3,一日三更](https://m.sohu.com/a/1021154020_473283)** Peekaboo v3补上了OpenClaw最缺的一环，让AI能看屏幕、点按钮、操作真实桌面
 - **[广发如是说 | 关于光通信](https://finance.sina.com.cn/wm/2026-05-11/doc-inhxnscv0696249.shtml)** AI驱动25年光互联板块业绩高增，光模块龙头企业先发优势显著
+
+### 2026-05-13
+- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 华为AReaL在昇腾AI平台完成适配，全面打通大规模MoE模型训练与Agent场景落地
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用 Agent"
+- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://cj.sina.com.cn/articles/view/1716314577/664ce1d100101jp0k)** 易观分析发布中国Agent产业生态报告，解读价值链与破局路径

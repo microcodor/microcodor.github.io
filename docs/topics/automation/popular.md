@@ -1478,3 +1478,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[收藏版:AI 应用开发学习指南:从入门到实践,程序员必备](https://blog.csdn.net/CSDN_430422/article/details/160976116)** AI工程师不等于算法工程师，AI应用工程师是构建AI驱动的应用和系统，需要工程能力加上AI应用层知识
 - **[Agent评测的下半场:为什么需要一个「活的」Benchmark?](https://www.163.com/dy/article/KSLBCATQ0511ABV6.html)** Claw-Eval-Live提出"活的"benchmark概念，确保评测内容紧跟企业实际痛点
 - **[万字观止:如果AI真的要成为同事,Hermes可能是最值得研究的开源样本](https://www.woshipm.com/?p=6330708)** Hermes Agent想做的是"下一次别再从零开始"，让Agent能够积累经验而非每次从零开始
+
+### 2026-05-13
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，合法生产力工具正被威胁行为者武器化
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程到RAG再到Agentic Workflow，三层阶梯实现10倍生产力提升
+- **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** Wrike发布AI工作流自动化指南，机器学习、NLP、预测分析融入业务
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

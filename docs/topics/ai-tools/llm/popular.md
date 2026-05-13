@@ -1296,3 +1296,10 @@ description: 主流大模型能力对比与选型参考
 - **[一夜爆火的AI中转站,到底有多赚钱?](https://baijiahao.baidu.com/s?id=1864858752323398677)** 川普家族推出WorldClaw项目，聚合300多个AI模型主打7折优惠
 - **[苹果的"期货AI"翻车了:库克欠的不是功能,是技术债](https://finance.sina.cn/2026-05-11/detail-inhxphzp0562226.d.html)** 苹果同意支付2.5亿美元了结Siri AI功能延迟交付诉讼
 - **[让AI接管我家:钢铁侠有的,我也能有](http://app.myzaker.com/news/article.php?pk=6a01615e8e9f095c2100df23)** 128GB统一内存的M5 Max MacBook Pro本地运行650亿参数大模型
+
+### 2026-05-13
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，所有一线模型全部0%完成率，今天的大模型依然不会做软件工程
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** Terminal-Bench 2.0准确率82.7%，OSWorld-Verified计算机环境操作准确率78.7%
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863865404649513559)** 芯片工程师Reiner Pope用黑板拆解底层逻辑，单次推理成本可能高出1000倍
+- **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini 3.1 Pro支持200万token超长上下文，Claude 3.5代码逻辑严谨
