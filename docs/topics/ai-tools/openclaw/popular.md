@@ -5,6 +5,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 # OpenCLAW 资讯
 
+### 2026-05-14
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，Token消耗大幅提升
+- **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
+- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://www.woshipm.com/?p=6394538)** 易观分析深度研判趋势，拆解价值链与破局路径
+
 ### 2026-05-13
 - **[360漏洞挖掘智能体再升级:发现20余个"龙虾漏洞"](https://baijiahao.baidu.com/s?id=1864982295773950147)** 360针对OpenClaw及10款衍生智能体开展安全研究，累计发现20余个安全漏洞
 - **[既要安全又要弹性,理想汽车如何解开企业 OpenClaw 落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"

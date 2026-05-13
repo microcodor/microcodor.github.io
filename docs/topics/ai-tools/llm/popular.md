@@ -5,6 +5,13 @@ description: 主流大模型能力对比与选型参考
 
 # 大模型评测清单
 
+### 2026-05-14
+- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，GPT-5.2胜率50%，Gemini 3 Flash仅33%
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://baijiahao.baidu.com/s?id=1864590902076135455)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+- **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini 3.1 Pro支持200万token超长上下文，Claude 3.5代码逻辑严谨
+- **[2026年AI辅助编程实测指南:Gemini 3.1 Pro vs GPT-4o vs Claude 3.5](https://my.oschina.net/u/3907323/blog/19661520)** Claude 3.5平均得分83.7分位列第一，GPT-4o得分82.5分紧随其后
+- **[Bluehost推出AI全家桶:20美元打包ChatGPT、Gemini、Claude、Grok](https://m.163.com/dy/article/KSFF2FDT05561FZL.html)** 四大主流AI模型打包服务月费20美元，支持无缝切换和并排对比
+
 ### 2026-05-13
 - **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
 - **[AI最重要的能力,不是推理,而是记忆?](https://baijiahao.baidu.com/s?id=1864979507405088121)** 推理能力正在被快速攻克，记忆才是真正的瓶颈

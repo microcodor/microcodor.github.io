@@ -11,6 +11,13 @@ description: 主流 Agent 框架与工具链一览
 - **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持
 - **[既要安全又要弹性,理想汽车如何解开企业OpenClaw落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"，解决安全和弹性问题
 
+### 2026-05-14
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升拉动Token消耗增长，全球日均Token调用量突破140万亿
+- **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python重构交易系统
+- **[AI-Agent安全性实战-提示注入防御与工具调用沙箱隔离](https://blog.csdn.net/fox0329/article/details=160898182)** OWASP 2025年LLM Top 10首位风险，5种真实攻击模式与三层防御架构
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/QdUf36B0T/article/details=160982251)** Microsoft Agent Framework是Semantic Kernel的官方继任者
+- **[2026AI Agent 行业全景:三大赛道驱动智能体产业化升级](https://www.ithome.com/0/948/733.htm)** 2025中国AI智能体百强榜单发布，全球79%组织已启动部署
+
 ### 2026-05-13
 - **[沙盘推演:大模型吞噬互联网](https://baijiahao.baidu.com/s?id=1864940396352956306)** 市场开始担忧大模型对互联网巨头的挤压，约10%互联网流量开始向AI工具迁移，未来3-5年或提升至30%-40%
 - **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统

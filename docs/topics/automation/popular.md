@@ -5,6 +5,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 # 主流平台与生态
 
+### 2026-05-14
+- **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** 2026年ERP迎来终极变形，SAP发布AI Agent组合，Oracle重构为Agentic Apps
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade推出Intelligent Process Automation，100+服务集成和104+自动化动作
+- **[每日热门skill:n8n工作流自动化让AI助手变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** OpenClaw生态中的"工作流设计师"，帮你设计生成完整n8n工作流
+- **[10 个适合企业软件开发的开源 AI 无代码工具](https://zhuanlan.zhihu.com/p/2036049985935030233)** NocoBase等开源AI无代码/低代码平台，帮助搭建可长期维护的业务系统
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力
+
 ### 2026-05-13
 - **[AI智能体自动化流程编排:从技能调用到先知式任务规划](https://blog.csdn.net/weixin_28745525/article/details=161028621)** OpenClaw-Skill-Oracle让智能体从"能干活"升级到"会干活"、"聪明地干活"
 - **[从零开始构建智能体之(一)初识智能体](https://developer.aliyun.com/article/1734132)** 涵盖传统演进、LLM新范式、类型划分及动手实践
