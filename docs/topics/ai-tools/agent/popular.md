@@ -6,6 +6,14 @@ description: 主流 Agent 框架与工具链一览
 # Agent 工具清单
 
 ### 2026-05-13
+- **[沙盘推演:大模型吞噬互联网](https://baijiahao.baidu.com/s?id=1864940396352956306)** 市场开始担忧大模型对互联网巨头的挤压，约10%互联网流量开始向AI工具迁移，未来3-5年或提升至30%-40%
+- **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
+- **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持
+- **[既要安全又要弹性,理想汽车如何解开企业 OpenClaw 落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"，解决安全和弹性问题
+- **[AI组织坍缩效应:中层管理者正在失去的,不是职位,是“信息税”](https://baijiahao.baidu.com/s?id=1864965688344139190)** BCG报告提出部门墙坍缩、翻译型岗位消失、专家护城河转移等核心判断
+- **[企业烧掉Token却算不清账,谁来解决大模型“最后一公里”难题?](https://baijiahao.baidu.com/s?id=1864951816037913493)** 网易有道ThinkFlow补齐"基础设施"一环，支持底层算力调度到终端应用全链条
+
+### 2026-05-13
 - **[AI智能体 从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 从概念到核心架构，系统性解析AI Agent的五大核心技术特征和四大核心组件
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK

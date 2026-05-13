@@ -6,11 +6,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 # 主流平台与生态
 
 ### 2026-05-13
-- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，被用于投递恶意软件和实施用户追踪
-- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程→RAG→智能体工作流三级跳跃，真正实现10倍生产力提升
-- **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** AI工作流自动化引入机器学习、自然语言处理和预测分析，处理复杂动态业务流程
-- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://m.163.com/dy/article/KS72LH1L05561FZK.html)** 按自动化能省多少步骤和学习成本进行AI生产力工具筛选
-- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[AI智能体自动化流程编排:从技能调用到先知式任务规划](https://blog.csdn.net/weixin_28745525/article/details=161028621)** OpenClaw-Skill-Oracle让智能体从"能干活"升级到"会干活"、"聪明地干活"
+- **[从零开始构建智能体之(一)初识智能体](https://developer.aliyun.com/article/1734132)** 涵盖传统演进、LLM新范式、类型划分及动手实践
+- **[AI正在吞掉哪些SaaS:Ramp图里的新赢家](https://new.qq.com/rain/a/20260512A02AA000)** Ramp报告基于5万+企业数据，AI-native工具开始进入企业日常软件栈
+- **[别再说 AI 开发就是调接口了!5 种主流模式一次讲清](https://baijiahao.baidu.com/s?id=1864943625982092003)** HTTP API、SDK、框架、MCP、Agent框架五大模式全解析
+- **[OpenSpec定制化全攻略:让AI开发工作流精准适配你的团队](https://developer.cloud.tencent.com/article/2667733)** 项目配置、自定义模式、全局覆盖三个层级定制
+- **[教师真正需要的不是AI出题,而是省时间的模板](https://www.163.com/dy/article/KSNF36K605561FZY.html)** 模板化出题比空泛的"AI智能生成"更贴近真实课堂
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%
 
 ### 2026-05-10
 - **[AI Workflow Automation Tools: TotalAgility](http://www.kofax.com/Products/totalagility/)** Tungsten Automation 的AI工作流自动化工具，可将处理和周转时间减少高达90%

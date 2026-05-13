@@ -6,6 +6,11 @@ description: 主流大模型能力对比与选型参考
 # 大模型评测清单
 
 ### 2026-05-13
+- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude“鹰派”、GPT“双面人”、Gemini“疯子”](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
+- **[AI最重要的能力,不是推理,而是记忆?](https://baijiahao.baidu.com/s?id=1864979507405088121)** 推理能力正在被快速攻克，记忆才是真正的瓶颈
+- **[大模型黑箱揭秘:GPT、Claude、Gemini、Grok、Hermes 系统提示词全公开](https://cloud.tencent.com/developer/article/2667688)** 两个GitHub仓库收录主流AI模型系统提示词
+- **[AI价值观大翻车!Anthropic研究:模型规范自相矛盾,全在帮用户造假?](https://m.thepaper.cn/newsDetail_forward_33158595)** Anthropic生成30万条测试，发现每个模型都有"价值优先模式"且规范文档存在数以千计矛盾
+- **[xAI惨遭淘汰!马斯克的人工智能梦,碎了吗?](https://baijiahao.baidu.com/s?id=1864972465603296969)** xAI解散，Colossus 1集群租给Anthropic，Grok编程能力远逊竞品
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** Terminal-Bench 2.0复杂命令行工作流准确率82.7%，GDPval知识工作任务胜率84.9%
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT
