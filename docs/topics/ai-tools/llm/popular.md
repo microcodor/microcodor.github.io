@@ -5,6 +5,13 @@ description: 主流大模型能力对比与选型参考
 
 # 大模型评测清单
 
+### 2026-05-13
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** Terminal-Bench 2.0复杂命令行工作流准确率82.7%，GDPval知识工作任务胜率84.9%
+- **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT
+- **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863865404649513559)** 芯片工程师Reiner Pope用黑板拆解底层逻辑，单次推理成本可能高出1000倍
+- **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini 3.1 Pro支持200万token超长上下文，Claude 3.5代码逻辑严谨
+
 ### 2026-05-10
 - **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** Gemini、Claude 未来都有可能进入 Apple Intelligence 的核心入口，iPhone、iPad 和 Mac 将变成"分发多家 AI 模型的系统平台"
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench 作者发布新 benchmark ProgramBench，所有一线模型全部 0% 完成率，意味着今天的大模型依然不会做软件工程

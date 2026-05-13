@@ -5,6 +5,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 # OpenCLAW 资讯
 
+### 2026-05-13
+- **[OpenClaw凉了,Claude涨了34%——4月AI数据告诉你,风口是真的散了](https://baijiahao.baidu.com/s?id=1864893725198459266)** 4月访问量环比-50.67%，独立访客631万环比-46.98%，Anthropic政策切断免费用量来源是主因
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进，遭遇朝鲜国家级黑客攻击尝试
+- **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 华为完成AReaL在昇腾平台适配，全面打通大规模MoE模型训练和Agent场景落地
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 腾讯支持接入QQ、企业微信及个人微信，从"发现功能"到"调用 Agent"
+- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://cj.sina.com.cn/articles/view/1716314577/664ce1d100101jp0k)** Agent驱动的开源生态正重构产业底层逻辑
+
 ### 2026-05-10
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw 驱动交互入口重新分配，从"发现功能"到"调用 Agent"，腾讯支持接入 QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为 QClaw 增加多Agent 机制和三方应用连接器，ima 支持用户创建专属 Agent

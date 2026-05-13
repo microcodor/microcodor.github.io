@@ -5,6 +5,13 @@ description: 主流 Agent 框架与工具链一览
 
 # Agent 工具清单
 
+### 2026-05-13
+- **[AI智能体 从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 从概念到核心架构，系统性解析AI Agent的五大核心技术特征和四大核心组件
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK
+- **[AIAgent联邦学习落地倒计时:2025年起监管强制要求模型训练日志可审计](https://blog.csdn.net/QuickTrans/article/details=160144640)** 六类元数据埋点成必修课，联邦学习四阶段闭环保障隐私与协同智能演进
+- **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，理论到实践完整拆解AI Agent框架
+
 ### 2026-05-10
 - **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 2025年被行业称为"AI Agent工程化元年"，Agent正从"工具"变为"数字员工"
 - **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图AI Agent RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"

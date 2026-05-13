@@ -5,6 +5,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 # 主流平台与生态
 
+### 2026-05-13
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，被用于投递恶意软件和实施用户追踪
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程→RAG→智能体工作流三级跳跃，真正实现10倍生产力提升
+- **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** AI工作流自动化引入机器学习、自然语言处理和预测分析，处理复杂动态业务流程
+- **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://m.163.com/dy/article/KS72LH1L05561FZK.html)** 按自动化能省多少步骤和学习成本进行AI生产力工具筛选
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+
 ### 2026-05-10
 - **[AI Workflow Automation Tools: TotalAgility](http://www.kofax.com/Products/totalagility/)** Tungsten Automation 的AI工作流自动化工具，可将处理和周转时间减少高达90%
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
