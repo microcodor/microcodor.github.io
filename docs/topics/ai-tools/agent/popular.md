@@ -3,6 +3,13 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+### 2026-05-14
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年开年以来Agentic AI渗透率持续提升拉动Token消耗增长，全球日均Token调用量突破140万亿
+- **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
+- **[AI-Agent安全性实战-提示注入防御与工具调用沙箱隔离](https://blog.csdn.net/fox0329/article/details=160898182)** OWASP 2025年LLM Top 10首位风险，5种真实攻击模式与三层防御架构
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/QdUf36B0T/article/details=160982251)** Microsoft Agent Framework是Semantic Kernel的官方继任者
+- **[2026AI Agent 行业全景:三大赛道驱动智能体产业化升级](https://www.ithome.com/0/948/733.htm)** 2025中国AI智能体百强榜单发布，全球79%组织已启动部署
+
 # Agent 工具清单
 
 ### 2026-05-14
