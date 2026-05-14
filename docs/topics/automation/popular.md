@@ -93,6 +93,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[当我把 AI 变成一个"算法":Skill 工程化设计的心路历程](https://www.163.com/dy/article/KSQVFE7M0518R7MO.html)** 把AI作为精确、可审计、可恢复的工程化组件使用
 - **[京东找到了AI时代的乘数](https://baijiahao.baidu.com/s?id=1865076305081222664)** 京东AI Agent"京言"全面升级，Q1研发投入同比增长48.6%达69亿元
 - **[AI 规范驱动开发(SDD)实战指南](https://gitcode.csdn.net/6a043b9854b52172bc73c08e.html)** 通过OpenSpec和Superpowers实现规范驱动开发与TDD流程
+- **[AI智能体技能系统构建指南:模块化设计与工程实践](https://blog.csdn.net/weixin_28686771/article/details/161062693)** agent-skills项目提供高度结构化、可组合的"智能体技能"框架
+- **[Jubilee Agent:构建可扩展多智能体系统的开源协议与框架](https://blog.csdn.net/weixin_26750831/article/details=161061246)** 定义智能体交互的"通用语言"协议
+- **[为什么传统 Workflow 很难替代 OpenClaw?](https://blog.csdn.net/qq_36478920/article/details=161059199)** Workflow是固定流程，OpenClaw是"世界模拟器"，二者本质不同
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

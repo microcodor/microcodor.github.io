@@ -253,3 +253,11 @@ description: 主流 Agent 框架与工具链一览
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK
 - **[AIAgent联邦学习落地倒计时:2025年起监管强制要求模型训练日志可审计](https://blog.csdn.net/QuickTrans/article/details=160144640)** 六类元数据埋点成必修课，联邦学习四阶段闭环保障隐私与协同智能演进
 - **[详尽从零开始设计实现一个AI Agent框架](http://zhuanlan.zhihu.com/p/2027029874909397801)** 从ReAct模式到Plan-and-Execute模式，理论到实践完整拆解AI Agent框架
+
+### 2026-05-14 (新增)
+- **[为什么83%的企业在2025年底紧急替换AI Agent?](https://blog.csdn.net/FastCompile/article/details=161043131)** 83%的规模化AI落地项目因底层能力断层被迫下线，2026年必须升级的四个底层能力：实时多源异步状态同步、可验证的决策溯源链、动态工具拓扑感知、跨Agent协作可信协商
+- **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
+- **[创客兔AI超级员工:2025企业营销自动化首选,全链路AI Agent系统深度评测](https://it.sohu.com/a/1022085768_122636885)** 全链路营销Agent，支持通过微信小程序发送语音指令
+- **[2025年AI编程工具横评:Cursor vs Windsurf vs Copilot vs DeepClaude](https://blog.csdn.net/csdngouwei/article/details=161065897)** 53个真实开发需求测试，Copilot纯补全场景依然最强
+- **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** SAP发布AI Agent组合，Oracle重构为Agentic Apps
+- **[Cursor创始人:75%企业代码已由AI生成,内部30%PR已由Agent端到端完成](https://www.51cto.com/article/843137.html)** Agent请求量暴涨15倍，Cursor内部30%的PR由Agent端到端自主完成

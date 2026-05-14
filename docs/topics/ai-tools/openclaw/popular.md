@@ -107,6 +107,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://www.woshipm.com/?p=6394538)** 易观分析深度研判趋势，拆解价值链与破局路径
 - **[范式革命已至:OpenClaw引爆中国AI"行动时代"—《报告》解读一](https://www.163.com/dy/article/KSPOSBP10538DFWK.html)** OpenClaw的三大技术洪流：大模型推理可靠性、硬件部署平民化、开源生态自我增强
 - **[OpenClaw、Hermes拼命创新,它却在成为AI时代的"微信"](https://www.163.com/dy/article/KSPPF69405312HQV.html)** Claude Code正在吸收开源社区验证过的各种能力
+- **[深度解析LLM Wiki / Obsidian-Wiki / GBrain:Agent时代知识的"自组织"与"自进化"](https://new.qq.com/rain/a/20260513A02QA000)** 通过"Skill"机制实现Agent的自进化
+- **[46万实例"裸奔":OpenClaw的安全困局与AI Agent的合规红线](https://opinion.caixin.com/m/2026-05-13/102443500.html)** 全球46.9万个OpenClaw实例暴露公网，约27.2%存在高危安全漏洞
+- **[2026年阿里云OpenClaw/Hermes Agent配置Token Plan部署详解](https://blog.csdn.net/yunfuuwqi/article/details=161051414)** 阿里云提供计算巢、轻量服务器及无影云电脑三种部署方案
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
