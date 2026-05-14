@@ -3,7 +3,12 @@ title: 主流平台与生态
 description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
-# 主流平台与生态
+### 2026-05-14
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，平台被威胁行为者大规模武器化
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** 行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具
+- **[2026 年 AI 数字员工对话式开发平台以及 AI Native 应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner明确提出AI原生开发平台成为未来企业软件重要方向
+- **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** Adobe Firefly实现跨应用工作流自动化
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 展示如何将AI作为"胶水"连接不同工具和API
 
 ### 2026-05-14
 - **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** 2026年ERP迎来终极变形，SAP发布AI Agent组合，Oracle重构为Agentic Apps

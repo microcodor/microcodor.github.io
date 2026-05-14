@@ -4,6 +4,13 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ### 2026-05-14
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五大核心技术特征：自主性、感知能力、决策能力、行动能力、适应性，包含四大核心组件
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 2025年AI Agent迎来关键升级，多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK
+- **[AIAgent联邦学习落地倒计时:2025年起监管强制要求模型训练日志可审计](https://blog.csdn.net/QuickTrans/article/details/160144640)** 六类元数据埋点成必修课，联邦学习四阶段闭环保障隐私与协同智能演进
+- **[2025年Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details=160534711)** 2025年四大主流Agent框架横评，LangChain生态最大、LlamaIndex RAG最强、AutoGen多Agent协作
+
+### 2026-05-14
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年开年以来Agentic AI渗透率持续提升拉动Token消耗增长，全球日均Token调用量突破140万亿
 - **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
 - **[AI-Agent安全性实战-提示注入防御与工具调用沙箱隔离](https://blog.csdn.net/fox0329/article/details=160898182)** OWASP 2025年LLM Top 10首位风险，5种真实攻击模式与三层防御架构

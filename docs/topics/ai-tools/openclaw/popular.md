@@ -3,7 +3,12 @@ title: OpenCLAW 资讯
 description: OpenCLAW AI Agent 框架最新动态
 ---
 
-# OpenCLAW 资讯
+### 2026-05-14
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
+- **[四个真实场景还原ToClaw:当远程控制遇上AI Agent,一场生产力革命悄然开始](https://baijiahao.baidu.com/s?id=1862697254001440120)** ToDesk推出ToClaw，实现真正意义上的"零门槛"部署
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入"能规划、选择或执行一系列API调用"的半自主或生成式AI系统
+- **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331)** 恶意Skill数量几周内飙升至800多个，涨幅142%，62.9% CVE漏洞为严重或高危
 
 ### 2026-05-14
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，Token消耗大幅提升
