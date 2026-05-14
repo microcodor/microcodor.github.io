@@ -87,6 +87,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
+### 2026-05-14
+- **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** SAP在2026年汉诺威工业博览会上发布了覆盖制造、物流、资产管理等领域的AI Agent组合
+- **[AI做游戏设计这么多坑?外网大神手把手教你,如何AI生成游戏动画关键帧!](https://new.qq.com/rain/a/20260513A07FG200)** 完整工作流：GPT Image 2.0 + SpriteFusion Pixel Snapper + Codex + Phaser 4
+- **[当我把 AI 变成一个"算法":Skill 工程化设计的心路历程](https://www.163.com/dy/article/KSQVFE7M0518R7MO.html)** 把AI作为精确、可审计、可恢复的工程化组件使用
+- **[京东找到了AI时代的乘数](https://baijiahao.baidu.com/s?id=1865076305081222664)** 京东AI Agent"京言"全面升级，Q1研发投入同比增长48.6%达69亿元
+- **[AI 规范驱动开发(SDD)实战指南](https://gitcode.csdn.net/6a043b9854b52172bc73c08e.html)** 通过OpenSpec和Superpowers实现规范驱动开发与TDD流程
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行

@@ -84,6 +84,13 @@ description: 主流大模型能力对比与选型参考
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
+### 2026-05-14
+- **[英属哥伦比亚大学发布首个全面"意图理解"测评基准](https://baijiahao.baidu.com/s?id=1865076556157362265)** IntentGrasp测试结果显示GPT-5.4、Gemini-3.1-Pro得分低得出奇，17个模型表现不如随机乱猜
+- **[安卓彻底变了!Gemini接管所有屏幕,苹果连影子都没追上](https://www.163.com/dy/article/KSQMSVQJ0511ABV6.html)** Gemini Intelligence将覆盖十亿级Android用户日常生活，Claude在SWE-bench以80.8%断层领先
+- **[2026企业级大模型API中转服务横向评测](https://developer.volcengine.com/articles/7639303392900988970)** Claude Opus 4.7、GPT-5.5、Gemini 3.1 Pro等最新版本深度测评
+- **[Trae AI使用第三方中转API配置教程](https://blog.csdn.net/QMer2023/article/details=161051656)** 支持Claude、GPT、Gemini等主流大模型，突破模型限制、兼容多模型
+- **["AI融万物"时代到来!谷歌欲将Gemini嵌入安卓生态](https://finance.sina.cn/stock/jdts/2026-05-13/detail-inhxtkrt4704800.d.html)** 谷歌将Gemini从聊天机器人转变为覆盖智能手机、汽车等的核心操作层
+
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务

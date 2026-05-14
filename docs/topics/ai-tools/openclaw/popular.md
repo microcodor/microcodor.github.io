@@ -101,6 +101,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
+### 2026-05-14
+- **[腾讯发布Q1财报:Hy3 preview登顶、WorkBuddy领跑、核心业务全面提效](https://finance.sina.cn/2026-05-13/detail-inhxunca9166958.d.html)** Hy3 preview在OpenRouter的token消耗量排行榜上稳居前列
+- **[百度智能云发布AI云"新物种" 全面升级为面向Agent的新全栈AI云](http://news.10jqka.com.cn/20260513/c676655285.shtml)** 相比OpenClaw，可以减少23%的token消耗
+- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://www.woshipm.com/?p=6394538)** 易观分析深度研判趋势，拆解价值链与破局路径
+- **[范式革命已至:OpenClaw引爆中国AI"行动时代"—《报告》解读一](https://www.163.com/dy/article/KSPOSBP10538DFWK.html)** OpenClaw的三大技术洪流：大模型推理可靠性、硬件部署平民化、开源生态自我增强
+- **[OpenClaw、Hermes拼命创新,它却在成为AI时代的"微信"](https://www.163.com/dy/article/KSPPF69405312HQV.html)** Claude Code正在吸收开源社区验证过的各种能力
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
