@@ -3,6 +3,10 @@ title: 主流平台与生态
 description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
+### 2026-05-15
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，平台被威胁行为者大规模武器化
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具横评，Agentforce、Trello、Asana等入选
+
 ### 2026-05-14
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，平台被威胁行为者大规模武器化
 - **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** 行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具

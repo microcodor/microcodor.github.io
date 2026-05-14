@@ -3,6 +3,10 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+### 2026-05-15
+- **[AI智能体下的CPU,或重回"黄金时代"](http://k.sina.com.cn/article_7857201856_1d45362c001905ewq0.html)** 当AI从对话框走向执行任务，智能体(Agent)的工作机制需要多步推理、调用API、读写数据库、运行代码，CPU面临严重产能短缺
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 11个最佳AI Agent框架横评，LangChain生态最大、LlamaIndex RAG最强、AutoGen多Agent协作
+
 ### 2026-05-14
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五大核心技术特征：自主性、感知能力、决策能力、行动能力、适应性，包含四大核心组件
 - **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 2025年AI Agent迎来关键升级，多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
