@@ -97,6 +97,13 @@ description: 主流大模型能力对比与选型参考
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
+### 2026-05-15
+- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 伦敦国王学院测试GPT-5.2、Claude Sonnet 4、Gemini 3 Flash在模拟核危机中的战略决策，Claude总胜率67%最高
+- **[大模型黑箱揭秘:GPT、Claude、Gemini、Grok、Hermes 系统提示词全公开](https://developer.cloud.tencent.com/article/2667688)** GitHub两个系统提示词仓库收录50+模型系统提示词，system_prompts_leaks超39800星标
+- **[2026年Gemini、GPT、Claude三大模型国内使用全攻略](https://my.oschina.net/u_3061158/blog/19661430)** Gemini 3.1 Pro支持200万token超长上下文，GPT-4o多模态生态最成熟，Claude 3.5代码逻辑严谨
+- **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据对Claude 4.6、GPT-5.4、Gemini 3.1 Pro做效率维度横向对比
+- **[2026年AI辅助编程实测指南:Gemini 3.1 Pro vs GPT-4o vs Claude 3.5 代码能力全面对比](https://my.oschina.net/u/3907323/blog/19661520)** Claude 3.5平均得分83.7分位列第一，GPT-4o得分82.5分紧随其后
+
 ### 2026-05-14
 - **[英属哥伦比亚大学发布首个全面"意图理解"测评基准](https://baijiahao.baidu.com/s?id=1865076556157362265)** IntentGrasp测试结果显示GPT-5.4、Gemini-3.1-Pro得分低得出奇，17个模型表现不如随机乱猜
 - **[安卓彻底变了!Gemini接管所有屏幕,苹果连影子都没追上](https://www.163.com/dy/article/KSQMSVQJ0511ABV6.html)** Gemini Intelligence将覆盖十亿级Android用户日常生活，Claude在SWE-bench以80.8%断层领先

@@ -96,6 +96,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
+### 2026-05-15
+- **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的工作流设计师，帮助设计、生成、管理完整的n8n工作流
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行的自动化流程，AI Agent具备自主思考决策能力，二者核心区别在于容错能力
+- **[用AI工作,这些关键字你不能不知道:Agent、Token、Claude Code、Codex、中转站、NewAPI](https://blog.csdn.net/m0_54138660/article/details=160937709)** Workflow是固定流程、Orchestration是编排多个步骤、Automation是自动化任务
+- **[驾驭AI时代:大模型、Claude技能、工作流与AI编程四大核心利器](https://www.imooc.com/article/392201)** Workflow类工具如n8n、Coze、Dify、LangChain是将大模型能力落地为具体应用的"脚手架"
+- **[AI Workflow:一键部署170+专业技能,让AI助手秒变行业专家](https://blog.csdn.net/weixin_26905423/article/details=160940666)** nicepkg/ai-workflow开源项目把170多个专业工作流打包成AI助手能直接使用的技能
+
 ### 2026-05-14
 - **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** SAP在2026年汉诺威工业博览会上发布了覆盖制造、物流、资产管理等领域的AI Agent组合
 - **[AI做游戏设计这么多坑?外网大神手把手教你,如何AI生成游戏动画关键帧!](https://new.qq.com/rain/a/20260513A07FG200)** 完整工作流：GPT Image 2.0 + SpriteFusion Pixel Snapper + Codex + Phaser 4

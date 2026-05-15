@@ -120,6 +120,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[灵犀智能体](https://baike.baidu.com/item/灵犀智能体/67728085)** 中国移动发布的AI智能助理，月活跃用户数突破7000万，"2026行动计划"明确构建"1+1+N²"智能体产品体系
 ## 近期动态
 
+### 2026-05-15
+- **[造一台AI PC=跑一遍AI基建——重新认识"创新的联想"](https://baijiahao.baidu.com/s?id=1865083377872050265)** 联想发布天禧AI 3.7系统和天禧Claw，发布新一代AI PC全家族，打造"超级个体"叙事
+- **[百度首提AI时代"度量衡"DAA 智能体"自我进化"重构生产力](https://baijiahao.baidu.com/s?id=1865080178332937131)** 百度首次提出AI时代"度量衡"DAA，日活智能体数衡量平台繁荣度
+- **[AI硬件"退烧"之后:从AI Pin到AI PC,行业开始进入"务实时代"](https://baijiahao.baidu.com/s?id=1865149523412964255)** Humane AI Pin被惠普收购，Rabbit R1陷入口碑争议，行业回归务实
+- **[2026智能眼镜"百镜争鸣",谷歌/阿里/微美全息引领AR/XR产业全面升级](https://baijiahao.baidu.com/s?id=1865141974323247718)** 谷歌AI智能眼镜携手Warby Parker，阿里千问AI眼镜S1升级主动服务
+- **[Manus](https://baike.baidu.com/item/Manus/65463546)** Monicav全球首款通用AI智能体，GAIA基准测试SOTA成绩，已开放注册
+
 ### 2026-05-14
 - **[造一台AI PC=跑一遍AI基建——重新认识"创新的联想"](https://baijiahao.baidu.com/s?id=1865083377872050265)** 联想发布天禧AI 3.7系统和天禧Claw，打造"超级个体"叙事
 - **[贾跃亭"蹭上"物理AI概念,宣布转战机器人业务,FF面临180天"股价保卫战"](https://baijiahao.baidu.com/s?id=1865079573674000399)** FF升级为物理AI生态系统公司，专注于具身智能机器人业务

@@ -4,6 +4,10 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ### 2026-05-15
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年开年以来Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿
+- **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 2025年多模态AI Agent正在引领全感官智能革命，覆盖文本-图像-语音-视频四大维度
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 深入解析18种Agent架构模式，从独狼到军团的演进
+- **[为什么83%的企业在2025年底紧急替换AI Agent?](https://blog.csdn.net/FastCompile/article/details=161043131)** 83%的规模化AI落地项目因底层能力断层被迫下线，2026年必须升级的四个底层能力
 - **[AI智能体下的CPU,或重回"黄金时代"](http://k.sina.com.cn/article_7857201856_1d45362c001905ewq0.html)** 当AI从对话框走向执行任务，智能体(Agent)的工作机制需要多步推理、调用API、读写数据库、运行代码，CPU面临严重产能短缺
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 11个最佳AI Agent框架横评，LangChain生态最大、LlamaIndex RAG最强、AutoGen多Agent协作
 - **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 2025年多模态AI Agent正在引领全感官智能革命，覆盖文本-图像-语音-视频四大维度
