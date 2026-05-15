@@ -3,6 +3,13 @@ title: 主流平台与生态
 description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
+### 2026-05-16
+- **[分布式AI任务执行器:构建安全、可扩展的AI工作流Worker](https://blog.csdn.net/weixin_42538645/article/details=161126474)** 一个专门用于执行AI任务的分布式工作节点，将"大脑"和"四肢"解耦
+- **[阿里AI迎来商业化转折点,正式进化到Token经济了](https://baijiahao.baidu.com/s?id=1865229205534006883)** 阿里AI模型与应用ARR已超过80亿元，预计6月季度将突破100亿元
+- **[企业级 AI 编程王炸:OpenSpec、Superpowers 与 Harness 架构三剑客深度解析](https://www.51cto.com/article/843340.html)** 企业级AI编程需要"规范—纪律—协同"完整三层体系
+- **[Mastra AI应用编排框架:从工具调用到工作流构建实战](https://blog.csdn.net/weixin_26969967/article/details=161127767)** 开源的面向开发者的AI应用编排框架，帮你快速构建生产级AI应用
+- **[新版稳卖AI浏览器开启Image 2创作时代](https://www.163.com/dy/article/KSVT3PUL0556LQI1.html)** 接入只是开始，关键能不能进workflow
+
 ### 2026-05-15
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，平台被威胁行为者大规模武器化
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具横评，Agentforce、Trello、Asana等入选

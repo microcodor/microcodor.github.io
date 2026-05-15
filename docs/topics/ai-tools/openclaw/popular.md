@@ -3,6 +3,13 @@ title: OpenCLAW 资讯
 description: OpenCLAW AI Agent 框架最新动态
 ---
 
+### 2026-05-16
+- **[科技发布《AI 趋势研究白皮书 2026Q1》,拆解 Agent 关键跃迁](http://k.sina.com.cn/article_7857201856_1d45362c001905i99g.html)** OpenClaw 火了、Cowork 发布了、Codex 更新了，五种完全不同的 Agent 产品形态在同一个季度同时出现
+- **[当Agent住进网盘,企业就要向超级组织"自我进化"了](https://baijiahao.baidu.com/s?id=1865239793749141915)** 百度重写Agent时代度量衡DAA(每日活跃智能体数)，李彦宏提出智能体的"自我进化"论
+- **[智能体元年的技术分野:OpenClaw与Hermes的哲学对决](https://www.163.com/dy/article/KSVQ6PAQ0556FSV9.html)** 开源智能体双极演进，"调度中心模式"与"持续学习模式"两条路径的正式分野
+- **[OpenClaw一周更新四个版本,更加稳定和安全](https://zhuanlan.zhihu.com/p/2038722882579248088)** 从5月7日到5月13日，一周之内连推4个Beta版本，安全模型重构、Agent互通升级
+- **[AI 智能体 "寒武纪"——OpenClaw 狂飙迭代](https://blog.csdn.net/2401_83229810/article/details/161119460)** 4个月GitHub星标破36万，日均提交90+次，月发26版
+
 ### 2026-05-15
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"

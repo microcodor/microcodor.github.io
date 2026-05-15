@@ -3,6 +3,13 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-05-16
+- **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 谷歌祭出杀招，全新24小时Agent"Spark"能替你管邮件、跑任务，甚至不问你就下单花钱
+- **[传OpenAI不满苹果合作成效,考虑法律途径解决纠纷](https://www.163.com/dy/article/KSV7V45V0519QIKK.html)** OpenAI与苹果之间长达两年的合作关系已经变得紧张，目前正在准备可能采取的法律行动
+- **[OpenAI内部怒轰苹果合作:高调承诺背后实际推进乏力](https://www.163.com/dy/article/KT0RS3J305198CJN.html)** OpenAI高管表示"从产品层面来说,我们已经完成了该做的一切。但苹果没有"
+- **[AI巨头,突陷困局](http://finance.sina.com.cn/roll/2026-05-15/doc-inhxytzm5209722.shtml)** 苹果与OpenAI关系明显恶化，OpenAI试图重新谈判协议的努力也陷入停滞
+- **[AI正在泄露真实的个人电话号码](https://www.163.com/dy/article/KSVLD2EK05119734.html)** AI相关隐私投诉暴增400%，DeleteMe称55%的投诉涉及ChatGPT，20%涉及Gemini
+
 ### 2026-05-15
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT作为Apple Intelligence首选

@@ -279,6 +279,13 @@ description: 主流 Agent 框架与工具链一览
 - **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** SAP发布AI Agent组合，Oracle重构为Agentic Apps
 - **[Cursor创始人:75%企业代码已由AI生成,内部30%PR已由Agent端到端完成](https://www.51cto.com/article/843137.html)** Agent请求量暴涨15倍，Cursor内部30%的PR由Agent端到端自主完成
 
+### 2026-05-16
+- **[人工智能牛市热点为何从英伟达转向存储芯片厂商](https://www.163.com/dy/article/KSUU1AFB05568W0A.html)** 智能体AI重塑CPU与GPU配比，摩根士丹利预测AI系统复杂度提升将把新增基础设施开支更多转向CPU、网络设备与存储芯片
+- **[Agentic AI](https://baike.baidu.com/item/Agentic%20AI/65109990)** 斯坦福教授吴恩达提出Agentic AI概念，阿里的定义战略规划明确当前AI技术已进入Agentic AI阶段
+- **[AI Agent 商业化提速!云迹科技 2025 年报亮眼](https://www.sohu.com/a/1023097937_121765133)** 智能体应用收入同比激增194.1%，HDOS智能体系统订阅客户数量同比暴增925%
+- **[在 RWA 之后,Auvera Chain 想让「算法」成为主角](https://baijiahao.baidu.com/s?id=1865250981533173106)** AI Agent经济将成为继移动互联网之后下一个最大的产业级机会
+- **[百度智能云发布AI云"新物种" 全面升级为面向Agent的新全栈AI云](https://cj.sina.com.cn/articles/view/7206894124/1ad907a2c001017yl8)** 百度推出"Harness Engineering驾驭工程"，成功率可达95%，相比OpenClaw可减少23%的token消耗
+
 ### 2026-05-15
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年开年以来Agentic AI渗透率持续提升拉动Token消耗增长，全球日均Token调用量突破140万亿
 - **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 2025年多模态AI Agent正在引领全感官智能革命，覆盖文本-图像-语音-视频四大维度
