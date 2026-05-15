@@ -1461,3 +1461,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长
 - **[助力提升DAA,百度智能云全面升级为面向智能体的新全栈AI云](https://baijiahao.baidu.com/s?id=1865052622245120781)** 百度智能云升级，相比OpenClaw可减少23%的token消耗
 - **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw仅用60天打破React十年GitHub Star纪录
+
+### 2026-05-16
+- **[科技发布《AI 趋势研究白皮书 2026Q1》](http://k.sina.com.cn/article_7857201856_1d45362c001905i99g.html)** 五种Agent产品在Q1同时出现，九家中国公司推桌面Agent产品，Harness Engineering 6周完成行业共识
+- **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrmyf1283945.shtml)** Peekaboo v3实现像素级截图、UI元素读取、鼠标键盘操作，Agent能在Mac上替我们打工
+- **[智能体元年的技术分野:OpenClaw与Hermes的哲学对决](https://www.163.com/dy/article/KSVQ6PAQ0556FSV9.html)** "调度中心模式"与"持续学习模式"两条路径的正式分野

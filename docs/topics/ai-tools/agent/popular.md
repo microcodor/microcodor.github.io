@@ -285,3 +285,7 @@ description: 主流 Agent 框架与工具链一览
 - **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 深入解析18种Agent架构模式，从独狼到军团的演进
 - **[为什么83%的企业在2025年底紧急替换AI Agent?](https://blog.csdn.net/FastCompile/article/details/161043131)** 83%的规模化AI落地项目因底层能力断层被迫下线，2026年必须升级的四个底层能力
 - **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
+
+### 2026-05-16
+- **[百度现在更像一家AI Infra公司](https://baijiahao.baidu.com/s?id=1865085511795914043)** 百度重构"芯片-AI云-模型-智能体"新全栈AI，面向亿级Agent运行需求
+- **[AI Agent概念百科](https://baike.baidu.com/item/AI%20Agent/63546393)** AI Agent具备自主理解、感知、规划、记忆和使用工具的能力，核心特征为主动思考与跨工具操作

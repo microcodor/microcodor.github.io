@@ -1524,3 +1524,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[每日热门skill:n8n工作流自动化让AI助手变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** OpenClaw生态中的"工作流设计师"，帮你设计生成完整n8n工作流
 - **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力
 - **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** 2026年ERP迎来终极变形，SAP发布AI Agent组合，Oracle重构为Agentic Apps
+
+### 2026-05-16
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI与自动化工作流结合，AI成为智能决策节点，理解意图后自动执行后续操作
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow刚性执行vs AI Agent柔性应变，容错能力是核心分水岭
+- **[用AI工作,这些关键字你不能不知道](https://blog.csdn.net/m0_54138660/article/details=160937709)** Workflow是固定流程，Orchestration编排多步骤，Automation自动化任务

@@ -1487,3 +1487,7 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[AI硬件"退烧"之后:从AI Pin到AI PC,行业开始进入"务实时代"](https://baijiahao.baidu.com/s?id=1865149523412964255)** Humane AI Pin被惠普收购，Rabbit R1陷入口碑争议，行业重新回到务实问题
 - **[2026智能眼镜"百镜争鸣",谷歌/阿里/微美全息引领AR/XR产业全面升级](https://baijiahao.baidu.com/s?id=1865141974323247718)** 阿里千问AI眼镜S1升级主动服务，谷歌AI智能眼镜携手Warby Parker和Gentle Monster
 - **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 中国AI Agent产品Manus一夜刷屏，全球首款通用Agent在GAIA基准测试中取得SOTA
+
+### 2026-05-16
+- **[2025 OpenAI 重磅发布:ChatGPT-5 完整解析](https://blog.csdn.net/zsh_1314520/article/details=160991150)** GPT-5原生支持中文，8亿用户中32%来自中国，截至5月已迭代至GPT-5.5版本
+- **[一文读懂Grok 4发布会](https://blog.csdn.net/zsh_1314520/article/details=161015379)** 多智能体协作架构，X平台实时数据接入，25.6万Token上下文

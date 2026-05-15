@@ -1347,3 +1347,8 @@ description: 主流大模型能力对比与选型参考
 - **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini3.1Pro支持200万token超长上下文，GPT-4o生态成熟度最高，Claude3.5代码逻辑严谨
 - **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据，从效率维度横向对比Claude 4.6、GPT-5.4、Gemini 3.1 Pro
 - **[2026年AI辅助编程实测指南:Gemini 3.1 Pro vs GPT-4o vs Claude 3.5](https://my.oschina.net/u_3907323/blog/19661520)** Claude 3.5平均得分83.7分位列第一，GPT-4o得分82.5分紧随其后
+
+### 2026-05-16
+- **[GPT-5.5 vs Claude 4 vs Gemini 2.5:三大模型横评](https://blog.csdn.net/weixin_46086205/article/details=160974921)** GPT-5.5在Terminal-Bench 2.0达82.7%，Claude在SWE-bench代码准确率80.9%领先
+- **[Gemini 3.1 Pro全面解析](https://blog.csdn.net/2601_96016718/article/details/161002300)** ARC-AGI-2基准77.1%验证得分，采用稀疏混合专家架构，推理效率提升60%
+- **[当前综合表现对比:Gemini、Claude、ChatGPT、DeepSeek和Grok](https://www.zhihu.com/answer/2037930796170879997)** 2026年进入按需选型组合使用时代，Gemini性价比高、Claude代码强、GPT工具编排优
