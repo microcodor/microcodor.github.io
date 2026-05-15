@@ -6,9 +6,6 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-05-15
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
-- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长，凭借开源生态以及Agent Skills等应用引发出多种新玩法
-- **[助力提升DAA,百度智能云全面升级为面向智能体的新全栈AI云](https://baijiahao.baidu.com/s?id=1865052622245120781)** 百度智能云升级，相比OpenClaw可减少23%的token消耗
-- **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw仅用60天打破React十年GitHub Star纪录，黄仁勋称其意义堪比Windows之于个人计算的变革
 
 ### 2026-05-14
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进
@@ -1447,10 +1444,3 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[AReaL v1.0落地昇腾:快速接入OpenClaw类Agent RL后训练](https://baijiahao.baidu.com/s?id=1862635419835617011)** 华为AReaL在昇腾AI平台完成适配，全面打通大规模MoE模型训练与Agent场景落地
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用 Agent"
 - **[重构与崛起--OpenClaw时代的中国Agent产业生态报告](https://cj.sina.com.cn/articles/view/1716314577/664ce1d100101jp0k)** 易观分析发布中国Agent产业生态报告，解读价值链与破局路径
-
-### 2026-05-15
-- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
-- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
-- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年初OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长
-- **[助力提升DAA,百度智能云全面升级为面向智能体的新全栈AI云](https://baijiahao.baidu.com/s?id=1865052622245120781)** 百度智能云升级，相比OpenClaw可减少23%的token消耗
-- **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw仅用60天打破React十年GitHub Star纪录

@@ -1510,3 +1510,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 从提示工程到RAG再到Agentic Workflow，三层阶梯实现10倍生产力提升
 - **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** Wrike发布AI工作流自动化指南，机器学习、NLP、预测分析融入业务
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+
+### 2026-05-15
+- **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n恶意链接上涨686%，平台被威胁行为者大规模武器化
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具横评，Agentforce、Trello、Asana等入选
+- **[每日热门skill:n8n工作流自动化让AI助手变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** OpenClaw生态中的"工作流设计师"，帮你设计生成完整n8n工作流
+- **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行流程，AI Agent具备自主思考决策能力
+- **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** 2026年ERP迎来终极变形，SAP发布AI Agent组合，Oracle重构为Agentic Apps

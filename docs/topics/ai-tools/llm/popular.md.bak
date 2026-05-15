@@ -6,10 +6,6 @@ description: 主流大模型能力对比与选型参考
 ### 2026-05-15
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT作为Apple Intelligence首选
-- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
-- **[大模型黑箱揭秘:GPT、Claude、Gemini、Grok、Hermes 系统提示词全公开](https://developer.cloud.tencent.com/article/2667688)** 系统提示词仓库system_prompts_leaks和CL4R1T4S收录50+模型，涵盖Anthropic/OpenAI/Google/xAI/Perplexity
-- **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini3.1Pro支持200万token超长上下文，GPT-4o生态成熟度最高，Claude3.5代码逻辑严谨
-- **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据，从效率维度横向对比Claude 4.6、GPT-5.4、Gemini 3.1 Pro
 
 ### 2026-05-14
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
@@ -1333,10 +1329,3 @@ description: 主流大模型能力对比与选型参考
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://m.163.com/dy/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，用户可自由选择Claude、Gemini或ChatGPT
 - **[硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?](https://baijiahao.baidu.com/s?id=1863865404649513559)** 芯片工程师Reiner Pope用黑板拆解底层逻辑，单次推理成本可能高出1000倍
 - **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini 3.1 Pro支持200万token超长上下文，Claude 3.5代码逻辑严谨
-
-### 2026-05-15
-- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
-- **[大模型黑箱揭秘:GPT、Claude、Gemini、Grok、Hermes 系统提示词全公开](https://developer.cloud.tencent.com/article/2667688)** 系统提示词仓库system_prompts_leaks和CL4R1T4S收录50+模型，涵盖Anthropic/OpenAI/Google/xAI/Perplexity
-- **[2026年Gemini、GPT-4o、Claude三大模型国内使用全攻略](https://my.oschina.net/u/3061158/blog/19661430)** Gemini3.1Pro支持200万token超长上下文，GPT-4o生态成熟度最高，Claude3.5代码逻辑严谨
-- **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据，从效率维度横向对比Claude 4.6、GPT-5.4、Gemini 3.1 Pro
-- **[2026年AI辅助编程实测指南:Gemini 3.1 Pro vs GPT-4o vs Claude 3.5](https://my.oschina.net/u_3907323/blog/19661520)** Claude 3.5平均得分83.7分位列第一，GPT-4o得分82.5分紧随其后
