@@ -4,6 +4,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ### 2026-05-16
+- **[从"单打独斗"到"AI包工头":揭秘未来5年真正赚钱的商业模式](https://baijiahao.baidu.com/s?id=1865336261985067977&wfr=spider&for=pc)** 一人公司不现实，"空间分布式协作"是真正模式
+- **[AI接手3D打印:从调参噩梦到一键成型](https://www.163.com/dy/article/KT17K7KV05561FZE.html)** 机器学习从五个环节重构增材制造workflow
+- **[本体+大模型:Knora如何破解企业AI落地中的幻觉与执行断层难题](http://finance.sina.com.cn/wm/2026-05-16/doc-inhyassn2417599.shtml)** 悦点科技发布Knora 4.0本体增强AI平台，融合领域本体与AI能力
+- **[AI项目经理Agent:拆解任务、分配资源与监控风险](https://gitcode.csdn.net/6a07508a10ee7a33f272de8f.html)** AI项目经理Agent与AI辅助项目管理工具的五大区别
+- **[把AI Agent变成AI Scientist:135个科研技能,一个命令安装](https://baijiahao.baidu.com/s?id=1865326345084756024&wfr=spider&for=pc)** Scientific Agent Skills涵盖药物发现、临床研究、机器学习、材料科学等135个科研技能
 - **[分布式AI任务执行器:构建安全、可扩展的AI工作流Worker](https://blog.csdn.net/weixin_42538645/article/details=161126474)** 一个专门用于执行AI任务的分布式工作节点，将"大脑"和"四肢"解耦
 - **[阿里AI迎来商业化转折点,正式进化到Token经济了](https://baijiahao.baidu.com/s?id=1865229205534006883)** 阿里AI模型与应用ARR已超过80亿元，预计6月季度将突破100亿元
 - **[企业级 AI 编程王炸:OpenSpec、Superpowers 与 Harness 架构三剑客深度解析](https://www.51cto.com/article/843340.html)** 企业级AI编程需要"规范—纪律—协同"完整三层体系

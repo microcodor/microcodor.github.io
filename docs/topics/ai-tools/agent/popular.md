@@ -3,6 +3,13 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+### 2026-05-16
+- **[从增长验证到交付扩产:迈富时5亿港元市价认购补强智算底座](https://baijiahao.baidu.com/s?id=1865327321414683686&wfr=spider&for=pc)** 5亿港元融资强化智算基础设施，补强"全栈Token工厂"战略
+- **[智能体冲击下的软件业变局:旧墙坍塌 新界未立](https://finance.sina.cn/2026-05-16/detail-inhyankn5740078.d.html)** AI Agent击穿软件行业"高门槛"和"高成本"两道高墙
+- **[摩洛哥小伙在宁波做OPC,用AI“挖”出中国宝藏工厂](http://finance.sina.cn/2026-05-16/detail-inhycchi4325377.d.html)** 摩洛哥青年用AI Agent做跨境采购寻源
+- **[HarmonyOS 6(API 23)实战:HMAF“灵犀智脑”—PC端AI智能体工作流编排平台](https://blog.csdn.net/u014727709/article/details=161144634)** HarmonyOS 6引入HMAF智能体框架
+- **[Agent Harness 深度教学指南:每个 AI Agent 都需要的基础设施](https://timpickle.blog.csdn.net/article/details=161147030)** Agent Harness是模型到Agent落地的关键基础设施
+
 ### 2026-05-15
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 2026年开年以来Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿
 - **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 2025年多模态AI Agent正在引领全感官智能革命，覆盖文本-图像-语音-视频四大维度

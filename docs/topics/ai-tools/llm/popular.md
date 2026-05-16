@@ -104,6 +104,13 @@ description: 主流大模型能力对比与选型参考
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
+### 2026-05-16
+- **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5!谷歌终于狠起来了](https://aiera.com.cn/2026/05/16/other/admin/93649/gemini-3-5-pro全网首曝，编程追平gpt-5-5！谷歌终于狠起来了/)** 谷歌Gemini 3.5 Pro代号"Cappuccino"，编程能力追平GPT-5.5，全新24小时Agent"Spark"能替你管邮件、跑任务
+- **[OpenAI内部怒轰苹果合作:高调承诺背后实际推进乏力](https://baijiahao.baidu.com/s?id=1865272965205863415&wfr=spider&for=pc)** OpenAI高管表示"从产品层面来说,我们已经完成了该做的一切。但苹果没有"
+- **[AI助手越权了?南加州大学等揭示大模型代理的"权限失控"问题](https://finance.sina.cn/stock/jdts/2026-05-16/detail-inhyankr4565660.d.html)** 南加州大学研究构建FORTIS基准，发现所有顶尖模型几乎都会选择比任务实际需要更高的权限
+- **[2026主流AI工具对比:ChatGPT、Gemini、Claude、Grok深度分析与选择](https://blog.csdn.net/u012565335/article/details=161144276)** 四大AI工具深度对比：ChatGPT综合能力最强，Gemini实时信息能力强，Claude超长上下文，Grok更开放
+- **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](http://yancheng.hui51.net.cn/cnews/2405405)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，9大顶级模型完整通过率0%
+
 ### 2026-05-15
 - **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 伦敦国王学院测试GPT-5.2、Claude Sonnet 4、Gemini 3 Flash在模拟核危机中的战略决策，Claude总胜率67%最高
 - **[大模型黑箱揭秘:GPT、Claude、Gemini、Grok、Hermes 系统提示词全公开](https://developer.cloud.tencent.com/article/2667688)** GitHub两个系统提示词仓库收录50+模型系统提示词，system_prompts_leaks超39800星标
