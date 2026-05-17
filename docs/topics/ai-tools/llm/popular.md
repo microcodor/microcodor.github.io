@@ -3,6 +3,9 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-05-17
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
+
 ### 2026-05-16
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 谷歌祭出杀招，全新24小时Agent"Spark"能替你管邮件、跑任务，甚至不问你就下单花钱
 - **[传OpenAI不满苹果合作成效,考虑法律途径解决纠纷](https://www.163.com/dy/article/KSV7V45V0519QIKK.html)** OpenAI与苹果之间长达两年的合作关系已经变得紧张，目前正在准备可能采取的法律行动

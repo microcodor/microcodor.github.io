@@ -3,6 +3,13 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+### 2026-05-17
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** 2025年最值得关注的7个AI Agent框架：AutoML-Next、SwarmLearner 3.0、OmniAgent、CausalNet、EdgeMind等，代表不同维度的技术突破
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五个核心技术特征：自主性、感知能力、决策能力、行动能力、适应性，包含四大核心组件
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 2025年AI Agent迎来关键升级，多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 深入解析18种Agent架构模式，从独狼到军团的演进
+
 ### 2026-05-16
 - **[从增长验证到交付扩产:迈富时5亿港元市价认购补强智算底座](https://baijiahao.baidu.com/s?id=1865327321414683686&wfr=spider&for=pc)** 5亿港元融资强化智算基础设施，补强"全栈Token工厂"战略
 - **[智能体冲击下的软件业变局:旧墙坍塌 新界未立](https://finance.sina.cn/2026-05-16/detail-inhyankn5740078.d.html)** AI Agent击穿软件行业"高门槛"和"高成本"两道高墙

@@ -3,6 +3,13 @@ title: 热点主题清单
 description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ---
 
+### 2026-05-17
+- **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312&wfr=spider&for=pc)** AI相关业务营收184.66亿元占比52.6%，同比增速超40%
+- **[值得买披露2025成绩单:经营效率持续提升 AI驱动高质量发展](https://baijiahao.baidu.com/s?id=1863345564543468434&wfr=spider&for=pc)** AI相关收入8716.60万元，整体毛利率提升至50.17%
+- **[网易有道2025年经营利润增近五成,AI订阅能否撑起未来](https://baijiahao.baidu.com/s?id=1863039342562313004&wfr=spider&for=pc)** 推出桌面级Agent LobsterAI，GitHub Star数突破5000
+- **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品Manus在GAIA基准测试中超越OpenAI
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布AI智能头盔，内置骑手AI助手"AI小饿"，已覆盖数百万蓝骑士
+
 ### 2026-05-16
 - **[2026儿童智能眼镜深度调研:鲸鸣视控以AI智能+数据化破解家庭近视防控难题](https://baijiahao.baidu.com/s?id=1865340502254883736&wfr=spider&for=pc)** 2026年被视为儿童智能眼镜爆发元年，鲸鸣视控A控儿童智能眼镜完成产品迭代升级
 - **[“AI+”,这样赋能制造全流程](https://baijiahao.baidu.com/s?id=1865291483927245953&wfr=spider&for=pc)** 中国工程院院士戴琼海："AI+制造"将带来"核爆级"的提升

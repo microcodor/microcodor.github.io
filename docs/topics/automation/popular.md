@@ -3,6 +3,13 @@ title: 主流平台与生态
 description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
+### 2026-05-17
+- **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 三个月从提示工程到RAG再到智能体工作流，10倍效率提升的实现路径
+- **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持Copilot/Claude/Codex订阅
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[每日热门skill:n8n工作流自动化让AI助手变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details/161003687)** OpenClaw生态中的"工作流设计师"，帮你设计生成完整n8n工作流
+- **[AI工作流——让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 2025年之后所有真正能落地的AI产品几乎都长成"工作流"的样子
+
 ### 2026-05-16
 - **[从"单打独斗"到"AI包工头":揭秘未来5年真正赚钱的商业模式](https://baijiahao.baidu.com/s?id=1865336261985067977&wfr=spider&for=pc)** 一人公司不现实，"空间分布式协作"是真正模式
 - **[AI接手3D打印:从调参噩梦到一键成型](https://www.163.com/dy/article/KT17K7KV05561FZE.html)** 机器学习从五个环节重构增材制造workflow

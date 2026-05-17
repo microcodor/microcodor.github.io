@@ -3,6 +3,13 @@ title: OpenCLAW 资讯
 description: OpenCLAW AI Agent 框架最新动态
 ---
 
+### 2026-05-17
+- **[九号率先接入 OpenClaw,AI Agent 开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** 九号公司宣布率先支持OpenClaw接入，成为两轮电动车行业首个接入该AI Agent生态的品牌
+- **[Hermes与Openclaw:一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425&wfr=spider&for=pc)** Hermes Agent日均2710亿Token调用量登顶全球应用Token消耗榜榜首
+- **[四个真实场景还原ToClaw:当远程控制遇上AI Agent,一场生产力革命悄然开始](https://baijiahao.baidu.com/s?id=1862697254001440120&wfr=spider&for=pc)** ToDesk推出ToClaw，实现真正意义上的"零门槛"部署
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP明确限制通过API接入"能规划、选择或执行一系列API调用"的半自主或生成式AI系统
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过OpenClaw实现智能运维，以自然语言管理Zabbix系统
+
 ### 2026-05-16
 - **[九号率先接入 OpenClaw,AI Agent 开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** 九号公司宣布率先支持OpenClaw接入，成为两轮电动车行业首个接入该AI Agent生态的品牌
 - **[Hermes与Openclaw:一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425&wfr=spider&for=pc)** Hermes Agent日均2710亿Token调用量登顶全球应用Token消耗榜榜首
