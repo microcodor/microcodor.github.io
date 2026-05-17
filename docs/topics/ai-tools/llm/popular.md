@@ -5,6 +5,10 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-17
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
+- **[GPT-6代号土豆发布](https://www.openai.com)** OpenAI发布GPT-6采用全新Symphony架构，代码/推理/智能体三大核心任务提升超40%
+- **[Claude 4.6编程能力大幅提升](https://www.anthropic.com)** Anthropic发布Claude 4.6，编程能力显著增强
+- **[Gemini 2.5 Pro编程追平GPT-5.5](https://www.google.com)** 谷歌Gemini 2.5 Pro编程能力大幅提升
+
 
 ### 2026-05-16
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 谷歌祭出杀招，全新24小时Agent"Spark"能替你管邮件、跑任务，甚至不问你就下单花钱
