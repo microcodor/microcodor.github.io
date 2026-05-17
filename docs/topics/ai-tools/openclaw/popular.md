@@ -1493,3 +1493,11 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[科技发布《AI 趋势研究白皮书 2026Q1》](http://k.sina.com.cn/article_7857201856_1d45362c001905i99g.html)** 五种Agent产品在Q1同时出现，九家中国公司推桌面Agent产品，Harness Engineering 6周完成行业共识
 - **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrmyf1283945.shtml)** Peekaboo v3实现像素级截图、UI元素读取、鼠标键盘操作，Agent能在Mac上替我们打工
 - **[智能体元年的技术分野:OpenClaw与Hermes的哲学对决](https://www.163.com/dy/article/KSVQ6PAQ0556FSV9.html)** "调度中心模式"与"持续学习模式"两条路径的正式分野
+
+### 2026-05-18
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
+- **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何“被迫”长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入"能规划、选择或执行一系列API调用"的半自主或生成式AI系统
+- **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://www.woshipm.com/?p=6394538)** AI产业正迎来格局重塑的关键节点，旧壁垒加速瓦解，新赛道红利涌现
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过OpenClaw实现智能运维，以自然语言管理Zabbix系统
+

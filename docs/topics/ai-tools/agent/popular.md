@@ -317,3 +317,10 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-05-16
 - **[百度现在更像一家AI Infra公司](https://baijiahao.baidu.com/s?id=1865085511795914043)** 百度重构"芯片-AI云-模型-智能体"新全栈AI，面向亿级Agent运行需求
 - **[AI Agent概念百科](https://baike.baidu.com/item/AI%20Agent/63546393)** AI Agent具备自主理解、感知、规划、记忆和使用工具的能力，核心特征为主动思考与跨工具操作
+
+### 2026-05-18
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿，豆包日均使用量3个月内翻倍至120万亿
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** LangChain、AutoGen、CrewAI、Semantic Kernel等11个最佳AI Agent框架深度对比
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** AutoML-Next、SwarmLearner 3.0、OmniAgent、CausalNet、EdgeMind等7个框架代表不同维度的技术突破
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details=157802573)** 实在Agent的TOTA架构与ISS屏幕语义理解，主流平台已累计支持构建超过130万个智能体
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、动态加载、权限控制和依赖注入

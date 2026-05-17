@@ -1380,3 +1380,9 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-5.5 vs Claude 4 vs Gemini 2.5:三大模型横评](https://blog.csdn.net/weixin_46086205/article/details=160974921)** GPT-5.5在Terminal-Bench 2.0达82.7%，Claude在SWE-bench代码准确率80.9%领先
 - **[Gemini 3.1 Pro全面解析](https://blog.csdn.net/2601_96016718/article/details/161002300)** ARC-AGI-2基准77.1%验证得分，采用稀疏混合专家架构，推理效率提升60%
 - **[当前综合表现对比:Gemini、Claude、ChatGPT、DeepSeek和Grok](https://www.zhihu.com/answer/2037930796170879997)** 2026年进入按需选型组合使用时代，Gemini性价比高、Claude代码强、GPT工具编排优
+
+### 2026-05-18
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** Claude适合推理密集型任务，GPT通用任务首选，Gemini多模态性价比高，DeepSeek批量处理成本低
+- **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
+

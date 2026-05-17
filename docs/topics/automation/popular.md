@@ -1555,3 +1555,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI与自动化工作流结合，AI成为智能决策节点，理解意图后自动执行后续操作
 - **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow刚性执行vs AI Agent柔性应变，容错能力是核心分水岭
 - **[用AI工作,这些关键字你不能不知道](https://blog.csdn.net/m0_54138660/article/details=160937709)** Workflow是固定流程，Orchestration编排多步骤，Automation自动化任务
+
+### 2026-05-18
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款最佳AI工作流自动化工具横评，Agentforce、Trello、Asana等入选
+- **[Workflow automation](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 微软发布工作流自动化最佳实践，从高影响力工作流开始，整合AI到能显著改善决策的领域
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** 微软推出Zapier AI Workflows，自动化高级工作流，支持AI处理IT支持工单
+- **[工作流程自動化工具建置更智能的系統](https://www.microsoft.com/zh-tw/microsoft-copilot/copilot-101/workflow-automation/)** 了解工作流程自動化如何簡化任務、提升生產力並幫助您的團隊專注
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出AI Workflow，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+
