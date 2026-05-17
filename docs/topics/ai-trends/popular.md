@@ -4,6 +4,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ---
 
 ### 2026-05-17
+- **[1000件AI产品亮相!2025全球人工智能终端展将在深圳举行](https://baijiahao.baidu.com/s?id=1831914748957379513&wfr=spider&for=pc)** 2025全球人工智能终端展暨第六届深圳国际人工智能展览会(GAIE)5月22日至24日举办
+- **[阿里巴巴发布2025财年第四季度财报](https://finance.eastmoney.com/a/202505153405905055.html)** 阿里AI产品爆发，AI相关产品收入连续七个季度三位数增长
+- **[奥特曼最新专访:2025年将是"AI智能体突破年"](https://mp.weixin.qq.com/s?__biz=MjM5NDA1NzIwMA==&mid=2650673399&idx=1&sn=b3576eab75ff87a72ae97b49fd15c04c&chksm=bf6e72e8b65c1cde56801c9b9e10949d437e82d592a16d9fe06ef42b7a48f28c13f0c1350f00&scene=27)** 2025智能体大规模上岗，2026具备自主发现新知识能力，2027进入物理世界
+- **[2025全球人工智能终端展将举办](https://m.10jqka.com.cn/20250516/c668206411.shtml)** 超1000件AI终端产品，2.5万平方米规模
+- **[2025年是AI智能体规模应用的"拐点时刻"](https://baijiahao.baidu.com/s?id=1831695558491519210&wfr=spider&for=pc)** Gartner预测企业软件整合自主型AI比例将从2024年不足1%跃升至2028年33%
+
+### 2026-05-17
 - **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312&wfr=spider&for=pc)** AI相关业务营收184.66亿元占比52.6%，同比增速超40%
 - **[值得买披露2025成绩单:经营效率持续提升 AI驱动高质量发展](https://baijiahao.baidu.com/s?id=1863345564543468434&wfr=spider&for=pc)** AI相关收入8716.60万元，整体毛利率提升至50.17%
 - **[网易有道2025年经营利润增近五成,AI订阅能否撑起未来](https://baijiahao.baidu.com/s?id=1863039342562313004&wfr=spider&for=pc)** 推出桌面级Agent LobsterAI，GitHub Star数突破5000

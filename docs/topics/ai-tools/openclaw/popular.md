@@ -4,6 +4,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ### 2026-05-17
+- **[GitHub - voocel/openclaw-mini](https://github.com/voocel/openclaw-mini/)** OpenClaw核心架构的极简复现，涵盖sessionKey会话域、队列串行、工具化记忆检索
+- **[酷特智能:公司与华为合作的为正在升级的酷特AI Agent 2.0版本](https://t.cj.sina.cn/articles/view/5044281310/12ca99fde02002d00o)** 预计2025年内研发升级完成
+- **[字节跳动开源了多代理框架 DeerFlow](https://www.zhihu.com/question/1905229825720977380/answer/1905912463830021076)** 用langgraph做动态dag，工具只能调用MCP
+- **[传智教育黑马程序员大焕新](http://finance.sina.com.cn/jjxw/2025-05-14/doc-inewprww0930851.shtml)** 全部课程实现AI化
+
+### 2026-05-17
 - **[九号率先接入 OpenClaw,AI Agent 开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** 九号公司宣布率先支持OpenClaw接入，成为两轮电动车行业首个接入该AI Agent生态的品牌
 - **[Hermes与Openclaw:一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425&wfr=spider&for=pc)** Hermes Agent日均2710亿Token调用量登顶全球应用Token消耗榜榜首
 - **[四个真实场景还原ToClaw:当远程控制遇上AI Agent,一场生产力革命悄然开始](https://baijiahao.baidu.com/s?id=1862697254001440120&wfr=spider&for=pc)** ToDesk推出ToClaw，实现真正意义上的"零门槛"部署

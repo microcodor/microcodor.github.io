@@ -4,6 +4,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ### 2026-05-17
+- **[三种常见"智能方案"的差异、优势与落地思路](https://www.jianshu.com/p/38cbb467806b)** Automation、AI Workflow、AI Agent三方案对比与技术组成分析
+- **[从Arc,Dia,Fellou之后,AI的风刮到了浏览器](https://new.qq.com/rain/a/20250517A06SCY00)** Browser Use开源网络自动化工具，Manus驱动走红
+- **[效率党必看!扣子、Dify、N8N 深度测评](https://blog.csdn.net/Z_Flank/article/details/148021996)** 扣子、Dify、N8N深度测评，开源通用自动化工具对比
+- **[AI Agent从零到精通](https://blog.csdn.net/Rhett_Butler0922/article/details/147988352)** 深度解析Workflow、Prompt、Multi-Agent Systems和RL Training
+- **[从零开始学 Dify 工作流系统架构](https://blog.csdn.net/2401_85373898/article/details/147978784)** Dify工作流系统架构详解，前端编辑器和后端执行引擎
+
+### 2026-05-17
 - **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 三个月从提示工程到RAG再到智能体工作流，10倍效率提升的实现路径
 - **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持Copilot/Claude/Codex订阅
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

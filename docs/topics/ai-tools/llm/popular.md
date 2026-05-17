@@ -4,6 +4,13 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ### 2026-05-17
+- **[Gemini 2.5 Pro (I/O edition) 新一代最强编程模型](https://blog.csdn.net/qq8864/article/details/147993532)** 谷歌发布Gemini 2.5 Pro，在AiderPolyglot评测中超越Claude 3.7 Sonnet登顶
+- **[2025年最新中转API接入指南](https://www.bilibili.com/opus/1065995210580819975)** 一键接入GPT/Claude/Gemini，DeepSeek R1、Grok 3等免费测试
+- **[Best in AI - 2025年5月Coding](https://xueqiu.com/9347614895/334768030)** Gemini 2.5 Pro性能显著领先，OpenAI o3、Gemini拉开与竞争对手差距
+- **[Grok、Claude、ChatGPT、Gemini模型适用场景比较](https://baijiahao.baidu.com/s?id=1831866675574794966)** 四大主流AI模型适用场景详细比较，结合2025年最新技术趋势
+- **[谷歌放大招!新版 Gemini 2.5 Pro 碾压 Claude、GPT](https://zhuanlan.zhihu.com/p/1903673841831617841)** WebDev Arena排行榜领先Claude 3.7约63分，LMArena超越OpenAI o3
+
+### 2026-05-17
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
 - **[GPT-6代号土豆发布](https://www.openai.com)** OpenAI发布GPT-6采用全新Symphony架构，代码/推理/智能体三大核心任务提升超40%
 - **[Claude 4.6编程能力大幅提升](https://www.anthropic.com)** Anthropic发布Claude 4.6，编程能力显著增强
