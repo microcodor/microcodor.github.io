@@ -11,6 +11,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Hermes Agent,会是继OpenClaw之后的另一个爆款吗?](https://baijiahao.baidu.com/s?id=1865415430343189618&wfr=spider&for=pc)** 从"Windows"领域的操作系统OpenClaw到拥有进化器官的数字生命体Hermes Agent
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP明确限制通过API接入能规划、选择或执行一系列API调用的半自主或生成式AI系统
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过OpenClaw实现智能运维，以自然语言管理Zabbix系统
+- **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443&wfr=spider&for=pc)** 核心开发者谈爆火之后大厂入局、中国社群特色、专业人士花费、方法论等话题
 
 ### 2026-05-17
 - **[GitHub - voocel/openclaw-mini](https://github.com/voocel/openclaw-mini/)** OpenClaw核心架构的极简复现，涵盖sessionKey会话域、队列串行、工具化记忆检索

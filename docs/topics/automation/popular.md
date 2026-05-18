@@ -11,6 +11,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI Workflow Automation Software Guide & Tools](https://www.larksuite.com/en_us/blog/ai-workflow-automation)** Top AI workflow automation tools: Lark, Zapier, Make, UiPath, Workato
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://new.qq.com/rain/a/20260430A01V2A00)** Skill是AI世界里的菜谱，让AI能稳定交付高质量结果
+- **[AI App Builder: Vibe Code Apps, AI Agents & Workflow Automations](https://www.taskade.com/ai/workflows)** Taskade Genesis Flow Builder可视化自动化流程构建器，拖拽式设计、AI决策节点
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器，核心架构四组件
+- **[告别加班!AI自动化工作流:让办公效率实现"降维打击"的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->AI->人->AI->人 到 人->触发源->AI节点A->处理节点B->输出节点C
 
 ### 2026-05-17
 - **[三种常见"智能方案"的差异、优势与落地思路](https://www.jianshu.com/p/38cbb467806b)** Automation、AI Workflow、AI Agent三方案对比与技术组成分析

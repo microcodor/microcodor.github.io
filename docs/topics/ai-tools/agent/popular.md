@@ -6,6 +6,15 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-18
+- **[AI早已学会反思组队记忆,甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式全解析，从"独狼"到"军团"，反思模式、记忆模式、协作模式等
+- **[为什么83%的企业在2025年底紧急替换AI Agent?2026年必须升级的4个底层能力清单](https://blog.csdn.net/FastCompile/article/details/161043131)** 实时多源异步状态同步失效、可验证的决策溯源链、动态工具拓扑感知、跨Agent协作可信协商
+- **[你的Backtrader该扔了:2025年AI Agent驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** Agent = 感知 + 大脑 + 工具，新架构核心解析与Python实现
+- **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details/161145526)** Spring AI/LangChain4j/Semantic Kernel/Java ADK对比，MCP成为78%企业首选协议
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/AO7w2lTLI/article/details/161112605)** Microsoft Agent Framework与Semantic Kernel关系解析，MAF成官方继任者
+
+## 近期动态
+
+### 2026-05-18
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965&wfr=spider&for=pc)** 2026年开年以来Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿，Token增长模型正成为衡量AI产业价值的核心指标
 - **[政策+需求推动,Token经济再加速](https://new.qq.com/rain/a/20260518A04RH600)** Token是人工智能大模型处理、分析与生成文本信息的最小计量单位，正成为智能时代的价值锚点和结算单位
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 2025年最值得关注的7个AI Agent框架：AutoML-Next、SwarmLearner 3.0、OmniAgent、CausalNet、EdgeMind等

@@ -11,6 +11,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品Manus在GAIA基准测试中取得SOTA成绩
 - **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布AI智能头盔，内置骑手AI助手"AI小饿"，已覆盖数百万蓝骑士，累计主动服务超16亿次
 - **[AI眼镜创新趋势洞察:凭"创"突围,以"新"破局](https://baijiahao.baidu.com/s?id=1865236155838069253&wfr=spider&for=pc)** 2025年全球AI眼镜出货量870万台同比大幅增长322%，光峰科技、科大讯飞等技术突破
+- **[活动|结果公布:2026福布斯中国人工智能科技企业TOP 50评选](https://baijiahao.baidu.com/s?id=1865430330568971731&wfr=spider&for=pc)** 中国AI企业超4800家，核心产业规模6800亿元，新增五大子评选方向
+- **[调研速递|三维天地AI业务收入2548万元实现商业化突破](https://baijiahao.baidu.com/s?id=1865252200372041577&wfr=spider&for=pc)** SunwayLink AI智能体开发平台商业化落地，企业级AI收入达2548万元
+- **[造一台AI PC=跑一遍AI基建——重新认识"创新的联想"](https://baijiahao.baidu.com/s?id=1865083377872050265&wfr=spider&for=pc)** 联想天禧AI 3.7系统发布，天禧Claw基于OpenClaw架构
+- **[雷神ZERO 18](https://baike.baidu.com/item/雷神ZERO%2018/62569860)** 旗舰AI游戏本发布，Ultra 9 275HX+RTX 5090，270W性能释放
 
 ### 2026-05-17
 - **[1000件AI产品亮相!2025全球人工智能终端展将在深圳举行](https://baijiahao.baidu.com/s?id=1831914748957379513&wfr=spider&for=pc)** 2025全球人工智能终端展暨第六届深圳国际人工智能展览会(GAIE)5月22日至24日举办

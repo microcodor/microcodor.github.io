@@ -11,6 +11,8 @@ description: 主流大模型能力对比与选型参考
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** Gemini 3.2 Flash单次提示狂飙2200行代码，直接把自家旗舰Pro按在地上摩擦
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** ProgramBench第一次把问题推进到真正的软件工程层面，所有模型0%完成率
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://m.163.com/dy/article/KT3KJLJ505561FZY.html)** 四大模型成本对比分析，场景一/二/三真实成本测算
+- **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** 单次生成2200行代码、手搓Windows98，编码能力碾压旗舰款
 
 ### 2026-05-17
 - **[Gemini 2.5 Pro (I/O edition) 新一代最强编程模型](https://blog.csdn.net/qq8864/article/details/147993532)** 谷歌发布Gemini 2.5 Pro，在AiderPolyglot评测中超越Claude 3.7 Sonnet登顶
