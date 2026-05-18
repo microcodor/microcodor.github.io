@@ -4,6 +4,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ---
 
 ## 近期动态
+### 2026-05-19
+- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
+- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
+- **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
+
 
 ### 2026-05-18
 - **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312&wfr=spider&for=pc)** AI相关业务营收184.66亿元占比52.6%，同比增速超40%，华方A800TA3超节点服务器规模化量产

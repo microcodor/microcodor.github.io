@@ -4,6 +4,10 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ## 近期动态
+### 2026-05-19
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** Your own personal AI assistant, 372K stars
+- **[DeerFlow](https://github.com/bytedance/deer-flow)** An open-source long-horizon SuperAgent harness, 68K stars
+
 
 ### 2026-05-18
 - **[OpenClaw 凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865492701930414645&wfr=spider&for=pc)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗，OpenClaw是Agent终极形态吗

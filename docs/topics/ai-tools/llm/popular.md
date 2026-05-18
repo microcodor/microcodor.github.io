@@ -4,6 +4,10 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+### 2026-05-19
+- **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** The agent harness performance optimization system, 186K stars
+- **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** Full system prompts of Claude Code, Cursor, Devin AI, and more, 137K stars
+
 
 ### 2026-05-18
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299&wfr=spider&for=pc)** Meta联合斯坦福、哈佛发布ProgramBench，所有顶级模型完整通过率0%，首次真正测试从零构建软件能力

@@ -4,6 +4,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-19
+- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
+- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
+- **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
+
 
 ### 2026-05-18
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows for intelligent decision-making, Multi-Agent Coordination, Contextual Processing, Learning Automation

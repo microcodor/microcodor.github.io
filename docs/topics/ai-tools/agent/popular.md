@@ -4,6 +4,12 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ## 近期动态
+### 2026-05-19
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** The agent that grows with you, 156K stars
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** An open-source AI agent that brings the power of Gemini directly into your terminal, 104K stars
+- **[agency-agents](https://github.com/msitarzewski/agency-agents)** A complete AI agency at your fingertips - Each agent is a specialized expert with personality, 99K stars
+- **[autoresearch](https://github.com/karpathy/autoresearch)** AI agents running research on single-GPU nanochat training automatically, 81K stars
+
 
 ### 2026-05-18
 - **[AI早已学会反思组队记忆,甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式全解析，从"独狼"到"军团"，反思模式、记忆模式、协作模式等
