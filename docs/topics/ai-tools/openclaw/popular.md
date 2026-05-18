@@ -9,6 +9,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865492701930414645&wfr=spider&for=pc)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗，OpenClaw是Agent终极形态吗
 - **[Hermes 与Openclaw:一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425&wfr=spider&for=pc)** Hermes Agent日均2710亿Token登顶全球应用Token消耗榜榜首，对OpenClaw范式的系统化优化
 - **[Hermes Agent,会是继OpenClaw之后的另一个爆款吗?](https://baijiahao.baidu.com/s?id=1865415430343189618&wfr=spider&for=pc)** 从"Windows"领域的操作系统OpenClaw到拥有进化器官的数字生命体Hermes Agent
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322&wfr=spider&for=pc)** 不到半年143次更新最后长出一套企业级安全体系，安全能力是被真实威胁逼出的工程选择
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553&wfr=spider&for=pc)** SAP明确限制通过API接入能规划、选择或执行一系列API调用的半自主或生成式AI系统
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546&wfr=spider&for=pc)** 通过OpenClaw实现智能运维，以自然语言管理Zabbix系统
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443&wfr=spider&for=pc)** 核心开发者谈爆火之后大厂入局、中国社群特色、专业人士花费、方法论等话题
