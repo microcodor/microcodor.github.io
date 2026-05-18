@@ -3,6 +3,15 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+## 近期动态
+
+### 2026-05-18
+- **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299&wfr=spider&for=pc)** Meta联合斯坦福、哈佛发布ProgramBench，所有顶级模型完整通过率0%，首次真正测试从零构建软件能力
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137&wfr=spider&for=pc)** GPT-5.5在Terminal-Bench 2.0复杂命令行工作流准确率达82.7%，智能体能力实用化突破
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** Gemini 3.2 Flash单次提示狂飙2200行代码，直接把自家旗舰Pro按在地上摩擦
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** ProgramBench第一次把问题推进到真正的软件工程层面，所有模型0%完成率
+
 ### 2026-05-17
 - **[Gemini 2.5 Pro (I/O edition) 新一代最强编程模型](https://blog.csdn.net/qq8864/article/details/147993532)** 谷歌发布Gemini 2.5 Pro，在AiderPolyglot评测中超越Claude 3.7 Sonnet登顶
 - **[2025年最新中转API接入指南](https://www.bilibili.com/opus/1065995210580819975)** 一键接入GPT/Claude/Gemini，DeepSeek R1、Grok 3等免费测试

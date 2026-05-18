@@ -3,6 +3,15 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+## 近期动态
+
+### 2026-05-18
+- **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965&wfr=spider&for=pc)** 2026年开年以来Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿，Token增长模型正成为衡量AI产业价值的核心指标
+- **[政策+需求推动,Token经济再加速](https://new.qq.com/rain/a/20260518A04RH600)** Token是人工智能大模型处理、分析与生成文本信息的最小计量单位，正成为智能时代的价值锚点和结算单位
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 2025年最值得关注的7个AI Agent框架：AutoML-Next、SwarmLearner 3.0、OmniAgent、CausalNet、EdgeMind等
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五个核心技术特征：自主性、感知能力、决策能力、行动能力、适应性
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 2025年AI Agent迎来关键升级，多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+
 ### 2026-05-17
 - **[2025版最新AI Agent 智能体开发工作手册详细指南](https://blog.csdn.net/leah126/article/details/147978982)** 从零基础入门到精通，AI Agent智能体开发完整指南，8大步骤覆盖
 - **[2025年是AI智能体规模应用的"拐点时刻"](https://baijiahao.baidu.com/s?id=1831695558491519210&wfr=spider&for=pc)** Gartner预测企业软件整合自主型AI比例将从2024年不足1%跃升至2028年33%
