@@ -10,6 +10,11 @@ description: 主流 Agent 框架与工具链一览
 - **[agency-agents](https://github.com/msitarzewski/agency-agents)** A complete AI agency at your fingertips - Each agent is a specialized expert with personality, 99K stars
 - **[autoresearch](https://github.com/karpathy/autoresearch)** AI agents running research on single-GPU nanochat training automatically, 81K stars
 
+### 2026-05-18
+- **[MCP(Model Context Protocol)实战:让你的AI Agent真正连接世界](https://blog.csdn.net/qq_39914918/article/details/160968610)** MCP解决AI Agent连接外部工具问题，像USB接口一样标准化、即插即用，OpenAI、Google各大框架纷纷跟进支持
+- **[2026年AI Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评结论：LangChain快速验证首选、LlamaIndex企业知识库问答首选、AutoGen多Agent协作、研究型项目自写核心逻辑
+- **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，引入MCP标准协议打通AI与表格的"双向管道"，准确率提升20%-40%
+
 
 ### 2026-05-18
 - **[AI早已学会反思组队记忆,甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式全解析，从"独狼"到"军团"，反思模式、记忆模式、协作模式等

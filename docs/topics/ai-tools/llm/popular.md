@@ -8,6 +8,11 @@ description: 主流大模型能力对比与选型参考
 - **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** The agent harness performance optimization system, 186K stars
 - **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** Full system prompts of Claude Code, Cursor, Devin AI, and more, 137K stars
 
+### 2026-05-18
+- **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** Gemini 3.2 Flash单次生成2200行代码、手搓可运行Windows98，直接把自家旗舰Pro按在地上摩擦
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 在I/O大会前夜悄然灰度上线，编码能力从400-500行飙升至2200行，App端灰度"思考层级"功能
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137&wfr=spider&for=pc)** Terminal-Bench 2.0准确率达82.7%，以一半成本达到行业顶尖性能，智能体能力实用化突破
+
 
 ### 2026-05-18
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299&wfr=spider&for=pc)** Meta联合斯坦福、哈佛发布ProgramBench，所有顶级模型完整通过率0%，首次真正测试从零构建软件能力

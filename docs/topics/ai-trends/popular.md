@@ -9,6 +9,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
 
+### 2026-05-18
+- **[AI眼镜创新趋势洞察:凭"创"突围,以"新"破局](https://baijiahao.baidu.com/s?id=1865236155838069253&wfr=spider&for=pc)** 2025年全球AI眼镜出货量870万台同比大幅增长322%，光峰科技LCoS AR光机、科大讯飞唇动识别多模态降噪等技术突破
+- **[活动|结果公布:2026福布斯中国人工智能科技企业TOP 50评选](https://baijiahao.baidu.com/s?id=1865430330568971731&wfr=spider&for=pc)** 中国AI企业超4800家，核心产业规模6800亿元，新增五大子评选方向
+
 
 ### 2026-05-18
 - **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312&wfr=spider&for=pc)** AI相关业务营收184.66亿元占比52.6%，同比增速超40%，华方A800TA3超节点服务器规模化量产

@@ -8,6 +8,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** Your own personal AI assistant, 372K stars
 - **[DeerFlow](https://github.com/bytedance/deer-flow)** An open-source long-horizon SuperAgent harness, 68K stars
 
+### 2026-05-18
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合、合规私有限制
+- **[OpenClaw低调更新重磅版本,龙虾长手长脚了](http://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrmyf1283945.shtml)** Peekaboo v3版本发布，MAC上实现像素级截图、UI元素读取、点击输入快捷键等操作，真正让Agent在Mac上动手干活
+
 
 ### 2026-05-18
 - **[OpenClaw 凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865492701930414645&wfr=spider&for=pc)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗，OpenClaw是Agent终极形态吗

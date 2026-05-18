@@ -9,6 +9,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
 
+### 2026-05-18
+- **[印度小老板选自动化工具:Zapier、Make、n8n谁更划算](https://www.163.com/dy/article/KT6A8O9K05561FZJ.html)** Zapier集成6000+应用但按任务计费成本高，Make可视化画布按操作打包更划算，n8n可私有化部署适合开发者
+- **[月付不到100美元,一个人怎么搭AI自动化系统](https://www.163.com/dy/article/KT687ORI05561FZM.html)** n8n加语言模型一个人一下午搭建AI自动化系统，四类用例：入站支持路由、线索筛选、内容生成、CRM清理
+- **[别再死磕n8n了!2026年自动化新趋势:Agent工作流程完整教学](https://post.smzdm.com/p/aomlv8ln/)** 代理式工作流程(Agentic Workflows)用自然语言代替拖曳节点，预计2027年50%企业部署Agentic systems
+
 
 ### 2026-05-18
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows for intelligent decision-making, Multi-Agent Coordination, Contextual Processing, Learning Automation
