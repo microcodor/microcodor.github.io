@@ -9,6 +9,11 @@ description: 主流 Agent 框架与工具链一览
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** An open-source AI agent that brings the power of Gemini directly into your terminal, 104K stars
 - **[agency-agents](https://github.com/msitarzewski/agency-agents)** A complete AI agency at your fingertips - Each agent is a specialized expert with personality, 99K stars
 - **[autoresearch](https://github.com/karpathy/autoresearch)** AI agents running research on single-GPU nanochat training automatically, 81K stars
+- **[2025年AI Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs自己写](https://blog.csdn.net/qq_31808385/article/details=160534711)** 2025年Agent框架横评结论：LangChain快速验证首选、LlamaIndex企业知识库问答首选、AutoGen多Agent协作、研究型项目自写核心逻辑
+- **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，引入MCP标准协议打通AI与表格的"双向管道"，准确率提升20%-40%
+- **[AI早已学会反思组队记忆,甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式全解析，从"独狼"到"军团"，反思模式、记忆模式、协作模式等
+- **[为什么83%的企业在2025年底紧急替换AI Agent?2026年必须升级的4个底层能力清单](https://blog.csdn.net/FastCompile/article/details/161043131)** 实时多源异步状态同步失效、可验证的决策溯源链、动态工具拓扑感知、跨Agent协作可信协商
+- **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 从GPT-4o到全场景智能体，多模态融合的飞跃，电商营销素材全自动生成、企业AI电话客服 Agent、AI虚拟主播带货直播系统
 
 - **[中金公司：Agentic AI驱动Token大幅增长，AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，2026年3月全国日均Token调用量突破140万亿，豆包日均使用量翻倍至120万亿。
 - **[收藏必备：2025年最适合开发者的11大AI智能体框架全面对比](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、CrewAI、AutoGen等主流框架对比，覆盖工具集成、工作流编排、多Agent协作等核心能力。

@@ -11,6 +11,8 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI API比价：Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本，Claude强在代码生成与复杂推理，GPT适合结构化输出，Gemini多模态性价比最优。
 - **[伦敦国王学院AI模拟核决策：Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 21场核危机博弈中Claude总胜率67%，高压截止场景下GPT胜率75%反超，揭示不同模型在战略博弈中的行为差异。
 - **[从模型接入到网关治理：一站式调用GPT/Claude/Gemini的工程化实践](https://developer.aliyun.com/article/1732531)** 统一AI Gateway架构设计，业务代码不依赖特定厂商，新模型上线只改网关配置，支持模型路由与fallback策略。
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 在I/O大会前夜悄然灰度上线，编码能力从400-500行飙升至2200行
 
 ### 2026-05-18
 - **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** Gemini 3.2 Flash单次生成2200行代码、手搓可运行Windows98，直接把自家旗舰Pro按在地上摩擦

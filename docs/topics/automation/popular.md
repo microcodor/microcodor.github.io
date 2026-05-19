@@ -8,10 +8,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
-- **[Dify AI Workflow：通过可预测输出克服LLM不确定性](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow支持拖放式多步骤逻辑生成，提供LLM选择、工具、意图分类器等核心节点，自定义Python/Node.js代码实现复杂数据操作。
-- **[微软Copilot工作流自动化最佳实践](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 从高频场景入手整合AI到数据分析，无缝衔接到现有系统，逐步扩展自动化范围，强调数据安全与合规。
-- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello AI工具等11款主流工具，聚焦任务管理、Agentic支持等场景，为不同团队提供选型参考。
-- **[AI Workflow自动化编排与流程引擎实现](https://www.dtstack.com/bbs/article/454654)** 探讨AI Workflow与传统BPM引擎的核心区别：动态异构编排、资源感知调度、多模型并行推理与异常熔断机制。
+- **[Dify AI Workflow：通过可预测输出克服LLM不确定性](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow支持拖放式多步骤逻辑生成，提供LLM选择、工具、意图分类器等核心节点
+- **[微软Copilot工作流自动化最佳实践](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 从高频场景入手整合AI到数据分析，无缝衔接到现有系统
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello AI工具等11款主流工具
+- **[AI Workflow自动化编排与流程引擎实现](https://www.dtstack.com/bbs/article/454654)** 探讨AI Workflow与传统BPM引擎的核心区别：动态异构编排、资源感知调度
+- **[告别加班!AI自动化工作流:让办公效率实现"降维打击"的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->AI->人->AI->人 到 人->触发源->AI节点A->处理节点B->输出节点C
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器，核心架构四组件
+- **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.html)** Kiro强制"意图优先"，Cursor和Copilot鼓励"代码优先"，三种AI交互风格解析
 
 ### 2026-05-18
 - **[印度小老板选自动化工具:Zapier、Make、n8n谁更划算](https://www.163.com/dy/article/KT6A8O9K05561FZJ.html)** Zapier集成6000+应用但按任务计费成本高，Make可视化画布按操作打包更划算，n8n可私有化部署适合开发者
