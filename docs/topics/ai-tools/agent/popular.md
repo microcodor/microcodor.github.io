@@ -5,6 +5,10 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-05-19
+- **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一,10人小团队三年逆袭故事
+- **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向
+- **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游(Meyo)、字节AI精灵、腾讯元宝、百度文心，四款主流平台核心特征梳理
+
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** The agent that grows with you, 156K stars
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** An open-source AI agent that brings the power of Gemini directly into your terminal, 104K stars
 - **[agency-agents](https://github.com/msitarzewski/agency-agents)** A complete AI agency at your fingertips - Each agent is a specialized expert with personality, 99K stars

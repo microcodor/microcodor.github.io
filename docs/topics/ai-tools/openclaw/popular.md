@@ -5,6 +5,11 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-05-19
+- **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道,中国特色:DeepSeek推理成本低10-50倍
+- **[Token经济学:AI时代的新货币战争](https://baijiahao.baidu.com/s?id=1865391968798312958)** Uber后端11%新代码已由agent完成
+
+
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** Your own personal AI assistant, 372K stars
 - **[DeerFlow](https://github.com/bytedance/deer-flow)** An open-source long-horizon SuperAgent harness, 68K stars
 - **[OpenClaw新版实测：团队部署的五个关键改进](https://www.163.com/dy/article/KT3NREN505561FZN.html)** 2026.5.16 Beta 1发布，多语言onboarding、技能缓存减少重复构建、ambient-room群聊模式、Codex与MCP配置边界收紧

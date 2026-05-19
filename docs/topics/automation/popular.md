@@ -5,6 +5,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-05-19
+- **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向
+- **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游(Meyo)、字节AI精灵、腾讯元宝、百度文心四款主流平台
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows, Multi-Agent Coordination, Contextual Processing
+- **[告别加班!AI自动化工作流:让办公效率实现降维打击的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变:人->AI->人到触发源->AI节点->输出节点
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器核心架构
+
+
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars

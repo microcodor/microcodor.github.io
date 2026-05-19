@@ -5,6 +5,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-05-19
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://m.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 编码能力从400-500行飙升至2200行
+- **[给4个模型各发20美元做播客:谁赚钱了谁离职了](https://baijiahao.baidu.com/s?id=1865528265687395905)** 四模型电台实验半年结果
+
+
 - **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** The agent harness performance optimization system, 186K stars
 - **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** Full system prompts of Claude Code, Cursor, Devin AI, and more, 137K stars
 - **[SWE-Bench作者发布ProgramBench：Claude、GPT、Gemini全模型0%完成率](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布新benchmark，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过，Claude Opus 4.7表现相对最好但仅3%接近完成。

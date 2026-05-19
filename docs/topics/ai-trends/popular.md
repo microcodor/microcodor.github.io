@@ -5,6 +5,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 ### 2026-05-19
+- **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一
+- **[主动接受市场检验,就是摩尔线程的最大优势](https://finance.sina.cn/tech/2026-05-19/detail-inhymuma3114105.d.html)** 摩尔线程2026产品发布会,带来家庭AI中枢
+- **[2026快手生活服务大会解锁服务业发展新机遇](http://news.10jqka.com.cn/00000000/c676794857.shtml)** 快手生活服务收入增长29%,活跃商户数增长57%
+- **[国产GPU第一股要讲新故事,摩尔线程带来家庭AI中枢](https://news.sina.cn/2026-05-19/detail-inhymqce3162942.d.html)** 摩尔线程Q1营收7.38亿元同比增长155%
+
+
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
