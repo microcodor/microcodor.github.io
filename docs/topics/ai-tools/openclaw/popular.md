@@ -1532,3 +1532,7 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[重构与崛起——OpenClaw时代的中国Agent产业生态报告](https://www.woshipm.com/?p=6394538)** AI产业正迎来格局重塑的关键节点，旧壁垒加速瓦解，新赛道红利涌现
 - **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** 通过OpenClaw实现智能运维，以自然语言管理Zabbix系统
 
+
+### 2026-05-20
+- **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 与OpenClaw核心开发者对谈，探讨爆火后大厂入局、中国社群特点等问题
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 分析OpenClaw三阶段崛起、中美Agent不同赛道、从"说着做"到"动手做"的跨越

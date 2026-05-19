@@ -1601,3 +1601,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[工作流程自動化工具建置更智能的系統](https://www.microsoft.com/zh-tw/microsoft-copilot/copilot-101/workflow-automation/)** 了解工作流程自動化如何簡化任務、提升生產力並幫助您的團隊專注
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出AI Workflow，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 
+
+### 2026-05-20
+- **[Automation - Taskade](https://www.taskade.com/wiki/automation)** 将AI代理直接集成到自动化流程中，实现智能决策和多代理协调
+- **[告别加班!AI自动化工作流:让办公效率实现"降维打击"的终极指南](https://blog.51cto.com/u_17661752/14602726)** 构建智能流水线，从单点工具到智能工厂的转型
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 将AI深度嵌入工作流，实现自适应、智能化的生产力模式
+- **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.md)** Copilot被动、Cursor对话、Kiro规格驱动，三种AI交互风格对比
+- **[大模型概念拆解:告别术语混乱,轻松入门](https://blog.csdn.net/m0_48891301/article/details=161073046)** 用餐厅比喻拆解Model/Prompt/Tool/Agent/Workflow/Skill概念

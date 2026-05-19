@@ -1424,3 +1424,10 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** Claude适合推理密集型任务，GPT通用任务首选，Gemini多模态性价比高，DeepSeek批量处理成本低
 - **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
 
+
+### 2026-05-20
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，90%职业开发者使用AI编程工具
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种场景测算成本，混合模型策略最优
+- **[给4个模型各发20美元做播客:谁赚钱了谁离职了?](http://k.sina.com.cn/article_5952915720_162d2490806703y3l2.html)** 四模型电台实验5个月，Claude观点最强、GPT最稳、Gemini最像人
+- **[抢先爆料Gemini3.5,多模态大涨,谷歌正式吹响反攻号角](https://baijiahao.baidu.com/s?id=1865338326021796248)** Gemini 3.5发布，告别敷衍，一个提示出四种高质量SVG设计
+- **[企业级AI排名:Claude涨128%,Gemini涨48%,OpenAI跌8%](https://www.163.com/dy/article/KT6PDOQ40511A6N9.html)** OpenAI仍排第一但优势缩小，Claude采用率从21%增至48%
