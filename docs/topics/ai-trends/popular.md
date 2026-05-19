@@ -14,6 +14,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[福布斯中国2026人工智能科技企业TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865430330568971731)** 中国AI企业超4800家，核心产业规模6800亿元
 - **[造一台AI PC=跑一遍AI基建——重新认识"创新的联想"](https://baijiahao.baidu.com/s?id=1865083377872050265)** 联想天禧AI 3.7系统发布，天禧Claw基于OpenClaw架构
 - **[8家教育企业跻身全球AI TOP100:中腰部产品的突围时刻](https://baijiahao.baidu.com/s?id=1865443089213125663)** Quizlet月访问量7929万，Gauth推出可视化学习产品Gauth Atlas
+- **[2026福布斯中国人工智能科技企业TOP 50评选结果公布!](https://baijiahao.baidu.com/s?id=1865522434883367375)** 新增五大子评选方向，技术突破、商业落地、全球化标杆、可持续发展卓越实践、生态建设与开源贡献
+- **[调研速递|三维天地AI业务收入2548万元实现商业化突破](https://baijiahao.baidu.com/s?id=1865252200372041577)** SunwayLink AI智能体开发平台商业化落地，企业级AI收入达2548万元
+- **[雷神ZERO 18](https://baike.baidu.com/item/%E9%9B%B7%E7%A5%9EZERO%2018/62569860)** 旗舰AI游戏本发布，Ultra 9 275HX+RTX 5090，270W性能释放
+- **[TurboX AI眼镜](https://baike.baidu.com/item/TurboX%20AI%E7%9C%BC%E9%95%96/67791529)** 中科创达发布，采用高通Wear 5100+MCU平台，双芯分布式架构
 
 ### 2026-05-18
 - **[AI眼镜创新趋势洞察:凭"创"突围,以"新"破局](https://baijiahao.baidu.com/s?id=1865236155838069253&wfr=spider&for=pc)** 2025年全球AI眼镜出货量870万台同比大幅增长322%，光峰科技LCoS AR光机、科大讯飞唇动识别多模态降噪等技术突破

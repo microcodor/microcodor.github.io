@@ -12,6 +12,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[九号率先接入OpenClaw，AI Agent开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** ninebot-device-skill上架ClawHub，用户可通过自然语言与车辆交互
 - **[OpenClaw 凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗，OpenClaw是Agent终极形态吗
 - **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合、合规私有限制
+- **[开源CLI星标过万,飞书领跑企业Agent入口争夺赛](https://baijiahao.baidu.com/s?id=1865516996688861702)** 飞书开源CLI，涵盖17项核心业务域200多条子命令
+- **[消失的"龙虾"热:OpenClaw 访问量腰斩,QClaw 暴跌99%](https://baijiahao.baidu.com/s?id=1865579972466712883)** 4月OpenClaw访问量环比跌幅50.67%，QClaw环比暴跌99.19%
 
 ### 2026-05-18
 - **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合、合规私有限制

@@ -13,6 +13,12 @@ description: 主流大模型能力对比与选型参考
 - **[从模型接入到网关治理：一站式调用GPT/Claude/Gemini的工程化实践](https://developer.aliyun.com/article/1732531)** 统一AI Gateway架构设计，业务代码不依赖特定厂商，新模型上线只改网关配置，支持模型路由与fallback策略。
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 在I/O大会前夜悄然灰度上线，编码能力从400-500行飙升至2200行
+- **[给4个模型各发20美元"做播客":谁赚钱了、谁离职了?](https://baijiahao.baidu.com/s?id=1865528265687395905)** 四模型电台实验半年，Claude坚持最久96天、Gemini第96小时"翻车"
+- **[马斯克花100亿想清楚一件事,不做coding agent就是等死](https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyivuf7923755.shtml)** xAI内部已无法使用Claude，被迫开发自己的编码产品和模型
+- **[「国联民生计算机」Claude:AI史上最成功的"逆袭"](https://baijiahao.baidu.com/s?id=1865519127732391787)** Anthropic年化10倍复合增长突破万亿美元估值，Claude企业端市占率或已超越OpenAI
+- **[谷歌开发者大会倒计时!Gemini模型或迎轻量升级 智能眼镜产品线有望重启](https://baijiahao.baidu.com/s?id=1865492187217185121)** I/O大会核心看点：Gemini 3.2/3.5/4.0或发布，全新Agent平台Gemini Spark有望亮相
+- **[一文读懂Token经济学新模式](https://baijiahao.baidu.com/s?id=1865516564498703316)** 中国日均Token调用量两年内从1000亿提升到140万亿以上，增长超千倍
+- **[Claude为什么早晨8:30催你睡觉?](https://baijiahao.baidu.com/s?id=1865355068361583007)** Anthropic员工承认这是"角色习惯"，希望在未来的模型中修复
 
 ### 2026-05-18
 - **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** Gemini 3.2 Flash单次生成2200行代码、手搓可运行Windows98，直接把自家旗舰Pro按在地上摩擦

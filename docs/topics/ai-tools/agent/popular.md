@@ -19,7 +19,9 @@ description: 主流 Agent 框架与工具链一览
 - **[收藏必备：2025年最适合开发者的11大AI智能体框架全面对比](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、CrewAI、AutoGen等主流框架对比，覆盖工具集成、工作流编排、多Agent协作等核心能力。
 - **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层，支持动态加载、权限控制和依赖注入，大幅降低Agent开发门槛。
 - **[2025年AI Agent框架：25个主流框架选型指南](https://blog.csdn.net/libaiup/article/details/152046109)** 涵盖LangChain、CrewAI、AutoGen、Dify、n8n、MetaGPT等13种框架的功能对比与应用案例。
-
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力，内置40多个工具
+- **[AI Agent框架探秘:拆解OpenHands---Microagents](https://blog.csdn.net/ifQ5YF186/article/details=161044585)** 微软推出Microsoft Agent Framework，将Semantic Kernel与AutoGen深度融合
+- **[百度百科AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** AI Agent具备自主理解、感知、规划、记忆和使用工具的能力
 ### 2026-05-18
 - **[MCP(Model Context Protocol)实战:让你的AI Agent真正连接世界](https://blog.csdn.net/qq_39914918/article/details/160968610)** MCP解决AI Agent连接外部工具问题，像USB接口一样标准化、即插即用，OpenAI、Google各大框架纷纷跟进支持
 - **[2026年AI Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评结论：LangChain快速验证首选、LlamaIndex企业知识库问答首选、AutoGen多Agent协作、研究型项目自写核心逻辑

@@ -8,7 +8,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
-- **[Dify AI Workflow：通过可预测输出克服LLM不确定性](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow支持拖放式多步骤逻辑生成，提供LLM选择、工具、意图分类器等核心节点
+- **[AI工具调用框架PocketClaw:从原理到实践,构建大模型的"瑞士军刀"](https://blog.csdn.net/weixin_26750831/article/details=161128417)** 让AI从"说"到"做"的工具调用框架
+- **[AI工作流自动化:从概念到实战,构建智能生产力引擎](https://blog.csdn.net/weixin_28728443/article/details=161153160)** 将AI能力与自动化流程深度集成，实现"一键智能"
+- **[AI工作流工具选型:开源方案对比与迁移实践指南](https://developer.baidu.com/article/detail.html?id=7116798)** 三大开源AI工作流工具的核心差异与选型逻辑- **[Dify AI Workflow：通过可预测输出克服LLM不确定性](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow支持拖放式多步骤逻辑生成，提供LLM选择、工具、意图分类器等核心节点
 - **[微软Copilot工作流自动化最佳实践](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/workflow-automation)** 从高频场景入手整合AI到数据分析，无缝衔接到现有系统
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Trello AI工具等11款主流工具
 - **[AI Workflow自动化编排与流程引擎实现](https://www.dtstack.com/bbs/article/454654)** 探讨AI Workflow与传统BPM引擎的核心区别：动态异构编排、资源感知调度
