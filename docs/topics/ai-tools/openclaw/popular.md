@@ -4,6 +4,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ## 近期动态
+### 2026-05-20
+- **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合
+- **[腾讯开源Agent记忆系统,OpenClaw最高省61%Token](https://new.qq.com/rain/a/20260514A05UVZ00)** tencentdb agent memory开源，长期记忆准确率从48%提升至76%
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力
+- **[2100人OpenClaw调研:中国AI Agent早期采用者的6个反直觉真相](https://baijiahao.baidu.com/s?id=1865612716355935854)** 23.5%用户为养Agent专门买Mac mini，41%每月付费200元以上
+
 ### 2026-05-19
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局
 - **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道,中国特色:DeepSeek推理成本低10-50倍

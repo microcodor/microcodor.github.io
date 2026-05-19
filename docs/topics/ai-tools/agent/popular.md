@@ -4,6 +4,14 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ## 近期动态
+### 2026-05-20
+- **[对话式智能表格获权威认可!葡萄城荣获2025年度软件行业先进性科技成果](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格的双向管道，准确率提升20%-40%
+- **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 从GPT-4o到全场景智能体，多模态融合的飞跃助力电商营销、企业客服、虚拟主播等场景
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 百度百科详解AI Agent定义，具备自主理解、感知、规划、记忆和使用工具的能力
+- **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details=161145526)** Spring AI/LangChain4j/Semantic Kernel/Google ADK对比，MCP成为78%企业首选协议
+- **[AI Agent行业落地指南:8大场景深度解析与自研决策框架](https://blog.csdn.net/m0_59235945/article/details=161233367)** 2025-2026年AI Agent爆发元年后，八大行业场景深度解析与决策框架
+- **[2026生产级AI Agent自动化:零重型框架,彻底解决多步任务不稳定难题](https://cloud.tencent.com/developer/article/2669589)** File-as-State架构，基于文件系统的轻量Agent自动化方案，四层架构五文件搞定状态管理
+
 ### 2026-05-19
 - **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一,10人小团队三年逆袭故事
 - **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向

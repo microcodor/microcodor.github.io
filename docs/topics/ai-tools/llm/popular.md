@@ -4,6 +4,14 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+### 2026-05-20
+- **[企业级AI排名:Claude涨128%,Gemini涨48%,OpenAI跌8%](https://www.163.com/dy/article/KT6PDOQ40511A6N9.html)** Claude采用率从21%增至48%，Gemini从27%增至40%，OpenAI首次同比下滑从62%降至56%
+- **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://36kr.com/p/3810432812162816)** 代号Cappuccino，Flash编码达GPT-5.5的92%但成本低15-20倍，24小时Agent Spark曝光
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
+- **[给4个模型各发20美元"做播客":谁赚钱了、谁离职了?](https://baijiahao.baidu.com/s?id=1865528265687395905)** 四模型电台实验半年，Claude坚持最久96天、Gemini第96小时"翻车"
+- **[伦敦国王学院AI模拟核决策:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 21场核危机博弈中Claude总胜率67%，高压截止场景下GPT胜率75%反超
+
 ### 2026-05-19
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://m.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立

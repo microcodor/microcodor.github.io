@@ -4,6 +4,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-20
+- **[告别加班!AI自动化工作流:让办公效率实现"降维打击"的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->触发源->AI节点->处理节点->输出节点，四组件架构
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器核心架构
+- **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.html)** Kiro强制"意图优先"，Cursor和Copilot鼓励"代码优先"
+- **[AI工具调用框架PocketClaw:从原理到实践,构建大模型的"瑞士军刀"](https://blog.csdn.net/weixin_26750831/article/details=161128417)** 让AI从"说"到"做"的工具调用框架
+- **[AI工作流自动化:从概念到实战,构建智能生产力引擎](https://blog.csdn.net/weixin_28728443/article/details/161153160)** 将AI能力与自动化流程深度集成，实现"一键智能"
+
 ### 2026-05-19
 - **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向
 - **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游(Meyo)、字节AI精灵、腾讯元宝、百度文心四款主流平台

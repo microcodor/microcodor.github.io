@@ -4,6 +4,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ---
 
 ## 近期动态
+### 2026-05-20
+- **[从"词元为中心"到"AI原生公司":联想2026以"全栈AI"领跑](https://baijiahao.baidu.com/s?id=1865607729459578347)** 联想发布词元工厂和企业级龙虾湖方案，每百万高质量词元成本不到1元
+- **[国产GPU第一股要讲新故事,摩尔线程带来家庭AI中枢](https://baijiahao.baidu.com/s?id=1865443089213125663)** 摩尔线程Q1营收7.38亿元同比增长155%，发布家庭AI中枢产品
+- **[百度启动2027届AIDU计划:培养AI时代"超级个体"](https://baijiahao.baidu.com/s?id=1865612262391875752)** 覆盖大模型算法、多模态、智能体等最前沿方向，薪酬上不封顶
+- **[8家教育企业跻身全球AI TOP100:中腰部产品的突围时刻](https://baijiahao.baidu.com/s?id=1865443089213125663)** Quizlet月访问量7929万，Gauth推出可视化学习产品Gauth Atlas
+- **[调研速递|三维天地AI业务收入2548万元实现商业化突破](https://baijiahao.baidu.com/s?id=1865252200372041577)** SunwayLink AI智能体开发平台商业化落地，企业级AI收入达2548万元
+
 ### 2026-05-19
 - **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一
 - **[主动接受市场检验,就是摩尔线程的最大优势](https://finance.sina.cn/tech/2026-05-19/detail-inhymuma3114105.d.html)** 摩尔线程2026产品发布会,带来家庭AI中枢
