@@ -10,6 +10,11 @@ description: 主流 Agent 框架与工具链一览
 - **[agency-agents](https://github.com/msitarzewski/agency-agents)** A complete AI agency at your fingertips - Each agent is a specialized expert with personality, 99K stars
 - **[autoresearch](https://github.com/karpathy/autoresearch)** AI agents running research on single-GPU nanochat training automatically, 81K stars
 
+- **[中金公司：Agentic AI驱动Token大幅增长，AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，2026年3月全国日均Token调用量突破140万亿，豆包日均使用量翻倍至120万亿。
+- **[收藏必备：2025年最适合开发者的11大AI智能体框架全面对比](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、CrewAI、AutoGen等主流框架对比，覆盖工具集成、工作流编排、多Agent协作等核心能力。
+- **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层，支持动态加载、权限控制和依赖注入，大幅降低Agent开发门槛。
+- **[2025年AI Agent框架：25个主流框架选型指南](https://blog.csdn.net/libaiup/article/details/152046109)** 涵盖LangChain、CrewAI、AutoGen、Dify、n8n、MetaGPT等13种框架的功能对比与应用案例。
+
 ### 2026-05-18
 - **[MCP(Model Context Protocol)实战:让你的AI Agent真正连接世界](https://blog.csdn.net/qq_39914918/article/details/160968610)** MCP解决AI Agent连接外部工具问题，像USB接口一样标准化、即插即用，OpenAI、Google各大框架纷纷跟进支持
 - **[2026年AI Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评结论：LangChain快速验证首选、LlamaIndex企业知识库问答首选、AutoGen多Agent协作、研究型项目自写核心逻辑

@@ -7,6 +7,10 @@ description: OpenCLAW AI Agent 框架最新动态
 ### 2026-05-19
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** Your own personal AI assistant, 372K stars
 - **[DeerFlow](https://github.com/bytedance/deer-flow)** An open-source long-horizon SuperAgent harness, 68K stars
+- **[OpenClaw新版实测：团队部署的五个关键改进](https://www.163.com/dy/article/KT3NREN505561FZN.html)** 2026.5.16 Beta 1发布，多语言onboarding、技能缓存减少重复构建、ambient-room群聊模式、Codex与MCP配置边界收紧，从"能跑"走向"能一起跑"。
+- **[疯狂迭代：OpenClaw 143次版本更新，安全体系如何"被迫"长出来](https://baijiahao.baidu.com/s?id=1864965008815433322)** OpenClaw从功能优先到安全体系的演进路径，半年内被真实安全事件多次推动，被ClawHub恶意Skill事件驱动。
+- **[OpenClaw更新82次崩82次，NPM下载量腰斩，竞品Hermes周星反超3倍](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** OpenClaw因更新过快导致稳定性问题，大厂基于旧版本不敢升级；Anthropic宣布Claude订阅不再允许通过OpenClaw使用（"龙虾税"）。
+- **[九号率先接入OpenClaw，AI Agent开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** ninebot-device-skill上架ClawHub，用户可通过自然语言与车辆交互，AI Agent从数字世界走向出行硬件生态。
 
 ### 2026-05-18
 - **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合、合规私有限制

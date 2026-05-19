@@ -7,6 +7,10 @@ description: 主流大模型能力对比与选型参考
 ### 2026-05-19
 - **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** The agent harness performance optimization system, 186K stars
 - **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** Full system prompts of Claude Code, Cursor, Devin AI, and more, 137K stars
+- **[SWE-Bench作者发布ProgramBench：Claude、GPT、Gemini全模型0%完成率](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布新benchmark，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过，Claude Opus 4.7表现相对最好但仅3%接近完成。
+- **[2026年AI API比价：Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本，Claude强在代码生成与复杂推理，GPT适合结构化输出，Gemini多模态性价比最优。
+- **[伦敦国王学院AI模拟核决策：Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 21场核危机博弈中Claude总胜率67%，高压截止场景下GPT胜率75%反超，揭示不同模型在战略博弈中的行为差异。
+- **[从模型接入到网关治理：一站式调用GPT/Claude/Gemini的工程化实践](https://developer.aliyun.com/article/1732531)** 统一AI Gateway架构设计，业务代码不依赖特定厂商，新模型上线只改网关配置，支持模型路由与fallback策略。
 
 ### 2026-05-18
 - **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** Gemini 3.2 Flash单次生成2200行代码、手搓可运行Windows98，直接把自家旗舰Pro按在地上摩擦

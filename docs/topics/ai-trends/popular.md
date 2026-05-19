@@ -8,6 +8,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
+- **[OpenAI砸40亿美元成立新公司](https://baijiahao.baidu.com/s?id=1865401779139734200)** OpenAI联合TPG、安宏、贝恩、高盛、软银等19家伙伴，成立专注企业AI部署的新公司，迈出从模型到落地的关键一步。
+- **[谷歌I/O前夕宣布AI硬件"全家桶"：Gemini全面融入安卓](https://baijiahao.baidu.com/s?id=1865401779139734200)** Gemini Intelligence功能今夏登陆三星Galaxy和Pixel手机，并与宏碁、华硕、戴尔、惠普、联想合作打造Googlebook，覆盖手表、汽车、眼镜等设备。
+- **[ChatGPT网页端流量份额跌至53.7%，Gemini快速追赶至26.7%](https://baijiahao.baidu.com/s?id=1865401779139734200)** Similarweb数据显示，一年间ChatGPT份额从77.6%大幅缩水，Claude从1.4%攀升至近8%，DeepSeek小幅下滑至4%。
+- **[福布斯中国2026人工智能科技企业TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865430330568971731)** 福布斯中国发布2026 AI TOP50，新增技术突破、商业落地、全球化标杆等五大子评选方向，覆盖智能芯片、大模型、具身智能等领域。
+- **[2026年儿童智能眼镜深度调研：AI智能+数据化成近视防控突破口](https://baijiahao.baidu.com/s?id=1865340502254883736)** 鲸鸣视控等品牌凭借姿态监测、医疗级算法和全周期管理，推动儿童智能护眼渗透率持续提升，2026年被视为儿童智能眼镜爆发元年。
 
 ### 2026-05-18
 - **[AI眼镜创新趋势洞察:凭"创"突围,以"新"破局](https://baijiahao.baidu.com/s?id=1865236155838069253&wfr=spider&for=pc)** 2025年全球AI眼镜出货量870万台同比大幅增长322%，光峰科技LCoS AR光机、科大讯飞唇动识别多模态降噪等技术突破
