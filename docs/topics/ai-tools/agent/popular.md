@@ -10,6 +10,9 @@ description: 主流 Agent 框架与工具链一览
 - **[2026年5月 AI Agent 技术全景:从工具调用到自主决策的进化](https://blog.csdn.net/xyghehehehe/article/details/161263648)** AI Agent技术演进可分为三阶段：工具调用→规划与推理→自主决策，2026年5月主流框架已全部进入第三阶段
 - **[当Agent成为AI最大公约数](https://baijiahao.baidu.com/s?id=1865718685295666037)** 第四届中国AIGC产业峰会召开，Agent落地成产业共识，OpenClaw成爆款产品
 - **[云端智能体:AI Agent技术与应用研究报告(2025年)](https://download.csdn.net/download/qq_29607687/92888489)** 亿欧智库发布，探索Agent技术发展与产业应用
+- **[对话式智能表格获权威认可!葡萄城荣获“2025年度软件行业先进性科技成果”](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
+- **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details/161145526)** Spring AI/LangChain4j/Semantic Kernel/Java ADK对比，MCP成为78%企业首选协议
+- **[当AI学会编程,我们还能做什么](https://blog.csdn.net/IZ01MoGyx/article/details=161113731)** Microsoft Agent Framework是Semantic Kernel官方继任者
 
 ### 2026-05-20
 - **[中金公司：Agentic AI驱动Token大幅增长，AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，2026年3月全国日均Token调用量突破140万亿，豆包日均使用量翻倍至120万亿

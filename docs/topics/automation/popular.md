@@ -5,7 +5,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-05-21
-- **[从会聊天到会办事,Amazon Quick 让我重新理解办公 AI](https://baijiahao.baidu.com/s?id=1865686728223906292)** Amazon Quick打通数据、群聊、文档与workflow，将办公场景中最棘手的衔接成本逐一击破
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows, Multi-Agent Coordination, Contextual Processing, Learning Automation
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** 用Claude Code生成基础组件结构，用Cursor微调样式，海外自由职业者月入2万人民币
+- **[告别加班!AI自动化工作流:让办公效率实现“降维打击”的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->触发源->AI节点->处理节点->输出节点，四组件架构
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details/161153161)** 意图理解与任务规划层、执行器、存储器核心架构解析
+- **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.html)** Kiro强制"意图优先"，Cursor和Copilot鼓励"代码优先"
 - **[Harness Engineering:智能体工作流自动化引擎](https://blog.csdn.net/2502_91678797/article/details/161265615)** 智能体工作流自动化引擎代表自动化范式重大转变，从任务自动化转向智能工作流编排
 - **[脉脉林凡:80%的AI人才在脉脉,企业AI人才布局要匹配业务场景](https://www.bjnews.com.cn/detail/1779255718129154)** 2026年1-4月AI岗位量占新经济整体岗位量22.03%，同比增长8.7倍，具身智能岗位暴涨15倍
 - **[直击 Google I/O 2026|轰炸式发布 Agent,狙击 Claude Code,开战!](https://baijiahao.baidu.com/s?id=1865672501392411892)** 数十个产品更新聚焦Agent，Gemini 3.5 Flash、Antigravity 2.0全面更新，Gemini Spark亮相
