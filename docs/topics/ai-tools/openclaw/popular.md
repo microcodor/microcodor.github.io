@@ -5,6 +5,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-05-20
+- **[九号率先接入OpenClaw，AI Agent开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** ninebot-device-skill上架ClawHub，用户可通过自然语言与车辆交互，获取车辆状态简报
+- **[Hermes与Openclaw：一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425)** Hermes Agent日均2710亿Token登顶全球应用Token消耗榜榜首，对OpenClaw范式的系统化优化
+- **[OpenClaw：AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 腾讯对OpenClaw接入QQ、企业微信及个人微信的支持，验证入口之战已打响
+- **[疯狂迭代：OpenClaw 143次版本更新，安全体系是如何"被迫"长出来](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到安全体系的演进路径
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入能规划、选择或执行一系列API调用的半自主或生成式AI系统
+
+### 2026-05-20
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗
 - **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://cj.sina.com.cn/articles/view/6342715155/17a0e271300101eoe6)** 中美Agent走不同赛道，中国特色：DeepSeek推理成本低10-50倍、超级入口生态整合
 - **[腾讯开源Agent记忆系统,OpenClaw最高省61%Token](https://new.qq.com/rain/a/20260514A05UVZ00)** tencentdb agent memory开源，长期记忆准确率从48%提升至76%

@@ -5,6 +5,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-05-20
+- **[中金公司：Agentic AI驱动Token大幅增长，AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，2026年3月全国日均Token调用量突破140万亿，豆包日均使用量翻倍至120万亿
+- **[收藏必备：2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** LangChain、CrewAI、AutoGen等11大主流框架对比，覆盖工具集成、工作流编排、多Agent协作能力
+- **[2025年AI Agent框架：机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 7个AI Agent框架全景观察，自主决策型、分布式协作、多模态编排等框架深度解析
+- **[2025 Agent智能体框架新范式：实在智能如何打破API孤岛](https://blog.csdn.net/gjy_sc/article/details=157802573)** TOTA架构与ISS屏幕语义理解，企业数字生产力的革新方案
+- **[2025终极升级：Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article_details/151544837)** 全新工具集抽象层，动态加载、权限控制和依赖注入，大幅降低Agent开发门槛
+
+### 2026-05-20
 - **[对话式智能表格获权威认可!葡萄城荣获2025年度软件行业先进性科技成果](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格的双向管道，准确率提升20%-40%
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力，内置40多个工具
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 2025年最值得关注的7个AI Agent框架

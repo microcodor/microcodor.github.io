@@ -5,6 +5,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-05-20
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Zapier等11款主流工具，从任务管理到Agentic支持
+- **[Zapier unlocks transformative AI to safely scale workflows](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=id)** AI Workflows集成8000+应用，Agents功能实现智能化工作流
+- **[AI增强自动化工作流：从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI作为智能决策节点，理解意图后自动执行后续操作
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，支持拖放界面和多步骤逻辑生成可预测输出
+- **[AI技能实战：从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+
+### 2026-05-20
 - **[告别加班!AI自动化工作流:让办公效率实现"降维打击"的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->触发源->AI节点->处理节点->输出节点，四组件架构
 - **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器核心架构
 - **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.html)** Kiro强制"意图优先"，Cursor和Copilot鼓励"代码优先"

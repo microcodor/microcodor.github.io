@@ -5,6 +5,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-05-20
+- **[0%完成率！Claude、GPT、Gemini全灭，SWB-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过
+- **[2026年AI API比价：Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
+- **[伦敦国王学院AI模拟核决策：Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 21场核危机博弈中Claude总胜率67%，高压截止场景下GPT胜率75%反超
+- **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，所有顶级模型完整通过率0%，首次真正测试从零构建软件能力
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 混合模型策略推理密集型任务丢给Claude，结构化输出交给GPT，多模态用Gemini
+
+### 2026-05-20
 - **[企业级AI排名:Claude涨128%,Gemini涨48%,OpenAI跌8%](https://www.163.com/dy/article/KT6PDOQ40511A6N9.html)** Claude采用率从21%增至48%，Gemini从27%增至40%，OpenAI首次同比下滑从62%降至56%
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://36kr.com/p/3810432812162816)** 代号Cappuccino，Flash编码达GPT-5.5的92%但成本低15-20倍，24小时Agent Spark曝光
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
