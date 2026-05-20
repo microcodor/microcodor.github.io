@@ -11,6 +11,9 @@ description: 主流大模型能力对比与选型参考
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，深度解析各擅长编程领域
 - **[给4个模型各发20美元"做播客":谁赚钱了、谁离职了?](https://baijiahao.baidu.com/s?id=1865528265687395905)** 四模型电台实验半年，Claude坚持最久96天、Gemini第96小时"翻车"
 - **[伦敦国王学院AI模拟核决策:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** 21场核危机博弈中Claude总胜率67%，高压截止场景下GPT胜率75%反超
+- **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 编码能力从400-500行飙升至2200行
+- **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** Terminal-Bench 2.0准确率82.7%，GPT-5.5在多项基准测试中位列榜首
 
 ### 2026-05-19
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://m.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本

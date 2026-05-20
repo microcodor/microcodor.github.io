@@ -6,6 +6,10 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-05-20
 - **[对话式智能表格获权威认可!葡萄城荣获2025年度软件行业先进性科技成果](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格的双向管道，准确率提升20%-40%
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力，内置40多个工具
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 2025年最值得关注的7个AI Agent框架
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比
+- **[2025年Agent元年](https://baike.baidu.com/item/2025年Agent元年/67652680)** 2025年被业界广泛认为是AI智能体技术产业应用起始年份
 - **[2025多模态AI Agent技术跃迁|文本-图像-语音-视频端到端落地案例合集](http://k.sina.com.cn/article_7857141524_1d452771401902hcuc.html)** 从GPT-4o到全场景智能体，多模态融合的飞跃助力电商营销、企业客服、虚拟主播等场景
 - **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 百度百科详解AI Agent定义，具备自主理解、感知、规划、记忆和使用工具的能力
 - **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details=161145526)** Spring AI/LangChain4j/Semantic Kernel/Google ADK对比，MCP成为78%企业首选协议

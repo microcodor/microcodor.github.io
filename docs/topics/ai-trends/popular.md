@@ -10,6 +10,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[百度启动2027届AIDU计划:培养AI时代"超级个体"](https://baijiahao.baidu.com/s?id=1865612262391875752)** 覆盖大模型算法、多模态、智能体等最前沿方向，薪酬上不封顶
 - **[8家教育企业跻身全球AI TOP100:中腰部产品的突围时刻](https://baijiahao.baidu.com/s?id=1865443089213125663)** Quizlet月访问量7929万，Gauth推出可视化学习产品Gauth Atlas
 - **[调研速递|三维天地AI业务收入2548万元实现商业化突破](https://baijiahao.baidu.com/s?id=1865252200372041577)** SunwayLink AI智能体开发平台商业化落地，企业级AI收入达2548万元
+- **[软通动力2025年AI营收占比达52.6% 率先完成DeepSeek-V4全栈适配](https://baijiahao.baidu.com/s?id=1863717486500139312)** AI相关业务营收184.66亿元，占比52.6%，同比增速超40%
+- **[值得买披露2025成绩单:经营效率持续提升 AI驱动高质量发展](https://baijiahao.baidu.com/s?id=1863345564543468434)** AI相关收入8716.60万元，毛利率提升至50.17%
+- **[网易有道2025年经营利润增近五成,AI订阅能否撑起未来](https://baijiahao.baidu.com/s?id=1863039342562313004)** 桌面级Agent LobsterAI内测，100%代码全开源
+- **[Manus一夜刷屏 AI智能体大火](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品发布，GAIA基准测试取得SOTA
+- **[AI原生](https://baike.baidu.com/item/AI原生/66783700)** 全球首个"AI原生"开源机器人系统OM1 Beta发布
 
 ### 2026-05-19
 - **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一
