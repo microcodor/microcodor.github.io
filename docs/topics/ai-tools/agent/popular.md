@@ -23,6 +23,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent行业落地指南:8大场景深度解析与自研决策框架](https://blog.csdn.net/m0_59235945/article/details=161233367)** 2025-2026年AI Agent爆发元年后，八大行业场景深度解析与决策框架
 - **[2026生产级AI Agent自动化:零重型框架,彻底解决多步任务不稳定难题](https://cloud.tencent.com/developer/article/2669589)** File-as-State架构，基于文件系统的轻量Agent自动化方案，四层架构五文件搞定状态管理
 
+### 2026-05-20
+- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
+- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
+- **[waoowaoo](https://github.com/waooAI/waoowaoo)** Industrial-level full-process AI film production platform, 12K stars
+- **[Google I/O 2026: Gemini 2.5 Pro launches](https://blog.google/)** Gemini 2.5 Pro supports 1M token context, AI Agent products embedded in Android
+
 ### 2026-05-19
 - **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一,10人小团队三年逆袭故事
 - **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向

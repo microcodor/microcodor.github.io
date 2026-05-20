@@ -23,6 +23,12 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[Manus一夜刷屏 AI智能体大火](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品发布，GAIA基准测试取得SOTA
 - **[AI原生](https://baike.baidu.com/item/AI原生/66783700)** 全球首个"AI原生"开源机器人系统OM1 Beta发布
 
+### 2026-05-20
+- **[Forbes China AI TOP 50 2026](https://baijiahao.baidu.com/s?id=1865522434883367375)** Forbes China AI科技企业TOP 50评选结果公布,4800+家AI企业
+- **[AI glasses shipments grow 322% in 2025](https://baijiahao.baidu.com/s?id=1865236155838069253)** Global AI glasses shipments 870K units in 2025, up 322% YoY
+- **[Lenovo Tianxi AI 3.7 released](https://baijiahao.baidu.com/s?id=1865083377872050265)** Lenovo releases Tianxi AI 3.7 system with OpenClaw-based TianxiClaw
+- **[Moore Threads Q1 revenue up 155%](https://baijiahao.baidu.com/s?id=1865443089213125663)** Moore Threads Q1 revenue 738M RMB, up 155% YoY
+
 ### 2026-05-19
 - **[10人小团队,如何跑出日活第一Agent?](https://baijiahao.baidu.com/s?id=1865590711719391817)** 腾讯WorkBuddy夺得国内DAU第一
 - **[主动接受市场检验,就是摩尔线程的最大优势](https://finance.sina.cn/tech/2026-05-19/detail-inhymuma3114105.d.html)** 摩尔线程2026产品发布会,带来家庭AI中枢

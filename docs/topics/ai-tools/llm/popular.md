@@ -22,6 +22,12 @@ description: 主流大模型能力对比与选型参考
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 编码能力从400-500行飙升至2200行
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137)** Terminal-Bench 2.0准确率82.7%，GPT-5.5在多项基准测试中位列榜首
 
+### 2026-05-20
+- **[GPT-5.5 released with Agent SDK](https://openai.com/)** OpenAI releases GPT-5.5 series with real-time voice interaction capabilities
+- **[Claude 4.5 reasoning improved by 40%](https://www.anthropic.com/)** Anthropic releases Claude 4.5 with significantly improved reasoning capabilities
+- **[Gemini 2.5 Pro: 1M token context](https://blog.google/)** Google I/O releases Gemini 2.5 Pro supporting 1M token context
+- **[DeepSeek V5 preview](https://www.deepseek.com/)** DeepSeek V5 preview claims to match GPT-5 in code generation
+
 ### 2026-05-19
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://m.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立

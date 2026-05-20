@@ -18,6 +18,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工具调用框架PocketClaw:从原理到实践,构建大模型的"瑞士军刀"](https://blog.csdn.net/weixin_26750831/article/details=161128417)** 让AI从"说"到"做"的工具调用框架
 - **[AI工作流自动化:从概念到实战,构建智能生产力引擎](https://blog.csdn.net/weixin_28728443/article/details/161153160)** 将AI能力与自动化流程深度集成，实现"一键智能"
 
+### 2026-05-20
+- **[11 Best AI Workflow Automation Tools 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Covers 11 mainstream tools from task management to Agentic support
+- **[Zapier unlocks transformative AI](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=id)** AI Workflows integrates 8000+ apps, Agents enables intelligent workflow
+- **[AI enhanced automation workflow](https://blog.csdn.net/weixin_42531579/article/details=161031865)** From rule-driven to intent-driven intelligent decision practice
+- **[Dify AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify's tool supports drag-and-drop interface and multi-step logic
+
 ### 2026-05-19
 - **[2026年AI数字员工对话式开发平台以及AI Native应用企业协同开发测评榜单](https://www.ithome.com/0/949/878.htm)** Gartner提出AI-Native Development Platforms成未来企业软件重要方向
 - **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游(Meyo)、字节AI精灵、腾讯元宝、百度文心四款主流平台
