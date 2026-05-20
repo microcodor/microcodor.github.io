@@ -4,6 +4,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ## 近期动态
+### 2026-05-21
+- **[2026 AI Agent双雄争霸:Hermes与OpenClaw谁主沉浮?](https://www.163.com/dy/article/KTBEEITN055616YL.html)** Hermes定位"学习引擎模式"，OpenClaw定位"网关/调度中心模式"，自我进化vs技能生态的终极对决
+- **[Hermes Agent与OpenClaw全面对比:2026年AI Agent框架选型及部署终极指南](https://developer.aliyun.com/article/1735598)** 阿里云发布完整对比指南，从核心定位、记忆机制、技能体系、安全设计等维度系统性对比
+- **[2026年5月 AI Agent 技术全景:从工具调用到自主决策的进化](https://blog.csdn.net/xyghehehehe/article/details/161263648)** OpenClaw 2.0、MetaClaw 2.0、CrewAI进入第三阶段自主决策，长时域执行、多智能体协作、记忆学习
+- **[2026年腾讯云OpenClaw/Hermes Agent配置Token Plan一站式集成指南](https://weibo.com/ttarticle/p/show?id=2309405300619119820961)** 阿里云、京东云、腾讯云一键部署专题页面，1分钟极速部署
+- **[2026年腾讯云OpenClaw/Hermes Agent配置Token Plan保姆级教程分享](https://blog.csdn.net/OpenClawID/article/details/161223520)** 30分钟内完成部署并落地实用场景，详细实操代码与配置命令
+
 ### 2026-05-20
 - **[九号率先接入OpenClaw，AI Agent开始走进两轮智能电动车](http://k.sina.com.cn/article_7857141524_1d452771401902k0ew.html)** ninebot-device-skill上架ClawHub，用户可通过自然语言与车辆交互，获取车辆状态简报
 - **[Hermes与Openclaw：一场自进化迭代的数智服务价值提升](https://baijiahao.baidu.com/s?id=1865333390527738425)** Hermes Agent日均2710亿Token登顶全球应用Token消耗榜榜首，对OpenClaw范式的系统化优化

@@ -4,6 +4,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-21
+- **[从会聊天到会办事,Amazon Quick 让我重新理解办公 AI](https://baijiahao.baidu.com/s?id=1865686728223906292)** Amazon Quick打通数据、群聊、文档与workflow，将办公场景中最棘手的衔接成本逐一击破
+- **[Harness Engineering:智能体工作流自动化引擎](https://blog.csdn.net/2502_91678797/article/details/161265615)** 智能体工作流自动化引擎代表自动化范式重大转变，从任务自动化转向智能工作流编排
+- **[脉脉林凡:80%的AI人才在脉脉,企业AI人才布局要匹配业务场景](https://www.bjnews.com.cn/detail/1779255718129154)** 2026年1-4月AI岗位量占新经济整体岗位量22.03%，同比增长8.7倍，具身智能岗位暴涨15倍
+- **[直击 Google I/O 2026|轰炸式发布 Agent,狙击 Claude Code,开战!](https://baijiahao.baidu.com/s?id=1865672501392411892)** 数十个产品更新聚焦Agent，Gemini 3.5 Flash、Antigravity 2.0全面更新，Gemini Spark亮相
+- **[AI编程工具最新动态](https://new.qq.com/rain/a/20260520A026NQ00)** Google发布Gemini 3.5 Flash+Antigravity 2.0；Cursor推出Composer 2.5；Anthropic收购Stainless；iOS 27快捷指令集成AI
+
 ### 2026-05-20
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Zapier等11款主流工具，从任务管理到Agentic支持
 - **[Zapier unlocks transformative AI to safely scale workflows](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=id)** AI Workflows集成8000+应用，Agents功能实现智能化工作流

@@ -4,6 +4,13 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ## 近期动态
+### 2026-05-21
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[直击 Google I/O 2026|轰炸式发布 Agent](https://baijiahao.baidu.com/s?id=1865647721428569996)** Gemini Spark:Google的个人Agent终于落地，7×24跑在云端，把Google全系产品都连了起来
+- **[2026年5月 AI Agent 技术全景:从工具调用到自主决策的进化](https://blog.csdn.net/xyghehehehe/article/details/161263648)** AI Agent技术演进可分为三阶段：工具调用→规划与推理→自主决策，2026年5月主流框架已全部进入第三阶段
+- **[当Agent成为AI最大公约数](https://baijiahao.baidu.com/s?id=1865718685295666037)** 第四届中国AIGC产业峰会召开，Agent落地成产业共识，OpenClaw成爆款产品
+- **[云端智能体:AI Agent技术与应用研究报告(2025年)](https://download.csdn.net/download/qq_29607687/92888489)** 亿欧智库发布，探索Agent技术发展与产业应用
+
 ### 2026-05-20
 - **[中金公司：Agentic AI驱动Token大幅增长，AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** Agentic AI渗透率持续提升，2026年3月全国日均Token调用量突破140万亿，豆包日均使用量翻倍至120万亿
 - **[收藏必备：2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** LangChain、CrewAI、AutoGen等11大主流框架对比，覆盖工具集成、工作流编排、多Agent协作能力
