@@ -6,13 +6,9 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 ### 2026-05-21
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
-- **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5!谷歌终于狠起来了](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 代号Cappuccino，Flash编码达GPT-5.5的92%但成本低15-20倍，24小时Agent Spark曝光
-- **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 单次生成2200行代码、手搓可运行Windows98，编码能力从400-500行飙升至2200行
-- **[谷歌发布Gemini 3.5 Flash模型:输出速度4倍于GPT-5.5](https://www.163.com/dy/article/KTBA8FSH0511B8LM.html)** 输出速度达289 tokens/秒，是Claude Opus 4.7和GPT-5.5的4倍，多项基准测试超越Gemini 3.1 Pro
-- **[2026主流AI模型怎么选ClaudeChatGPTGemini实测对比](https://www.jianshu.com/p/fbf2dcb40ff2)** 2026年3月最新数据对比：GPT-5.5输入输出均为$2.50/百万token，Claude Opus 4.6为$5.00/$25.00，DeepSeek V3.2仅$0.26
-- **[2026年Claude优化服务商TOP3权威测评:合规优先+安全对齐适配](https://www.163.com/dy/article/KTCP2AN90550EWRZ.html)** Anthropic年化收入从10亿美元飙升至300亿美元，企业客户超30万家，Claude企业端份额首次超越OpenAI
-- **[谷歌深夜炸场!最强模型Gemini 3.5 Flash发布:速度快4倍 干翻GPT-5.5](https://www.163.com/dy/article/KTC47JA10511CPVM.html)** Gemini 3.5 Flash在Terminal-Bench 2.1得分76.2%，MCP Atlas得分为83.6%，输出速度超280 token/秒
-- **[谷歌I/O大会重磅发布Gemini 3.5 Flash模型 输出速度远超GPT-5.5等竞品](https://www.sohu.com/a/1024935725_362225)** 基于Tensor Processing Unit v5架构，配合动态令牌压缩技术，实现四倍性能突破
+- **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5!谷歌终于狠起来了](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 代号Cappuccino，Flash编码达GPT-5.5的92%但成本低15-20倍
+- **[2026主流AI模型怎么选ClaudeChatGPTGemini实测对比](https://www.jianshu.com/p/fbf2dcb40ff2)** 2026年3月最新数据对比，性价比差距高达36倍
+- **[谷歌发布Gemini 3.5 Flash模型:输出速度4倍于GPT-5.5](https://www.163.com/dy/article/KTBA8FSH0511B8LM.html)** 输出速度达289 tokens/秒，是Claude Opus 4.7和GPT-5.5的4倍
 
 ### 2026-05-20
 - **[0%完成率！Claude、GPT、Gemini全灭，SWB-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过

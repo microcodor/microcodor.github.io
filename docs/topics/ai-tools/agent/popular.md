@@ -6,6 +6,7 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 ### 2026-05-21
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员、自主完成因子研究闭环
 - **[直击 Google I/O 2026|轰炸式发布 Agent](https://baijiahao.baidu.com/s?id=1865647721428569996)** Gemini Spark:Google的个人Agent终于落地，7×24跑在云端，把Google全系产品都连了起来
 - **[2026年5月 AI Agent 技术全景:从工具调用到自主决策的进化](https://blog.csdn.net/xyghehehehe/article/details/161263648)** AI Agent技术演进可分为三阶段：工具调用→规划与推理→自主决策，2026年5月主流框架已全部进入第三阶段
 - **[当Agent成为AI最大公约数](https://baijiahao.baidu.com/s?id=1865718685295666037)** 第四届中国AIGC产业峰会召开，Agent落地成产业共识，OpenClaw成爆款产品
