@@ -4,6 +4,13 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ## 近期动态
+### 2026-05-22
+- **[抓住Agentverse时代机遇:面向AI智能体打造5G-A全能超宽网络](https://baijiahao.baidu.com/s?id=1865761574302473652)** 华为详解Agentverse爆发带来的网络新需求，5G-A需要大上行、低时延、确定性特性
+- **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游、字节AI精灵、腾讯元宝、百度文心四款主流平台核心特征梳理
+- **[2026生产级AI Agent自动化:零重型框架](https://cloud.tencent.com/developer/article/2669589)** File-as-State架构，基于文件系统的轻量Agent自动化方案，四层架构五文件搞定状态管理
+- **[AI Agent行业落地指南:8大场景深度解析与自研决策框架](https://blog.csdn.net/m0_59235945/article/details/161233367)** 2025-2026年AI Agent爆发元年，八大行业场景深度解析与决策框架
+- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills，60K stars
+
 ### 2026-05-21
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
 - **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员、自主完成因子研究闭环

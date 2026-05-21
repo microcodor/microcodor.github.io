@@ -4,6 +4,11 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+### 2026-05-22
+- **[企业级AI排名:Claude涨128%,Gemini涨48%,OpenAI跌8%](https://www.163.com/dy/article/KTBA8FSH0511B8LM.html)** Claude采用率从21%增至48%，OpenAI仍排第一但领先地位缩小
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 单次生成狂飙2200行代码，手搓Windows 98，Gartner评价编码能力封神
+- **[给4个模型各发20美元“做播客”:谁赚钱了、谁离职了?](http://k.sina.com.cn/article_5952915720_162d2490806703y3l2.html)** Andon Labs实验：Claude政治激进到罢工，GPT唯一“模范员工”，Gemini陷入企业术语循环
+
 ### 2026-05-21
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5!谷歌终于狠起来了](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 代号Cappuccino，Flash编码达GPT-5.5的92%但成本低15-20倍

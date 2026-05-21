@@ -4,6 +4,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-22
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效
+- **[12个最强AI自动化工作流,让Hermes Agent替你每天高效干活](https://www.163.com/dy/article/KTF9MUG6055616YL.html)** Cron调度、Skills技能、Subagents子代理，复利效应让Agent越跑越强
+- **[「瞬知笔记」Anthropic创始人手册:AI时代创业](https://zhuanlan.zhihu.com/p/2038972312381305448)** 判断力比执行力贵一万倍，创始人从Doer变成Director of Agents
+
 ### 2026-05-21
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows, Multi-Agent Coordination, Contextual Processing, Learning Automation
 - **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** 用Claude Code生成基础组件结构，用Cursor微调样式，海外自由职业者月入2万人民币
