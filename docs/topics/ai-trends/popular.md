@@ -1607,3 +1607,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[百度启动2027届AIDU计划:培养AI时代"超级个体",薪酬上不封顶](https://baijiahao.baidu.com/s?id=1865619053637676190)** 百度发布DuMate、秒哒APP、百度一镜、伐谋2.0等智能体产品
 - **[摩尔线程带来家庭AI中枢,"国产GPU第一股"要讲新故事](https://baijiahao.baidu.com/s?id=1865605055889867624)** 摩尔线程发布MTT KUAE、小麦智能体等产品，Q1营收同比增长155%
 - **[8家教育企业跻身全球AI TOP100:中腰部产品的突围时刻](https://baijiahao.baidu.com/s?id=1865443089213125663)** Quizlet月访问量7929万，Gauth推出可视化学习产品Gauth Atlas
+### 2026-05-22
+- **[深入到芯片层去做好AI,2026阿里云峰会发布了这些新东西](https://m.techweb.com.cn/article/2026-05-21/2975771.shtml)** 真武M890芯片发布、磐久AL128超节点、千问3.7-Max模型、千问云官网全栈更新
+- **[盛邦安全发布2025网络空间测绘报告并推出AI测绘智能体](https://www.donews.com/news/detail/4/6564750.html)** 空天地一体化测绘智能体，AI赋能网络空间全域感知与主动防御
+- **[“国产GPU第一股”要讲新故事,摩尔线程带来家庭AI中枢](https://finance.eastmoney.com/a/202605193742002124.html)** 摩尔线程Q1营收7.38亿元同比增长155%，首推家庭AI智算中枢
+- **[雷神ZERO 18](https://baike.baidu.com/item/雷神ZERO%2018/62569860)** 2025年发布的旗舰级AI游戏本，深度集成“心光同步”AI光效和“逗逗游戏助手”

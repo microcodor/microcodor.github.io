@@ -1644,3 +1644,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 将AI深度嵌入工作流，实现自适应、智能化的生产力模式
 - **[实测三款AI编程工具:Kiro的"先写文档再写代码" workflow有何不同](https://m.163.com/dy/article/KT6858A905561FZD.md)** Copilot被动、Cursor对话、Kiro规格驱动，三种AI交互风格对比
 - **[大模型概念拆解:告别术语混乱,轻松入门](https://blog.csdn.net/m0_48891301/article/details=161073046)** 用餐厅比喻拆解Model/Prompt/Tool/Agent/Workflow/Skill概念
+### 2026-05-22
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows, Multi-Agent Coordination, Contextual Processing
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** 用Claude Code生成基础组件结构，用Cursor微调样式
+- **[告别加班!AI自动化工作流:让办公效率实现“降维打击”的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->触发源->AI节点->处理节点->输出节点，四组件架构
+- **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details/161153161)** 意图理解与任务规划层、执行器、存储器核心架构解析

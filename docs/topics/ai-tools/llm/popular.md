@@ -1466,3 +1466,7 @@ description: 主流大模型能力对比与选型参考
 - **[给4个模型各发20美元做播客:谁赚钱了谁离职了?](http://k.sina.com.cn/article_5952915720_162d2490806703y3l2.html)** 四模型电台实验5个月，Claude观点最强、GPT最稳、Gemini最像人
 - **[抢先爆料Gemini3.5,多模态大涨,谷歌正式吹响反攻号角](https://baijiahao.baidu.com/s?id=1865338326021796248)** Gemini 3.5发布，告别敷衍，一个提示出四种高质量SVG设计
 - **[企业级AI排名:Claude涨128%,Gemini涨48%,OpenAI跌8%](https://www.163.com/dy/article/KT6PDOQ40511A6N9.html)** OpenAI仍排第一但优势缩小，Claude采用率从21%增至48%
+### 2026-05-22
+- **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 单次生成狂飙2200行代码，手搓Windows 98，Gartner评价编码能力封神
+- **[抢先爆料Gemini3.5,多模态大涨,谷歌正式吹响反攻号角](https://baijiahao.baidu.com/s?id=1865338326021796248)** 代号Cappuccino，告别懒癌输出四种高质量设计，Flash达GPT-5.5的92%但成本低15-20倍

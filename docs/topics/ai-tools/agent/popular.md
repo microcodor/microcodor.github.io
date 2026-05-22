@@ -421,3 +421,8 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 百度百科详解AI Agent定义，具备自主理解、感知、规划、记忆和使用工具的能力
 - **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details=161145526)** Spring AI/LangChain4j/Semantic Kernel/Google ADK对比，MCP成为78%企业首选协议
 - **[AI Agent行业落地指南:8大场景深度解析与自研决策框架](https://blog.csdn.net/m0_59235945/article/details=161233367)** 2025-2026年AI Agent爆发元年后，八大行业场景深度解析与决策框架
+### 2026-05-22
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[传统Agent 框架已经被Skills取代](https://zhuanlan.zhihu.com/p/2039105611418308885)** Skills-Driven Agent成为第二代架构，以技能组合为核心，7×24在线、心跳驱动、多渠道网关
+- **[微软Build 2025:50款新品押注Agent AI](https://m.163.com/dy/article/KTBM79CP05561FZX.html)** 纳德拉宣布全面押注agent ai，发布超过50款新产品，构建跨平台AI代理协作网络
+- **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details/161145526)** Spring AI/LangChain4j/Semantic Kernel/Google ADK对比，MCP成为78%企业首选协议
