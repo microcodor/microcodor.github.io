@@ -4,6 +4,11 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+### 2026-05-23
+- **[GPT-6即将发布代号土豆Symphony架构](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
+- **[谷歌I/O发布Gemini大更新](https://baijiahao.baidu.com/s?id=1865401779139734200)** Google I/O大会预告Veo 3，Gemini全面融入安卓
+
 ### 2026-05-22
 ### 2026-05-22
 - **[Google I/O 2026发布Gemini 3.5 Flash与Antigravity 2.0](https://baijiahao.baidu.com/s?id=1865903456789012345)** Google在I/O大会上发布数十个Agent产品更新，Gemini 3.5 Flash性能提升，Antigravity 2.0全面更新

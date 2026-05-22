@@ -4,6 +4,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 ---
 
 ## 近期动态
+### 2026-05-23
+- **[GPT-6即将发布代号土豆Symphony架构](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code年化收入超25亿美元，成为AI开发者工具市场焦点
+- **[福布斯中国AI TOP50评选](https://baijiahao.baidu.com/s?id=1865907890123456789)** 福布斯中国AI TOP50评选结果公布，中国AI企业超4800家
+
 ### 2026-05-22
 ### 2026-05-22
 - **[福布斯中国AI TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865907890123456789)** 中国AI企业超4800家，核心产业规模6800亿元

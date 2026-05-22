@@ -4,6 +4,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-23
+- **[n8n v2026.5.0增强AI代理与MCP支持](https://baijiahao.baidu.com/s?id=1865909012345678901)** n8n新版本引入原生AI代理功能，支持MCP协议连接
+- **[Microsoft Copilot Wave 2企业级Agent平台](https://www.microsoft.com/)** 微软发布Copilot Wave 2企业级AI Agent平台
+- **[Claude Code 2.0工作流编排](https://www.anthropic.com/)** Anthropic Claude Code 2.0工作流编排能力
+
 ### 2026-05-22
 ### 2026-05-22
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Zapier等11款主流工具

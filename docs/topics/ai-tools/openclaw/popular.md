@@ -4,6 +4,11 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ## 近期动态
+### 2026-05-23
+- **[OpenClaw GitHub Stars超越Linux成历史第一](https://github.com/openclaw/openclaw)** 开源AI Agent框架OpenClaw GitHub Star超越Linux，登顶历史第一开源软件
+- **[Microsoft Copilot Wave 2](https://www.microsoft.com/)** 微软发布Copilot Wave 2企业级AI Agent平台
+- **[Claude Code 2.0工作流编排](https://www.anthropic.com/)** Anthropic Claude Code 2.0新增完整工作流编排能力
+
 ### 2026-05-22
 ### 2026-05-22
 - **[OpenClaw生态Skills商店突破5000个](https://baijiahao.baidu.com/s?id=1865906789012345678)** OpenClaw Skills商店突破5000个，社区贡献占比超过60%
