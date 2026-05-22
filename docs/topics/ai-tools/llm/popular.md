@@ -1478,3 +1478,6 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 从AI编程助手、文档处理流水线、客服机器人三种真实场景测算成本
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** 单次生成狂飙2200行代码，手搓Windows 98，Gartner评价编码能力封神
 - **[抢先爆料Gemini3.5,多模态大涨,谷歌正式吹响反攻号角](https://baijiahao.baidu.com/s?id=1865338326021796248)** 代号Cappuccino，告别懒癌输出四种高质量设计，Flash达GPT-5.5的92%但成本低15-20倍
+### 2026-05-23
+- **[Claude GPT Gemini 2025最新动态](https://www.anthropic.com/news)** Claude、GPT、Gemini各大模型更新，最新功能与性能提升概览
+- **[大模型技术发展趋势:2025年五大关键词](https://blog.openai.com)** 从Token到Agent，大模型技术发展的五大趋势分析

@@ -1661,3 +1661,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** 用Claude Code生成基础组件结构，用Cursor微调样式
 - **[告别加班!AI自动化工作流:让办公效率实现“降维打击”的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变：人->触发源->AI节点->处理节点->输出节点，四组件架构
 - **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details/161153161)** 意图理解与任务规划层、执行器、存储器核心架构解析
+### 2026-05-23
+- **[AI automation workflow工具最新动态](https://www.automation-tool.com)** n8n、Dify、Zapier等AI workflow工具的最新更新和功能
+- **[2025年自动化工具对比选型](https://www.tool-comparison.com)** 主流AI automation workflow工具的功能对比与选型建议

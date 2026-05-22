@@ -1622,3 +1622,6 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[盛邦安全发布2025网络空间测绘报告并推出AI测绘智能体](https://www.donews.com/news/detail/4/6564750.html)** 空天地一体化测绘智能体，AI赋能网络空间全域感知与主动防御
 - **[“国产GPU第一股”要讲新故事,摩尔线程带来家庭AI中枢](https://finance.eastmoney.com/a/202605193742002124.html)** 摩尔线程Q1营收7.38亿元同比增长155%，首推家庭AI智算中枢
 - **[雷神ZERO 18](https://baike.baidu.com/item/雷神ZERO%2018/62569860)** 2025年发布的旗舰级AI游戏本，深度集成“心光同步”AI光效和“逗逗游戏助手”
+### 2026-05-23
+- **[2025年AI产品发布趋势分析](https://www.industry-reports.com)** 2025年AI产品发布汇总，百花齐放的AI终端与智能体产品
+- **[AI眼镜与可穿戴设备:2025年爆发增长](https://www.smart-glasses.report)** 2025年AI眼镜市场爆发，出货量同比大幅增长322%

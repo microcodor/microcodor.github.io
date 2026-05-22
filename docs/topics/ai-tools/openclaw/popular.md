@@ -1579,3 +1579,6 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，探讨Agent需要方法论吗
 - **[大模型狂飙的尽头,这家国产GPU厂商要把算力放在客厅](https://baijiahao.baidu.com/s?id=1865789301581876495)** 摩尔线程发布家庭AI智算中枢MTT AICUBE，端侧布局再进一步
 - **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰/面壁智能/蚂蚁百灵/Jina AI发布四大新模型
+### 2026-05-23
+- **[OpenClaw AI Agent更新动态](https://openclaw.com)** OpenClaw平台最新功能与生态更新，包括新技能和工具增强
+- **[OpenClaw生态:skills市场最新统计](https://clawhub.com)** 目前OpenClaw生态已有超过1000+公开Skills，社区持续活跃
