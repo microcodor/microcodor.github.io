@@ -5,6 +5,11 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-05-22
+- **[企业拥抱Agent行动指南——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读四](https://www.woshipm.com/?p=6400147)** "轻量外挂"新范式，五大关键鸿沟与四步行动框架
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到安全体系的演进路径
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入半自主或生成式AI系统
+
+### 2026-05-22
 - **[安心部署OpenClaw,数美智能体安全防护方案来了!](https://www.163.com/dy/article/KTEUL7T40538P1WT.html)** 提示词注入、误操作、数据泄露三大安全风险防护方案
 - **[2100人OpenClaw调研：中国AI Agent早期采用者的6个反直觉真相](https://baijiahao.baidu.com/s?id=1865612716355935854)** 23.5%用户为养Agent买Mac mini，71%同时运行两只以上Agent实例
 - **[大模型狂飙的尽头，这家国产GPU厂商要把算力放在客厅](https://baijiahao.baidu.com/s?id=1865789301581876495)** 摩尔线程发布家庭AI智算中枢MTT AICUBE，端侧布局再进一步

@@ -5,6 +5,12 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-05-22
+- **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员自主完成因子研究闭环
+- **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力，内置40多个工具
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 7个AI Agent框架全景观察，自主决策型、分布式协作、多模态编排框架深度解析
+
+### 2026-05-22
 - **[抓住Agentverse时代机遇:面向AI智能体打造5G-A全能超宽网络](https://baijiahao.baidu.com/s?id=1865761574302473652)** 华为详解Agentverse爆发带来的网络新需求，5G-A需要大上行、低时延、确定性特性
 - **[2026年可自主培育AI助手的实用平台盘点](https://news.qq.com/rain/a/20260514A0715B00)** 觅游、字节AI精灵、腾讯元宝、百度文心四款主流平台核心特征梳理
 - **[2026生产级AI Agent自动化:零重型框架](https://cloud.tencent.com/developer/article/2669589)** File-as-State架构，基于文件系统的轻量Agent自动化方案，四层架构五文件搞定状态管理
