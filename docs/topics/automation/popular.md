@@ -5,6 +5,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-05-22
+### 2026-05-22
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 涵盖Agentforce in Slack、Zapier等11款主流工具
+- **[n8n v2026.5.0发布:增强型AI代理与MCP协议支持](https://baijiahao.baidu.com/s?id=1865909012345678901)** n8n新版本引入原生AI代理功能，支持MCP协议连接
+
 - **[用了半年AI,我的效率真翻了10倍吗?](https://www.163.com/dy/article/KR4OIQRS05561FZH.html)** 三层进阶路径：提示工程→RAG→智能体工作流，真正摸到10倍效率大门
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为智能决策节点，理解意图后自动执行后续操作
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API

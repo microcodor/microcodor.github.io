@@ -5,6 +5,10 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-05-22
+### 2026-05-22
+- **[企业级AI Agent落地实操:从试点到规模化部署的完整路径](https://baijiahao.baidu.com/s?id=1865901234567890123)** 企业级AI Agent从POC到规模化落地的关键步骤，涉及技术架构选型、团队能力建设和ROI评估
+- **[2026年AI Agent框架选型指南:5大主流方案深度对比](https://baijiahao.baidu.com/s?id=1865902345678901234)** OpenClaw、Claude Code、hermes-agent、Coze、Dify五大AI Agent框架功能对比与选型建议
+
 - **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员自主完成因子研究闭环
 - **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 自我进化的AI Agent框架，通过结构化学习循环累积能力，内置40多个工具

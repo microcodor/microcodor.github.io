@@ -5,6 +5,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-05-22
+### 2026-05-22
+- **[Google I/O 2026发布Gemini 3.5 Flash与Antigravity 2.0](https://baijiahao.baidu.com/s?id=1865903456789012345)** Google在I/O大会上发布数十个Agent产品更新，Gemini 3.5 Flash性能提升，Antigravity 2.0全面更新
+- **[OpenAI GPT-5.5技术架构深度解析:Symphony架构突破](https://baijiahao.baidu.com/s?id=1865904567890123456)** GPT-5.5采用Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[英伟达H200 GPU短缺持续，AI模型训练成本攀升](https://baijiahao.baidu.com/s?id=1865905678901234567)** 英伟达H200供应短缺持续，AI模型训练成本环比上升15%
+
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，首次测试AI从零重建软件能力，所有一线模型均0%完成率
 
 ### 2026-05-22
