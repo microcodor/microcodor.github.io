@@ -5,9 +5,9 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 ### 2026-05-23
-- **[OpenClaw GitHub Stars超越Linux成历史第一](https://github.com/openclaw/openclaw)** 开源AI Agent框架OpenClaw GitHub Star超越Linux，登顶历史第一开源软件
-- **[Claude Code 2.0工作流编排发布](https://www.anthropic.com/)** Anthropic发布Claude Code 2.0，新增完整工作流编排能力
-- **[Microsoft Copilot Wave 2发布](https://www.microsoft.com/)** 微软发布企业级AI Agent平台Copilot Wave 2
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://developer.cloud.tencent.com/article/2672502?policyId=1003)** 2026年AI Agent五大趋势：从单体到多智能体团队、Tulving三层记忆架构、A2A/MCP协议标准化、渐进式信任体系
+- **[AI Agent安全三年记:从"可被攻击"到"自己闯祸"](https://zhuanlan.zhihu.com/p/2041340170012808891)** 2024提示注入元年→2025实战化元年(EchoLeak零点击漏洞)→2026自主闯祸时代
+- **[AI Agent冲击国产软件板块亟待穿越"窄门"](https://www.163.com/dy/article/KTIU9PIA05199NPP.html)** 全球SaaS板块跌超万亿美元，AI Agent按量计费新模式颠覆传统定价
 
 ### 2026-05-22
 ### 2026-05-22

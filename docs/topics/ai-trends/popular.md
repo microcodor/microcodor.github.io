@@ -5,13 +5,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 ### 2026-05-23
-- **[GPT-6即将发布代号土豆Symphony架构](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，代码、推理、智能体三大核心任务提升超40%
-- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code年化收入超25亿美元，成为AI开发者工具市场焦点
-- **[福布斯中国AI TOP50评选](https://baijiahao.baidu.com/s?id=1865907890123456789)** 福布斯中国AI TOP50评选结果公布，中国AI企业超4800家
+- **[联想刘军:已发布两大"王炸"级成果,继续引领AI终端时代](https://baijiahao.baidu.com/s?id=1865880842467104549)** 联想中国AI相关收入同比增长超140%，天禧AI 4.0发布完成从"副驾驶"到"主驾驶"模式跃迁
+- **[国产GPU龙头推出"云边端"AI全家桶!万卡级算力、家庭AI中枢](https://baijiahao.baidu.com/s?id=1865841624271157441)** 摩尔线程发布全栈智算矩阵，MTT AICUBE深度整合"智能体+AI PC+AI NAS"
+- **[2026福布斯中国人工智能科技企业TOP 50公布](https://finance.sina.cn/2026-05-23/detail-inhyvxrs4620834.d.html)** 中国AI企业超4800家，核心产业规模6800亿元，新增五大子评选方向
 
 ### 2026-05-22
 ### 2026-05-22
-- **[福布斯中国AI TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865907890123456789)** 中国AI企业超4800家，核心产业规模6800亿元
+- **[福布斯中国AI TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865907890123456789)** 中国AI企业超4800家
 - **[AI眼镜2025年出货量870万台同比增322%](https://baijiahao.baidu.com/s?id=1865908901234567890)** 2025年全球AI眼镜出货量870万台，同比大幅增长322%
 
 - **[国产GPU龙头,推出“云边端”AI全家桶!万卡级算力、家庭AI中枢](https://baijiahao.baidu.com/s?id=1865841624271157441)** 摩尔线程发布全栈智算矩阵，云-边-端智能算力生态全面打通

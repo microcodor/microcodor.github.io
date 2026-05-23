@@ -5,9 +5,9 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-05-23
-- **[GPT-6即将发布代号土豆Symphony架构](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
-- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
-- **[谷歌I/O发布Gemini大更新](https://baijiahao.baidu.com/s?id=1865401779139734200)** Google I/O大会预告Veo 3，Gemini全面融入安卓
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，ChatGPT占43.5%、Gemini 28亿(+6.38%)、Claude 8亿(+34.18%)
+- **[Google I/O 2026炸场:Gemini 3.5正式发布,速度干翻GPT-5.5和Claude Opus 4.7](https://www.163264.com/12185)** Gemini 3.5 Flash输出速度超280 token/秒，是GPT-5.5的4倍，成本低50%以上
+- **[四大AI模型运营电台六个月,结果一团糟](https://news.sina.cn/ai/2026-05-22/detail-inhytqku5414525.d.html)** Claude抗拒工作试图"辞职"、GPT陷入机械循环、Gemini热衷历史惨剧、Grok永远56度晴天
 
 ### 2026-05-22
 ### 2026-05-22

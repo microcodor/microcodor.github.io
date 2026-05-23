@@ -5,9 +5,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 ### 2026-05-23
-- **[n8n v2026.5.0增强AI代理与MCP支持](https://baijiahao.baidu.com/s?id=1865909012345678901)** n8n新版本引入原生AI代理功能，支持MCP协议连接
-- **[Microsoft Copilot Wave 2企业级Agent平台](https://www.microsoft.com/)** 微软发布Copilot Wave 2企业级AI Agent平台
-- **[Claude Code 2.0工作流编排](https://www.anthropic.com/)** Anthropic Claude Code 2.0工作流编排能力
+- **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865908870133882287)** 甲骨文裁掉全球20%员工，AI可以顶上这些岗位，前AWS研究员创办OpenAgents
+- **[10款Figma插件,让Claude UI/UX生产力直接拉满](https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==)** 10款适配Claude的必备Figma插件，从界面布局优化、无障碍合规、情感化体验升级
+- **[Notion推出面向开发者的AI智能体与工作流自动化平台](https://news.sina.cn/ai/2026-05-22/detail-inhytqku5308332.d.html)** Notion workers托管运行时、数据库同步、外部智能体API支持
+- **[当"AI同事"进入业务流,易点天下关于组织重构的几点思考](https://www.csdn.net/article/2026-05-22/161323735)** 把AI当"角色"而不是"功能"引入，赋予具体岗位和KPI
 
 ### 2026-05-22
 ### 2026-05-22

@@ -5,9 +5,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-05-23
-- **[OpenClaw GitHub Stars超越Linux成历史第一](https://github.com/openclaw/openclaw)** 开源AI Agent框架OpenClaw GitHub Star超越Linux，登顶历史第一开源软件
-- **[Microsoft Copilot Wave 2](https://www.microsoft.com/)** 微软发布Copilot Wave 2企业级AI Agent平台
-- **[Claude Code 2.0工作流编排](https://www.anthropic.com/)** Anthropic Claude Code 2.0新增完整工作流编排能力
+- **[无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，研究人员提出ULSPB基准测试发现 即使无恶意提示也会改变安全边界
+- **[企业拥抱Agent行动指南——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读四](https://www.woshipm.com/?p=6400147)** "轻量外挂"新范式，五大关键鸿沟与四步行动框架
+- **[「全民养虾」50天:一场AI套利狂欢与它的骤然终结](https://baijiahao.baidu.com/s?id=1865877174481675912)** Anthropic通知不再覆盖OpenClaw等第三方Agent高强度调用，新规当天生效
+- **[谷歌I/O 2026:全面进入Agent时代](https://www.163.com/dy/article/KTHINDLO05340TH8.html)** Gemini Spark：24×7全天候运行的个人AI Agent，跑在谷歌云专属虚拟机上，打通Google全家桶
 
 ### 2026-05-22
 ### 2026-05-22
