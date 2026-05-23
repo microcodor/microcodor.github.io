@@ -4,6 +4,12 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+### 2026-05-24
+- **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本，直接对标开发者日常工作流
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KTBNC11905561FZE.html)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
+- **[Google开放Android Studio:GPT、Claude、Gemini任选](https://www.163.com/dy/article/KTBD4IGE05561FZL.html)** 开发者可自由选择三大模型，Google不再试图锁定自家生态，数据表明没有单一模型能主导市场
+- **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 阿里发布新一代千问旗舰模型Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
+
 ### 2026-05-23
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，ChatGPT占43.5%、Gemini 28亿(+6.38%)、Claude 8亿(+34.18%)
 - **[Google I/O 2026炸场:Gemini 3.5正式发布,速度干翻GPT-5.5和Claude Opus 4.7](https://www.163264.com/12185)** Gemini 3.5 Flash输出速度超280 token/秒，是GPT-5.5的4倍，成本低50%以上

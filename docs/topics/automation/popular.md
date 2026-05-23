@@ -4,6 +4,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+### 2026-05-24
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效，人在不同系统之间搬运信息的操作将被自动化
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 低代码/无代码可视化编排、跨平台服务集成、条件分支控制，典型工具如n8n开源自托管部署
+
 ### 2026-05-23
 - **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865908870133882287)** 甲骨文裁掉全球20%员工，AI可以顶上这些岗位，前AWS研究员创办OpenAgents
 - **[10款Figma插件,让Claude UI/UX生产力直接拉满](https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==)** 10款适配Claude的必备Figma插件，从界面布局优化、无障碍合规、情感化体验升级
