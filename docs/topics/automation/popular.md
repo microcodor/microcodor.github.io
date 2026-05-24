@@ -6,6 +6,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-24
+- **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865910005017589404&wfr=spider&for=pc)** 甲骨文裁掉全球20%员工，AI可以顶上这些岗位，前AWS研究员创办OpenAgents，7人团队目标管理上百AI
+- **[15分钟零代码搭建自动化工作流:Zapier免费替代方案实测](https://www.163.com/dy/article/KTJ5Q3RE05561FZF.html)** 五个核心概念 Workflow/Node/Trigger/Connection/Credential，实战表单提交→邮件通知
+- **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 自动化工作流自动执行重复性任务，如线索分配、邮件跟进、数据更新
+- **[不用卷大模型了!AI智能体+多模态爆发,普通人搞钱的三大风口](https://zhuanlan.zhihu.com/p/2041463060829917840)** 多模态内容工厂、定制AI智能体、智能体+RPA三大风口
+- **[AI Agent Harness Engineering 与 Workflow 自动化的融合趋势](https://blog.csdn.net/2405_88636357/article/details=161346095)** 工作流自动化+AI Agent融合，连接两者的桥梁是AI Agent Harness Engineering管控工程体系
+
+### 2026-05-24
 - **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865910005017589404&wfr=spider&for=pc)** “AI原生100”是虎嗅科技组推出针对AI原生创新栏目,这是本系列的第「56」篇文章 今年四月,甲骨文公司裁掉了全球3万名员工,占其总人力的五分之一。这家云平...
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11 Best AI Workflow Automation Tools for 2026 AI workflow automation tools offer...
 - **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Your complete toolkit for AI automation AI Workflows Automate advanced workflow...

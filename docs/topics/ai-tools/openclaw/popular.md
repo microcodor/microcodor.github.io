@@ -6,6 +6,10 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-24
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+- **[三个AI Agent项目对比:生态、进化与可控性的不同解法](https://www.163.com/dy/article/KTJ3EUO505561FZG.html)** OpenClaw网关模式vs Hermes自进化模式vs Agent可可控性的不同解法
+
+### 2026-05-24
 - **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent!](https://baijiahao.baidu.com/s?id=1865864171424538313&wfr=spider&for=pc)** 【新智元导读】日常聊天可能在不经意间污染个性化Agent的长期记忆,使其在未来任务中偏离用户真实意图。研究人员通过ULSPB基准测试发现,即使无恶意提示,日常...
 - **[企业拥抱Agent行动指南——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读四](https://www.woshipm.com/?p=6400147)** OpenClaw的爆发,标志着企业AI应用从“重集成的API对接”迈入“轻量外挂的Agent直接执行”新范式。这场变革在赋予业务前所未有的敏捷性与深度时,也因...
 - **[OpenAI六项更新炸场!Codex手机遥控锁屏Mac,人走了AI继续写代码!](https://baijiahao.baidu.com/s?id=1865876074278830562&wfr=spider&for=pc)** 智东西5月22日报道,今早,OpenAI发布了Codex的六项更新,包括Mac锁屏后用手机远程操控、Appshots应用截图、目标模式、应用内浏览器注释、团队...

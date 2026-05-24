@@ -6,7 +6,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-24
-- **[中国Agent产业发展趋势——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读五](https://www.woshipm.com/?p=6400148)** OpenClaw的爆发标志着AI产业从“对话与生成”的“辅助时代”正式迈入“自主执行”的“行动时代”。这一范式革命不仅催生了全新的技术演进路径——从单智能体执...
+- **[Agent 从「优等生」到「好员工」还差什么?](http://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4650946.shtml)** 2026年以来Agent行业讨论从跑分、demo转向企业部署，代码仓库、内部数据、客服和运维流程把Agent带进真实账号权限链路
+- **[AI Agent安全三年记:从"可被攻击"到"自己闯祸"](https://zhuanlan.zhihu.com/p/2041340170012808891)** 2024提示注入元年→2025实战化元年(EchoLeak零点击漏洞)→2026自主闯祸时代，三年间AI Agent安全经历三次质变
+- **[AI Agent冲击国产软件板块亟待穿越"窄门"](https://www.163.com/dy/article/KTIU9PIA05199NPP.html)** 全球SaaS板块跌超万亿美元，AI Agent按量计费新模式颠覆传统定价体系
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+
+### 2026-05-24
+- **[中国Agent产业发展趋势——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读五](https://www.woshipm.com/?p=6400148)** OpenClaw的爆发标志着AI产业从"辅助时代"正式迈入"行动时代"，从单智能体执行向多智能体协作演进不仅催生了全新的技术演进路径--从单智能体执...
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 什么是 AI Agent 框架? AI Agent 框架是软件平台,使开发者能够构建具备以下能力的自主人工智能系统: 理解和处理自然语言输入- 对复杂问题进行...
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** 2025年AI Agent框架:机器学习工作流新趋势 1. 2025年机器学习工作流中的AI Agent框架全景观察 当我们在2024年回望机器学习工程化的发展...
 ### 2026-05-24
@@ -52,7 +58,7 @@ description: 主流 Agent 框架与工具链一览
 - **[2026年5月 AI Agent 技术全景:从工具调用到自主决策的进化](https://blog.csdn.net/xyghehehehe/article/details/161263648)** AI Agent技术演进可分为三阶段：工具调用→规划与推理→自主决策，2026年5月主流框架已全部进入第三阶段
 - **[当Agent成为AI最大公约数](https://baijiahao.baidu.com/s?id=1865718685295666037)** 第四届中国AIGC产业峰会召开，Agent落地成产业共识，OpenClaw成爆款产品
 - **[云端智能体:AI Agent技术与应用研究报告(2025年)](https://download.csdn.net/download/qq_29607687/92888489)** 亿欧智库发布，探索Agent技术发展与产业应用
-- **[对话式智能表格获权威认可!葡萄城荣获“2025年度软件行业先进性科技成果”](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
+- **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
 - **[AI Agent Development Kit(ADK)调研与选型报告:Java生态深度分析](https://blog.csdn.net/qq_44809804/article/details/161145526)** Spring AI/LangChain4j/Semantic Kernel/Java ADK对比，MCP成为78%企业首选协议
 - **[当AI学会编程,我们还能做什么](https://blog.csdn.net/IZ01MoGyx/article/details=161113731)** Microsoft Agent Framework是Semantic Kernel官方继任者
 
@@ -143,8 +149,8 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-05-16
 - **[从增长验证到交付扩产:迈富时5亿港元市价认购补强智算底座](https://baijiahao.baidu.com/s?id=1865327321414683686&wfr=spider&for=pc)** 5亿港元融资强化智算基础设施，补强"全栈Token工厂"战略
 - **[智能体冲击下的软件业变局:旧墙坍塌 新界未立](https://finance.sina.cn/2026-05-16/detail-inhyankn5740078.d.html)** AI Agent击穿软件行业"高门槛"和"高成本"两道高墙
-- **[摩洛哥小伙在宁波做OPC,用AI“挖”出中国宝藏工厂](http://finance.sina.cn/2026-05-16/detail-inhycchi4325377.d.html)** 摩洛哥青年用AI Agent做跨境采购寻源
-- **[HarmonyOS 6(API 23)实战:HMAF“灵犀智脑”—PC端AI智能体工作流编排平台](https://blog.csdn.net/u014727709/article/details=161144634)** HarmonyOS 6引入HMAF智能体框架
+- **[摩洛哥小伙在宁波做OPC,用AI"挖"出中国宝藏工厂](http://finance.sina.cn/2026-05-16/detail-inhycchi4325377.d.html)** 摩洛哥青年用AI Agent做跨境采购寻源
+- **[HarmonyOS 6(API 23)实战:HMAF"灵犀智脑"-PC端AI智能体工作流编排平台](https://blog.csdn.net/u014727709/article/details=161144634)** HarmonyOS 6引入HMAF智能体框架
 - **[Agent Harness 深度教学指南:每个 AI Agent 都需要的基础设施](https://timpickle.blog.csdn.net/article/details=161147030)** Agent Harness是模型到Agent落地的关键基础设施
 
 ### 2026-05-15
@@ -181,7 +187,7 @@ description: 主流 Agent 框架与工具链一览
 - **[万字长文:Agentic ERP 浪潮来袭,六十年 ERP 迎来终极范式变形](http://app.myzaker.com/news/article.php?pk=6a040fecb15ec033f5799abb)** SAP发布AI Agent组合，Oracle重构为Agentic Apps
 
 ### 2026-05-13
-- **[AI智能体从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
+- **[AI智能体从"能用"到"敢用"](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
 - **[你的Backtrader该扔了:2025年AI Agent驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
 - **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持
 - **[既要安全又要弹性,理想汽车如何解开企业OpenClaw落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"，解决安全和弹性问题
@@ -198,11 +204,11 @@ description: 主流 Agent 框架与工具链一览
 - **[你的Backtrader 该扔了:2025 年 AI Agent 驱动的量化架构实战](https://blog.51cto.com/u_12805695/14596258)** 新架构核心:Agent = 感知 + 大脑 + 工具，用Python从零搭建AI Trading Agent系统
 - **[openai-agents-python](https://baike.baidu.com/item/openai-agents-python/67362371)** 2026年3月开源，7天获2万星标，基于Sandbox Agents和MCP协议支持
 - **[既要安全又要弹性,理想汽车如何解开企业 OpenClaw 落地死结](https://baijiahao.baidu.com/s?id=1864966074727907505)** 理想汽车选择阿里云ACS Agent Sandbox构建"沙箱"，解决安全和弹性问题
-- **[AI组织坍缩效应:中层管理者正在失去的,不是职位,是“信息税”](https://baijiahao.baidu.com/s?id=1864965688344139190)** BCG报告提出部门墙坍缩、翻译型岗位消失、专家护城河转移等核心判断
-- **[企业烧掉Token却算不清账,谁来解决大模型“最后一公里”难题?](https://baijiahao.baidu.com/s?id=1864951816037913493)** 网易有道ThinkFlow补齐"基础设施"一环，支持底层算力调度到终端应用全链条
+- **[AI组织坍缩效应:中层管理者正在失去的,不是职位,是"信息税"](https://baijiahao.baidu.com/s?id=1864965688344139190)** BCG报告提出部门墙坍缩、翻译型岗位消失、专家护城河转移等核心判断
+- **[企业烧掉Token却算不清账,谁来解决大模型"最后一公里"难题?](https://baijiahao.baidu.com/s?id=1864951816037913493)** 网易有道ThinkFlow补齐"基础设施"一环，支持底层算力调度到终端应用全链条
 
 ### 2026-05-13
-- **[AI智能体 从“能用”到“敢用”](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
+- **[AI智能体 从"能用"到"敢用"](http://baijiahao.baidu.com/s?id=1864854918015710670&wfr=spider&for=pc)** 2024年到2026年每年春节都有一款产品破圈，2026年是OpenClaw，智能体从能用到敢用需要先把OS和标准做好
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 从概念到核心架构，系统性解析AI Agent的五大核心技术特征和四大核心组件
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/WANGJUNAIJIAO/article/details=160256685)** 深入解析AI Agent框架的六大关键组件和四项底层技术，对比LangGraph、CrewAI、OpenAI Agents SDK
 - **[AIAgent联邦学习落地倒计时:2025年起监管强制要求模型训练日志可审计](https://blog.csdn.net/QuickTrans/article/details=160144640)** 六类元数据埋点成必修课，联邦学习四阶段闭环保障隐私与协同智能演进
@@ -212,7 +218,7 @@ description: 主流 Agent 框架与工具链一览
 - **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 2025年被行业称为"AI Agent工程化元年"，Agent正从"工具"变为"数字员工"
 - **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图AI Agent RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"
 - **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://new.qq.com/rain/a/20260509A0010300)** 2026年NAS关键词是把智能体塞进AI NAS，静态数据容器变成"赛博帮手"
-- **[Agentic AI——当AI学会主动思考与决策,世界将如何被重塑?](https://blog.51cto.com/u_17680712/14589472)** Citi预测Agentic AI将推动全球经济进入"代劳经济"时代
+- **[Agentic AI--当AI学会主动思考与决策,世界将如何被重塑?](https://blog.51cto.com/u_17680712/14589472)** Citi预测Agentic AI将推动全球经济进入"代劳经济"时代
 - **[2026年了,AI应用到底走到哪一步了?](https://zhuanlan.zhihu.com/p/2036237987277746569)** AI Agent是2026年最真实的"生产力革命"，核心是规划、执行、记忆、自主决策
 - **[AI Agent Harness Engineering 在游戏中的应用:NPC、策划与测试](https://gitcode.csdn.net/69ff36670a2f6a37c5a8c60e.html)** AI Agent Harness是AI Agent的"游戏专属经纪人+工具箱+规则护栏"
 - **[大模型行业全景:从职位分类到核心技术,全面解析2025-2026年人才需求](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160934557)** AI Agent工程师成为第三梯队应用落地的核心技术岗位
@@ -220,7 +226,7 @@ description: 主流 Agent 框架与工具链一览
 - **[入坑指南:人工智能训练师 vs 智能体训练师](https://it.sohu.com/a/1016361153_122728820)** 智能体训练师是AI应用的"架构设计师"，聚焦模型到应用
 
 ### 2026-05-12
-- **[黑灯社区——人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** Software 3.0时代，大语言模型成为解释者，语境转化为记忆，提示词成为新的编程语言
+- **[黑灯社区--人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** Software 3.0时代，大语言模型成为解释者，语境转化为记忆，提示词成为新的编程语言
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布智能体元编程技术平台，支持以自然语言描述业务逻辑
 - **[AI Agent 的枪口,和软件板块的第二次定价](https://zhuanlan.zhihu.com/p/2036222992783512171)** Datadog报告约5%的AI模型请求在生产环境中失败，69%公司使用三个或更多模型
 - **[拆解AI Agent的内部工作原理](https://cloud.tencent.com/developer/article/2664960)** Agent本质是LLM在循环里不断调用工具，Simon Willison给出最精准定义
@@ -325,7 +331,7 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent大升级!2025智能个人助理新功能](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 多模态交互+智能家居联动，本地部署AI Agent响应速度比云端快0.8秒
 
 ### 2026-05-09
-- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
 
 ### 2026-05-09
 - **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
@@ -342,7 +348,7 @@ description: 主流 Agent 框架与工具链一览
 - **[微软2026工作趋势报告:AI转型真正掉队的,不是员工,而是组织](https://mp.weixin.qq.com/s?__biz=MzA4OTYwNzk0NA==&mid=2649750690&idx=1&sn=0b0e6f2f342f77a7d4564fbfb9b50b97)** 微软报告称AI和Agent承担越多执行工作，人类的能动性越被放大
 
 ### 2026-05-09
-- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
+- **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
 - **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
 - **[企业级AI Agent落地提速：三大核心能力成标配](https://baijiahao.baidu.com/s?id=1864584859012345678)** 企业级AI Agent必备记忆、规划、工具调用三大核心能力，2025年成落地元年
 
@@ -357,7 +363,7 @@ description: 主流 Agent 框架与工具链一览
 - **[2024-2026最新AI热词终极科普:按时间线读懂Agent时代完整进化](https://cloud.tencent.com/developer/article/2666625)** 2025年被行业称为"AI Agent工程化元年"，Agent正从"工具"变为"数字员工"
 - **[AI Agent赋能商业化提速,多平台一季度算力消耗激增](https://baijiahao.baidu.com/s?id=1864672473531049723)** 美图AI Agent RoboNeo上线Agent Teams，打造内容创作"赛博乙方天团"
 - **[NAS不再只是硬盘盒子:英特尔把AI Agent塞进了AI NAS](https://new.qq.com/rain/a/20260509A0010300)** 2026年NAS关键词是把智能体塞进AI NAS，静态数据容器变成"赛博帮手"
-- **[Agentic AI——当AI学会主动思考与决策,世界将如何被重塑?](https://blog.51cto.com/u_17680712/14589472)** Citi预测Agentic AI将推动全球经济进入"代劳经济"时代
+- **[Agentic AI--当AI学会主动思考与决策,世界将如何被重塑?](https://blog.51cto.com/u_17680712/14589472)** Citi预测Agentic AI将推动全球经济进入"代劳经济"时代
 - **[2026年了,AI应用到底走到哪一步了?](https://zhuanlan.zhihu.com/p/2036237987277746569)** AI Agent是2026年最真实的"生产力革命"，核心是规划、执行、记忆、自主决策
 - **[AI Agent Harness Engineering 在游戏中的应用:NPC、策划与测试](https://gitcode.csdn.net/69ff36670a2f6a37c5a8c60e.html)** AI Agent Harness是AI Agent的"游戏专属经纪人+工具箱+规则护栏"
 - **[大模型行业全景:从职位分类到核心技术,全面解析2025-2026年人才需求](https://blog.csdn.net/WANGJUNAIJIAO/article/details/160934557)** AI Agent工程师成为第三梯队应用落地的核心技术岗位
@@ -366,7 +372,7 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-11
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965)** 自2023年起Agent赛道代际演进已拉开，Cursor、扣子、AutoGLM、Manus、Claude Code等产品相继发布，OpenClaw的鲶鱼效应驱动Agentic AI渗透率增长
-- **[黑灯社区——人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** 基于Software 3.0理论，从领导力到协作模式的全面重构，人从"参与决策"到"主导决策"到"协调智能体"
+- **[黑灯社区--人工智能时代开源范式转变的思考](https://baijiahao.baidu.com/s?id=1864688171029746823)** 基于Software 3.0理论，从领导力到协作模式的全面重构，人从"参与决策"到"主导决策"到"协调智能体"
 - **[2025年全球及中国AI智能体市场规模预测分析](http://k.sina.com.cn/article_7857201856_1d45362c001904c4g8.html)** 2024年全球AI智能体市场规模约51亿美元，2025年将达113亿美元，中国市场规模2025年将达69亿元
 - **[Top 14 Frameworks for Building AI Agents in 2026](https://brightdata.com/blog/ai/best-ai-agent-frameworks)** 全面解析2026年最流行的14个AI Agent框架，涵盖架构、记忆管理、任务编排和工具集成
 

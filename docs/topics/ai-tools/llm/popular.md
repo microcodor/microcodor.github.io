@@ -6,6 +6,12 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-24
+- **[Token贩子的盛宴:从草根到名人,为什么大家都想做AI中转站?](http://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyhwn6809228.shtml)** 孙宇晨、傅盛、特朗普家族纷纷入局AI中转站，Token价格错幅巨大，国内开发者面临支付、网络、合规三重障碍
+- **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 谷歌发布Gemini 3.5系列，阿里发布Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
+- **[三大AI实测做简历:ChatGPT秒出4版,Gemini直接翻车](https://m.163.com/dy/article/KTJ4JI4205561FZU.html]** 实测ChatGPT、Claude、Gemini的Canva集成能力，两个AI秒完成，另一个直接崩盘
+- **[Gemini-3.5 对标多款热门模型,场景选择一目了然](https://blog.csdn.net/2601_96151885/article/details=161344971)** Gemini 3.5 Flash vs GPT-5.2 vs Claude Opus 4.5，编码、推理、多模态、成本四维度对比
+
+### 2026-05-24
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969&wfr=spider&for=pc)** Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了 (来源:机器之心Pro) 编辑|Sia SWE-Bench 的创建者,刚刚...
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/news/article/KSAOJO8G0511AQHO.html)** Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了 编辑|Sia SWE-Bench 的创建者,刚刚又放出了一个地狱级新 be...
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量 2026年4月,全球300个核心AI工具的总访问量首次出现月度回落,环比下降9.3...
