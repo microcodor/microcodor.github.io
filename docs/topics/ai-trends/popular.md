@@ -5,6 +5,11 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-05-25
+- **[联想股价大涨背后:天禧AI 4.0发布,引领未来AI普及前沿浪潮](https://baijiahao.baidu.com/s?id=1865970156101503790&wfr=spider&for=pc)** 联想Q4营收增速创20季度新高，股价大涨近20%，天禧AI 4.0发布AI主机P7/Mini亮相
+- **[联想刘军:已发布两大"王炸"级成果,继续引领AI终端时代](https://baijiahao.baidu.com/s?id=1865880842467104549&wfr=spider&for=pc)** 联想中国AI相关收入同比增长超140%，占比达32%，天禧AI 4.0完成从"副驾驶"到"主驾驶"模式跃迁
+- **[2026福布斯中国人工智能科技企业TOP 50公布](https://finance.sina.cn/2026-05-23/detail-inhyvxrs4620834.d.html)** 中国AI企业超4800家，核心产业规模6800亿元，新增五大子评选方向
+
 ### 2026-05-24
 - **[Token贩子的盛宴:从草根到名人,为什么大家都想做AI中转站?](http://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyhwn6809228.shtml)** 孙宇晨、傅盛、特朗普家族纷纷入局AI中转站，Token价格错幅巨大，国内开发者面临支付、网络、合规三重障碍
 - **[联想股价大涨背后:天禧AI 4.0发布,引领未来AI普及前沿浪潮](https://baijiahao.baidu.com/s?id=1865970156101503790)** 联想Q4营收增速创20季度新高，天禧AI 4.0发布，AI主机P7/Mini亮相
