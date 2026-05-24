@@ -4,6 +4,11 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ## 近期动态
+
+### 2026-05-24
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969&wfr=spider&for=pc)** Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了 (来源:机器之心Pro) 编辑|Sia SWE-Bench 的创建者,刚刚...
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/news/article/KSAOJO8G0511AQHO.html)** Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了 编辑|Sia SWE-Bench 的创建者,刚刚又放出了一个地狱级新 be...
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量 2026年4月,全球300个核心AI工具的总访问量首次出现月度回落,环比下降9.3...
 ### 2026-05-24
 - **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本，直接对标开发者日常工作流
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KTBNC11905561FZE.html)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦

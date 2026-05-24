@@ -4,6 +4,11 @@ description: 主流 Agent 框架与工具链一览
 ---
 
 ## 近期动态
+
+### 2026-05-24
+- **[中国Agent产业发展趋势——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读五](https://www.woshipm.com/?p=6400148)** OpenClaw的爆发标志着AI产业从“对话与生成”的“辅助时代”正式迈入“自主执行”的“行动时代”。这一范式革命不仅催生了全新的技术演进路径——从单智能体执...
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 什么是 AI Agent 框架? AI Agent 框架是软件平台,使开发者能够构建具备以下能力的自主人工智能系统: 理解和处理自然语言输入- 对复杂问题进行...
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** 2025年AI Agent框架:机器学习工作流新趋势 1. 2025年机器学习工作流中的AI Agent框架全景观察 当我们在2024年回望机器学习工程化的发展...
 ### 2026-05-24
 - **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开

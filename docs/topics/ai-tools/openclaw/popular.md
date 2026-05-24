@@ -4,6 +4,11 @@ description: OpenCLAW AI Agent 框架最新动态
 ---
 
 ## 近期动态
+
+### 2026-05-24
+- **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent!](https://baijiahao.baidu.com/s?id=1865864171424538313&wfr=spider&for=pc)** 【新智元导读】日常聊天可能在不经意间污染个性化Agent的长期记忆,使其在未来任务中偏离用户真实意图。研究人员通过ULSPB基准测试发现,即使无恶意提示,日常...
+- **[企业拥抱Agent行动指南——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读四](https://www.woshipm.com/?p=6400147)** OpenClaw的爆发,标志着企业AI应用从“重集成的API对接”迈入“轻量外挂的Agent直接执行”新范式。这场变革在赋予业务前所未有的敏捷性与深度时,也因...
+- **[OpenAI六项更新炸场!Codex手机遥控锁屏Mac,人走了AI继续写代码!](https://baijiahao.baidu.com/s?id=1865876074278830562&wfr=spider&for=pc)** 智东西5月22日报道,今早,OpenAI发布了Codex的六项更新,包括Mac锁屏后用手机远程操控、Appshots应用截图、目标模式、应用内浏览器注释、团队...
 ### 2026-05-24
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后大厂纷纷入局，中国Agent社群有何不同？Agent需要方法论吗
 - **[中国Agent产业发展趋势报告解读五](https://www.woshipm.com/ai/6400148.html)** OpenClaw标志AI产业从"辅助时代"正式迈入"行动时代"，技术、产品、生态三个维度系统性演进

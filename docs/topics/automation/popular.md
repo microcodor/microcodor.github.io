@@ -4,6 +4,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ---
 
 ## 近期动态
+
+### 2026-05-24
+- **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865910005017589404&wfr=spider&for=pc)** “AI原生100”是虎嗅科技组推出针对AI原生创新栏目,这是本系列的第「56」篇文章 今年四月,甲骨文公司裁掉了全球3万名员工,占其总人力的五分之一。这家云平...
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11 Best AI Workflow Automation Tools for 2026 AI workflow automation tools offer...
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Your complete toolkit for AI automation AI Workflows Automate advanced workflow...
 ### 2026-05-24
 - **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效，人在不同系统之间搬运信息的操作将被自动化
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
