@@ -11,6 +11,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
 - **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 低代码/无代码可视化编排、跨平台服务集成、条件分支控制，典型工具如n8n开源自托管部署
 
+### 2026-05-24
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效，人在不同系统之间搬运信息的操作将被自动化
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 低代码/无代码可视化编排、跨平台服务集成、条件分支控制，典型工具如n8n开源自托管部署
+
 ### 2026-05-23
 - **[大厂裁掉三万人之后,打工人可能先出局](https://baijiahao.baidu.com/s?id=1865908870133882287)** 甲骨文裁掉全球20%员工，AI可以顶上这些岗位，前AWS研究员创办OpenAgents
 - **[10款Figma插件,让Claude UI/UX生产力直接拉满](https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==)** 10款适配Claude的必备Figma插件，从界面布局优化、无障碍合规、情感化体验升级
@@ -71,7 +78,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[告别加班!AI自动化工作流:让办公效率实现降维打击的终极指南](https://blog.51cto.com/u_17661752/14602726)** 核心逻辑转变:人->AI->人到触发源->AI节点->输出节点
 - **[AI驱动工作流自动化:从原理到实践,构建智能效率引擎](https://blog.csdn.net/weixin_42566209/article/details=161153161)** 意图理解与任务规划层、执行器、存储器核心架构
 
-
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[waoowaoo](https://github.com/waooAI/waoowaoo)** 首家工业级全流程 AI 影视生产平台, 12K stars
@@ -89,7 +95,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[印度小老板选自动化工具:Zapier、Make、n8n谁更划算](https://www.163.com/dy/article/KT6A8O9K05561FZJ.html)** Zapier集成6000+应用但按任务计费成本高，Make可视化画布按操作打包更划算，n8n可私有化部署适合开发者
 - **[月付不到100美元,一个人怎么搭AI自动化系统](https://www.163.com/dy/article/KT687ORI05561FZM.html)** n8n加语言模型一个人一下午搭建AI自动化系统，四类用例：入站支持路由、线索筛选、内容生成、CRM清理
 - **[别再死磕n8n了!2026年自动化新趋势:Agent工作流程完整教学](https://post.smzdm.com/p/aomlv8ln/)** 代理式工作流程(Agentic Workflows)用自然语言代替拖曳节点，预计2027年50%企业部署Agentic systems
-
 
 ### 2026-05-18
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows for intelligent decision-making, Multi-Agent Coordination, Contextual Processing, Learning Automation
@@ -847,7 +852,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[干了10年量化交易突然跑去开AI公司,并跟OpenClaw较劲](https://baijiahao.baidu.com/s?id=1860588669199246065)** 量化交易员转型做Agent闭环，把理解目标到调用工具执行做成完整闭环
 - **[Ekinox](https://baike.baidu.com/item/Ekinox/67533960)** 可视化工作流构建器，支持100种集成能力
 
-
 ### 2026-03-31
 - **[AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** marktoflow开源AI工作流自动化工具，workflow即Markdown文件，支持39种集成、Tool calling和本地LLM
 - **[What is AI workflow automation?](https://www.ibm.com/think/topics/ai-workflow)** IBM阐述AI workflow automation概念，AI Agent是自主的、基于规则的系统，能感知环境并跨多步骤调用工具
@@ -1117,7 +1121,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - 为失败设计：重试、幂等、告警、死信队列，至少要有告警
 - 统一身份与权限：别让所有 webhook 都拥有最高权限
 
-
 ### 2026-03-30
 - **[AI Automation Fundamentals: The Complete Guide [2025]](https://hypestudio.org/ai-automation-fundamentals-the-complete-guide-2025/)** AI自动化融合感知、推理、学习与自主行动能力，与传统规则自动化的核心区别解析
 - **[打造高可靠 AI 助手:Skill 编排、Workflow 设计与 Spec Coding 的深度实践](https://zhuanlan.zhihu.com/p/2012543820810715303)** 上下文工程最佳实践，Skill与Subagent在上下文管理机制上的本质差异
@@ -1211,7 +1214,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[拆穿名词诈骗!用大白话理解晦涩难懂的AI概念](https://blog.csdn.net/hCdf6asm4/article/details/159826131)** 用大白话解释LLM、Token、Agent、Workflow、Skill、MCP等核心概念
 - **[电力市场迈入AI"盯盘"时代:达卯科技推出四大智能体](https://www.cnr.cn/tech/techph/20260404/t20260404_527573843.html)** 电价预测Agent、负荷预测Agent、调节调度Agent、交易结算Agent
 - **[OpenClaw工作流自动化指南:功能场景与效率实测](https://post.smzdm.com/p/avg8vkmp/)** 邮件自动处理、周报自动生成、代码审查助手等8大场景，效率提升实测数据
-
 
 ### 2026-04-07
 - **[智能体工作流:让AI自主调用工具,重塑企业自动化](https://zhuanlan.zhihu.com/p/2022638790267664268)** AI智能体工作流以大语言模型为核心，通过理解用户目标、规划任务步骤并调用外部工具自动执行
@@ -1353,7 +1355,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** QClaw等AI智能体可直接在电脑上执行文件整理、数据分析、报告生成、邮件处理等任务，效率提升3-10倍，覆盖8大办公场景
 - **[2026攻防实战:AI工作流实现自动化WAF绕过](https://blog.csdn.net/yiyiyi0322/article/details/160481804)** 利用AI Agent工作流构建自动化Payload变异引擎，实现语义级WAF绕过，将千万级盲目测试压缩为几十次精准变异
 
-
 ### 2026-04-20
 - **[别再低效运转!2026 年最值得部署的 10 大自动化工具](https://zhuanlan.zhihu.com/p/2027432810839912522)** 2026年最值得部署的10大自动化工具深度解析
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用
@@ -1366,7 +1367,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流爆火背后:能否重塑办公生态?](https://developer.baidu.com/article_detail.html?id=6543166)** 动态流程编排、跨平台集成能力、自学习优化机制三大核心升级
 - **[2026四款AI:程序员必备AI工具实测](https://blog.csdn.net/like0907/article/details/160168394)** FastGPT、ToolLLM、Coze、BuildingAI四款工具深度实测对比
 - **[AI Agent驱动的智能工作流自动化](https://blog.csdn.net/2405_88636357/article/details=159934250)** Gartner预测到2027年70%的大中型企业将部署至少3个AI Agent驱动的核心业务工作流
-
 
 ### 2026-04-21
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有HTTP API网络应用和服务
@@ -1411,7 +1411,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[向量脉络:AI工作流驱动平台](https://baike.baidu.com/item/向量脉络/67651585)** 无需编程，通过拖拽即可创建工作流的AI工作流驱动平台
 - **[告别"无效忙碌":AI自动化工作流如何重塑职场](https://blog.51cto.com/Itstars/14560835)** 从"单点操作"到"系统编排"的跃迁，效率提升3-10倍
 - **[2026年AI办公自动化完全指南](https://cloud.tencent.com/developer/article/2658588)** 文件整理、数据分析、报告生成、邮件处理等日常办公任务自动化，效率提升3-10倍
-
 
 ### 2026-04-24
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** n8n是全球最受欢迎的低代码工作流自动化平台之一，支持连接所有基于HTTP API的网络应用
@@ -1475,7 +1474,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Workflows](https://baike.baidu.com/item/Workflows/67705412)** Mistral AI发布的企业级编排工具Workflows，基于Temporal引擎构建
 - **[n8n和OpenClaw如何使用才是王道!为什么?](https://post.smzdm.com/p/a035ovor/)** 混合架构设计模式，Agent系统负责理解问题制定策略，Workflow系统保证执行稳定与合规
 
-
 ### 2026-05-01
 - **[n8n估值达25亿美元：AI工作流自动化成新风口](https://baijiahao.baidu.com/s?id=1864000000000000020)** n8n完成C轮融资，估值达25亿美元
 - **[Dify v1.0发布：企业级AI工作流平台](https://dify.ai/v1-0)** Dify发布v1.0，聚焦企业级应用
@@ -1497,8 +1495,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流自动化:从零构建个人效率中枢aiflowy](https://blog.csdn.net/weixin_42520448/article/details/160638736)** aiflowy高度可定制、以AI为大脑的个人工作流自动化平台，整合AI能力重塑数字信息交互
 - **[Taskade AI工作流:无代码构建AI应用和工作流自动化](https://www.taskade.com/ai/workflows)** Taskade提供 Genesis Flow Builder，用自然语言描述流程即可构建自动化
 
-
-
 ### 2026-05-05
 - **[构建AI原生的科学知识图谱服务:浙大联合上海AI Lab发布SciGraph-SCP Server](https://hub.baai.ac.cn/view/54433)** 首个专为科学智能体打造的AI原生科学图谱服务，支持OpenClaw等多个开源智能体框架
 - **[SAP AI Core](https://baike.baidu.com/item/SAP%20AI%20Core/67732936)** SAP AI Core与核心业务应用深度集成，AI能直接操作采购订单等业务对象
@@ -1515,7 +1511,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Adobe推出Firefly AI助手公测版,实现跨应用工作流自动化](https://www.163.com/dy/article/KRI9D4H4055680UT.html)** 实现跨应用工作流自动化，可编排Photoshop等应用
 - **[GPT-5技术架构深度解析:Agentic AI时代的算力革命](https://cloud.tencent.com/developer/article/2661840)** GPT-5.5采用三���Agent架构：规划层、执行层、反馈层
 - **[零代码造AI工作流:AWS新工具实测,4小时工作压缩至3分钟](https://www.163.com/dy/article/KRIM5J2Q05561FZI.html)** 用自然语言描述需求即可生成工作流
-
 
 ### 2026-05-06
 - **[AI工作流自动化平台n8n正被大规模网络武器化](https://baijiahao.baidu.com/s?id=1862647874572505195)** 思科研究显示n8n平台被威胁行为者大规模武器化用于网络攻击
@@ -1543,7 +1538,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-my/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 主流AI工作流自动化工具盘点，Agentforce in Slack、Trello AI等
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 
-
 ### 2026-05-07
 - **[2023年AI工具清单:谁在帮你省时间,谁在收智商税](https://www.163.com/dy/article/KS72LH1L05561FZK.html)** FreshBooks自动化发票和收据处理，Semrush智能分析内容差距，ConvertKit邮件自动化
 - **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** ConvertKit邮件自动化、HubSpot AI优化等工具实测，从决策时间节省到品牌调性平衡
@@ -1551,14 +1545,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026技术前沿:从大模型到Agent,AI正在重构软件形态](https://it.sohu.com/a/1018963393_122049597)** Agent+工作流结合触发条件、状态流转、可视化编排成企业级应用标配
 - **[AI智能体平台实战:从零构建可视化多智能体工作流](https://blog.csdn.net/weixin_42676876/article/details/160841953)** tarikstafford/ai-agent-platform现代化AI智能体工作流框架与托管平台
 
-
 ### 2026-05-08
 - **[思科借星战日发布AI助手"银河模式",限时开放至6月4日](https://www.163.com/dy/article/KSC46QEH05118UGF.html)** 思科发布"银河模式"AI助手，深度推理功能可协助分析网络诊断结果、审查故障现象
 - **[Taskade Automation功能更新:集成AI agents](https://www.taskade.com/wiki/automation)** 多Agent协调、上下文处理、学习自动化、自然语言触发器等特性
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界里的"菜谱"，可以稳定交付高质量结果
 - **[AI工作流让AI像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** 已被多Agent架构逐步替代，但理解AI应用编排的底层思路仍有价值
 - **[AI驱动的代码生成与自动化工作流平台](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
-
 
 ### 2026-05-08
 - **[思科借星战日发布AI助手"银河模式",限时开放至6月4日](https://www.163.com/dy/article/KSC46QEH05118UGF.html)** 思科发布"银河模式"AI助手，深度推理功能可协助分析网络诊断结果
@@ -1569,7 +1561,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI智能体+工作流组合搭建实战指南:从“玩具”到“生产系统”的跨越](https://zhuanlan.zhihu.com/p/2034026469773533597)** 四种核心设计模式：反思模式、工具使用模式、规划模式、多智能体协作模式
 - **[为什么你用AI还是慢?因为你缺一条“找--理--写--干”的自动化流水线](https://mp.weixin.qq.com/s?__biz=MzA3MDk4NzMzNg==&mid=2651982475&idx=1&sn=285d6f5f372297a00e64f8296ccee492)** 打通办公四大核心环节：找、理、写、干
 - **[10个AI工具实测:谁真能让你少加班?](https://www.163.com/dy/article/KS72CG8C05561FZY.html)** 内容生产型、流程自动化型、垂直场景型三类工具实测对比
-
 
 ### 2026-05-09
 - **[AI工作流自动化平台爆发：n8n、Dify、Coze竞争激烈](https://baijiahao.baidu.com/s?id=1864621234567890123)** AI工作流自动化平台爆发，n8n、Dify、Coze竞争激烈，企业级应用成焦点
@@ -1660,7 +1651,6 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** 微软推出Zapier AI Workflows，自动化高级工作流，支持AI处理IT支持工单
 - **[工作流程自動化工具建置更智能的系統](https://www.microsoft.com/zh-tw/microsoft-copilot/copilot-101/workflow-automation/)** 了解工作流程自動化如何簡化任務、提升生產力並幫助您的團隊專注
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出AI Workflow，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
-
 
 ### 2026-05-20
 - **[Automation - Taskade](https://www.taskade.com/wiki/automation)** 将AI代理直接集成到自动化流程中，实现智能决策和多代理协调

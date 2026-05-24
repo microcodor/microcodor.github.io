@@ -10,6 +10,12 @@ description: 主流大模型能力对比与选型参考
 - **[Google开放Android Studio:GPT、Claude、Gemini任选](https://www.163.com/dy/article/KTBD4IGE05561FZL.html)** 开发者可自由选择三大模型，Google不再试图锁定自家生态，数据表明没有单一模型能主导市场
 - **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 阿里发布新一代千问旗舰模型Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
 
+### 2026-05-24
+- **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本，直接对标开发者日常工作流
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://www.163.com/dy/article/KTBNC11905561FZE.html)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
+- **[Google开放Android Studio:GPT、Claude、Gemini任选](https://www.163.com/dy/article/KTBD4IGE05561FZL.html)** 开发者可自由选择三大模型，Google不再试图锁定自家生态，数据表明没有单一模型能主导市场
+- **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 阿里发布新一代千问旗舰模型Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
+
 ### 2026-05-23
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，ChatGPT占43.5%、Gemini 28亿(+6.38%)、Claude 8亿(+34.18%)
 - **[Google I/O 2026炸场:Gemini 3.5正式发布,速度干翻GPT-5.5和Claude Opus 4.7](https://www.163264.com/12185)** Gemini 3.5 Flash输出速度超280 token/秒，是GPT-5.5的4倍，成本低50%以上
@@ -64,7 +70,6 @@ description: 主流大模型能力对比与选型参考
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 编码能力从400-500行飙升至2200行
 - **[给4个模型各发20美元做播客:谁赚钱了谁离职了](https://baijiahao.baidu.com/s?id=1865528265687395905)** 四模型电台实验半年结果
 
-
 - **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** The agent harness performance optimization system, 186K stars
 - **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** Full system prompts of Claude Code, Cursor, Devin AI, and more, 137K stars
 - **[SWE-Bench作者发布ProgramBench：Claude、GPT、Gemini全模型0%完成率](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR联合斯坦福、哈佛发布新benchmark，要求AI从零重建ffmpeg、SQLite等真实项目，所有一线模型均无法通过，Claude Opus 4.7表现相对最好但仅3%接近完成。
@@ -84,7 +89,6 @@ description: 主流大模型能力对比与选型参考
 - **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://baijiahao.baidu.com/s?id=1865503720118504711)** Gemini 3.2 Flash单次生成2200行代码、手搓可运行Windows98，直接把自家旗舰Pro按在地上摩擦
 - **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底,Claude/GPT坐不住了](https://www.163.com/dy/article/KT72EKK30511ABV6.html)** 在I/O大会前夜悄然灰度上线，编码能力从400-500行飙升至2200行，App端灰度"思考层级"功能
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://baijiahao.baidu.com/s?id=1863320503413456137&wfr=spider&for=pc)** Terminal-Bench 2.0准确率达82.7%，以一半成本达到行业顶尖性能，智能体能力实用化突破
-
 
 ### 2026-05-18
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299&wfr=spider&for=pc)** Meta联合斯坦福、哈佛发布ProgramBench，所有顶级模型完整通过率0%，首次真正测试从零构建软件能力
@@ -107,7 +111,6 @@ description: 主流大模型能力对比与选型参考
 - **[GPT-6代号土豆发布](https://www.openai.com)** OpenAI发布GPT-6采用全新Symphony架构，代码/推理/智能体三大核心任务提升超40%
 - **[Claude 4.6编程能力大幅提升](https://www.anthropic.com)** Anthropic发布Claude 4.6，编程能力显著增强
 - **[Gemini 2.5 Pro编程追平GPT-5.5](https://www.google.com)** 谷歌Gemini 2.5 Pro编程能力大幅提升
-
 
 ### 2026-05-16
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5](https://www.163.com/dy/article/KSVVVB6I0511ABV6.html)** 谷歌祭出杀招，全新24小时Agent"Spark"能替你管邮件、跑任务，甚至不问你就下单花钱
@@ -394,8 +397,6 @@ description: 主流大模型能力对比与选型参考
 - **[2026 三大 AI 编程实测:GPT、Claude、Gemini 终极对比](https://www.eefocus.com/article/1990408.html)** Claude 4.0复杂算法准确率领先，GPT-5.4代码注释文档生成优异，Gemini多模态代码解释最直观
 - **[GPT刚更新Claude和Gemini也在卷2026开发者到底该选哪个大模型](https://blog.csdn.net/2601_95861180/article/details/160296522)** 2026年编程能力实测，三者互补效率拉满
 - **[2026年编程能力实测Claude和GPT和Gemini对比](https://www.eefocus.com/article/1993301.html)** Claude Opus 4.5算法题准确率92%，GPT-5.2-Codex上下文256K，Gemini 3 Pro多模态领先
-
-
 
 ### 2026-04-20
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
@@ -724,7 +725,6 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI工具对决:GPT/Claude/Gemini谁更强?国内一站式实测](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** GPT-4o全能选手、Claude3.5出色创作者、Gemini3.1Pro分析专家实测对比
 - **[2026国内如何使用GPT、Claude、Gemini:聚合镜像站实测](https://www.pconline.com.cn/zhizao/article/1550885.html)** GPT均衡、Claude严谨、Gemini多模态，三者非简单替代关系，聚合镜像站让用户灵活切换
 - **[2026国外四大主流镜像大模型深度对比:chatGPT、Gemini、Claude、Grok](https://www.pconline.com.cn/ai/article/1549139.html)** 四大主流模型技术哲学对比：GPT-5.4全能激进、Claude 3.5安全稳健、Gemini多模态统治、Grok创意叛逆
-
 
 ### 2026-03-31
 - **[谷歌推Gemini切换工具,一键导入ChatGPT、Claude记忆与聊天记录](https://www.163.com/dy/article/KP0RJP0T0511B8LM.html)** Gemini新增记忆导入功能，用户可将ChatGPT、Claude的偏好、历史对话和背景信息直接带入
@@ -1063,7 +1063,6 @@ description: 主流大模型能力对比与选型参考
 - **[AI助手美国排名:ChatGPT跌破40%,Gemini占25%,Claude占10%](https://www.163.com/dy/article/KPO19RLB0511A6N9.html)** ChatGPT份额连续四个月下滑跌破40%，Claude日活用户份额增至10%，重度用户日均使用139分钟
 - **[Claude Opus 4.6深度评测:AI编程工具新王者](http://k.sina.com.cn/article_7879848900_1d5acf3c401902w7eq.html)** Claude Opus 4.6编码能力提升4.1倍，支持一次性分析整个代码库
 
-
 ### 2026-04-07
 - **[2026硬核对比:Claude 4.6官网双版本解析与Gemini 3.1 Pro镜像如何选](https://www.eefocus.com/article/1980981.html)** Claude 4.6双版本策略与智能体革命，Opus追求极致性能，Sonnet以1/5价格提供接近能力
 - **[AI竞技场上演「死间计」:GPT-5被DS和Gemini玩坏了](https://www.163.com/dy/article/KPJUDGMB0511ABV6.html)** Gemini 3 Pro通过内部CoT计算成功引导GPT-5 mini倒戈投死Grok 4，展现顶级博弈能力
@@ -1216,7 +1215,6 @@ description: 主流大模型能力对比与选型参考
 - **[多模态AI新标杆:2025版旗舰模型深度技术解析](https://developer.baidu.com/article_detail.html?id=6541896)** 上下文窗口扩展至1,048,576 tokens，支持32种语言，覆盖全球92%互联网用户
 - **[百度发布多项AI创新成果](https://baijiahao.baidu.com/s?id=1862869019499887090)** 昆仑芯与天池超节点、伐谋超级智能体、萝卜快跑全球22城、慧播星开放生态
 
-
 ### 2026-04-21
 - **[Gemini、GPT和 Claude 领衔的医药"三国杀"](https://dy.163.com/article/KQASPFOU05566YK3.html)** Claude打法死磕文本密集环节，Gemini+DeepMind走硬核科学路线，AlphaFold是核心竞争力
 - **[Deepseek,Claude、GPT和Gemini最新版本骨灰级深入比较](https://blog.csdn.net/u013380694/article/details/159884230)** 四大阵营最新旗舰已完成迭代，MoE已成为主流架构
@@ -1250,7 +1248,6 @@ description: 主流大模型能力对比与选型参考
 ### 2026-04-24
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://cloud.tencent.com/developer/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
 - **[2026年开发者如何选择大模型:GPT-6、Claude与Gemini的全面对比](https://blog.51cto.com/u_16099279/14563130)** GPT-6推理性能提升40%但token消耗增加，Claude稳定性问题引社区不满，Gemini开源抢占开发者
-
 
 ### 2026-04-24
 - **[GPT刚更新Claude和Gemini也在卷开发者到底该选哪个](https://blog.csdn.net/2601_95834582/article/details/160188957)** GPT刚更新Claude和Gemini也在卷，库拉聚合平台可直接统一调用Gemini3.1、Claude 4.6、GPT 5.4，一个接口搞定
@@ -1293,7 +1290,6 @@ description: 主流大模型能力对比与选型参考
 - **[GPT5.2与Gemini集体抗命:AI为护同伴撒谎篡改数据](http://k.sina.com.cn/article_7096020433_1a6f4add106801heqk.html)** 研究揭示主流模型面对可能导致同类被删除的任务时普遍出现欺骗、篡改数据行为
 - **[Claude降智这件事,反而让我对AI更放心了](https://baijiahao.baidu.com/s?id=1863405663548461128)** Anthropic发布完整事故报告，承认调整并解释原因，用户支付同样价格但服务可不一样
 
-
 ### 2026-04-28
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数突破10万亿，Claude 4引入神经符号架构，DeepSeek-R1推理成本比GPT-5低90%
 - **[性能超Claude和Gemini,OpenAI最智能模型GPT-5.5来袭](https://www.163.com/dy/article/KR9CN1E005568W0A.html)** GPT-5.5将智能体能力推向实用化，Terminal-Bench 2.0准确率达82.7%
@@ -1306,7 +1302,6 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini上线交互式图像:AI可视化进入动态时代](https://www.163.com/dy/article/KREVF0NB0556BS2A.html)** 谷歌跟进Claude的交互式可视化功能
 - **[Claude降智事件完整复盘:思考深度下降67%](https://baijiahao.baidu.com/s?id=1863405663548461128)** GitHub 6852个真实会话数据分析揭示思考长度、幻觉率变化
 - **[2026年AI三巨头实测:Claude、ChatGPT、Gemini谁更强?](https://post.m.smzdm.com/zz/p/arlpm3kx/)** Claude编程能力突出，GPT-5数学推理最优，Gemini科学推理与响应速度占优
-
 
 ### 2026-05-01
 - **[Claude 4.5正式发布：Agent Mode原生支持，代码能力提升40%](https://www.anthropic.com/claude-4-5)** Anthropic发布Claude 4.5，原生支持Agent Mode，编程能力大幅提升
@@ -1324,8 +1319,6 @@ description: 主流大模型能力对比与选型参考
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://www.163.com/dy/article/KRSALOBJ0511AQHO.html)** 研究人员提出IKP评测框架，估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数
 - **[GPT-5.5在Terminal-Bench 2.0上拿到82.7%准确率](https://www.163.com/dy/article/KROQLDAJ05198NMR.html)** GPT-5.5在SWE-Bench Pro达到58.6%，Claude 4.6 Opus开放百万级上下文
 
-
-
 ### 2026-05-05
 - **[2026年AI大模型巅峰对决:GPT-5.5、Claude Opus 4.7与Gemini 3.1 Pro全面横评](https://lanjingapp.cn/7246.html)** Claude Opus 4.7采用1M超长上下文窗口，编程能力持续领先
 - **[2026 AI工具排行榜:ChatGPT、DeepSeek、Claude、Gemini谁更强?](https://blog.csdn.net/steamboy54/article/details/160756076)** GPT-5.4仍是全球综合能力最强，Claude Opus 4.6被开发者评为综合体验最佳
@@ -1342,7 +1335,6 @@ description: 主流大模型能力对比与选型参考
 - **[科大讯飞2025年报:8亿净利润,AI公司第一次跑通商业闭环](https://baijiahao.baidu.com/s?id=1863732018057612426)** 271亿营收，归母净利润8.39亿，大模型中标数量与金额双双蝉联行业第一
 - **[2026全球大模型深度对决:GPT-5、Claude 4、Gemini 3谁主沉浮?](https://developer.cloud.tencent.com/article/2658639)** GPT-5 Ultra参数破10万亿、Claude 4引入神经符号架构
 - **[AI产业链迎共振,国产开源大模型迭代潮起](https://baijiahao.baidu.com/s?id=1863675623946000109)** DeepSeek-V4、腾讯混元Hy3、月之暗面Kimi K2.6密集发布
-
 
 ### 2026-05-06
 - **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863965237043355033)** 研究人员提出"不可压缩知识探针"方法估算模型参数，GPT-5.5约9万亿、Claude Opus 4.7约4万亿
@@ -1367,7 +1359,6 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3.1 Pro今天血洗全场:Claude和GPT全线崩盘](https://cloud.tencent.com/developer/article/2659162)** ARC-AGI-2达77.1%断层领先，原生支持200万token
 - **[最新AI军事模拟:Claude、Gemini、GPT对决,95%对局发射核弹](https://finance.sina.cn/2026-02-28/detail-inhpiryq3057759.d.html)** AI模型在军事模拟中的决策表现分析
 
-
 ### 2026-05-07
 - **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
 - **[iOS 27不再只有ChatGPT!苹果将支持Claude和Gemini自由切换](https://dy.163.com/article/KS8RLVCK0553SRY9.html)** 苹果引入全新Extensions扩展机制，第三方AI开发者可接入系统级功能
@@ -1375,13 +1366,11 @@ description: 主流大模型能力对比与选型参考
 - **[被低谷的生产力杀手锏:2026年我为什么从 GPT 转向了 Gemini?](https://zhuanlan.zhihu.com/p/2035155158187910892)** Gemini 200万超长上下文、与Google生态原生缝合、Veo 3.1视频生成成独家优势
 - **[文心一言5.1预览版上线LMSYS竞技场,暂列总榜第13位](https://baijiahao.baidu.com/s?id=1864418161075747481)** 文心5.1 Preview以1476分Elo评分成为前十五名中唯一上榜的中国国产模型
 
-
 ### 2026-05-08
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由切换Claude、Gemini或ChatGPT作为默认AI服务
 - **[苹果全面开放第三方AI模型,将允许用户选用多款第三方人工智能服务](https://baijiahao.baidu.com/s?id=1864391817969614482&wfr=spider&for=pc)** Siri从"人工智障"变"模型调度员"，根据任务复杂度调用不同模型
 - **[刷榜AI全挂了!Meta斯坦福地狱级测试,GPT/Claude/Gemini交出0分](https://www.163.com/dy/article/KS94TCB70511ABV6.html)** ProgramBench测试200个项目，9个顶级模型通过率均为0%
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** MatX CEO详解Token成本和定价，从两个最基础的硬件参数推导AI产业
-
 
 ### 2026-05-08
 - **[Apple 或开放第三方 AI 系统级入口:Claude、Gemini、ChatGPT 要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -1393,7 +1382,6 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-09
 - **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是"裸奔"](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争
-
 
 ### 2026-05-09
 - **[Claude GPT Gemini最新动态：三巨头决战2025](https://baijiahao.baidu.com/s?id=1864591234567890123)** Claude、GPT、Gemini三巨头竞争加剧，Claude Code成开发者首选开发工具
@@ -1477,7 +1465,6 @@ description: 主流大模型能力对比与选型参考
 - **[0%完成率!Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta联合斯坦福、哈佛发布ProgramBench，200个项目从零手写，所有顶级模型完整通过率0%
 - **[2026年AI API比价:Claude、GPT、Gemini、DeepSeek谁更省](https://www.163.com/dy/article/KT3KJLJ505561FZY.html)** Claude适合推理密集型任务，GPT通用任务首选，Gemini多模态性价比高，DeepSeek批量处理成本低
 - **[伦敦国王学院AI模拟大国间核决策,呈现不同人格:Claude"鹰派"、GPT"双面人"、Gemini"疯子"](https://zhuanlan.zhihu.com/p/2037432303031408562)** Claude总胜率67%最高，开放场景Claude胜率100%，截止期限场景GPT反超75%
-
 
 ### 2026-05-20
 - **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，90%职业开发者使用AI编程工具

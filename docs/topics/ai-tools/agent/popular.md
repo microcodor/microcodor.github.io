@@ -7,6 +7,13 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-05-24
 - **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details/161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
+- **[Agent智能体开发模式第10章 2025-2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年市场已达108亿美元，四种编排范式：图式、角色式、Handoff式、层级式
+- **[微软Build 2025:50款新品押注Agent AI](https://m.163.com/dy/article/KTBM79CP05561FZX.html)** 纳德拉宣布全面押注agent ai，发布超过50款新产品
+
+### 2026-05-24
+- **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
 - **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details=161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
 - **[Agent智能体开发模式第10章 2025-2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年市场已达108亿美元，四种编排范式：图式、角色式、Handoff式、层级式
 - **[微软Build 2025:50款新品押注Agent AI](https://m.163.com/dy/article/KTBM79CP05561FZX.html)** 纳德拉宣布全面押注agent ai，发布超过50款新产品
@@ -95,7 +102,6 @@ description: 主流 Agent 框架与工具链一览
 - **[MCP(Model Context Protocol)实战:让你的AI Agent真正连接世界](https://blog.csdn.net/qq_39914918/article/details/160968610)** MCP解决AI Agent连接外部工具问题，像USB接口一样标准化、即插即用，OpenAI、Google各大框架纷纷跟进支持
 - **[2026年AI Agent框架横评:LangChain vs LlamaIndex vs AutoGen vs 自己写](https://blog.csdn.net/qq_31808385/article/details/160534711)** 2025年Agent框架横评结论：LangChain快速验证首选、LlamaIndex企业知识库问答首选、AutoGen多Agent协作、研究型项目自写核心逻辑
 - **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，引入MCP标准协议打通AI与表格的"双向管道"，准确率提升20%-40%
-
 
 ### 2026-05-18
 - **[AI早已学会反思组队记忆,甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式全解析，从"独狼"到"军团"，反思模式、记忆模式、协作模式等
@@ -256,7 +262,6 @@ description: 主流 Agent 框架与工具链一览
 - **[2025年11大AI Agent框架全解析:开发者必备智能系统构建指南](https://blog.csdn.net/CSDN_430422/article/details/154985574)** LangChain以模块化架构和丰富生态著称，AutoGen支持多Agent协作，Dify适合快速原型验证
 - **[2025年AI系统架构洞察:Agent三大框架全景调研](https://zhuanlan.zhihu.com/p/1945267976937926834)** 介绍13种主流Agent框架，LangGraph适合精确控制流程，CrewAI在多智能体协作方面表现突出
 
-
 ### 2026-05-10
 - **[Manus GP:全球首个通用AI Agent平台](https://baijiahao.baidu.com/s?id=1864678230188233089)** Monica.im发布，全球首个通用AI Agent平台，支持多模态输入和复杂任务自动化
 - **[OpenClaw Agent Skills:企业级自动化新范式](https://baijiahao.baidu.com/s?id=1864582717181947790)** Agent框架竞争转向工具生态，开发者关注"能高效完成任务"的工具
@@ -290,7 +295,6 @@ description: 主流 Agent 框架与工具链一览
 - **[到Multi-Agent:AI Agent架构的三次跃迁](https://zhuanlan.zhihu.com/p/2031168707041424196)** 从ReAct到Multi-Agent，每一次跃迁解决不同问题，2025年Agent的PoC成功率不到30%
 - **[药物研发AI Agent平台都有哪些?](https://zhuanlan.zhihu.com/p/2031042854060024427)** 摩熵数科PharnexCloud等11个主流生物医药AI Agent开发平台，覆盖药品研发全链条
 
-
 ### 2026-05-07
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** AI智能体具备五大核心技术特征：自主性、感知能力、决策能力、行动能力、适应性，包含感知模块、知识库、推理与规划引擎、行动模块四大核心组件
 - **[2026,AI Agent商用元年:从"能聊天"到"能干活"的关键一跃](https://zhuanlan.zhihu.com/p/2033323128877741261)** 四个条件同时成熟：大模型能力越过实用门槛、协议标准化打破孤岛、工具链生态爆发、企业接受度跨越鸿沟
@@ -305,7 +309,6 @@ description: 主流 Agent 框架与工具链一览
 - **[迈富时2025年ESG报告:把"负责任创新"写进业绩逻辑](https://www.ithome.com/0/946/053.htm)** 推出AI-Agentforce企业级智能体中台3.0，人效同比提升62.7%
 - **[AI Agent爆火,但你真的懂LangChain吗?](https://www.jianshu.com/p/406993456d8f)** Gartner预测2026年底40%企业应用将嵌入AI智能体，LangChain是绕不开的开发框架
 
-
 ### 2026-05-08
 - **[AI的诸神黄昏:从凡人计算到生生不息的自进化](https://baijiahao.baidu.com/s?id=1864094969124600757&wfr=spider&for=pc)** OpenAI完成1220亿美元融资估值8520亿美元，顶尖模型性能提升进入每增加10倍算力仅提升1%阶段，杰弗里·辛顿提出"非永生/凡人计算"概念
 - **[AI-Agentforce智能体中台3.0](https://baike.baidu.com/item/AI-Agentforce智能体中台3.0/67237143)** 迈富时发布，采用"智能体元编程"技术，支持以自然语言描述业务逻辑自动拆解生成执行指令
@@ -318,7 +321,6 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-09
 - **[重新洗牌!DeepSeek V4遇冷敲响警钟:没有Agent框架,再强的模型也是“裸奔”](https://baijiahao.baidu.com/s?id=1864582717181947790)** DeepSeek V4发布遇冷，行业转向Agent框架竞争，开发者关注"能高效完成任务"的工具而非"考试分数高"的模型
-
 
 ### 2026-05-09
 - **[AI Agent框架竞争加剧：OpenClaw与Manus的对决](https://baijiahao.baidu.com/s?id=1864583748959430546)** 全球AI Agent框架竞争激烈，OpenClaw与Manus成为开发者首选，生态建设成决胜关键
