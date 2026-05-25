@@ -6,6 +6,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-25
+- **[中国Agent产业发展趋势报告解读五](https://www.woshipm.com/?p=6400148)** OpenClaw标志AI产业从"辅助时代"正式迈入"行动时代"，从单智能体执行向多智能体协作演进
+- **[收藏必备:2025年最适合开发者的11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等11大框架对比，生态与选型指南
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** AutoML-Next、SwarmLearner、OmniAgent等框架在自主决策、分布式协作、多模态编排的技术突破
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 工具链系统重构、交互体验优化、多工具协作能力全面升级
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大框架从架构设计、代码风格、性能表现对比
+
+### 2026-05-25
 - **[Agent 从「优等生」到「好员工」还差什么?](http://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4650946.shtml)** 2026年以来Agent的行业讨论从跑分Demo转向企业部署，代码仓库、内部数据、客服和运维流程把Agent带进真实账号权限链路
 - **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员自主完成因子研究闭环
 - **[对话式智能表格获权威认可!葡萄城荣获「2025年度软件行业先进性科技成果」](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道
