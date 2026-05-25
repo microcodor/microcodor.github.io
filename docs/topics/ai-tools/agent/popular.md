@@ -14,6 +14,15 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-26
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+
+## 近期动态
+
+### 2026-05-26
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，快速验证选CrewAI、生产选LangChain、研究选AutoGen
+- **[收藏必备:2025年最适合开发者的11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 11个最佳AI Agent框架全面解析，覆盖LangChain、CrewAI、AutoGen、LangGraph、Dify等
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** 从链式到图式与团队，2025年Agent框架核心设计模式分类与技术剖析
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 工具链系统重构、交互体验优化、多工具协作能力全面升级
+- **[百度AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 分层架构设计、感知层/认知层/行动层、模块化开发原则
 - **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
 - **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details/161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
 - **[Agent智能体开发模式第10章 2025–2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年市场已达108亿美元，四种编排范式：图式、角色式、Handoff式、层级式

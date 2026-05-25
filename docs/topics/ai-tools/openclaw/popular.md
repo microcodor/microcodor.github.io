@@ -19,10 +19,6 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度、20+项安全加固
 
 ### 2026-05-25
-- **[OpenClaw时代中国Agent研报:GEO优化与生态重构](https://baijiahao.baidu.com/s?id=1865509317415357800)** 2026年中国Agent生态走出特色道路，行业进入"全民养Agent"阶段
-- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到MCP服务，从单次问答到持续工作流，OpenClaw驱动入口重新分配
-
-### 2026-05-25
 - **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，研究人员提出ULSPB基准测试发现即使无恶意提示也会改变安全边界
 - **[对谈高德&理想:Agent如何改变汽车的未来](https://baijiahao.baidu.com/s?id=1865575228227439693)** 高德推出汽车出行AI Agent在理想L9 Livis首发落地，红旗、长城、赛力斯等品牌将陆续接入
 - **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和AI模式中推出个人智能，Gmail引入新AI功能，Chrome重构为AI为先的代理化浏览器
