@@ -6,6 +6,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-25
+- **[Agent 从「优等生」到「好员工」还差什么?](http://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4650946.shtml)** 2026年以来Agent的行业讨论从跑分Demo转向企业部署，代码仓库、内部数据、客服和运维流程把Agent带进真实账号权限链路
+- **[RD-Agent实测:AI驱动的因子挖掘框架](https://baijiahao.baidu.com/s?id=1865690710419529914)** 微软亚洲研究院开源的AI驱动研发自动化框架，让大模型扮演量化研究员自主完成因子研究闭环
+- **[对话式智能表格获权威认可!葡萄城荣获「2025年度软件行业先进性科技成果」](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent与OpenClaw从相反方向解决同一问题，Hermes是运行时优先，OpenClaw是网关优先
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+
+### 2026-05-25
 - **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490&wfr=spider&for=pc)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
 - **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想

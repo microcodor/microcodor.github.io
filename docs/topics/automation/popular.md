@@ -9,6 +9,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效，人在不同系统之间搬运信息的操作将被自动化
 - **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
 - **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
+- **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 自动化工作流自动执行重复性任务，如线索分配、邮件跟进、数据更新
+
+### 2026-05-25
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效，人在不同系统之间搬运信息的操作将被自动化
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
 - **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970&wfr=spider&for=pc)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
 - **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 自动化工作流自动执行重复性任务，如线索分配、邮件跟进、数据更新
 
