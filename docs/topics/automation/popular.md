@@ -12,6 +12,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-26
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/coo/heisha/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑、容错能力、责任归属
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 工作流自动化工具通过技术手段自动执行业务流程任务，应用于IT管理、数据中心运营及财务、人力资源等领域
+
 ### 2026-05-25
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款顶级AI工作流自动化工具，涵盖AgentForce、Trello、Zapier、Asana等
 - **[Zapier unlocks transformative AI](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=cz)** Zapier连接8000+应用，工作流自动化助力企业节省成本

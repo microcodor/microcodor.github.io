@@ -12,6 +12,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-26
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
+- **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details/161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
+- **[Agent智能体开发模式第10章 2025–2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年市场已达108亿美元，四种编排范式：图式、角色式、Handoff式、层级式
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+
 ### 2026-05-25
 - **[中国Agent产业发展趋势报告解读五](https://www.woshipm.com/?p=6400148)** OpenClaw标志AI产业从"辅助时代"正式迈入"行动时代"，从单智能体执行向多智能体协作演进
 - **[收藏必备:2025年最适合开发者的11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、CrewAI等11大框架对比，生态与选型指南

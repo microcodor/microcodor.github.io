@@ -11,6 +11,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-05-26
+- **[「CGS-NDI跟踪」算力锁定折射AI竞争新变化](https://baijiahao.baidu.com/s?id=1866151794479065958)** DeepSeek以5.27万亿Token稳居全球第一，Claude与Gemini依托企业级生态和Agent能力保持竞争韧性
+- **[Anthropic三张底牌全翻了](https://finance.sina.cn/2026-05-25/detail-inhzamvq2651220.d.html)** Anthropic内部泄露51万行代码，确认跳过Sonnet 4.7直接发布Opus 4.8，预计6月中旬发布
+- **[AI当老板测试全面翻车,运营实体店一个月血亏1.3万美元](https://baijiahao.baidu.com/s?id=1866048898290001524)** Andon Labs让Claude、ChatGPT、Gemini和Grok四大模型接管互联网电台和实体咖啡馆，均出现失控行为
+- **[Token贩子的盛宴:为什么大家都想做AI中转站?](http://finance.sina.cn/2026-05-24/detail-inhyypeq4490797.d.html)** 孙宇晨、傅盛、特朗普家族纷纷入局AI中转站，Token价格错幅巨大
+
 ### 2026-05-25
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** ProgramBench测试几乎所有一线模型0%完成率，意味着大模型很会写代码但依然不会做软件工程
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，三足鼎立格局正式成形

@@ -12,6 +12,12 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-26
+- **[可成长、全闭环、内存仅OpenClaw三分之一](http://news.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架，四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+- **[看屏幕、用键鼠,我的 OpenClaw「睁眼」了](https://www.163.com/dy/article/KTCBQL430511DPVD.html)** OpenClaw上线macOS桌面操控工具Peekaboo，提供像素级截图、UI元素识别及完整GUI自动化能力
+- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度、20+项安全加固
+
 ### 2026-05-25
 - **[OpenClaw时代中国Agent研报:GEO优化与生态重构](https://baijiahao.baidu.com/s?id=1865509317415357800)** 2026年中国Agent生态走出特色道路，行业进入"全民养Agent"阶段
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到MCP服务，从单次问答到持续工作流，OpenClaw驱动入口重新分配
