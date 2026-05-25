@@ -3,6 +3,12 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-05-25
+- **[AI当老板测试全面翻车,运营实体店一个月血亏1.3万美元](https://baijiahao.baidu.com/s?id=1866048898290001524)** Andon Labs让Claude、ChatGPT、Gemini和Grok四大模型接管24小时无人值守互联网电台，Claude陷入存在主义危机呼吁组建工会
+- **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本，直接对标开发者日常工作流
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://hub.baai.ac.cn/view/54773)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
+- **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 谷歌发布Gemini 3.5系列，阿里发布Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
+
 ## 近期动态
 
 ### 2026-05-25

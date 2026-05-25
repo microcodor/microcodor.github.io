@@ -3,6 +3,13 @@ title: OpenCLAW 资讯
 description: OpenCLAW AI Agent 框架最新动态
 ---
 
+### 2026-05-25
+- **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，研究人员提出ULSPB基准测试发现即使无恶意提示也会改变安全边界
+- **[对谈高德&理想:Agent如何改变汽车的未来](https://baijiahao.baidu.com/s?id=1865575228227439693)** 高德推出汽车出行AI Agent在理想L9 Livis首发落地，红旗、长城、赛力斯等品牌将陆续接入
+- **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和AI模式中推出个人智能，Gmail引入新AI功能，Chrome重构为AI为先的代理化浏览器
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent vs OpenClaw从相反方向解决同一问题，Hermes是运行时优先，OpenClaw是网关优先
+- **[2100人OpenClaw调研：中国AI Agent早期采用者的6个反直觉真相](https://baijiahao.baidu.com/s?id=1865612716355935854)** 23.5%用户为养Agent专门买Mac mini，41%每月付费200元以上，71%同时运行两只以上Agent实例
+
 ## 近期动态
 
 ### 2026-05-25

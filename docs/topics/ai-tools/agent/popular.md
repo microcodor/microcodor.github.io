@@ -3,6 +3,13 @@ title: Agent 工具清单
 description: 主流 Agent 框架与工具链一览
 ---
 
+### 2026-05-25
+- **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道，准确率提升20%-40%
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
+- **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details=161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
+- **[AI Agent记忆系统架构深度拆解:三大设计哲学谁更高明?](https://baijiahao.baidu.com/s?id=1865950658161440994)** 短期记忆/长期记忆分离，情景/语义/程序记忆分类，控制策略成新维度
+
 ## 近期动态
 
 ### 2026-05-25
