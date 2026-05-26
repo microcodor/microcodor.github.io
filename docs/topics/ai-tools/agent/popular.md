@@ -525,3 +525,10 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
 - **[Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式借鉴"角色-职责-汇报线"设计
 - **[2026年AI Agent框架淘汰预警](https://blog.csdn.net/DevPath/article/details/161311157)** AI Agent智能体驱动的3类岗位将在Q3起停止招聘，含LinkedIn真实岗位下架数据
+
+### 2026-05-27
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，三阶段演进入2026年，企业级Agent部署从客服扩展到运维、财务、供应链
+- **[Agent智能体开发模式,第10章 2025–2026 前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年市场108亿美元，四种编排范式：图式、角色式、Handoff式、层级式
+- **[AI 最新发展趋势:2025年人工智能的五大变革方向](https://gitcode.csdn.net/6a10307d10ee7a33f2746db4.html)** 2025年被称为AI Agent元年，多Agent协作框架成熟，AgenticRAG成为技术新方向
+- **[支付宝 AI 修路迎来重大进展](https://finance.sina.cn/stock/jdts/2026-05-26/detail-inhzfmyh2840832.d.html)** 支付宝宣布AI支付累计完成3亿笔，全球首个大规模商用AI原生支付基建

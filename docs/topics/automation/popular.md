@@ -1724,3 +1724,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[n8n工作流实战:用可视化编辑器打造你的第一个AI自动化流程](https://blog.csdn.net/CSDN_224022/article_details=161308877)** n8n开源免费、支持私有化部署、原生AI集成的核心优势
 - **[RTK部署教程:打造自动化AI工作流系统](https://www.bilibili.com/read/cv49393403/)** RTK围绕AI Agent与Workflow构建的开源工具链，适合自动化任务编排
 - **[AI原生团队搭建指南:从组织架构到工作流的范式转变](https://www.51cto.com/article/843848.html)** AI原生团队核心特征：高人效比、模糊边界、数据与模型驱动
+
+### 2026-05-27
+- **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 现代企业转向AI工作流自动化，客户跟进、线索管理、任务分配、报表通知等自动化
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://it.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，三个维度看清本质差距
+- **[n8n工作流实战:用可视化编辑器打造你的第一个AI自动化流程](https://blog.csdn.net/weixin_44822948/article/details=161292746)** n8n开源免费、原生支持AI、私有化部署，与Zapier、Make对比

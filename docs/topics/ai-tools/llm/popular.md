@@ -1532,3 +1532,10 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3.5半价提速4倍,Claude Opus 4.7还守得住吗?](https://www.163.com/dy/article/KTFDJB760553RS1E.html)** 谷歌用"价格砍半、速度4倍"三板斧出击，Flash版本GDPval-AA达1656 Elo
 - **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据的效率维度横向对比评测
 - **[AI当老板测试全面翻车,运营实体店一个月血亏1.3万美元](https://baijiahao.baidu.com/s?id=1866048898290001524)** Andon Labs让Claude、ChatGPT、Gemini和Grok四大模型接管24小时无人值守互联网电台，Claude陷入存在主义危机呼吁组建工会
+
+### 2026-05-27
+- **[Gemini 3.5 Flash 实测:当模型速度进入 4G 时代](https://baijiahao.baidu.com/s?id=1866240271496673806)** MCP Atlas测试83.6% SOTA，输入1.5美元/百万token，输出289 tokens/秒
+- **[Claude美国桌面端用户环比激增130.1%](https://www.tmtpost.com/agent/ai-article/16578)** 266万独立访客跃居消费级AI聊天机器人第四位，成为当月增速最快平台
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://news.sohu.com/a/1026183691_121340436)** 2026年4月Top300工具总访问量126.6亿回落9.3%，三足鼎立格局正式成形
+- **[大模型的发展现状与未来:GPT-4、Gemini与Claude](https://blog.csdn.net/2501_94449023/article/details/161291264)** 三大模型在软件测试领域的应用，对比测试适配性与技术特性
+- **[当前主流大语言模型核心优势解析:Gemini、GPT与Claude](https://blog.csdn.net/oy_mail/article/details/161323269)** Gemini百万级上下文窗口、原生多模态，Claude宪法式AI安全可控
