@@ -13,10 +13,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-26
+- **[OpenClaw 2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 百度开发者中心详解v2026.4.5，原生视频生成、AI睡眠记忆系统dreaming加持
 - **[可成长、全闭环、内存仅OpenClaw三分之一](http://news.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架，四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
 - **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
 - **[看屏幕、用键鼠,我的 OpenClaw「睁眼」了](https://www.163.com/dy/article/KTCBQL430511DPVD.html)** OpenClaw上线macOS桌面操控工具Peekaboo，提供像素级截图、UI元素识别及完整GUI自动化能力
 - **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度、20+项安全加固
+- **[OpenClaw爆发,QClaw正成为腾讯AI Agent的关键入口](https://www.php.cn/faq/2501465.html)** QClaw已原生支持微信QQ、MCP Skills Store、本地模型、多平台通信
 
 ### 2026-05-25
 - **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，研究人员提出ULSPB基准测试发现即使无恶意提示也会改变安全边界

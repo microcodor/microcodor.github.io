@@ -12,6 +12,9 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-26
+- **[Claude Opus 4.8惊现全露](https://finance.sina.cn/2026-05-25/detail-inhzamvq2651220.d.html)** Anthropic三张底牌全翻，预计跳过4.7直接发布4.8，6月中旬震撼发布
+- **[Gemini 3.5 Flash发布:性能超越前代,速度达GPT-5.5等4倍且成本更低](http://k.sina.com.cn/article_7857201856_1d45362c001905qhcs.html)** 谷歌I/O 2026推出，每秒输出超280token，Terminal-Bench 2.1得分76.2%
+- **[御三家大模型因子挖掘横向对决:GPT、Gemini、Claude谁主沉浮?](https://xueqiu.com/1868789293/390098715)** Gemini3 Flash以3.075的Sharpe断层领先，比基准翻了近三倍
 - **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和AI模式中推出个人智能，Gmail引入新AI功能，Chrome重构为AI为先的代理化浏览器
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
 - **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点

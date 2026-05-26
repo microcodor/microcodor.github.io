@@ -13,11 +13,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-26
-- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productality/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款顶级AI工作流自动化工具，涵盖AgentForce、Trello、Zapier、Asana等
-- **[Zapier unlocks transformative AI](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=cz)** Zapier连接8000+应用，工作流自动化助力企业节省成本
-- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** NitroRCr/AIaW项目将AI与自动化工作流结合，实现智能决策节点
-- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的AI Workflow克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
-- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 工作流自动化工具通过技术手段自动执行业务流程任务，应用于IT管理、数据中心运营及财务、人力资源等领域
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/coo/heisha/1027400511_122067411)** 核心差距：Workflow执行的是流程，Agent完成的是目标
+- **[n8n工作流实战:用可视化编辑器打造你的第一个AI自动化流程](https://blog.csdn.net/weixin_44822948/article/details/161292746)** n8n开源免费、原生支持AI、私有化部署，与Zapier、Make对比
+- **[RTK部署教程:打造自动化AI工作流系统](https://www.bilibili.com/read/cv49393403/)** RTK围绕AI Agent与Workflow构建的开源工具链，适合复杂自动化场景
+- **[AI 原生团队搭建指南:从组织架构到工作流的范式转变](https://www.51cto.com/article/843848.html)** AI原生团队核心特征：高人效比、模糊边界、数据与模型驱动
+- **[12个最强AI自动化工作流,让Hermes Agent替你每天高效干活](https://www.163.com/dy/article/KTF9MUG6055616YL.html)** Cron调度、Skills技能、Subagents子代理，越跑越强的自动化工作流
+
+### 2026-05-25
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效
 
 ### 2026-05-25
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款顶级AI工作流自动化工具，涵盖AgentForce、Trello、Zapier、Asana等
