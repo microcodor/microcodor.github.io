@@ -19,6 +19,10 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-26
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，快速验证选CrewAI、生产选LangChain、研究选AutoGen
+- **[可成长、全闭环、内存仅OpenClaw三分之一](http://news.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架，四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+- **[看屏幕、用键鼠,我的 OpenClaw「睁眼」了](https://www.163.com/dy/article/KTCBQL430511DPVD.html)** OpenClaw上线macOS桌面操控工具Peekaboo，提供像素级截图、UI元素识别及完整GUI自动化能力
+- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度、20+项安全加固
 - **[收藏必备:2025年最适合开发者的11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 11个最佳AI Agent框架全面解析，覆盖LangChain、CrewAI、AutoGen、LangGraph、Dify等
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** 从链式到图式与团队，2025年Agent框架核心设计模式分类与技术剖析
 - **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 工具链系统重构、交互体验优化、多工具协作能力全面升级

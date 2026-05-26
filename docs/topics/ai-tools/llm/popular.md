@@ -12,7 +12,9 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-26
-- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** ProgramBench测试几乎所有一线模型0%完成率，意味着大模型很会写代码但依然不会做软件工程
+- **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和AI模式中推出个人智能，Gmail引入新AI功能，Chrome重构为AI为先的代理化浏览器
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+- **[Claude Code年化收入超25亿美元](https://baijiahao.baidu.com/s?id=1862183323738947190)** Claude Code截至今年2月的年化收入已超过25亿美元，成为AI开发者工具市场焦点
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，三足鼎立格局正式成形
 - **[Gemini 3.5半价提速4倍,Claude Opus 4.7还守得住吗?](https://www.163.com/dy/article/KTFDJB760553RS1E.html)** 谷歌用"价格砍半、速度4倍"三板斧出击，Flash版本GDPval-AA达1656 Elo
 - **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据的效率维度横向对比评测
