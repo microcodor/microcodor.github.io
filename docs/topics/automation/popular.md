@@ -1713,3 +1713,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ### 2026-05-23
 - **[AI automation workflow工具最新动态](https://www.automation-tool.com)** n8n、Dify、Zapier等AI workflow工具的最新更新和功能
 - **[2025年自动化工具对比选型](https://www.tool-comparison.com)** 主流AI automation workflow工具的功能对比与选型建议
+
+### 2026-05-26
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[12个最强AI自动化工作流,让Hermes Agent替你每天高效干活](https://www.163.com/dy/article/KTF9MUG6055616YL.html)** 晨间简报、邮件分诊与摘要、每日复盘等12个实用Workflow解析
+- **[n8n工作流实战:用可视化编辑器打造你的第一个AI自动化流程](https://blog.csdn.net/CSDN_224022/article_details=161308877)** n8n开源免费、支持私有化部署、原生AI集成的核心优势
+- **[RTK部署教程:打造自动化AI工作流系统](https://www.bilibili.com/read/cv49393403/)** RTK围绕AI Agent与Workflow构建的开源工具链，适合自动化任务编排
+- **[AI原生团队搭建指南:从组织架构到工作流的范式转变](https://www.51cto.com/article/843848.html)** AI原生团队核心特征：高人效比、模糊边界、数据与模型驱动

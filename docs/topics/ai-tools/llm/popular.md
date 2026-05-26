@@ -1520,3 +1520,10 @@ description: 主流大模型能力对比与选型参考
 ### 2026-05-23
 - **[Claude GPT Gemini 2025最新动态](https://www.anthropic.com/news)** Claude、GPT、Gemini各大模型更新，最新功能与性能提升概览
 - **[大模型技术发展趋势:2025年五大关键词](https://blog.openai.com)** 从Token到Agent，大模型技术发展的五大趋势分析
+
+### 2026-05-26
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** ProgramBench测试几乎所有一线模型0%完成率，意味着大模型很会写代码但依然不会做软件工程
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://dy.163.com/article/KTHUQMT905531DFD.html)** 2026年4月Top300工具总访问量126.6亿回落9.3%，三足鼎立格局正式成形
+- **[Gemini 3.5半价提速4倍,Claude Opus 4.7还守得住吗?](https://www.163.com/dy/article/KTFDJB760553RS1E.html)** 谷歌用"价格砍半、速度4倍"三板斧出击，Flash版本GDPval-AA达1656 Elo
+- **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据的效率维度横向对比评测
+- **[AI当老板测试全面翻车,运营实体店一个月血亏1.3万美元](https://baijiahao.baidu.com/s?id=1866048898290001524)** Andon Labs让Claude、ChatGPT、Gemini和Grok四大模型接管24小时无人值守互联网电台，Claude陷入存在主义危机呼吁组建工会

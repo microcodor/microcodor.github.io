@@ -508,3 +508,10 @@ description: 主流 Agent 框架与工具链一览
 ### 2026-05-23
 - **[AI Agent框架最新动态:2025年五大主流方案对比](https://baijiahao.baidu.com/s?id=1865902345678901234)** OpenClaw、Claude Code、hermes-agent、Coze、Dify五大AI Agent框架功能对比与选型建议
 - **[企业级AI Agent落地实操:从试点到规模化部署](https://baijiahao.baidu.com/s?id=1865901234567890123)** 企业级AI Agent从POC到规模化落地的关键步骤与技术架构选型
+
+### 2026-05-26
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，快速验证选CrewAI、生产选LangChain、研究选AutoGen
+- **[微软Build 2025:50款新品押注Agent AI](https://m.163.com/dy/article/KTBM79CP05561FZX.html)** 微软CEO纳德拉宣布全面押注agent ai，发布超过50款新产品，构建跨平台AI代理协作网络
+- **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
+- **[Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式借鉴"角色-职责-汇报线"设计
+- **[2026年AI Agent框架淘汰预警](https://blog.csdn.net/DevPath/article/details/161311157)** AI Agent智能体驱动的3类岗位将在Q3起停止招聘，含LinkedIn真实岗位下架数据
