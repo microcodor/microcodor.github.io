@@ -1539,3 +1539,9 @@ description: 主流大模型能力对比与选型参考
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://news.sohu.com/a/1026183691_121340436)** 2026年4月Top300工具总访问量126.6亿回落9.3%，三足鼎立格局正式成形
 - **[大模型的发展现状与未来:GPT-4、Gemini与Claude](https://blog.csdn.net/2501_94449023/article/details/161291264)** 三大模型在软件测试领域的应用，对比测试适配性与技术特性
 - **[当前主流大语言模型核心优势解析:Gemini、GPT与Claude](https://blog.csdn.net/oy_mail/article/details/161323269)** Gemini百万级上下文窗口、原生多模态，Claude宪法式AI安全可控
+
+### 2026-05-27
+- **[Claude Opus 4.8惊现全露](https://finance.sina.cn/2026-05-25/detail-inhzamvq2651220.d.html)** Anthropic三张底牌全翻，预计跳过4.7直接发布4.8，6月中旬震撼发布
+- **[Gemini 3.5 Flash发布:性能超越前代,速度达GPT-5.5等4倍且成本更低](http://k.sina.com.cn/article_7857201856_1d45362c001905qhcs.html)** 谷歌I/O 2026推出，每秒输出超280token，Terminal-Bench 2.1得分76.2%
+- **[御三家大模型因子挖掘横向对决:GPT、Gemini、Claude谁主沉浮?](https://xueqiu.com/1868789293/390098715)** Gemini3 Flash以3.075的Sharpe断层领先，比基准翻了近三倍
+- **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%

@@ -1731,3 +1731,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
 - **[AI智能体正在被滥用:很多产品其实只是工作流](https://it.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，三个维度看清本质差距
 - **[n8n工作流实战:用可视化编辑器打造你的第一个AI自动化流程](https://blog.csdn.net/weixin_44822948/article/details=161292746)** n8n开源免费、原生支持AI、私有化部署，与Zapier、Make对比
+
+### 2026-05-27
+- **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 现代企业日常运营转向AI工作流自动化，客户跟进、线索管理、员工入职、任务分配等场景自动化
+- **[2026企业选大模型:GPT-4o、Claude 3.5、Llama 3怎么挑](https://www.163.com/dy/article/KTQSN1PG05561FZO.html)** 企业AI从"对话工具"变成"智能生态系统"，GPT-4o主打实时交互、Claude 3.5侧重深度推理、Llama 3适合开源定制
+- **[从Agent 开权限开始,Serval 想成为下一代 ServiceNow](https://news.qq.com/rain/a/20260521A0909D00)** Serval把IT help desk从工单系统推向企业里的governed execution layer
+- **[Artificial Intelligence for Intelligent Automation (AI4IA)](https://www.mu-sigma.com/artificial-intelligence-for-intelligent-automation/)** Mu Sigma提出AI4IA概念，融合AI与高级工作流，实现企业敏捷性的催化剂
