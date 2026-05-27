@@ -13,6 +13,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-28
+- **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
+- **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类Agent横向评测
+- **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** ULSPB基准测试发现即使无恶意提示，日常对话也可能污染Agent长期记忆，改变安全边界
+- **[美格智能深度实测:Hermes如何重新定义端侧AI Agent](http://stock.10jqka.com.cn/c676948342.shtml)** Hermes内存占用比OpenClaw降低72.7%，四层记忆架构避免进程内存膨胀
+
+### 2026-05-28
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 从相反方向解决同一个问题：Hermes是运行时优先，OpenClaw是网关优先
 - **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，被真实威胁逼到墙角后形成三层信任链式扩展
 

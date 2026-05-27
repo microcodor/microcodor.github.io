@@ -13,6 +13,14 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-28
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/IOS/HarmonyOS/Windows全面步入Agent时代，三层能力底成核心竞争力
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 多Agent架构三大模式：编排式、市场式、组织式，组织式借鉴"角色-职责-汇报线"设计思想
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** AI Agent具备自主任务分解、规划执行、工具调用、记忆学习、多模态交互五大核心特征
+- **[AI Agent 编年史:2022~2026 五代演进,一篇看透底层逻辑](https://blog.csdn.net/2601_96073073/article/details=161310098)** 2022-2026五代演进：Gen0大脑→Gen1工具调用→Gen2工程化→Gen3 MCP+Computer Use→Gen4技能封装
+- **[超级员工万仔](https://baike.baidu.com/item/超级员工万仔/66238720)** 零一万物发布面向企业服务的AI Agent，已步入L2推理Agent阶段
+- **[中泰证券两项目在2025 AI Agent超自动化开发者大赛中获奖](https://wap.cinn.cn/p/439162.html)** RPA中国主办的超自动化开发者大赛，中泰证券获企业组金奖和流程创新奖
+
+### 2026-05-28
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是运行时优先，OpenClaw是网关优先，两者从相反方向解决同一个问题，代表了一个根本性的架构信念
 - **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到三层信任链式扩展，企业级安全体系是这样"长"出来的
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
