@@ -13,6 +13,12 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-27
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索指向6月发布，Anthropic Mythos源码泄露暗示新旗舰产品线
+- **[Code Arena放榜:阿里千问3.7编程能力超越GPT、Gemini,仅次于Claude系列](https://baijiahao.baidu.com/s?id=1866230941911682435)** Qwen3.7-Max得分1541超越GPT-5.5，成为国产大模型唯一突破1540分大关
+- **[90美元锁定5年:一个App打通GPT、Claude、Gemini](https://www.163.com/dy/article/KTTLACGQ05561FZI.html)** ChatOn AI Assistant Premium 5年订阅90美元，一个App聚合主流模型
+- **[GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic工程师误传Mythos源码，内部路由出现claude-mythos-1-preview
+
+### 2026-05-27
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索指向6月发布，Anthropic Mythos源码泄露暗示新旗舰产品线
 - **[编程权威榜单:千问3.7仅次于Claude,阿里全球第二](https://baijiahao.baidu.com/s?id=1866230207995988755)** Code Arena放榜阿里Qwen3.7-Max得分1541超越GPT-5.5、Gemini-3.5-Flash，全球编程模型第二
 - **[抢先爆料Gemini3.5,多模态大涨,谷歌正式吹响反攻号角](http://k.sina.com.cn/article_7857201856_1d45362c001905yibc.html)** Gemini3.5告别“懒癌”支持SVG/交互式Web应用生成，Flash性能超前代Pro
 - **[Code Arena放榜:阿里千问3.7编程能力超越GPT、Gemini,仅次于Claude系列](https://baijiahao.baidu.com/s?id=1866230941911682435)** 编程能力核心指标突破1540分大关，成国产大模型唯一

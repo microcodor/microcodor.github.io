@@ -13,6 +13,11 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-27
+- **[AI Agent 编年史:2022~2026 五代演进,一篇看透底层逻辑](https://blog.csdn.net/2601_96073073/article/details/161310098)** 文章梳理 AI Agent 从 2022 年末到 2026 年初的四代演变 + 第五代前瞻，覆盖每一代的核心突破、代表产品、泡沫教训
+- **[2026年全球智能体(AI Agent)技术架构、工程框架与商业化落地对比研究报告](https://blog.csdn.net/greenspan/article/details/161446573)** 2026年全球人工智能产业重心已发生根本性转移，"智能体经济"进入全面验证与规模化爆发之年
+- **[下一个AI较量场,为什么是Harness?](https://www.163.com/dy/article/KTUCPKPA05118O92.html)** AI 圈已广泛认可 "Agent = Model + Harness" 公式，DeepSeek 招聘 Harness 团队对标 Claude Code
+
+### 2026-05-27
 - **[华为开发者大会2025:HDC 2025 全场高能:鸿蒙 6、盘古 5.5、超节点遥遥领先](https://wuxiaoyun.com/read/299226.html)** HarmonyOS 6在操作系统层级引入“智能体框架”(Agent Framework)，为后续的多模态交互、任务联动、意图识别提供统一接口
 - **[AI Agent物联网应用爆发前夜:Gartner未公开的3大技术断层与2025年必须抢占的4个标准接口](https://blog.csdn.net/PixelShoal/article/details=161422041)** AI Agent正从“云端智能体”演进为具备感知、决策、执行闭环能力的“端云协同智能体”，边缘算力持续下沉、大模型轻量化加速落地
 - **[支付宝 AI 修路迎来重大进展](https://finance.sina.cn/stock/jdts/2026-05-26detail-inhzfmyh2840832.d.html)** 2026年被认为是“智能体经济”的验证之年，40%的企业应用将嵌入AI Agent

@@ -13,6 +13,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-27
+- **[“OpenClaw 类”自进化智能体代表项目介绍](https://news.qq.com/rain/a/20260526A039RZ00?adChannelId=tech)** OpenClaw生态中的"自进化"已呈现出几种不同形态，从自我反思到自动创建Skills/Routines
+- **[OpenClaw 2026.3.7:AI Agent 架构级升级](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 新版本把"大模型插件化"写入默认配置，首次引入记忆系统热插拔、context engine插件体系
+- **[2026年AI Agent新纪元:Qwen3.5 Plus与OpenClaw的商业化革命](https://blog.51cto.com/u_16099272/14635898)** Qwen3.5 Plus联手OpenClaw框架，把AI Agent的商用门槛直接拉到最低
+- **[OpenClaw 完整指南:零成本配置本地 Ollama 模型](https://blog.51cto.com/u_16099199/14632578)** 零成本配置本地Ollama模型，打造全离线个人AI助理
+- **[OpenClaw 2026.3.23 更新:完美适配千里通 Arm 架构 Linux 小主机](https://blog.51cto.com/u_16213635/14633352)** 官方完美适配Arm架构Linux系统，边缘计算特化版发布
+
+### 2026-05-27
 - **[AI公司烧不起Token了!国产Agent杀出,逼近Opus 4.6还免费](https://baijiahao.baidu.com/s?id=1866225260570660710)** 从Claude Code到OpenClaw，各种明星级Agent如雨后春笋般涌现
 - **[助力青年创作者,绿联NAS私有云亮相北大AI青年博主创新峰会](https://baijiahao.baidu.com/s?id=1866230523319562815)** 绿联NAS可一键安装OpenClaw、Hermes等主流AI Agent应用，无需配置环境、快速拥有专属本地智能助手
 - **[昆仑万维天工 AI 发布高性能 Agent 模型 SkyClaw-v1.0](https://baijiahao.baidu.com/s?id=1866226264828011769)** SkyClaw-v1.0支持百万token上下文，深度适配真实智能体工作场景，可兼容OpenClaw运行环境

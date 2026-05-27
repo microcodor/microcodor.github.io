@@ -13,6 +13,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-27
+- **[2026年AI搜索时代,GEO优化工具能否守住品牌话语权?](https://www.ithome.com/0/955/410.htm)** 传统搜索行为正在被智能问答深度重构，GIS优化成为企业数字资产管理的关键领域
+- **[从工具到AI操作系统:Agent技术演进全解析(2026)](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI正从"被人类调用的功能工具"转向"自主运行的计算基础设施"
+- **[AI 编程工具生态总览 2026 — 从代码补全到自主开发的全面推荐](https://blog.csdn.net/2604_95848375/article/details=161406146)** Cursor、Claude Code、Codex等主流AI编程工具生态横评
+- **[为什么说 2026 是"Agentic Workflow"爆发元年?](https://blog.csdn.net/weixin_51960949/article/details=161405780)** Agentic Workflow核心是"多Agent协作+动态规则+反馈闭环"
+- **[为了给我的AI团队造间"办公室",我开发了这套本地多Agent协作系统](https://www.163.com/dy/article/KTTE1FOP05566SCS.html)** 本地多Agent协作系统，统一空间实现信息共享、高效协作
+
+### 2026-05-27
 - **[2026企业选大模型:GPT-4o、Claude 3.5、Llama 3怎么挑](https://www.163.com/dy/article/KTQSN1PG05561FZO.html)** 企业AI从“对话工具”变“智能生态系统”，选型需综合考虑扩展性、合规、自动化效率和基础设施成本
 - **[零代码搭建AI自动化工作流变现探讨](https://blog.csdn.net/m0_68848054/article/details=161415820)** 使用OpenClaw搭建AI自动化工作流，不需要任何编程基础，适合提升效率或接副业
 - **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** RTK是面向AI Agent与自动化工作流开源项目，适合Agent任务执行、Workflow编排
