@@ -11,6 +11,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-05-28
+- **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本加入Computer Use，直接对标开发者日常工作流
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/money/article/KSAOJO8G0511AQHO.html)** ProgramBench测试几乎所有一线模型0%完成率，大模型依然不会做软件工程，Claude Opus 4.7仅有3% Almost指标
+
 ### 2026-05-27
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic工程师误传Mythos源码，内部路由出现claude-mythos-1-preview，GPT-5.6经历三阶段泄露，四种模型六月份集中发布
 - **[Gemini 3.5 Flash 实测:当模型速度进入 4G 时代,Agent 的游戏规则变了](https://baijiahao.baidu.com/s?id=1866240271496673806)** Gemini 3.5 Flash每秒输出289 tokens，首 token延迟65ms，MCP Atlas获83.6% SOTA，输入$1.5/百万token

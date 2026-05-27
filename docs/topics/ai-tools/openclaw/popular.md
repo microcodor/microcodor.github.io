@@ -12,6 +12,10 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 从相反方向解决同一个问题：Hermes是运行时优先，OpenClaw是网关优先
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，被真实威胁逼到墙角后形成三层信任链式扩展
+
 ### 2026-05-27
 - **[可成长、全闭环、内存仅OpenClaw三分之一:美格智能深度实测,Hermes如何重新定义端侧AI Agent](http://news.10jqka.com.cn/20260525/c676948342.shtml)** Hermes框架四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
 - **[OpenClaw v2026.5.19更新一览](https://www.scensmart.com/?p=15056)** 代理(Agents)规范强化，明确修复应默认采用clean bounded refactors，建立显式插件SDK/API弃用路径

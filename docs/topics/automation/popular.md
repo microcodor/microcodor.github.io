@@ -12,6 +12,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** NitroRCr/AIaW将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作，突破传统规则的限制
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+
 ### 2026-05-27
 - **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余、提升生产力
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade集成AI agents实现Multi-Agent Coordination、Contextual Processing、Natural Language Triggers

@@ -12,6 +12,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-28
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是运行时优先，OpenClaw是网关优先，两者从相反方向解决同一个问题，代表了一个根本性的架构信念
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到三层信任链式扩展，企业级安全体系是这样"长"出来的
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
+
 ### 2026-05-27
 - **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** AI Agent具备自主任务分解、规划执行、工具调用、记忆学习、多模态交互五大核心特征，多Agent架构已演化出编排式、市场式、组织式三种主流模式
 - **[Agent智能体开发模式,第10章 2025–2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年AI Agent市场达108亿美元，四种编排范式：图式(LangGraph)、角色式(CrewAI)、Handoff式(OpenAI Agents SDK)、层级式(Google ADK)
