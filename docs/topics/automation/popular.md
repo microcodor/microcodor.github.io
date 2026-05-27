@@ -13,6 +13,12 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-27
+- **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余、提升生产力
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade集成AI agents实现Multi-Agent Coordination、Contextual Processing、Natural Language Triggers
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台四款小众工具推荐
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 自动化工作流工具通过技术手段自动执行业务流程任务，低代码/无代码可视化编排、跨平台服务集成
+
+### 2026-05-27
 - **[2026年AI搜索时代,GEO优化工具能否守住品牌话语权?](https://www.ithome.com/0/955/410.htm)** 传统搜索行为正在被智能问答深度重构，GIS优化成为企业数字资产管理的关键领域
 - **[从工具到AI操作系统:Agent技术演进全解析(2026)](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI正从"被人类调用的功能工具"转向"自主运行的计算基础设施"
 - **[AI 编程工具生态总览 2026 — 从代码补全到自主开发的全面推荐](https://blog.csdn.net/2604_95848375/article/details=161406146)** Cursor、Claude Code、Codex等主流AI编程工具生态横评

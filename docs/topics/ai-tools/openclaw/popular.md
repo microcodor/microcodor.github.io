@@ -13,6 +13,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-27
+- **[可成长、全闭环、内存仅OpenClaw三分之一:美格智能深度实测,Hermes如何重新定义端侧AI Agent](http://news.10jqka.com.cn/20260525/c676948342.shtml)** Hermes框架四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
+- **[OpenClaw v2026.5.19更新一览](https://www.scensmart.com/?p=15056)** 代理(Agents)规范强化，明确修复应默认采用clean bounded refactors，建立显式插件SDK/API弃用路径
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 原生视频生成、记忆固化系统dreaming、任务分步执行机制，突破内容生产边界
+- **[OpenClaw 升级正确姿势:备份、验证、回滚,一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json/credentials/agents/main/sessions三样最重要文件
+
+### 2026-05-27
 - **[“OpenClaw 类”自进化智能体代表项目介绍](https://news.qq.com/rain/a/20260526A039RZ00?adChannelId=tech)** OpenClaw生态中的"自进化"已呈现出几种不同形态，从自我反思到自动创建Skills/Routines
 - **[OpenClaw 2026.3.7:AI Agent 架构级升级](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 新版本把"大模型插件化"写入默认配置，首次引入记忆系统热插拔、context engine插件体系
 - **[2026年AI Agent新纪元:Qwen3.5 Plus与OpenClaw的商业化革命](https://blog.51cto.com/u_16099272/14635898)** Qwen3.5 Plus联手OpenClaw框架，把AI Agent的商用门槛直接拉到最低

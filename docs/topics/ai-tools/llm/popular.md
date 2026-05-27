@@ -12,6 +12,12 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-27
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic工程师误传Mythos源码，内部路由出现claude-mythos-1-preview，GPT-5.6经历三阶段泄露，四种模型六月份集中发布
+- **[Gemini 3.5 Flash 实测:当模型速度进入 4G 时代,Agent 的游戏规则变了](https://baijiahao.baidu.com/s?id=1866240271496673806)** Gemini 3.5 Flash每秒输出289 tokens，首 token延迟65ms，MCP Atlas获83.6% SOTA，输入$1.5/百万token
+- **[御三家大模型因子挖掘横向对决:GPT、Gemini、Claude谁主沉浮?](https://xueqiu.com/1868789293/390098715)** Gemini3 Flash以3.075的Sharpe断层领先，三个模型用三种完全不同哲学：加法、减法、乘法
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://news.sohu.com/a/1026183691_121340436)** 2026年4月Top300工具总访问量126.6亿回落9.3%，ChatGPT占43.5%，Claude环比暴涨34.18%
+
+### 2026-05-27
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索指向6月发布，Anthropic Mythos源码泄露暗示新旗舰产品线
 - **[Code Arena放榜:阿里千问3.7编程能力超越GPT、Gemini,仅次于Claude系列](https://baijiahao.baidu.com/s?id=1866230941911682435)** Qwen3.7-Max得分1541超越GPT-5.5，成为国产大模型唯一突破1540分大关
 - **[90美元锁定5年:一个App打通GPT、Claude、Gemini](https://www.163.com/dy/article/KTTLACGQ05561FZI.html)** ChatOn AI Assistant Premium 5年订阅90美元，一个App聚合主流模型

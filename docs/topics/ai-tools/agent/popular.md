@@ -13,6 +13,12 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-27
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** AI Agent具备自主任务分解、规划执行、工具调用、记忆学习、多模态交互五大核心特征，多Agent架构已演化出编排式、市场式、组织式三种主流模式
+- **[Agent智能体开发模式,第10章 2025–2026前沿全景与选型指南](https://zhuanlan.zhihu.com/p/2040719963787355165)** 2026年AI Agent市场达108亿美元，四种编排范式：图式(LangGraph)、角色式(CrewAI)、Handoff式(OpenAI Agents SDK)、层级式(Google ADK)
+- **[AI Agent 面试题 968:Agent技术在2025年的发展趋势预测](https://blog.csdn.net/weixin_42618497/article/details=160302869)** AI Agent相关岗位需求同比增长超200%，多智能体协作、记忆机制增强、推理架构优化是核心技术发展方向
+- **[【2025技术栈淘汰预警】:AI Agent智能体驱动的3类岗位将在Q3起停止招聘](https://blog.csdn.net/DevPath/article/details=161311157)** AI Agent正从单一任务执行者演进为具备目标分解、工具调用、环境感知与持续反思能力的自主协作体
+
+### 2026-05-27
 - **[AI Agent 编年史:2022~2026 五代演进,一篇看透底层逻辑](https://blog.csdn.net/2601_96073073/article/details/161310098)** 文章梳理 AI Agent 从 2022 年末到 2026 年初的四代演变 + 第五代前瞻，覆盖每一代的核心突破、代表产品、泡沫教训
 - **[2026年全球智能体(AI Agent)技术架构、工程框架与商业化落地对比研究报告](https://blog.csdn.net/greenspan/article/details/161446573)** 2026年全球人工智能产业重心已发生根本性转移，"智能体经济"进入全面验证与规模化爆发之年
 - **[下一个AI较量场,为什么是Harness?](https://www.163.com/dy/article/KTUCPKPA05118O92.html)** AI 圈已广泛认可 "Agent = Model + Harness" 公式，DeepSeek 招聘 Harness 团队对标 Claude Code
