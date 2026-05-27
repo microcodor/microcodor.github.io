@@ -12,6 +12,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-27
+- **[华为开发者大会2025:HDC 2025 全场高能:鸿蒙 6、盘古 5.5、超节点遥遥领先](https://wuxiaoyun.com/read/299226.html)** HarmonyOS 6在操作系统层级引入“智能体框架”(Agent Framework)，为后续的多模态交互、任务联动、意图识别提供统一接口
+- **[AI Agent物联网应用爆发前夜:Gartner未公开的3大技术断层与2025年必须抢占的4个标准接口](https://blog.csdn.net/PixelShoal/article/details=161422041)** AI Agent正从“云端智能体”演进为具备感知、决策、执行闭环能力的“端云协同智能体”，边缘算力持续下沉、大模型轻量化加速落地
+- **[支付宝 AI 修路迎来重大进展](https://finance.sina.cn/stock/jdts/2026-05-26detail-inhzfmyh2840832.d.html)** 2026年被认为是“智能体经济”的验证之年，40%的企业应用将嵌入AI Agent
+- **[AI进阶:什么是真正的 AI Agent?大多数人可能都理解错了](https://gitcode.csdn.net/6a14e2a3e24f2358cfc8ad4c.html)** Gartner指出成千上万声称提供Agentic AI的厂商中，真正具备实质能力的只有约130家，多数是Chatbot套壳或工作流换皮
+- **[“智能经济新形态”背后的万亿级商业机遇](https://baijiahao.baidu.com/s?id=1866216155991113913&wfr=spider&for=pc)** 2026年政府工作报告首次提出“打造智能经济新形态”，“智能体”“智能原生”第一次出现
+
 ### 2026-05-26
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
 

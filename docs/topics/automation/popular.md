@@ -12,6 +12,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-27
+- **[2026企业选大模型:GPT-4o、Claude 3.5、Llama 3怎么挑](https://www.163.com/dy/article/KTQSN1PG05561FZO.html)** 企业AI从“对话工具”变“智能生态系统”，选型需综合考虑扩展性、合规、自动化效率和基础设施成本
+- **[零代码搭建AI自动化工作流变现探讨](https://blog.csdn.net/m0_68848054/article/details=161415820)** 使用OpenClaw搭建AI自动化工作流，不需要任何编程基础，适合提升效率或接副业
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** RTK是面向AI Agent与自动化工作流开源项目，适合Agent任务执行、Workflow编排
+- **[解锁AI智能型CRM的高级玩法:自动化工作流搭建指南](https://www.fxiaoke.com/crm/information-89726.html)** AI CRM自动化工作流可实现线索自动分配、邮件自动触达、千人千面精准沟通
+- **[为什么说 2026 是“Agentic Workflow”爆发元年?生态工具链全景图](https://blog.csdn.net/weixin_51960949/article/details=161405780)** Agentic Workflow是“多Agent协作+动态规则+反馈闭环”三者组合，把人类从复杂流程中解放
+
 ### 2026-05-26
 - **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
 - **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/coo/heisha/1027400511_122067411)** 核心差距：Workflow执行的是流程，Agent完成的是目标

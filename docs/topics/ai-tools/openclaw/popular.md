@@ -12,6 +12,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-27
+- **[AI公司烧不起Token了!国产Agent杀出,逼近Opus 4.6还免费](https://baijiahao.baidu.com/s?id=1866225260570660710)** 从Claude Code到OpenClaw，各种明星级Agent如雨后春笋般涌现
+- **[助力青年创作者,绿联NAS私有云亮相北大AI青年博主创新峰会](https://baijiahao.baidu.com/s?id=1866230523319562815)** 绿联NAS可一键安装OpenClaw、Hermes等主流AI Agent应用，无需配置环境、快速拥有专属本地智能助手
+- **[昆仑万维天工 AI 发布高性能 Agent 模型 SkyClaw-v1.0](https://baijiahao.baidu.com/s?id=1866226264828011769)** SkyClaw-v1.0支持百万token上下文，深度适配真实智能体工作场景，可兼容OpenClaw运行环境
+- **[共筑Agent算力底座,让智能无处不在](https://finance.sina.cn/2026-05-26detail-inhzfwqh8894979.d.html)** 华为发布并开源OpenClaw参考设计方案及160+Agent Skills，持续提升开发者易用性
+- **[美团发布“跑腿Skill”,用户通过任意AI助手即可一句话完成下单](https://baijiahao.baidu.com/s?id=1866233920897861709)** 跑腿Skill开放，一句话调用美团跑腿完成下单，兼容OpenClaw本地版及各类第三方客户端
+
 ### 2026-05-26
 - **[OpenClaw 2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 百度开发者中心详解v2026.4.5，原生视频生成、AI睡眠记忆系统dreaming加持
 - **[可成长、全闭环、内存仅OpenClaw三分之一](http://news.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架，四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
