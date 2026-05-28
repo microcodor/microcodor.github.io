@@ -13,6 +13,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-28
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** 11个最佳AI Agent框架对比：LangChain、AutoGen、CrewAI、PydanticAI、Smolagents、LlamaIndex等
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、Google ADK等，干细胞向结构化确定性编排的整合
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新的工具集抽象层、日志监控深度集成、多工具协作能力
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大框架从架构设计、代码风格、性能表现维度对比
+- **[2025年AI框架全面解析:25个主流框架选型指南](https://blog.csdn.net/libaiup/article/details=152046109)** Dify、n8n、Langflow、Flowise、MetaGPT、Smolagents等13种主流框架
+
+### 2026-05-28
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
 - **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030年可带来150-650亿美元净增量收入
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，OpenClaw等开源框架爆发式增长

@@ -1882,3 +1882,8 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026企业选大模型:GPT-4o、Claude 3.5、Llama 3怎么挑](https://www.163.com/dy/article/KTQSN1PG05561FZO.html)** 企业AI从"对话工具"变成"智能生态系统"，GPT-4o主打实时交互、Claude 3.5侧重深度推理、Llama 3适合开源定制
 - **[从Agent 开权限开始,Serval 想成为下一代 ServiceNow](https://news.qq.com/rain/a/20260521A0909D00)** Serval把IT help desk从工单系统推向企业里的governed execution layer
 - **[Artificial Intelligence for Intelligent Automation (AI4IA)](https://www.mu-sigma.com/artificial-intelligence-for-intelligent-automation/)** Mu Sigma提出AI4IA概念，融合AI与高级工作流，实现企业敏捷性的催化剂
+
+### 2026-05-28
+- **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款主流AI工作流自动化工具横评：Agentforce in Slack、Trello、Zapier、Asana、HubSpot等
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

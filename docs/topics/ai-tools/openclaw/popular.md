@@ -19,7 +19,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
 - **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
+
 ### 2026-05-28
+- **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866338672288107495)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
+- **[阿里云加速AI出海,发布全新海外AI产品官网Qwen Cloud](https://baijiahao.baidu.com/s?id=1866228975896131522)** Qwen3.7-Max专为Agent场景设计，可与Claude Code、OpenClaw、Hermes Agent等主流Agent框架协同
 - **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
 - **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类Agent横向评测
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入能够规划、选择或执行一系列API调用的半自主或生成式AI系统
