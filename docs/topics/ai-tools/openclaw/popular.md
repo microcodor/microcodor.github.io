@@ -1783,3 +1783,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[可成长、全闭环、内存仅OpenClaw三分之一](http://news.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架，四层记忆架构有效避免进程内存膨胀，相较OpenClaw最高内存占用降低72.7%
 - **[看屏幕、用键鼠,我的 OpenClaw「睁眼」了](https://www.163.com/dy/article/KTCBQL430511DPVD.html)** OpenClaw上线macOS桌面操控工具Peekaboo，提供像素级截图、UI元素识别及完整GUI自动化能力
 - **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度、20+项安全加固
+
+### 2026-05-28
+- **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
+- **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类AI智能体横评
+- **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，ULSPB基准测试发现即使无恶意提示也会改变安全边界
+- **[OpenAI六项更新炸场!Codex手机遥控锁屏Mac](https://baijiahao.baidu.com/s?id=1865876074278830562)** Mac锁屏后用手机远程操控、Appshots应用截图等六大更新
+- **[可成长、全闭环、内存仅OpenClaw三分之一:Hermes如何重新定义端侧AI Agent](https://stock.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架内存占用比OpenClaw降低72.7%

@@ -1581,3 +1581,10 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini 3.5 Flash发布:性能超越前代,速度达GPT-5.5等4倍且成本更低](http://k.sina.com.cn/article_7857201856_1d45362c001905qhcs.html)** 谷歌I/O 2026推出，每秒输出超280token，Terminal-Bench 2.1得分76.2%
 - **[御三家大模型因子挖掘横向对决:GPT、Gemini、Claude谁主沉浮?](https://xueqiu.com/1868789293/390098715)** Gemini3 Flash以3.075的Sharpe断层领先，比基准翻了近三倍
 - **[GPT-6近日即将发布!代号土豆,Symphony架构颠覆AI上限](https://baijiahao.baidu.com/s?id=1862431910824960644)** OpenAI发布GPT-6采用全新Symphony架构，在代码、推理、智能体三大核心任务提升超40%
+
+### 2026-05-28
+- **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE新榜单：GPT-5.5以70%±4%排第一，Claude Opus 4.7以54%排第三，差距达16个百分点
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Claude-Mythos-1源码泄露，GPT-5.6三个阶段底牌被撕开，Gemini 3.5评价两极分化
+- **[谷歌全家桶,都被新模型“污染”了](https://baijiahao.baidu.com/s?id=1866352795298340673)** Gemini 3.5 Flash成本是Gemini 3 Flash的5.5倍，速度快但错误多、token消耗爆炸
+- **[2026大模型API怎么选:Claude、GPT、Gemini和国产模型价格能力一次看懂](https://zhuanlan.zhihu.com/p/2042903916732475288)** 八大厂商20+主流模型价格能力对比，按任务分层是成熟方案
+- **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://news.sohu.com/a/1026183691_121340436)** ChatGPT 55亿月访问第一，Claude环比暴涨34%首次突破8亿跻身Top3

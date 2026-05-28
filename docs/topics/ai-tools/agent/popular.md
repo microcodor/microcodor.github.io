@@ -592,3 +592,10 @@ description: 主流 Agent 框架与工具链一览
 - **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
 - **[AI Agent记忆深度拆解:三大设计哲学谁更高明?](https://www.163.com/dy/article/KTM3MSHV055616YL.html)** OpenClaw、Claude Code、Hermes Agent三大主流Agent框架的不同记忆设计方案对比
 - **[2026年AI Agent框架淘汰预警](https://blog.csdn.net/DevPath/article/details/161311157)** AI Agent智能体驱动的3类岗位将在Q3起停止招聘，含LinkedIn真实岗位下架数据
+
+### 2026-05-28
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，OpenClaw等开源框架爆发式增长
+- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
+- **[超级员工万仔](https://baike.baidu.com/item/超级员工万仔/66238720)** 零一万物发布面向企业服务的AI Agent，已步入L2推理Agent阶段
+- **[AI Agent不是更聪明的Bot,而是新操作系统](https://blog.csdn.net/InitFlow/article/details=161342659)** Gartner报告指出2025年前将淘汰73%传统RPA流程

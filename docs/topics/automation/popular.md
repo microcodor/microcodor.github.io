@@ -1887,3 +1887,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[11 Best AI Workflow Automation Tools for 2026](https://slack.com/intl/zh-cn/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** 11款主流AI工作流自动化工具横评：Agentforce in Slack、Trello、Zapier、Asana、HubSpot等
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+
+### 2026-05-28
+- **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 客户跟进、线索管理、员工入职、任务分配等场景自动化，节省日常任务时间、减少人工错误
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位对比，Skill封装能力、Workflow编排任务、Rules约束行为
+- **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 工作流自动化自动执行重复性任务，将销售人员从行政工作中解放
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距只有一句话
+- **[从工具到AI操作系统:Agent技术演进全解析(2026)](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化→系统化→基础设施→运行环境→AI OS演进
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** 覆盖日常办公、数据报表、内容创作、沟通协作四大高频场景
