@@ -13,6 +13,13 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
+### 2026-05-28
 - **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
 - **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类Agent横向评测
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP明确限制通过API接入能够规划、选择或执行一系列API调用的半自主或生成式AI系统
@@ -292,6 +299,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-15
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"
@@ -344,6 +358,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -353,6 +374,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -463,6 +491,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -584,6 +619,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -622,6 +664,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -757,6 +806,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -785,6 +841,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -812,6 +875,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -1159,6 +1229,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -1212,6 +1289,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -1229,6 +1313,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
+
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器，ima支持用户创建专属Agent
@@ -1244,6 +1335,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -1280,6 +1378,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信
@@ -1325,6 +1430,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
 
 ## 近期动态
+
+### 2026-05-28
+- **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
+- **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
+- **[OpenClaw生态日报2026-05-22](https://github.com/ivanweng2077/big_model_radar/issues/74)** 处理Issue和PR更新各500条，v2026.5.20版本发布
+- **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
+- **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 ### 2026-05-11
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"，腾讯支持接入QQ、企业微信及个人微信

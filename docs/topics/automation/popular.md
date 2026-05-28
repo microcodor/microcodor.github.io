@@ -13,6 +13,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
+### 2026-05-28
 - **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** NitroRCr/AIaW将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
@@ -308,6 +315,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-15
 - **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的工作流设计师，帮助设计、生成、管理完整的n8n工作流
 - **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行的自动化流程，AI Agent具备自主思考决策能力，二者核心区别在于容错能力
@@ -361,6 +375,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -372,6 +393,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -490,6 +518,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -517,6 +552,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -643,6 +685,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -686,6 +735,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -706,6 +762,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -729,6 +792,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -749,6 +819,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -809,6 +886,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -903,6 +987,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
@@ -1288,6 +1379,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -1362,6 +1460,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
+
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的"菜谱"，告诉AI如何将工具用好、按什么工作流执行
@@ -1418,6 +1523,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI驱动的代码生成与自动化工作流平台:从单次提示到可编程流程的范式转变](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
 
 ## 近期动态
+
+### 2026-05-28
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具模块化设计：Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[RTK部署教程:构建稳定的AI Workflow环境](https://blog.csdn.net/tedcloud123/article/details=161421374)** 开源AI Workflow项目，简化AI Workflow搭建与运行流程，适合长期任务
+- **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
+- **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
 ### 2026-05-11
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 展示如何将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本

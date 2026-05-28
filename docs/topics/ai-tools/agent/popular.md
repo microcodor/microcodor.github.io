@@ -13,6 +13,18 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-28
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030年可带来150-650亿美元净增量收入
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，OpenClaw等开源框架爆发式增长
+- **[AI Agent架构:从概念到落地](https://blog.csdn.net/2504_93822763/article/details=161370393)** Agent = LLM + 工具调用 + 记忆 + 规划，四大核心组件拆解
+- **[开源AI Agent框架:生态建设与社区力量](https://blog.csdn.net/2502_91591115/article/details=161322505)** 2024年Q1 GitHub新增AI Agent项目超1.2万个，70%项目3个月内停止更新
+- **[AI智能体(Agent)技术架构与核心能力](https://blog.csdn.net/weixin_44834755/article/details=161348544)** 五大核心模块：感知、规划、执行、记忆、反思，形成闭环系统
+- **[AI Agent智能体驱动的3类岗位将在Q3起停止招聘](https://blog.csdn.net/DevPath/article/details=161311157)** 分层规划、工具即服务、长期记忆成为核心技术发展方向
+- **[AI Agent不是更聪明的Bot,而是新操作系统](https://blog.csdn.net/InitFlow/article/details=161342659)** Gartner报告指出2025年前将淘汰73%传统RPA流程
+- **[智能体时代的技术跃迁与产业重构](https://cloud.tencent.com/developer/article/2674824)** DeepSeek-R1、MCP、Agent集群进入生产环境，AI存在形态发生根本性改变
+- **[Microsoft Agent Framework 1.0发布](https://developer.cloud.tencent.com/article/2674780)** 把代理开发链路补齐，本地调试到托管运行的全流程
+
+### 2026-05-28
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/IOS/HarmonyOS/Windows全面步入Agent时代，三层能力底成核心竞争力
 - **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 完整智能体系统包含感知模块、知识库/记忆模块、推理与规划引擎、行动模块五大核心技术特征
 - **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 新一代AI Agent实现语音、文本、图像等多维度信息协同处理，智能家居联动构建全场景闭环
