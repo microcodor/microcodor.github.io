@@ -1809,3 +1809,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 阿里发布Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
 - **[天禧AI 4.0发布引发市场看好,联想股价迎来暴涨](https://baijiahao.baidu.com/s?id=1865979175946954180)** 联想股价大涨近20%，一个月累积涨幅超36%创历史新高
 - **[小度AI眼镜Pro](https://baike.baidu.com/item/AI新物种/65089483)** 百度小度AI眼镜Pro重量39克，搭载骁龙AR1平台，综合续航约7.5小时
+### 2026-05-29
+- **[告别订阅费!雷神移动AI工作站三箭齐发](https://baijiahao.baidu.com/s?id=1866440466222190261)** 雷神发布Master系列AI工作站，T/P/M三大系列，塔式配备96核线程撕裂者+四路AI Pro R9700
+- **[小米Q1销售同比下滑10.9%](https://baijiahao.baidu.com/s?id=1866301969206415989)** 小米拥有10亿级硬件生态入口，今年七八月将发布新一代操作系统
+- **[腾讯游戏的One More Thing,是AI](https://baijiahao.baidu.com/s?id=1866384409259444481)** 腾讯发布MagicDawn AI渲染方案、开源AI游戏创作平台代号Craft
+- **[让联想股价累积大涨!天禧AI 4.0到底有哪些优势?](https://www.cet.com.cn/wzsy/kjzx/10373525.shtml)** 天禧AI 4.0实现+AI到AI+跨越，AI主机P7算力190 TOPS，天禧AI Skills共创苍穹计划
+- **[从扭亏为盈到AI原生:叮当健康如何用大模型重塑即时零售](https://baijiahao.baidu.com/s?id=1866333407377096245)** 叮当健康扭亏为盈，五大供给力体系构建智慧药房
+

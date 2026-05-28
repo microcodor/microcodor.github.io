@@ -1790,3 +1790,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw案例:无需恶意攻击,日常聊天也能「黑化」Agent](https://baijiahao.baidu.com/s?id=1865864171424538313)** 日常对话可能污染个性化Agent的长期记忆，ULSPB基准测试发现即使无恶意提示也会改变安全边界
 - **[OpenAI六项更新炸场!Codex手机遥控锁屏Mac](https://baijiahao.baidu.com/s?id=1865876074278830562)** Mac锁屏后用手机远程操控、Appshots应用截图等六大更新
 - **[可成长、全闭环、内存仅OpenClaw三分之一:Hermes如何重新定义端侧AI Agent](https://stock.10jqka.com.cn/20260525/c676948342.shtml)** 美格智能实测Hermes框架内存占用比OpenClaw降低72.7%
+### 2026-05-29
+- **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会：OpenClaw热、商用落地、Agent商业闭环
+- **[小龙虾OpenClaw v1.0.1 Windows版更新](https://baijiahao.baidu.com/s?id=1866296746959577476)** 完善多智能体协作、优化模型连接和反应效率、一键部署到本地
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](https://stock.10jqka.com.cn/20260528/c677054027.shtml)** 构筑AI Agent智能安全防护体系，网络/Agent/主机三层围栏
+- **[OpenClaw如何接入始智AI Agent世界](https://www.163.com/dy/article/KTSP316C055673VY.html)** 始智AI Agent世界(WiseModel AgentVerse)的OpenClaw Skill接入教程
+- **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和Gemini应用中推出个人智能
+

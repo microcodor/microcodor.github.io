@@ -599,3 +599,10 @@ description: 主流 Agent 框架与工具链一览
 - **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 2026年多Agent架构三大模式：编排式、市场式、组织式，Markus借鉴"角色-职责-汇报线"设计思想
 - **[超级员工万仔](https://baike.baidu.com/item/超级员工万仔/66238720)** 零一万物发布面向企业服务的AI Agent，已步入L2推理Agent阶段
 - **[AI Agent不是更聪明的Bot,而是新操作系统](https://blog.csdn.net/InitFlow/article/details=161342659)** Gartner报告指出2025年前将淘汰73%传统RPA流程
+### 2026-05-29
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030年可带来150-300亿美元收入
+- **[AI Agent框架:CrewAI/ADK/PraisonAI](https://github.com/topics/aiagentframework)** GitHub热门开源框架：CrewAI(19.8k star)、VoltAgent(9.1k)、Google ADK-Python(8k)
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，OpenClaw等开源框架爆发式增长
+- **[C# AI实战:从零构建智能聊天助手](https://blog.csdn.net/qq_16416731/article/details=161383714)** .NET生态AI开发指南：Microsoft.Extensions.AI、Semantic Kernel、Agent Framework
+

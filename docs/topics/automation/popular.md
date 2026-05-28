@@ -1895,3 +1895,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距只有一句话
 - **[从工具到AI操作系统:Agent技术演进全解析(2026)](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化→系统化→基础设施→运行环境→AI OS演进
 - **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** 覆盖日常办公、数据报表、内容创作、沟通协作四大高频场景
+### 2026-05-29
+- **[Automation](https://www.taskade.com/wiki/automation)** 104+离散自动化动作，104+服务集成，Agentic Workflows支持智能决策
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** Skill封装能力、Workflow编排任务、Rules约束行为、Memories记忆系统
+- **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/uncategorized-89485.html)** 工作流自动化自动执行重复性任务，如线索分配、邮件跟进、数据更新
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，三个维度看清本质差距
+- **[智能自动化](https://baike.baidu.com/item/智能自动化/60189394)** 工作流自动化根据流程定义自动执行任务，无需人工干预
+

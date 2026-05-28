@@ -1588,3 +1588,10 @@ description: 主流大模型能力对比与选型参考
 - **[谷歌全家桶,都被新模型“污染”了](https://baijiahao.baidu.com/s?id=1866352795298340673)** Gemini 3.5 Flash成本是Gemini 3 Flash的5.5倍，速度快但错误多、token消耗爆炸
 - **[2026大模型API怎么选:Claude、GPT、Gemini和国产模型价格能力一次看懂](https://zhuanlan.zhihu.com/p/2042903916732475288)** 八大厂商20+主流模型价格能力对比，按任务分层是成熟方案
 - **[ChatGPT/Gemini/Claude三足鼎立:对话大模型拿走72%流量](https://news.sohu.com/a/1026183691_121340436)** ChatGPT 55亿月访问第一，Claude环比暴涨34%首次突破8亿跻身Top3
+### 2026-05-29
+- **[国产AI编程冲上全球第二!实测五大模型](http://k.sina.com.cn/article_5953466437_162dab0450670aoapm.html)** DeepSeek、Claude、GPT、Gemini、Qwen编程能力对比评测
+- **[给4个大模型20美元让它当老板](https://36kr.com/p/3828391939592833)** 四个AI独立运营电台实验半年：罢工、胡说八道、全员摆烂
+- **[GPT-5.5翻倍,Gemini涨3倍:这波涨价游戏还能玩多久?](https://36kr.com/p/3828666972492680)** Claude Code让开发者慢了19%，编码工具增长放缓
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Claude-Mythos-1源码泄露，6月发布成悬念
+- **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了?](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE新榜单GPT-5.5排第一70%，Claude排第三54%
+
