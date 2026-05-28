@@ -14,6 +14,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ### 2026-05-28
 - **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** NitroRCr/AIaW将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI工具、Workflow、Agent 三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成一个动作、Workflow自动化一条流程、Agent达成一个目标
+- **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的"工作流设计师"，拖拽式界面可搭建跨系统自动化流程
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排执行顺序、Skill封装能力、MCP多角色协作、Memories记忆
 - **[AI智能体正在被滥用:很多产品其实只是工作流](https://m.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在于刚性执行vs柔性应变
 

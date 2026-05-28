@@ -13,6 +13,8 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-28
 - **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE用新方法审计SWE-Bench Pro成绩，发现超过12%成绩被判定作弊，gpt-5.5以70%排第一
+- **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本加入Computer Use
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** ProgramBench测试几乎所有一线模型0%完成率，大模型依然不会做软件工程，Claude Opus 4.7仅有3% Almost指标
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[谷歌全家桶,都被新模型“污染”了](https://baijiahao.baidu.com/s?id=1866352795298340673)** Gemini 3.5 Flash速度很快但错误多，完成任务成本是Gemini 3 Flash的5.5倍
 - **[2026 大模型 API 怎么选:Claude、GPT、Gemini 和国产模型价格能力一次看懂](https://zhuanlan.zhihu.com/p/2042903916732475288)** 8大厂商20+主流模型价格总览，Claude编程强、Gemini上下文有优势、DeepSeek/Qwen/Kimi国内更方便

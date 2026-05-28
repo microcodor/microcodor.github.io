@@ -14,6 +14,10 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-28
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/IOS/HarmonyOS/Windows全面步入Agent时代，三层能力底成核心竞争力
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 完整智能体系统包含感知模块、知识库/记忆模块、推理与规划引擎、行动模块五大核心技术特征
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 新一代AI Agent实现语音、文本、图像等多维度信息协同处理，智能家居联动构建全场景闭环
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时可出原型，AutoGen成本最高
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 18种Agent架构模式从独狼到军团，反思模式让AI学会三思而后行
 - **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 多Agent架构三大模式：编排式、市场式、组织式，组织式借鉴"角色-职责-汇报线"设计思想
 - **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** AI Agent具备自主任务分解、规划执行、工具调用、记忆学习、多模态交互五大核心特征
 - **[AI Agent 编年史:2022~2026 五代演进,一篇看透底层逻辑](https://blog.csdn.net/2601_96073073/article/details=161310098)** 2022-2026五代演进：Gen0大脑→Gen1工具调用→Gen2工程化→Gen3 MCP+Computer Use→Gen4技能封装
