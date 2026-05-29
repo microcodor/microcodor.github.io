@@ -12,6 +12,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-05-29
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时可出原型，AutoGen成本最高
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 18种Agent架构模式从独狼到军团，反思模式让AI学会三思而后行
+
 ### 2026-05-28
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** 11个最佳AI Agent框架对比：LangChain、AutoGen、CrewAI、PydanticAI、Smolagents、LlamaIndex等
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、Google ADK等，干细胞向结构化确定性编排的整合
