@@ -317,6 +317,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw升级正确姿势:备份、验证、回滚一篇说清楚](https://blog.csdn.net/FallenQu/article/details=161385639)** 更新前先备份openclaw.json、credentials/、agents/main/sessions/三个核心目录
 - **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
+### 2026-05-30
+- **[面向Agent,腾讯云数据库全面升级!](https://baijiahao.baidu.com/s?id=1866529226380769618)** 基于OpenClaw框架打造DatabaseClaw产品，用自然语言即可完成运维与排障任务
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构筑AI Agent智能安全防护体系，网络/Agent/主机三层围栏整体架构
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent与OpenClaw从相反方向解决同一问题，定位与设计哲学全面对比
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 从功能优先到信任链式扩展，半年143次更新长出企业级安全体系
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP在API层面重新划线，禁止外部AI Agent访问SAP系统
+
 ### 2026-05-15
 - **[疯狂迭代:OpenClaw 143 次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，从功能优先到企业级安全体系的演进历程
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** OpenClaw驱动交互入口重新分配，从"发现功能"到"调用Agent"

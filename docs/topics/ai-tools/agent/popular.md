@@ -48,11 +48,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 新一代AI Agent实现语音、文本、图像等多维度信息协同处理，智能家居联动构建全场景闭环
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时可出原型，AutoGen成本最高
 - **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 18种Agent架构模式从独狼到军团，反思模式让AI学会三思而后行
-- **[如何让AI Agent安全可控地工作?Markus治理体系深度解析](https://cloud.tencent.com/developer/article/2672502)** 多Agent架构三大模式：编排式、市场式、组织式，组织式借鉴"角色-职责-汇报线"设计思想
-- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** AI Agent具备自主任务分解、规划执行、工具调用、记忆学习、多模态交互五大核心特征
-- **[AI Agent 编年史:2022~2026 五代演进,一篇看透底层逻辑](https://blog.csdn.net/2601_96073073/article/details=161310098)** 2022-2026五代演进：Gen0大脑→Gen1工具调用→Gen2工程化→Gen3 MCP+Computer Use→Gen4技能封装
-- **[超级员工万仔](https://baike.baidu.com/item/超级员工万仔/66238720)** 零一万物发布面向企业服务的AI Agent，已步入L2推理Agent阶段
-- **[中泰证券两项目在2025 AI Agent超自动化开发者大赛中获奖](https://wap.cinn.cn/p/439162.html)** RPA中国主办的超自动化开发者大赛，中泰证券获企业组金奖和流程创新奖
+
+### 2026-05-30
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026后Android/iOS/HarmonyOS/Windows全面步入Agent时代，系统级AI Runtime成核心竞争力
+- **[Hermes Agent v0.15发布:17万Star,AI Agent界的"速度与激情"](https://baijiahao.baidu.com/s?id=1866530557665426479)** 1302次提交、747个PR被合并，run_agent.py从16083行缩至3821行，Star突破17.2万
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 自主性、感知能力、决策能力、行动能力、适应性五大核心技术特征
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.md)** 新一代AI Agent实现语音、文本、图像多维度信息协同处理
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph、CrewAI、AutoGen等框架
 
 ### 2026-05-28
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是运行时优先，OpenClaw是网关优先，两者从相反方向解决同一个问题，代表了一个根本性的架构信念

@@ -27,7 +27,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI工作流是什么?一文搞懂智能自动化核心逻辑](https://www.sohu.com/a/1028761878_122658088)** AI工作流将零散AI工具串联起来完成多步骤复杂任务，将人从繁杂重复劳动中解脱
 - **[Slack三年不进化,2026年远程团队拿什么协作?三款AI工具实测](https://m.163.com/dy/article/KU01FM2E05561FZH.html)** Notion AI、Microsoft Teams+Copilot、Slack三款AI协作工具实测，AI原生工具让决策速度快40%
 - **[用自然语言生成 ComfyUI 工作流:我写了一个 AI Skill,彻底告别手动连线](https://blog.csdn.net/weixin_60937489/article/details=161491333)** comfyui-workflow-skill让AI用自然语言生成ComfyUI工作流JSON，只需告诉AI想做什么
-- **[低代码开发 AI Agent Harness Engineering:Coze_Dify 平台的高级玩法与局限性](https://blog.csdn.net/2301_76268839/article/details=161498834)** 低代码AI Agent平台Coze和Dify的Harness Engineering核心设计与技术边界
+- **[低代码开发 AI Agent Harness Engineering:Coze_Dify 平台的高级玩法与局限性](https://blog.csdn.net/2301_76268839/article/details/161498834)** 低代码AI Agent平台Coze和Dify的Harness Engineering核心设计与技术边界
+
+### 2026-05-30
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成一个动作，Workflow自动化一条流程，Agent达成一个目标
+- **[Qoder Skills完全指南:从零开始,让AI按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界里的"菜谱"，告诉AI怎么做、按什么标准执行
+
 ### 2026-05-28
 - **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** NitroRCr/AIaW将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
