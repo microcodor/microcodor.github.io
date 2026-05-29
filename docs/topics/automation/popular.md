@@ -1918,3 +1918,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI Workflow上線前,我會先算這筆API試錯賬](https://www.cnblogs.com/hotai/p/20204267)** 做AI應用時，很多人會先算token單價，但真正做過workflow後會發現，單價只是其中一部分，早期更容易被忽略的是「試錯調用 WisGate現在有Startup Credits Program活動，最高可申請$2,000 API credits。
 - **[AI將殺死SaaS,可能是今年最大的誤判](https://baijiahao.baidu.com/s?id=1866436760354951914)** 「SaaSpocalypse」背後反映的是AI正在根本上動搖軟件行業過去十幾年的商業邏輯，但最新財報顯示市場開始重新定價，SaaS公司股價明顯反彈。
 - **[大中企業CRM系統如何提升銷售管理?Top5解決方案剖析](https://www.fxiaoke.com/crm/information-89960.html)** 工作流自動化基於預設規則，系統可以自動執行大量重複性任務。
+
+### 2026-05-30
+- **[AI成攻防“关键变量”,安全防御体系该如何进化?](https://baijiahao.baidu.com/s?id=1866334103198494785)** AI实现漏洞挖掘从“天”到“秒”武器化，AI钓鱼邮件2025年增长率高达1000%
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade: Intelligent Process Automation, Agentic Workflows, 100+ Service Integrations, 104+ Automation Actions
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** AI编程工具五大模块：Skill封装技能、Workflow编排任务、Rules约束行为、MCP多角色协作、Memories记忆
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://it.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力

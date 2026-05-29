@@ -1607,3 +1607,9 @@ description: 主流大模型能力对比与选型参考
 - **[科研AI出了個狠角色:開源30B小模型,硬剛Gemini和Claude](http://k.sina.com.cn/article_7857201856_1d45362c0019061u8c.html)** UniScientist將開放式科研過程建模為動態系統，30B參數具備自主科學研究能力，可在開放問題中不斷提出假設、證偽錯誤推論、修正研究路徑。
 - **[「AI將殺死SaaS」,可能是今年最大的誤判](https://baijiahao.baidu.com/s?id=1866436760354951914)** 每一次GPT、Claude、Gemini更新，都會引發SaaS板塊集體下跌。但最新財報出爐後，市場開始重新定價，多家SaaS公司股價明顯反彈。
 - **[騰訊遊戲的One More Thing,是AI](https://baijiahao.baidu.com/s?id=1866384409259444481)** 騰訊發布會壓軸帶來三款重磅AI產品：AI渲染方案MagicDawn、模擬經營遊戲《數字景德鎮·瓷都小匠》、AI遊戲創作平台代號Craft。
+
+### 2026-05-30
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码暴露claude-mythos-1-preview，三家新模型线索指向6月发布
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** Anthropic完成650亿美元H轮融资估值9650亿美元反超OpenAI，Opus 4.8重点提升“诚实度”
+- **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** Claude Opus 4.8基准测试碾压Gemini3.1Pro，打出“标准价不变、快速价砍至1/3”王牌
+- **[Opus 4.8编码力横扫多项基准,终端测试却被GPT-5.5反杀?](https://www.163.com/dy/article/KU2FHGCJ05561FZF.html)** Terminal-Bench 2.1上GPT-5.5以78.2%领先Claude 74.6%，但Opus 4.8在SWE-Bench Pro达69.2%领先

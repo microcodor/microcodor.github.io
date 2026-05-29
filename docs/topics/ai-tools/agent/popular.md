@@ -624,3 +624,9 @@ description: 主流 Agent 框架与工具链一览
 - **[Agentforce](https://baike.baidu.com/item/Agentforce/65433423)** Salesforce於2024年9月推出的企業級AI數字勞動力平台，通過整合CRM數據、業務邏輯與生成式AI技術，為銷售、服務、營銷等場景提供智能自動化解決方案，截至2025年佔總營收13.6%。
 - **[蘋果未來最大敵人:不是華為小米,而是「幹掉屏幕」的OpenAI?](https://baijiahao.baidu.com/s?id=1866406866876316047)** OpenAI以65億美元收購硬件公司io Products，其CEO被譽為iPhone靈魂設計師喬尼·艾維，OpenAI目標是探索全新的「第三類核心設備」。
 - **[AI智能體讓科技界變得混亂,成熟的智能體應該懂得說不](https://baijiahao.baidu.com/s?id=1866486328557325534)** 從Claude Code和OpenClaw開始，不到兩週瘋狂下載獲10萬個星標，5月初達36.6萬個，智慧體時代突然到來。
+
+### 2026-05-30
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[2026,操作系统卷向“智能体化”](https://www.163.com/dy/article/KU0DKA3B05561FZU.html)** 端侧OS智能体化已在主流OS上铺开，Google/Microsoft/Apple/华为各有Agent布局，系统级AI Runtime、可控芯片、端云模型矩阵成三层底座
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，2025年开源框架爆发式增长，OpenClaw Star突破37.5万
+- **[C#_AI实战_从零构建智能聊天助手](https://blog.csdn.net/qq_16416731/article/details=161383714)** .NET生态AI开发指南：Microsoft.Extensions.AI、Semantic Kernel、Microsoft Agent Framework三大工具链

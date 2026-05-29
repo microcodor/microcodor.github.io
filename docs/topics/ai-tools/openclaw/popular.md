@@ -1811,3 +1811,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw × 騰訊雲Lighthouse:2026年最火AI Agent,5分鐘上雲,7×24小時替你幹活](https://cloud.tencent.com/developer/article/2675828)** OpenClaw是開源自托管的個人AI代理網關，通過WhatsApp、Telegram、微信、企微、飛書、釘釘等IM軟件接收指令，然後在本地或雲端執行Shell命令、管理文件、調度多步驟工作流。
 - **[OpenClaw v2026.5.14功能調整解讀:Channels / SDK 上下文增強與 Agent 級 Bootstrap Profile 配置](https://blog.csdn.net/weixin_47431459/article/details=161476185)** 這次更新圍繞兩個方向：一是增強Channels/SDK命令上下文構造，二是支持按agent單獨配置bootstrap profile，讓命令執行前的上下文準備更完整。
 - **[報告:微博AI內容討論同比增長18%,助推AI從技術破圈走向大眾共識](https://baijiahao.baidu.com/s?id=1866426722260347872)** 以OpenClaw為代表的智能體崛起，正在驗證AI商業化的全新消費邏輯。該話題在2月至3月期間共登上熱搜主榜80次、科技榜226次。
+
+### 2026-05-30
+- **[面向Agent,腾讯云数据库全面升级!](https://baijiahao.baidu.com/s?id=1866529226380769618)** 腾讯云基于OpenClaw框架打造DatabaseClaw产品，用自然语言即可完成数据库运维与排障
+- **[Hermes Agent v0.15 发布:17万Star,AI Agent界的“速度与激情”](https://baijiahao.baidu.com/s?id=1866530557665426479)** 17.2万Star全球第二，1302次提交747个PR被合并，17.4万行代码重构
+- **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类AI智能体横向评测
+- **[HNS 2026丨华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理
