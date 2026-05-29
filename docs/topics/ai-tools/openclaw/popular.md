@@ -20,6 +20,14 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[专访OpenClaw核心贡献者:热潮退去后Agent到底该听谁的?](https://www.163.com/dy/article/KTI7OHLI0556GNEJ.html)** OpenClaw收到10000个PR，Vincent Koc分享核心维护理念
 
 
+### 2026-05-29
+- **[《微博AI内容生态报告》发布 AI兴趣用户一年增长328%](https://baijiahao.baidu.com/s?id=1866424271255446667)** OpenClaw等新技术突破让用户关注焦点转移，该话题2月至3月期间共登上热搜主榜80次、科技榜226次
+- **[AI智能体让科技界变得混乱,成熟的智能体应该懂得说不](https://baijiahao.baidu.com/s?id=1866486328557325534)** 从Claude Code和OpenClaw开始，2025年11月OpenClaw两周内获10万个星标，5月初达36.6万
+- **[OpenClaw × 腾讯云Lighthouse:2026年最火AI Agent,5分钟上云,7×24小时替你干活](https://cloud.tencent.com/developer/article/2675828)** OpenClaw是一款开源自托管的个人AI代理网关，通过IM软件接收指令在本地或云端执行命令
+- **[OpenClaw v2026.5.14 功能调整解读:Channels / SDK 上下文增强与 Agent 级 Bootstrap Profile 配置](https://blog.csdn.net/weixin_47431459/article/details=161476185)** 增强Channels/SDK命令上下文构造，支持按agent单独配置bootstrap profile
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](https://stock.10jqka.com.cn/20260528/c677054027.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
+- **[OpenClaw v2026.5.27-alpha.1 / beta.1 预发布解读:本地运行边界、CLI 参数安全、Matrix 自动回复](https://blog.csdn.net/weixin_47431459/article/details=161486661)** 重点强化本地运行边界、CLI参数安全、Node runtime环境保护、Matrix自动回复稳定性
+
 ### 2026-05-28
 - **[国仁对话:Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866338672288107495)** 2026中国生成式AI大会：纳米机器人黄超认为Skill质量稀缺，Harness与模型共同进化
 - **[阿里云加速AI出海,发布全新海外AI产品官网Qwen Cloud](https://baijiahao.baidu.com/s?id=1866228975896131522)** Qwen3.7-Max专为Agent场景设计，可与Claude Code、OpenClaw、Hermes Agent等主流Agent框架协同

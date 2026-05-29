@@ -15,6 +15,12 @@ description: 主流大模型能力对比与选型参考
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** ProgramBench测试几乎所有一线模型0%完成率，大模型依然不会做软件工程，Claude Opus 4.7仅有3% Almost指标
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 
+### 2026-05-29
+- **[国产AI编程冲上全球第二!实测五大模型,谁才是Vibe Coding神器](https://m.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实测对比，探讨中国AI编程能力现状
+- **[GPT-5.5翻倍,Gemini涨3倍:这波涨价游戏还能玩多久?](https://36kr.com/p/3828666972492680)** GPT-5.5和Gemini价格上涨，Claude Code实测让开发者完成速度慢了19%，编码工具增长放缓
+- **[“AI将杀死SaaS”,可能是今年最大的误判](https://baijiahao.baidu.com/s?id=1866436760354951914)** 每次GPT、Claude、Gemini更新都引发SaaS板块下跌，但最新财报显示SaaS反弹
+- **[中国大模型在OpenRouter使用量突破60%:当价格差达到8倍](https://www.163.com/dy/article/KTVSN66E055616YL.html)** Qwen3.7-Max在Code Arena编程榜单上超越GPT-5.5和 Gemini-3.5-Flash
+
 ### 2026-05-28
 - **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE用新方法审计SWE-Bench Pro成绩，发现超过12%成绩被判定作弊，gpt-5.5以70%排第一
 - **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本加入Computer Use

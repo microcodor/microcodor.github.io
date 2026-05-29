@@ -19,6 +19,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
 - **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
+
+### 2026-05-29
+- **[AI重塑安全攻防:几份年度报告中的安全防御新范式](https://baijiahao.baidu.com/s?id=1866420974075772703)** AI实现漏洞挖掘从"天"到"秒"的武器化，AI钓鱼邮件2025年生成量增长率高达1000%
+- **[n8n 工作流实战:可视化 AI 自动化从入门到精通](https://augenstern.blog.csdn.net/article/details=161478368)** n8n是一款开源工作流自动化工具，支持可视化拖拽、400+集成、LangChain原生 AI
+- **[AI Workflow 上线前,我会先算这笔 API 试错账](https://www.cnblogs.com/hotai/p/20204267)** AI Workflow上线前需要低成本比较模型、少改业务代码、把日志和成本看清楚
+- **[AI工作流是什么?一文搞懂智能自动化核心逻辑](https://www.sohu.com/a/1028761878_122658088)** AI工作流将零散AI工具串联起来完成多步骤复杂任务，将人从繁杂重复劳动中解脱
+- **[Slack三年不进化,2026年远程团队拿什么协作?三款AI工具实测](https://m.163.com/dy/article/KU01FM2E05561FZH.html)** Notion AI、Microsoft Teams+Copilot、Slack三款AI协作工具实测，AI原生工具让决策速度快40%
+- **[用自然语言生成 ComfyUI 工作流:我写了一个 AI Skill,彻底告别手动连线](https://blog.csdn.net/weixin_60937489/article/details=161491333)** comfyui-workflow-skill让AI用自然语言生成ComfyUI工作流JSON，只需告诉AI想做什么
+- **[低代码开发 AI Agent Harness Engineering:Coze_Dify 平台的高级玩法与局限性](https://blog.csdn.net/2301_76268839/article/details=161498834)** 低代码AI Agent平台Coze和Dify的Harness Engineering核心设计与技术边界
 ### 2026-05-28
 - **[小公司也开始用AI自动化:Workflow Automation正在改变工作方式](https://www.163.com/dy/article/KTLKFECF05561FZH.html)** 工作流自动化利用软件和智能系统自动处理常规业务任务，帮助企业节省时间、减少冗余
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** NitroRCr/AIaW将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作

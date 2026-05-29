@@ -17,6 +17,12 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 - **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 18种Agent架构模式从独狼到军团，反思模式让AI学会三思而后行
 
+### 2026-05-29
+- **[穿越规模化探索期:2025企业级AI与智能体(Agent)数据底座构建指南](https://cloud.tencent.com/developer/article/2676025)** 企业级AI从概念验证迈入规模化探索期，七成企业已部署AI模块，构建data+ai驱动的智能体经济引擎
+- **[万亿Token时代,国产AI Infra准备好了吗?](https://baijiahao.baidu.com/s?id=1866421145263337170)** 万亿Token时代来袭，中科大团队让Agent担任机器化学家，自主啃文献、优化方案，推动推理引擎需求爆发
+- **[算力正在下沉家庭](https://baijiahao.baidu.com/s?id=1866424688240619000)** 当AI Agent需要7×24小时在线，家庭正在成为AI落地的终极边缘节点，隐私与经济账促使本地算力成刚需
+- **[ReAct范式(2026版):从奠基之作到Reflexion/RAF的演进](https://blog.csdn.net/qcx23/article/details=161486872)** 2022年ReAct是Agent推理范式奠基之作，2026年工业实践已用Reflexion、RAF等模式替代纯ReAct
+
 ### 2026-05-28
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** 11个最佳AI Agent框架对比：LangChain、AutoGen、CrewAI、PydanticAI、Smolagents、LlamaIndex等
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** LangGraph、Microsoft AutoGen、CrewAI、Semantic Kernel、Google ADK等，干细胞向结构化确定性编排的整合
