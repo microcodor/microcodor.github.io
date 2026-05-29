@@ -611,3 +611,10 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，OpenClaw等开源框架爆发式增长
 - **[C# AI实战:从零构建智能聊天助手](https://blog.csdn.net/qq_16416731/article/details=161383714)** .NET生态AI开发指南：Microsoft.Extensions.AI、Semantic Kernel、Agent Framework
 
+
+### 2026-05-29
+- **[万亿Token时代,国产AI Infra准备好了吗?](https://baijiahao.baidu.com/s?id=1866421145263337170)** 万億Token时代來臨，國產AI Infra面臨大考。企業服務領域過去分析師團隊耗時半個月的行業研報，如今數十個Agent協同分工幾天就能搞定。xLLM填補國產推理引擎空白。
+- **[穿越規模化探索期:2025企業級AI與智能體(Agent)數據底座構建指南](https://cloud.tencent.com/developer/article/2676025)** 2025企業級AI從概念驗證期邁入規模化探索期，企業需構建包含複雜知識庫處理能力的AI平台架構，全棧智能體平台編排涵蓋工作流監控與編排、多智能體協同。
+- **[Agentforce](https://baike.baidu.com/item/Agentforce/65433423)** Salesforce於2024年9月推出的企業級AI數字勞動力平台，通過整合CRM數據、業務邏輯與生成式AI技術，為銷售、服務、營銷等場景提供智能自動化解決方案，截至2025年佔總營收13.6%。
+- **[蘋果未來最大敵人:不是華為小米,而是「幹掉屏幕」的OpenAI?](https://baijiahao.baidu.com/s?id=1866406866876316047)** OpenAI以65億美元收購硬件公司io Products，其CEO被譽為iPhone靈魂設計師喬尼·艾維，OpenAI目標是探索全新的「第三類核心設備」。
+- **[AI智能體讓科技界變得混亂,成熟的智能體應該懂得說不](https://baijiahao.baidu.com/s?id=1866486328557325534)** 從Claude Code和OpenClaw開始，不到兩週瘋狂下載獲10萬個星標，5月初達36.6萬個，智慧體時代突然到來。

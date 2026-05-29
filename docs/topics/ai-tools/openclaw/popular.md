@@ -1797,3 +1797,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw如何接入始智AI Agent世界](https://www.163.com/dy/article/KTSP316C055673VY.html)** 始智AI Agent世界(WiseModel AgentVerse)的OpenClaw Skill接入教程
 - **[国内外巨头加码AI投资,全球AI共振趋势确立](https://baijiahao.baidu.com/s?id=1865967256330080058)** Google在搜索和Gemini应用中推出个人智能
 
+
+### 2026-05-29
+- **[《微博AI內容生態報告》發布 AI興趣用戶一年增長328%](https://baijiahao.baidu.com/s?id=1866424271255446667)#Seedance#、#OpenClaw#等新技術的突破，讓用戶關注的焦點發生了轉移。
+- **[OpenClaw × 騰訊雲Lighthouse:2026年最火AI Agent,5分鐘上雲,7×24小時替你幹活](https://cloud.tencent.com/developer/article/2675828)** OpenClaw是開源自托管的個人AI代理網關，通過WhatsApp、Telegram、微信、企微、飛書、釘釘等IM軟件接收指令，然後在本地或雲端執行Shell命令、管理文件、調度多步驟工作流。
+- **[OpenClaw v2026.5.14功能調整解讀:Channels / SDK 上下文增強與 Agent 級 Bootstrap Profile 配置](https://blog.csdn.net/weixin_47431459/article/details=161476185)** 這次更新圍繞兩個方向：一是增強Channels/SDK命令上下文構造，二是支持按agent單獨配置bootstrap profile，讓命令執行前的上下文準備更完整。
+- **[報告:微博AI內容討論同比增長18%,助推AI從技術破圈走向大眾共識](https://baijiahao.baidu.com/s?id=1866426722260347872)** 以OpenClaw為代表的智能體崛起，正在驗證AI商業化的全新消費邏輯。該話題在2月至3月期間共登上熱搜主榜80次、科技榜226次。
