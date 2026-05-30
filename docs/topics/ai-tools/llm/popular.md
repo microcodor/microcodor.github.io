@@ -13,6 +13,13 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-30
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[苹果Siri大改版?先别激动,这条消息至少有三个硬伤](https://baijiahao.baidu.com/s?id=1866442288079074861)** 采用谷歌定制版Gemini模型1.2万亿参数，Siri迎来史诗级升级
+- **[离大谱!他花12美元给AI投毒,ChatGPT、Claude全中招](https://baijiahao.baidu.com/s?id=1866421028186793076)** 仅用12美元注册域名和维基百科词条修改，成功欺骗ChatGPT、Claude、 Gemini
+- **[有人只用API就猜出了GPT、Claude、Gemini的参数量?社区吵翻了](https://baijiahao.baidu.com/s?id=1863965237043355033)** 论文估算GPT-5.5约9万亿参数，Claude Opus 4.7约4万亿参数，Gemini 2.5 Pro约1.2万亿参数
+- **[世界数据组织刚成立,首批海外数商就来了](https://baijiahao.baidu.com/s?id=1866494844158499703)** MCP服务器可兼容Claude、GPT、Gemini等主流大模型
+
+### 2026-05-30
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
 - **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 标准价不变、快速价砍至1/3，重点提升"诚实度"，Opus 4.8缺陷漏报率仅为前代1/4
 - **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本

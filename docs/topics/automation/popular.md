@@ -346,6 +346,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[从工具到AI操作系统:Agent技术演进全解析](https://openeuler.csdn.net/6a151cc6662f9a54cb771a50.html)** AI从工具→工程化应用→智能系统→基础设施→AI OS演进路径
 - **[2026年摸鱼提效神器:打工人必备的AI自动化工作流](https://it.sohu.com/a/1027506641_122534145)** AI自动化工作流串联收集-整理-分析-输出-推送全流程，砍掉80%无效劳作
 
+### 2026-05-30
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成一个动作，Workflow自动化一条流程，Agent达成一个目标
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Skill封装技能、Workflow编排任务
+
 ### 2026-05-15
 - **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的工作流设计师，帮助设计、生成、管理完整的n8n工作流
 - **[Workflow 与 AI Agent 核心差异拆解](https://cloud.tencent.com/developer/article/2667429)** Workflow是刚性执行的自动化流程，AI Agent具备自主思考决策能力，二者核心区别在于容错能力

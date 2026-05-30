@@ -383,6 +383,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-30
+- **[阿里云开源百炼CLI,Agent可调用全套模型和应用能力](https://baijiahao.baidu.com/s?id=1866506369912582246)** 百炼核心能力CLI化，支持Claude Code、Qoder、OpenClaw
+- **[面向Agent,腾讯云数据库全面升级](https://baijiahao.baidu.com/s?id=1866529226380769618)** 腾讯云基于OpenClaw框架打造DatabaseClaw
+- **[华为联合发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏架构
+- **[AI清出500GB空间?实测Agent发现](https://baijiahao.baidu.com/s?id=1866420579094654102)** 实测Marvis等AI工具整理垃圾文件
+- **[武汉大学200余名师生研习OpenClaw](https://baijiahao.baidu.com/s?id=1866429867299055717)** 沉浸式研习OpenClaw智能体实战落地
+
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
