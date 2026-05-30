@@ -11,6 +11,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-05-31
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 标准价不变、快速价砍至1/3，重点提升"诚实度"，Opus 4.8缺陷漏报率仅为前代1/4
+- **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了?](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE审计发现SWE-Bench Pro超过12%成绩被判定作弊，榜单真实性受质疑
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
+
 ### 2026-05-30
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[苹果Siri大改版?先别激动,这条消息至少有三个硬伤](https://baijiahao.baidu.com/s?id=1866442288079074861)** 采用谷歌定制版Gemini模型1.2万亿参数，Siri迎来史诗级升级

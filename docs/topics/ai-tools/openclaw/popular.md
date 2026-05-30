@@ -19,6 +19,13 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-05-31
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
+- **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](https://baijiahao.baidu.com/s?id=1866369744281361430)** 聚焦AI Agent全球化，非凡产研领衔主办峰会预计汇聚500+从业者
+- **[OpenClaw与Hermes:源码里的AI Agent架构课](https://zhuanlan.zhihu.com/p/2043727154320499415)** 从源码拆解四大核心设计：多协议可插拔、LLM上下文资源预算、记忆自动沉淀、凭证失败分治
+- **[LangChain vs AutoGPT vs OpenClaw:2026年AI Agent框架终极对决](https://blog.csdn.net/2601_94871597/article_details/161459797)** 从架构设计、生产可用性、性能表现、成本控制、适用场景五个维度对比
+- **[2026 OpenClaw使用指南:探索开源AI Agent的全部潜力与应用](https://blog.51cto.com/u_13250/14639162)** 17万Star登顶GitHub历史第一，24/7后台常驻、自主操控浏览器和代码
+
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
