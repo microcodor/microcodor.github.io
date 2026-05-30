@@ -655,3 +655,10 @@ description: 主流 Agent 框架与工具链一览
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026后Android/iOS/HarmonyOS/Windows全面步入Agent时代，系统级AI Runtime成核心竞争力
 - **[Hermes Agent v0.15发布:17万Star,AI Agent界的"速度与激情"](https://baijiahao.baidu.com/s?id=1866530557665426479)** 1302次提交、747个PR被合并，run_agent.py从16083行缩至3821行，Star突破17.2万
 - **[CUA开源项目:AI操控电脑的完整基础设施](https://zhuanlan.zhihu.com/p/2043788643001688950)** 17,300+ Star，支持macOS/Linux/Windows沙箱，包含Sandbox SDK、Driver、Agent框架、评测
+
+### 2026-05-31
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时可出原型，AutoGen成本最高
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
+- **[Harness Engineering:AI Agent 时代的新工程范式](https://zhuanlan.zhihu.com/p/2043297061664294588)** 核心哲学从"编写代码"转向"设计让 AI Agent 可靠运行的环境"
+- **[上海大模型龙头,启动A股上市!](http://finance.sina.com.cn/wm/2026-05-30/doc-inhzrvns7345690.shtml)** MiniMax冲刺A股大模型第一股，ARR超3亿美元，M3模型即将发布

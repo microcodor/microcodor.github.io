@@ -1951,3 +1951,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI成攻防"关键变量",安全防御体系该如何进化?](https://baijiahao.baidu.com/s?id=1866334103198494785)** 攻击者利用AI实现漏洞挖掘工业化、钓鱼攻击规模化，2025年约30%漏洞24小时内被武器化利用
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆，五大模块技术边界解析
 - **[n8n工作流实战:可视化AI自动化从入门到精通](https://augenstern.blog.csdn.net/article/details/161478368)** 400+集成、原生LangChain支持、开源免费，n8n成Zapier开源替代方案
+
+### 2026-05-31
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** Skill封装技能、Workflow编排任务、Rules约束行为、Memories记忆五大模块技术定位
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://www.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
+- **[扣子Coze 工作流教程:采集公众号爆文,一键仿写自动发布](https://blog.csdn.net/m0_67217201/article/details/161520469)** Coze是字节推出的AI Bot平台，AI自动化工作流工具
+- **[智能自动化](https://baike.baidu.com/item/智能自动化/60189394)** 工作流自动化根据流程定义一系列任务，并自动执行这些任务，无需人工干预

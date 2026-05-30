@@ -1866,3 +1866,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[告别订阅费!雷神移动AI工作站三箭齐发](https://baijiahao.baidu.com/s?id=1866439993356761409)** AMD深入合作，全新Master系列AI工作站发布，涵盖塔式、Mini和笔记本全形态
 - **[工程师有了"数字同事"!海淀发布国内首个工程级AI原生研发平台](https://baijiahao.baidu.com/s?id=1866384825139495555)** 可达智灵发布"织灵CodaLoom 2.0"，国内首个工程级AI原生研发平台
 - **[知乎发布2025 AI排行榜:豆包登顶,DeepSeek领跑](http://3g.lvdianguanjia.cn/frog/20260529_4772861.shtml)** 豆包击败DeepSeek和通义千问荣登榜首，Gemini、ChatGPT和Claude位列海外前三
+
+### 2026-05-31
+- **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度推出全球首款搭载中文大模型的原生AI眼镜，45g轻量级、1600万像素、56小时待机，售价2299元
+- **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，基于"数据—模型—应用"闭环理念，UV斑检测精度提升11.16%
+- **[AI小财神](https://baike.baidu.com/item/AI小财神/65222429)** 财跃星辰开发的金融信息智能体，基于千亿参数财跃大模型，提供A股实时行情查询
+- **[前瞻全球产业早报:比亚迪发布中国首款 4nm 智驾芯片](http://www.myzaker.com/article/6a18ea6db15ec0126415c092)** 两部门联手系统布局人工智能计量能力建设
