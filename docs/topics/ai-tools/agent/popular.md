@@ -13,6 +13,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-05-30
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[Hermes Agent v0.15 发布:17万Star,AI Agent界的"速度与激情"](https://baijiahao.baidu.com/s?id=1866530557665426479)** 1302次提交、747个PR合并、17.4万Star稳居全球AI Agent框架第二，run_agent.py从16083行精简至3821行
+- **[智能体搭建需要哪些技术?2025年AI Agent开发完整技术栈解析](http://k.sina.com.cn/article_7879848900_1d5acf3c401902xx8s.html)** 自主性、感知能力、决策能力、行动能力、适应性五大核心技术特征，完整智能体系统四核心组件
+- **[AI Agent大升级!2025智能个人助理新功能:多模态交互+智能家居联动实测](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+- **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，50余个专业级表格操作工具
+
+### 2026-05-30
 - **[AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时可出原型，AutoGen成本最高
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 

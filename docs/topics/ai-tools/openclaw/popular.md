@@ -10,6 +10,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent vs OpenClaw从相反方向解决同一问题，Hermes是运行时优先，OpenClaw是网关优先
 - **[2100人OpenClaw调研：中国AI Agent早期采用者的6个反直觉真相](https://baijiahao.baidu.com/s?id=1865612716355935854)** 23.5%用户为养Agent专门买Mac mini，41%每月付费200元以上，71%同时运行两只以上Agent实例
 
+### 2026-05-30
+- **[面向Agent,腾讯云数据库全面升级.](https://baijiahao.baidu.com/s?id=1866529226380769618)** 腾讯云基于OpenClaw框架打造DatabaseClaw，DBA用一句自然语言即可完成运维与排障任务
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 从相反方向解决同一个问题：Hermes是运行时优先，OpenClaw是网关优先
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何"被迫"长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，被真实威胁逼到墙角后形成三层信任链式扩展
+- **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI先后发布四大新模型
+
 ## 近期动态
 
 ### 2026-05-28
