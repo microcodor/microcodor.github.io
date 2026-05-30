@@ -1824,3 +1824,8 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Hermes Agent v0.15 发布:17万Star,AI Agent界的“速度与激情”](https://baijiahao.baidu.com/s?id=1866530557665426479)** 17.2万Star全球第二，1302次提交747个PR被合并，17.4万行代码重构
 - **[国产大厂龙虾工具大横评 AI智能体赛道谁做的最好](http://k.sina.com.cn/article_6015503532_1668d4cac00101c7oy.html)** 字节ArkClaw、阶跃StepClaw、腾讯QClaw等8款国产Claw类AI智能体横向评测
 - **[HNS 2026丨华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理
+
+### 2026-05-30
+- **[面向Agent,腾讯云数据库全面升级](https://baijiahao.baidu.com/s?id=1866529226380769618)** 腾讯云基于OpenClaw框架打造DatabaseClaw，让DBA用自然语言完成运维与排障任务
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理难题
+- **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](http://finance.sina.com.cn/wm/2026-05-28/doc-inhzksma0389351.shtml)** 非凡产研领衔主办AI Agent全球化峰会，预计汇聚500+全球AI行业从业者

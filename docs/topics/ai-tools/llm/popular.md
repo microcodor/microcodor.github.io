@@ -1619,3 +1619,8 @@ description: 主流大模型能力对比与选型参考
 - **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** Anthropic完成650亿美元H轮融资估值9650亿美元反超OpenAI，Opus 4.8重点提升“诚实度”
 - **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** Claude Opus 4.8基准测试碾压Gemini3.1Pro，打出“标准价不变、快速价砍至1/3”王牌
 - **[Opus 4.8编码力横扫多项基准,终端测试却被GPT-5.5反杀?](https://www.163.com/dy/article/KU2FHGCJ05561FZF.html)** Terminal-Bench 2.1上GPT-5.5以78.2%领先Claude 74.6%，但Opus 4.8在SWE-Bench Pro达69.2%领先
+
+### 2026-05-30
+- **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 标准价不变、快速价砍至1/3，重点提升"诚实度"，Opus 4.8缺陷漏报率仅为前代1/4
+- **[Opus 4.8编码力横扫多项基准,终端测试却被GPT-5.5反杀](https://www.163.com/dy/article/KU2FHGCJ05561FZF.html)** Terminal-Bench上GPT-5.5以78.2%排第一，Opus 4.8为74.6%，但在OSWorld Verified测试中Opus 4.8达83.4%领先

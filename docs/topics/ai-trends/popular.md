@@ -1845,3 +1845,8 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[前瞻全球产业早报:比亚迪发布中国首款 4nm 智驾芯片](http://www.myzaker.com/article/6a18ea6db15ec0126415c092)** 比亚迪发布中国首款4nm智驾芯片，国务院印发城市更新“十五五”规划
 - **[工程师有了“数字同事”!海淀这一企业,发布国内首个工程级AI原生研发平台](https://baijiahao.baidu.com/s?id=1866384825139495555)** 可达智灵发布“织灵CodaLoom 2.0”，国内首个工程级AI原生研发平台
 - **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，综合指标较传统算法提升4.99%，覆盖30余个皮肤检测维度
+
+### 2026-05-30
+- **[告别订阅费!雷神移动AI工作站三箭齐发](https://baijiahao.baidu.com/s?id=1866439993356761409)** AMD深入合作，全新Master系列AI工作站发布，涵盖塔式、Mini和笔记本全形态
+- **[工程师有了"数字同事"!海淀发布国内首个工程级AI原生研发平台](https://baijiahao.baidu.com/s?id=1866384825139495555)** 可达智灵发布"织灵CodaLoom 2.0"，国内首个工程级AI原生研发平台
+- **[知乎发布2025 AI排行榜:豆包登顶,DeepSeek领跑](http://3g.lvdianguanjia.cn/frog/20260529_4772861.shtml)** 豆包击败DeepSeek和通义千问荣登榜首，Gemini、ChatGPT和Claude位列海外前三

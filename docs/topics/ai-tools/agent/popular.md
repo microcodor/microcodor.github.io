@@ -632,3 +632,8 @@ description: 主流 Agent 框架与工具链一览
 - **[2026,操作系统卷向“智能体化”](https://www.163.com/dy/article/KU0DKA3B05561FZU.html)** 端侧OS智能体化已在主流OS上铺开，Google/Microsoft/Apple/华为各有Agent布局，系统级AI Runtime、可控芯片、端云模型矩阵成三层底座
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，2025年开源框架爆发式增长，OpenClaw Star突破37.5万
 - **[C#_AI实战_从零构建智能聊天助手](https://blog.csdn.net/qq_16416731/article/details=161383714)** .NET生态AI开发指南：Microsoft.Extensions.AI、Semantic Kernel、Microsoft Agent Framework三大工具链
+
+### 2026-05-30
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026后Android/iOS/HarmonyOS/Windows全面步入Agent时代，系统级AI Runtime成核心竞争力
+- **[Hermes Agent v0.15发布:17万Star,AI Agent界的"速度与激情"](https://baijiahao.baidu.com/s?id=1866530557665426479)** 1302次提交、747个PR被合并，run_agent.py从16083行缩至3821行，Star突破17.2万
+- **[CUA开源项目:AI操控电脑的完整基础设施](https://zhuanlan.zhihu.com/p/2043788643001688950)** 17,300+ Star，支持macOS/Linux/Windows沙箱，包含Sandbox SDK、Driver、Agent框架、评测
