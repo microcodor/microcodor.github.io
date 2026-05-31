@@ -12,6 +12,20 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-31
+- **[ChatGPT网页端流量份额下跌至53.7%,Gemini快速追赶至26.7%](https://baijiahao.baidu.com/s?id=1865401779139734200)** Similarweb数据显示，一年间ChatGPT份额从77.6%大幅缩水
+- **[OpenAI砸40亿美元成立新公司专注企业AI部署](https://baijiahao.baidu.com/s?id=1865401779139734200)** OpenAI联合TPG、安宏、贝恩、高盛、软银等19家伙伴，成立专注企业AI部署的新公司
+
+### 2026-05-30
+- **[谷歌I/O前夕宣布AI硬件"全家桶":Gemini全面融入安卓](https://baijiahao.baidu.com/s?id=1865401779139734200)** Gemini Intelligence功能今夏登陆三星Galaxy和Pixel手机
+
+### 2026-05-25
+- **[福布斯中国2026人工智能科技企业TOP50评选结果公布](https://baijiahao.baidu.com/s?id=1865522434883367375)** 中国AI企业超4800家，核心产业规模6800亿元
+
+### 2026-05-20
+- **[Forbes China AI TOP 50 2026](https://baijiahao.baidu.com/s?id=1865522434883367375)** Forbes China AI科技企业TOP50评选结果公布,4800+家AI企业
+
+### 2026-05-19
+- **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[谷歌Gemini 3.2偷跑!2200行代码一镜到底,Claude/GPT坐不住了](https://baijiahao.baidu.com/s?id=1865536796417740645)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/mobile/article/KSAOJO8G0511AQHO.html)** ProgramBench测试几乎所有一线模型0%完成率，大模型依然不会做软件工程

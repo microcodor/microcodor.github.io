@@ -20,6 +20,15 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-31
+- **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
+- **[Awesome n8n Templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
+- **[Waoowao](https://github.com/waooAI/waoowaoo)** 首家工业级全流程AI影视生产平台, 12K stars
+
+### 2026-05-28
+- **[Google I/O 2026:轰炸式发布Agent,狙击Claude Code](https://baijiahao.baidu.com/s?id=1865672501392411892)** 数十个产品更新聚焦Agent，Gemini 3.5 Flash、Antigravity 2.0全面更新
+
+### 2026-05-24
+- **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills
 - **[阿里云开源百炼CLI,Agent可调用全套模型和应用能力](https://baijiahao.baidu.com/s?id=1866506369912582246)** 原生支持Claude Code、Qoder、OpenClaw、Hermes Agent等主流AI Agent框架
 - **[Digital Quant 2026 量化交易大赛收官:真实资金、真实数据、真实竞争定义"AI 量化新标准"](https://baijiahao.baidu.com/s?id=1866600552913454880)** OpenClaw小龙虾直接参与交易，完整接管行情读取、策略调整、交易执行与风险控制全链条
 - **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理难题

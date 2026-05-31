@@ -16,6 +16,15 @@ description: 主流 Agent 框架与工具链一览
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
+
+### 2026-05-30
+- **[Hermes Agent v0.15 发布:17万Star,AI Agent界的"速度与激情"](https://baijiahao.baidu.com/s?id=1866530557665426479)** 1302次提交、747个PR合并、17.4万Star稳居全球AI Agent框架第二
+
+### 2026-05-25
+- **[对话式智能表格获权威认可!葡萄城荣获"2025年度软件行业先进性科技成果"](https://baijiahao.baidu.com/s?id=1865587596750605490)** 基于SpreadJS实现的对话式智能表格AI Agent框架，通过MCP协议打通AI与表格双向管道
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 - **[AI Agent 框架探秘:拆解 OpenHands--- Microagents](https://blog.csdn.net/MgL58nG65/article/details=160932014)** Microsoft Agent Framework是Semantic Kernel在AI代理领域的官方继任者
 - **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details=161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
 
