@@ -20,6 +20,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-31
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
+- **[从3632个漏洞看AI时代的评测基准重构!VulnGym基准发布](https://baijiahao.baidu.com/s?id=1866256796730545197)** 腾讯悟空安全团队发布，基于GitHub高星项目中的真实漏洞构建
+- **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](https://baijiahao.baidu.com/s?id=1866369744281361430)** 聚焦AI Agent全球化，500+全球AI行业从业者参与
+- **[OpenClaw与Hermes:源码里的AI Agent架构课](https://zhuanlan.zhihu.com/p/2043727154320499415)** 从源码层面拆解两大框架的设计取舍
+
+### 2026-05-31
 - **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** A curated list of awesome Claude Skills, 60K stars
 - **[Awesome n8n Templates](https://github.com/enescingoz/awesome-n8n-templates)** 280+ free n8n automation templates, 22K stars
 - **[Waoowao](https://github.com/waooAI/waoowaoo)** 首家工业级全流程AI影视生产平台, 12K stars

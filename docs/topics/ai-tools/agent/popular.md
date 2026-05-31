@@ -14,6 +14,13 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-31
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
+- **[Harness Engineering:AI Agent 时代的新工程范式](https://zhuanlan.zhihu.com/p/2043297061664294588)** 核心思想是从编写代码转向设计让AI Agent可靠运行的环境
+- **[Microsoft Agent Framework 1.0发布](https://cloud.tencent.com/developer/article/2674780)** 把代理开发链路补齐：本地调试、工具接入、记忆管理、托管运行、安全边界和可观察性
+- **[AI Agent物联网应用爆发前夜:Gartner未公开的3大技术断层与2025年必须抢占的4个标准接口](https://blog.csdn.net/PixelShoal/article/details=161422041)** AI Agent正从"云端智能体"演进为"端云协同智能体"
+
+### 2026-05-31
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 

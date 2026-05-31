@@ -12,6 +12,14 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-05-31
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 标准价不变、快速价砍至1/3，重点提升"诚实度"
+- **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了?](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE审计发现SWE-Bench Pro超过12%成绩被判定作弊
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
+- **[4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世](https://m.163.com/dy/article/KU3VE2CF0511ABV6.html)** Emergence World实验刷屏全网，GPT系列全饿死，Grok四天毁灭全城
+
+### 2026-05-31
 - **[ChatGPT网页端流量份额下跌至53.7%,Gemini快速追赶至26.7%](https://baijiahao.baidu.com/s?id=1865401779139734200)** Similarweb数据显示，一年间ChatGPT份额从77.6%大幅缩水
 - **[OpenAI砸40亿美元成立新公司专注企业AI部署](https://baijiahao.baidu.com/s?id=1865401779139734200)** OpenAI联合TPG、安宏、贝恩、高盛、软银等19家伙伴，成立专注企业AI部署的新公司
 
