@@ -20,6 +20,12 @@ description: OpenCLAW AI Agent 框架最新动态
 ## 近期动态
 
 ### 2026-05-31
+- **[阿里云开源百炼CLI,Agent可调用全套模型和应用能力](https://baijiahao.baidu.com/s?id=1866506369912582246)** 原生支持Claude Code、Qoder、OpenClaw、Hermes Agent等主流AI Agent框架
+- **[Digital Quant 2026 量化交易大赛收官:真实资金、真实数据、真实竞争定义"AI 量化新标准"](https://baijiahao.baidu.com/s?id=1866600552913454880)** OpenClaw小龙虾直接参与交易，完整接管行情读取、策略调整、交易执行与风险控制全链条
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理难题
+- **[面向Agent,腾讯云数据库全面升级!](http://finance.sina.cn/2026-05-29/detail-inhzqimi9430179.d.html)** 基于OpenClaw框架打造DatabaseClaw，DBA用自然语言即可完成运维与排障任务
+
+### 2026-05-31
 - **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 - **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](https://baijiahao.baidu.com/s?id=1866369744281361430)** 聚焦AI Agent全球化，非凡产研领衔主办峰会预计汇聚500+从业者
 - **[OpenClaw与Hermes:源码里的AI Agent架构课](https://zhuanlan.zhihu.com/p/2043727154320499415)** 从源码拆解四大核心设计：多协议可插拔、LLM上下文资源预算、记忆自动沉淀、凭证失败分治

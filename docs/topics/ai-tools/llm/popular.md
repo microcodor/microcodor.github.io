@@ -13,6 +13,12 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-05-31
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[谷歌Gemini 3.2偷跑!2200行代码一镜到底,Claude/GPT坐不住了](https://baijiahao.baidu.com/s?id=1865536796417740645)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/mobile/article/KSAOJO8G0511AQHO.html)** ProgramBench测试几乎所有一线模型0%完成率，大模型依然不会做软件工程
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+
+### 2026-05-31
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
 - **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 标准价不变、快速价砍至1/3，重点提升"诚实度"，Opus 4.8缺陷漏报率仅为前代1/4
 - **[GPT-5.5反杀Claude登顶,AI编码旧榜不准了?](https://baijiahao.baidu.com/s?id=1866337497813928863)** DeepSWE审计发现SWE-Bench Pro超过12%成绩被判定作弊，榜单真实性受质疑

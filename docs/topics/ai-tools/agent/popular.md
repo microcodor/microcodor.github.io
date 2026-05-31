@@ -14,6 +14,13 @@ description: 主流 Agent 框架与工具链一览
 
 ### 2026-05-31
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高
+- **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
+- **[AI Agent 框架探秘:拆解 OpenHands--- Microagents](https://blog.csdn.net/MgL58nG65/article/details=160932014)** Microsoft Agent Framework是Semantic Kernel在AI代理领域的官方继任者
+- **[AI最新发展趋势:2025年人工智能的五大变革方向](https://blog.csdn.net/q6196310920/article/details=161322022)** 2025年被称为AI Agent元年，具备自主规划、工具调用、任务分解、记忆管理等核心能力
+
+### 2026-05-31
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 - **[Harness Engineering:AI Agent时代的新工程范式](https://zhuanlan.zhihu.com/p/2043297061664294588)** 核心思想是从编写代码转向设计让AI Agent可靠运行的环境，2026年兴起的主流范式
 - **[Microsoft Agent Framework 1.0发布](https://cloud.tencent.com/developer/article/2674780)** 把代理开发链路补齐：本地调试、工具接入、记忆管理、托管运行、安全边界和可观察性
