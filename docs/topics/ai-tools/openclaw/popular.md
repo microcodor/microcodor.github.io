@@ -18,7 +18,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI先后发布四大新模型
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-31
 - **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 - **[从3632个漏洞看AI时代的评测基准重构!VulnGym基准发布](https://baijiahao.baidu.com/s?id=1866256796730545197)** 腾讯悟空安全团队发布，基于GitHub高星项目中的真实漏洞构建
@@ -344,7 +347,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Meta下场做ToC版OpenClaw:内部测试消费者助理Hatch,Instagram年内上线购物Agent](https://new.qq.com/rain/a/20260506A05I5900)** Meta开发消费者端AI助理Hatch，由Claude Opus 4.6和Claude Sonnet 4.6模型驱动，计划第四季度前整合进Instagram
 - **[OpenClaw爆火真相:一句话指挥AI干完所有活,不再是梦](https://www.163.com/dy/article/KS41UM910556C0RP.html)** AI正经历从对话式AI向主动型智能体演化的关键变革期，下一代AI将回归记忆、推理、自主进化
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -410,7 +416,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[解析OpenClaw安全挑战及应对策略 构筑AI Agent安全新边界](https://baijiahao.baidu.com/s?id=1862987467063914331&wfr=spider&for=pc)** 恶意Skill数量几周内飙升至800多个涨幅142%，OpenClaw被记录的81个CVE漏洞中62.9%为严重或高危漏洞
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-30
 - **[阿里云开源百炼CLI,Agent可调用全套模型和应用能力](https://baijiahao.baidu.com/s?id=1866506369912582246)** 百炼核心能力CLI化，支持Claude Code、Qoder、OpenClaw
 - **[面向Agent,腾讯云数据库全面升级](https://baijiahao.baidu.com/s?id=1866529226380769618)** 腾讯云基于OpenClaw框架打造DatabaseClaw
@@ -434,7 +443,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944&wfr=spider&for=pc)** 核心定位是任务执行中枢，通过分层解耦架构打通大模型、工具、系统与用户的连接
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -551,7 +563,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -678,7 +693,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -724,7 +742,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -865,7 +886,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -900,7 +924,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -935,7 +962,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1288,7 +1318,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1348,7 +1381,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1372,7 +1408,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1395,7 +1434,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1438,7 +1480,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[深度访谈OpenClaw引爆Agent元年,AI Agent在企业内如何规模化应用?](https://www.163.com/dy/article/KRK7IADO0511D3QS)** OpenClaw从对话式AI推进到执行式AI，从顾问变成执行者
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定
@@ -1490,7 +1535,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[Open Claw对智能体、OPC与AI4S的影响及发展趋势](https://baijiahao.baidu.com/s?id=1863875537271555944)** 核心定位是任务执行中枢，实现自然语言指令到任务交付的全自主闭环
 
 ## 近期动态
-
+### 2026-06-01
+- **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
+- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 ### 2026-05-28
 - **[OpenClaw v2026.4.5:重新定义个人Agent平台的多模态与记忆能力](https://developer.baidu.com/article/detail.html?id=7226709)** 视频音乐等多媒体原生生成、记忆固化系统、任务分步执行机制
 - **[OpenClaw 2026.3.7架构级升级:记忆热插拔+插件化解放上限](http://m.article.yunxincloud.cn/chant/178_40524.shtml)** 记忆系统热插拔、context engine插件体系、持久化频道绑定

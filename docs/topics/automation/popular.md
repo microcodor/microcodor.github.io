@@ -11,7 +11,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 自动化工作流自动执行重复性任务，如线索分配、邮件跟进、数据更新
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -343,7 +347,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://developer.aliyun.com/article/1732600)** Skill是AI世界的菜谱，MCP是厨房，两者结合让用户无需每次从头解释，AI也能稳定交付高质量结果
 - **[AI 工作流(AI Workflow)——让 AI 像流水线一样干活](https://cloud.tencent.com/developer/article/2664271)** AI工作流正被多Agent架构逐步替代，多Agent把"怎么走"也交给模型自己决定，流程不再是固定的DAG而是运行时"长出来"的
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -415,7 +423,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[Qoder Skills 完全指南:从零开始,让 AI 按你的标准执行](https://view.inews.qq.com/a/20260430A01V2A00)** Skill是AI世界的菜谱，MCP是厨房，Rules是全局约束，三者结合让AI稳定交付高质量结果
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -439,7 +451,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[效率工具清单:AI真能替你干活吗?](https://www.163.com/dy/article/KS72V9HJ05561FZV.html)** 邮件AI价值在"分层运营"而非"完全替代人工"，工具解决的是把80%常规用户用自动化覆盖
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -568,7 +584,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -608,7 +628,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -745,7 +769,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -800,7 +828,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -833,7 +865,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -867,7 +903,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -900,7 +940,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -972,7 +1016,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -1078,7 +1126,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -1474,7 +1526,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -1560,7 +1616,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[全球首个企业级智能体开源项目矩阵全景图:讯飞Astron团队开启Agentic Workflow新纪元](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS69f05c60a310942cc49a9d52.html)** 讯飞Astron开源团队发布Astron Landscape，覆盖智能体生命周期每一个环节
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
@@ -1629,7 +1689,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI驱动的代码生成与自动化工作流平台:从单次提示到可编程流程的范式转变](https://blog.csdn.net/weixin_28725959/article/details/160751511)** Abbey将AI代码生成能力封装成可定义、执行、验证和复用的工作流
 
 ## 近期动态
-### 2026-05-31
+### 2026-06-01
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠### 2026-05-31
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本

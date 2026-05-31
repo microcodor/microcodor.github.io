@@ -12,6 +12,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-01
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030财年可带来150-300亿美元净增量收入
+- **[别再盯着芯片和设计,苹果的护城河正被AI一句话瓦解](https://baijiahao.baidu.com/s?id=1866483009397030067)** Jony Ive加入OpenAI，2025年全球AI Agent用户突破8亿，62%高频操作集中在无需打开App场景
+- **[Snowflake豪掷60亿美元押注AWS](https://baijiahao.baidu.com/s?id=1866412181856831524)** AI从训练转向自动化，CPU负载指数级增长，高性能处理器需求飙升
 ### 2026-05-31
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
@@ -132,6 +137,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-01
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030财年可带来150-300亿美元净增量收入
+- **[别再盯着芯片和设计,苹果的护城河正被AI一句话瓦解](https://baijiahao.baidu.com/s?id=1866483009397030067)** Jony Ive加入OpenAI，2025年全球AI Agent用户突破8亿，62%高频操作集中在无需打开App场景
+- **[Snowflake豪掷60亿美元押注AWS](https://baijiahao.baidu.com/s?id=1866412181856831524)** AI从训练转向自动化，CPU负载指数级增长，高性能处理器需求飙升
 ### 2026-05-26
 - **[微软Build 2025:50款新品押注Agent AI](https://m.163.com/dy/article/KTBM79CP05561FZX.html)** 微软CEO纳德拉宣布全面押注agent ai，发布超过50款新产品，构建跨平台ai代理协作网络
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，快速验证选CrewAI、生产选LangChain、研究选AutoGen
@@ -292,6 +302,11 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-01
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030财年可带来150-300亿美元净增量收入
+- **[别再盯着芯片和设计,苹果的护城河正被AI一句话瓦解](https://baijiahao.baidu.com/s?id=1866483009397030067)** Jony Ive加入OpenAI，2025年全球AI Agent用户突破8亿，62%高频操作集中在无需打开App场景
+- **[Snowflake豪掷60亿美元押注AWS](https://baijiahao.baidu.com/s?id=1866412181856831524)** AI从训练转向自动化，CPU负载指数级增长，高性能处理器需求飙升
 ### 2026-05-18
 - **[中金公司:Agentic AI驱动Token大幅增长,AI产业链全线受益](https://baijiahao.baidu.com/s?id=1864847784784909965&wfr=spider&for=pc)** 2026年开年以来Agentic AI渗透率持续提升，全球日均Token调用量突破140万亿，Token增长模型正成为衡量AI产业价值的核心指标
 - **[政策+需求推动,Token经济再加速](https://new.qq.com/rain/a/20260518A04RH600)** Token是人工智能大模型处理、分析与生成文本信息的最小计量单位，正成为智能时代的价值锚点和结算单位

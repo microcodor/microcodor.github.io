@@ -11,6 +11,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-31
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
@@ -355,6 +359,10 @@ description: 主流大模型能力对比与选型参考
 - **[GPT、Claude和Gemini到底是怎么训练和推理的:7个方程算清一个token的报价单](https://news.qq.com/rain/a/20260504A06OP600)** 通过roofline分析推导出Token成本与定价，推理瓶颈主要来自内存带宽和计算带宽两个因素
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-16
 - **[Gemini 3.5 Pro全网首曝,编程追平GPT-5.5!谷歌终于狠起来了](https://aiera.com.cn/2026/05/16/other/admin/93649/gemini-3-5-pro全网首曝，编程追平gpt-5-5！谷歌终于狠起来了/)** 谷歌Gemini 3.5 Pro代号"Cappuccino"，编程能力追平GPT-5.5，全新24小时Agent"Spark"能替你管邮件、跑任务
 - **[OpenAI内部怒轰苹果合作:高调承诺背后实际推进乏力](https://baijiahao.baidu.com/s?id=1865272965205863415&wfr=spider&for=pc)** OpenAI高管表示"从产品层面来说,我们已经完成了该做的一切。但苹果没有"
@@ -408,6 +416,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -515,6 +527,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -635,6 +651,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -661,6 +681,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -683,6 +707,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -701,6 +729,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -719,6 +751,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -839,6 +875,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -1196,6 +1236,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -1284,6 +1328,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
@@ -1321,6 +1369,10 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[Anthropic估值万亿,但Claude 4.8没那么惊艳](https://baijiahao.baidu.com/s?id=1866536135187885965)** 完成H轮650亿美元融资，估值9650亿美元首度超越OpenAI，重点提升"诚实度"
+- **[新一轮大模型要来了!Blackwell加持下,AI能力更强了?](https://baijiahao.baidu.com/s?id=1866523262960490096)** 花旗模型发布日历：Gemini 3.5 Pro二季度、Claude Opus 5四季度、GPT-6三季度
+- **[国产AI编程冲上全球第二!实测五大模型](https://www.163.com/dy/article/KU10MG8K05118O8G.html)** DeepSeek、Claude、GPT、Gemini、Qwen五大模型实战对比
 ### 2026-05-11
 - **[0%完成率!Claude、GPT、Gemini全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** SWE-Bench作者发布ProgramBench，所有一线模型全部0%完成率，意味着今天的大模型依然不会做软件工程
 - **[Apple或开放第三方AI系统级入口:Claude、Gemini、ChatGPT要进场](https://www.163.com/dy/article/KS8CPG020511D6RL.html)** iOS 27将开放第三方AI模型选择权，用户可自由选择Claude、Gemini或ChatGPT作为默认AI服务
