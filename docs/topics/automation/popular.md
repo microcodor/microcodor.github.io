@@ -2107,3 +2107,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
 - **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+
+### 2026-06-01
+- **[Enterprise AI Workflow Automation](https://www.nice.com/enterprise)** NICE企业级AI工作流自动化平台，编排人类和AI Agent
+- **[AI转型难挽颓势,微盟归母净利连亏六年](https://baijiahao.baidu.com/s?id=1866428387662680216)** 微盟AI相关年度收入首次突破亿元大关
+- **[2025年人工智能十大趋势](https://baike.baidu.com/item/2025年人工智能十大趋势/65013555)** 增强型工作、实时自动决策、负责任的AI等十大趋势
+- **[浅谈AI编程](https://news.qq.com/rain/a/20260529A08O4U00)** 当AI可以持续生成代码时，治理能力成为决胜关键

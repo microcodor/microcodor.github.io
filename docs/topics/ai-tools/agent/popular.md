@@ -727,3 +727,10 @@ description: 主流 Agent 框架与工具链一览
 - **[什么是 AI Agent Harness Engineering?](https://blog.csdn.net/2501_91492197/article/details/161495636)** AI Agent Harness Engineering是管理、调度、监控、保护、迭代AI智能体系统的工程化方法论
 - **[AI能自己开电脑干活了:CUA开源项目基础设施搭建好了](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
 - **[智能体时代的技术跃迁与产业重构:2026年AI Agent全景洞察](https://cloud.tencent.com/developer/article/2674824)** 从技术架构、协议标准化、多智能体协作和产业落地四维度勾勒智能体时代图景
+
+### 2026-06-01
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯推"马维斯"Marvis内置6个专项Agent，微软Build 2026聚焦AI Agent与50款免费工具
+- **[正式启动|2026年中国AI Agent最佳实践应用榜单征集](https://finance.sina.cn/2026-06-01/detail-inhzwisx2535890.d.html)** 头豹研究院联合沙利文发起AI Agent最佳实践应用榜单征集
+- **[从零开始学LangChain&LangGraph:AI Agent开发完全指南](https://blog.csdn.net/Y525698136/article/details/161566469)** 2026必备收藏，90%大模型应用开发岗位要求掌握
+- **[2026年AI Agent智能体开发实战:从架构设计到生产部署的完整指南](https://blog.csdn.net/huang9604/article/details=161566647)** 六层架构设计理念，阿里云峰会与Google I/O同天发布Agent战略
+- **[微软Build 2026定了!聚焦AI Agent与50款免费工具](http://www.myzaker.com/article/6a1d3ddbb15ec05363633470)** 6月2-3日旧金山举行，门票1099美元

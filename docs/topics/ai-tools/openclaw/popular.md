@@ -1937,3 +1937,9 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发
 - **[Claude Code,Codex App,Openclaw开源AI Coding课程大幅更新](https://cloud.tencent.com/developer/article/2679494)** 39篇完整教程，约80万MD格式字符数，1500+可运行代码示例
 - **[AI能自己开电脑干活了:OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** OpenClaw上线Peekaboo提供像素级截图、UI元素识别+GUI自动化
+
+### 2026-06-01
+- **[看屏幕、用键鼠,我的OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** macOS专属桌面操控工具Peekaboo上线，像素级截图、UI元素识别
+- **[OpenClaw终于「睁眼」了:不靠API,直接接管所有桌面软件](https://www.163.com/dy/article/KU9E0BIH05561FZX.html)** 无需软件官方API，所有桌面软件都能直接兼容适配
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4与Gemini 3.1 Flash双首发
+- **[看屏幕、用键鼠,我的OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** GUI自动化让Agent真正全权接管桌面

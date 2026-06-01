@@ -2023,3 +2023,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[天禧AI 4.0发布引发市场看好,联想股价暴涨](https://baijiahao.baidu.com/s?id=1865979175946954180)** 联想Q4营收增速创20季度新高，股价大涨近20%
 - **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度推出全球首款搭载中文大模型AI眼镜，45g轻量级、1600万像素
 - **[科技巨头加码布局 AI眼镜出货迈入放量新阶段](https://baijiahao.baidu.com/s?id=1865751522925579556)** 2025年全球智能眼镜出货1477.3万台同比增44.2%，中国246万台同比增87.1%
+
+### 2026-06-01
+- **[小猿亮相2025服贸会全系智能软硬件引领「教育AI」融合新路径](http://k.sina.com.cn/article_7857201856_1d45362c0019066v2w.html)** 小猿AI学习机T4首发"AI超拟人1V1老师"
+- **[天津、重庆两大直辖市「智能」携手,载人eVTOL、AI眼镜等黑科技亮相智博会](https://baijiahao.baidu.com/s?id=1866696403345274453)** 2026世界智能产业博览会超25万人次观展
+- **[从热搜到上手,AI走向全民化](http://www.myzaker.com/article/6a1d2297b15ec04af53afcf8)** Seedance 2.0引发电影人恐慌，传统影视流程进入倒计时
+- **[百奥赛图发布AI抗体平台2025年及2026年一季度业绩大增](http://www.eeo.com.cn/2026/0531/897700.shtml)** RenSuper Workstation基于数亿级真实全人抗体数据
+- **[数智赋能迭代新生天津发布2025年度人工智能十大应用标杆场景](https://sdxw.iqilu.com/w/article/YS0yMS0xNzIyNzE3NQ.html)** 涵盖科研、制造、医疗、康养、教育等9大领域

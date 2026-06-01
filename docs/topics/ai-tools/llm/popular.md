@@ -1748,3 +1748,10 @@ description: 主流大模型能力对比与选型参考
 - **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
 - **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
 - **[2026年API中转站选型指南](https://segmentfault.com/a/1190000047804640)** 按业务场景匹配稳定对接GPT/Claude/Gemini的方案
+
+### 2026-06-01
+- **[4大顶尖模型被扔进虚拟小镇求生:GPT全员饿死,Grok四天灭世](https://weibo.com/1750070171/R1Uf1cVhc)** 虚拟小镇实验：Claude零犯罪但无活人气息，Gemini 15天683起犯罪
+- **[蓝色起源火箭爆炸重创NASA登月计划;微软打造Copilot超级应用](https://baijiahao.baidu.com/s?id=1866662144926161009)** OpenAI升级GPT-5.5 Instant模型，AI回复更自然易读
+- **[AI写小说的套路被扒光了:Claude爱平铺GPT总做梦](https://baijiahao.baidu.com/s?id=1866664285897124608)** 马里兰大学+DeepMind论文StoryScope分析61608篇故事
+- **[“AI将杀死SaaS”,可能是今年最大的误判](https://www.163.com/dy/article/KU902EV105198R91.html)** 每次GPT/Claude/Gemini更新都引发SaaS板块下跌，但最新财报显示SaaS反弹
+- **[谷歌说,别再要求Gemini思考了](https://www.163.com/dy/article/KUA7C17I05566SCS.html)** 链式思维指令对思考模型反而是干扰
