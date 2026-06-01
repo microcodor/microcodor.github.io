@@ -2101,3 +2101,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI智能体正在被滥用:很多产品其实只是工作流](https://www.sohu.com/a/1027400511_122067411)** Workflow执行的是流程，Agent完成的是目标，核心差距在执行逻辑和容错能力
 - **[扣子Coze 工作流教程:采集公众号爆文,一键仿写自动发布](https://blog.csdn.net/m0_67217201/article/details/161520469)** Coze是字节推出的AI Bot平台，AI自动化工作流工具
 - **[智能自动化](https://baike.baidu.com/item/智能自动化/60189394)** 工作流自动化根据流程定义一系列任务，并自动执行这些任务，无需人工干预
+
+### 2026-06-02
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块技术定位：Rules约束行为、Workflow编排任务、Skill封装能力
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** 将AI作为自动化流水线的"智能决策节点"，让模型理解意图后自动执行后续操作
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** AI作为"胶水"连接不同工具和API，构建智能化自动化脚本

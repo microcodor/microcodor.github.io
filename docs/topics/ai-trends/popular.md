@@ -2016,3 +2016,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，基于"数据—模型—应用"闭环理念，UV斑检测精度提升11.16%
 - **[AI小财神](https://baike.baidu.com/item/AI小财神/65222429)** 财跃星辰开发的金融信息智能体，基于千亿参数财跃大模型，提供A股实时行情查询
 - **[前瞻全球产业早报:比亚迪发布中国首款 4nm 智驾芯片](http://www.myzaker.com/article/6a18ea6db15ec0126415c092)** 两部门联手系统布局人工智能计量能力建设
+
+### 2026-06-02
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯推"马维斯"(Marvis)操作系统层级AI助手，内置6个7×24小时专项Agent
+- **[OpenClaw「睁眼」:不靠API直接接管所有桌面软件](https://www.163.com/dy/article/KU9E0BIH05561FZX.html)** Peekaboo提供像素级截图+GUI自动化，Agent真正"看见"屏幕
+- **[天禧AI 4.0发布引发市场看好,联想股价暴涨](https://baijiahao.baidu.com/s?id=1865979175946954180)** 联想Q4营收增速创20季度新高，股价大涨近20%
+- **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度推出全球首款搭载中文大模型AI眼镜，45g轻量级、1600万像素
+- **[科技巨头加码布局 AI眼镜出货迈入放量新阶段](https://baijiahao.baidu.com/s?id=1865751522925579556)** 2025年全球智能眼镜出货1477.3万台同比增44.2%，中国246万台同比增87.1%

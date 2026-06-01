@@ -12,13 +12,20 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-02
+- **[Z Potentials|专访actAVA联创:CHI Bench揭开医疗Agent最大短板](https://news.qq.com/rain/a/20260529A04N0M00)** 医疗Agent面临真实workflow可靠性、policy adherence挑战，最强通用Agent在pass@1上只有28%
+- **[语义核心代理程序架构](https://learn.microsoft.com/zh-hk/semantic-kernel/frameworks/agent/)** Microsoft Learn发布Semantic Kernel Agent Framework，提供建立AI代理程序的完整平台
+- **[什么是 AI Agent Harness Engineering?](https://blog.csdn.net/2501_91492197/article/details/161495636)** AI Agent Harness Engineering是管理、调度、监控、保护、迭代AI智能体系统的工程化方法论
+- **[AI能自己开电脑干活了:CUA开源项目基础设施搭建好了](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
+- **[智能体时代的技术跃迁与产业重构:2026年AI Agent全景洞察](https://cloud.tencent.com/developer/article/2674824)** 从技术架构、协议标准化、多智能体协作和产业落地四维度勾勒智能体时代图景
+
 ### 2026-06-01
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
 - **[AI Agent是苹果的大机会?](https://baijiahao.baidu.com/s?id=1866330148260459693)** 美银上调苹果目标价至380美元，Agentic Siri到2030财年可带来150-300亿美元净增量收入
-- **[别再盯着芯片和设计,苹果的护城河正被AI一句话瓦解](https://baijiahao.baidu.com/s?id=1866483009397030067)** Jony Ive加入OpenAI，2025年全球AI Agent用户突破8亿，62%高频操作集中在无需打开App场景
-- **[Snowflake豪掷60亿美元押注AWS](https://baijiahao.baidu.com/s?id=1866412181856831524)** AI从训练转向自动化，CPU负载指数级增长，高性能处理器需求飙升
+- **[别再盯着芯片和设计,苹果的护城河正被AI一句话瓦解](https://baijiahao.baidu.com/s?id=1866483009397030067)** Jony Ive加入OpenAI，2025年全球AI Agent用户突破8亿
+- **[Snowflake豪掷60亿美元押注AWS](https://baijiahao.baidu.com/s?id=1866412181856831524)** AI从训练转向自动化，CPU负载指数级增长
 ### 2026-05-31
-- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 - **[Harness Engineering:AI Agent 时代的新工程范式](https://zhuanlan.zhihu.com/p/2043297061664294588)** 核心思想是从编写代码转向设计让AI Agent可靠运行的环境
 - **[Microsoft Agent Framework 1.0发布](https://cloud.tencent.com/developer/article/2674780)** 把代理开发链路补齐：本地调试、工具接入、记忆管理、托管运行、安全边界和可观察性
@@ -707,3 +714,10 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent技术架构与规模化应用:2026年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 三阶段演进：ReAct、Tool Learning、Multi-Agent，开源框架爆发式增长
 - **[Harness Engineering:AI Agent 时代的新工程范式](https://zhuanlan.zhihu.com/p/2043297061664294588)** 核心哲学从"编写代码"转向"设计让 AI Agent 可靠运行的环境"
 - **[上海大模型龙头,启动A股上市!](http://finance.sina.com.cn/wm/2026-05-30/doc-inhzrvns7345690.shtml)** MiniMax冲刺A股大模型第一股，ARR超3亿美元，M3模型即将发布
+
+### 2026-06-02
+- **[Z Potentials|专访actAVA联创:CHI Bench揭开医疗Agent最大短板](https://news.qq.com/rain/a/20260529A04N0M00)** 医疗Agent面临真实workflow可靠性、policy adherence挑战，最强通用Agent在pass@1上只有28%
+- **[语义核心代理程序架构](https://learn.microsoft.com/zh-hk/semantic-kernel/frameworks/agent/)** Microsoft Learn发布Semantic Kernel Agent Framework，提供建立AI代理程序的完整平台
+- **[什么是 AI Agent Harness Engineering?](https://blog.csdn.net/2501_91492197/article/details/161495636)** AI Agent Harness Engineering是管理、调度、监控、保护、迭代AI智能体系统的工程化方法论
+- **[AI能自己开电脑干活了:CUA开源项目基础设施搭建好了](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
+- **[智能体时代的技术跃迁与产业重构:2026年AI Agent全景洞察](https://cloud.tencent.com/developer/article/2674824)** 从技术架构、协议标准化、多智能体协作和产业落地四维度勾勒智能体时代图景

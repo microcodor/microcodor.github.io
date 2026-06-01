@@ -18,11 +18,15 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI先后发布四大新模型
 
 ## 近期动态
+### 2026-06-02
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯推出"马维斯"(Marvis)，Google推出Gemini Spark，OpenAI ChatGPT接入PowerPoint
+- **[AI原生时代下,让世界适应Agent:Nanobot轻量化开源之路](http://k.sina.com.cn/article_6105753431_16bee675701901cw6q.html)** Nanobot将40万行代码压缩至约4000行，连续100天日更迭代，下载量突破20万次
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发，ContextEngine插件接口落地
+- **[Claude Code,Codex App,Openclaw开源AI Coding课程大幅更新](https://cloud.tencent.com/developer/article/2679494)** 39篇完整教程，约80万MD格式字符数，1500+可运行代码示例
+- **[AI能自己开电脑干活了:OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** OpenClaw上线Peekaboo，像素级截图、UI元素识别+GUID自动化
+
 ### 2026-06-01
 - **[Token成本太高,免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** OpenClaw爆火后学界推出Nanobot，将40万行代码压缩至约4000行核心代码
-- **[卡位AI基建,雷神科技开启物种进化](https://baijiahao.baidu.com/s?id=1866568902239446888)** 黄仁勋称赞OpenClaw是"人类历史上规模最大、最成功的开源项目"
-- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
-### 2026-05-31
 - **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书,构筑AI Agent智能安全防护体系](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS6a190569a310942cc49aeec9.html)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
 - **[从3632个漏洞看AI时代的评测基准重构!VulnGym基准发布](https://baijiahao.baidu.com/s?id=1866256796730545197)** 腾讯悟空安全团队发布，基于GitHub高星项目中的真实漏洞构建
 - **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](https://baijiahao.baidu.com/s?id=1866369744281361430)** 聚焦AI Agent全球化，500+全球AI行业从业者参与
@@ -1926,3 +1930,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[“OpenClaw 类”自进化智能体代表项目介绍](https://news.qq.com/rain/a/20260526A039RZ00?adChannelId=tech)** 自我反思+提示工程调整、自动创建/更新Skills/Routines、调整自身配置与工具调用策略、自动修改自身代码
 - **[从3632个漏洞看AI时代的评测基准重构!VulnGym基准发布](https://baijiahao.baidu.com/s?id=1866256796730545197)** 腾讯悟空安全团队联合多机构发布，71.2%为业务逻辑漏洞
 - **[QoderWork也去了,为什么AI Agent出海第一站是新加坡?](https://baijiahao.baidu.com/s?id=1866369744281361430)** 非凡产研领衔主办，聚焦 AI Agent 全球化
+
+### 2026-06-02
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯推"马维斯"(Marvis)，Google推Gemini Spark，OpenAI ChatGPT接入PowerPoint
+- **[AI原生时代下,让世界适应Agent:Nanobot轻量化开源之路](http://k.sina.com.cn/article_6105753431_16bee675701901cw6q.html)** Nanobot将40万行代码压缩至约4000行，连续100天日更迭代，下载量突破20万次
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发
+- **[Claude Code,Codex App,Openclaw开源AI Coding课程大幅更新](https://cloud.tencent.com/developer/article/2679494)** 39篇完整教程，约80万MD格式字符数，1500+可运行代码示例
+- **[AI能自己开电脑干活了:OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** OpenClaw上线Peekaboo提供像素级截图、UI元素识别+GUI自动化
