@@ -739,3 +739,10 @@ description: 主流 Agent 框架与工具链一览
 - **Agent化的OS:拼的不是AI,是底盘**([链接](https://baijiahao.baidu.com/s?id=1866336662722152353&wfr=spider&for=pc)) (来源:钛媒体APP)Android生态总裁Sameer Samat给这场发布会定调:Android要从操作系统转化成一...
 - **Agent化的OS:拼的不是AI,是底盘**([链接](https://baijiahao.baidu.com/s?id=1866336185964334382&wfr=spider&for=pc)) 一. Google I/O 2026之后:四大端侧OS步入Agent时代 2026年5月12日,Google举办了And...
 - **智能体时代的技术跃迁与产业重构——2026年AI Agent全景洞察**([链接](https://cloud.tencent.com/developer/article/2674824)) 这篇文章试图从技术架构、协议标准化、多智能体协作和产业落地四个维度,勾勒出智能体时代的真实图景,并探讨其中未被充分讨论的...
+
+### 2026-06-02
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[智能体时代的技术跃迁与产业重构:2026年AI Agent全景洞察](https://cloud.tencent.com/developer/article/2674824)** 从技术架构、协议标准化、多智能体协作和产业落地四维度勾勒智能体时代图景
+- **[Microsoft Agent Framework 1.0发布](https://cloud.tencent.com/developer/article/2674780)** 把代理开发链路补齐：本地调试、工具接入、记忆管理、托管运行、安全边界和可观察性
+- **[AI能自己开电脑干活了:CUA开源项目基础设施搭建好了](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
+- **[2026年AI Agent项目开发技术全解析:从 RAG、MCP 到多 Agent 协同落地](https://blog.csdn.net/ZYHyua/article/details/161495003)** 详解AI Agent5个核心模块：LLM推理、规划、工具调用、记忆、评估

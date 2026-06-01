@@ -1948,3 +1948,10 @@ description: OpenCLAW AI Agent 框架最新动态
 - **百奥赛图发布AI抗体平台 2025年及2026年一季度业绩大增**([链接](http://www.eeo.com.cn/2026/0531/897700.shtml)) 百奥赛图发布AI抗体平台 2025年及2026年一季度业绩大增 经济观察网百奥赛图近期发布新一代AI驱动抗体发现平台,2...
 - **从信创专属云到专属AI云,中国电子云产品战略发布!**([链接](https://baijiahao.baidu.com/s?id=1866529681961726194&wfr=spider&for=pc)) 2025年,中国电子云发布了“新星·全链路AI解决方案”,系统打造“3+2+N”产品服务体系,涵盖三大数据平台、两大AI...
 - **5月29日投资日历|腾讯云在上海举办“数据库+AI”产品发布会**([链接](https://baijiahao.baidu.com/s?id=1866480874443493534&wfr=spider&for=pc)) 5月29日投资日历|腾讯云在上海举办“数据库+AI”产品发布会 (1)5月29日有1530亿元7天期逆回购到期。 (2)...
+
+### 2026-06-02
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发，ContextEngine插件接口落地
+- **[Claude Code,Codex App,Openclaw开源AI Coding课程大幅更新](https://cloud.tencent.com/developer/article/2679494)** 39篇完整教程，约80万MD格式字符数，1500+可运行代码示例
+- **[AI能自己开电脑干活了:OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** OpenClaw上线Peekaboo，像素级截图、UI元素识别+GUID自动化
+- **[字节跳动 AI Agent 平台扣子 Coze 上线 3.0 版本:支持 Openclaw、Claude Code 一键接入](http://www.myzaker.com/article/6a1d767e8e9f09423d4f13ac)** 支持OpenClaw、Claude Code等主流框架一键接入
+- **[2026 OpenClaw(小龙虾)使用指南:探索开源AI Agent的全部潜力与应用](https://blog.51cto.com/u_13250/14639162)** 31万Star登顶GitHub历史第一，成为有史以来增速最猛的开源项目

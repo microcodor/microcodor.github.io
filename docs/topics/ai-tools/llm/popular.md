@@ -1760,3 +1760,10 @@ description: 主流大模型能力对比与选型参考
 - **Grok犯下183宗罪、4天“灭国”,GPT直接把自己“饿死”!让AI“统治”社会15天,只有Claude撑到了最后**([链接](https://www.163.com/dy/article/KU457IV90511FQO9.html)) Claude 最稳定、Grok4天“灭绝”、GPT-5-mini把自己“饿死了”
 - **4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世**([链接](https://baijiahao.baidu.com/s?id=1866533303159105724&wfr=spider&for=pc)) Grok是横冲直撞的暴力,Gemini 3 Flash的世界,则是另一种瘆人。
 - **6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑**([链接](https://baijiahao.baidu.com/s?id=1866270041196087637&wfr=spider&for=pc)) GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑 (来源:51CTO技术栈) 作者| 大石...
+
+### 2026-06-02
+- **[AI写小说的套路被扒光了:Claude爱平铺 GPT总做梦 Gemini只会"他如何如何"](https://baijiahao.baidu.com/s?id=1866664285897124608)** 马里兰大学+DeepMind论文StoryScope分析61608篇故事，发现AI与人类叙事底层操作系统完全不同
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.cnblogs.com/Liuq-24/p/20238194)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
+- **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
+- **[2026年API中转站选型指南](https://segmentfault.com/a/1190000047804640)** 按业务场景匹配稳定对接GPT/Claude/Gemini的方案

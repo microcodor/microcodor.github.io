@@ -2035,3 +2035,10 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **trae + spec +trae-automation-workflows+task-tool实现半agent并行峰群模式多自动化 - 知乎**([链接](https://zhuanlan.zhihu.com/p/2043804586616542968)) trae-automation-workflows是一套基于Trae IDE构建的生产级自动化开发平台,代号Unifie...
 - **AI Workflow:AI工作流**([链接](https://blog.csdn.net/qq_47574956/article/details/161483036)) AIWorkflow是把大模型、检索、工具调用、业务规则、人工确认、评估和状态管理组织成一条可重复执行的流程,用来更可靠...
 - **📊 AI CLI 工具社区动态日报 2026-05-27**([链接](https://github.com/rollysys/agents-radar/issues/477)) 1. 生态全景 AI CLI 工具正从单一的代码辅助命令行向自主代理平台演进。各主流工具竞相推出后台守护进程模式以支持长...
+
+### 2026-06-02
+- **[从热搜到上手,AI 走向全民化](http://www.myzaker.com/article/6a1d2297b15ec04af53afcf8)** Seedance 2.0引发热潮，贾樟柯亲自下场创作AI短片，头部创作者成为AI内容生产核心引擎
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布首款AI智能头盔，内置骑手AI助手，2025年7月发布
+- **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度推出全球首款搭载中文大模型的原生AI眼镜，45g轻量级
+- **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，基于"数据—模型—应用"闭环理念
+- **[AI小财神](https://baike.baidu.com/item/AI小财神/65222429)** 财跃星辰开发金融信息智能体，提供A股实时行情查询

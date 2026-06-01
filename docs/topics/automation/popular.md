@@ -2118,3 +2118,10 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **Agent化的OS:拼的不是AI,是底盘**([链接](https://baijiahao.baidu.com/s?id=1866336662722152353&wfr=spider&for=pc)) (来源:钛媒体APP)Android生态总裁Sameer Samat给这场发布会定调:Android要从操作系统转化成一...
 - **Agent化的OS:拼的不是AI,是底盘**([链接](https://baijiahao.baidu.com/s?id=1866336185964334382&wfr=spider&for=pc)) 一. Google I/O 2026之后:四大端侧OS步入Agent时代 2026年5月12日,Google举办了And...
 - **开会,掼蛋,做SPA,汽车座椅要“会哄人”了**([链接](https://baijiahao.baidu.com/s?id=1866412667333661233&wfr=spider&for=pc)) 马佳谈到汽车智能化的发展阶段:从第一辆汽车诞生后的100多年里“基本谈不上什么智能化”,到2000—2010年的功能集成...
+
+### 2026-06-02
+- **[trae + spec + trae-automation-workflows + task-tool实现半agent并行蜂群模式多自动化](https://zhuanlan.zhihu.com/p/2043804586616542968)** 基于Trae IDE构建的生产级自动化开发平台，真正的并行蜂群让效率提升3-5倍
+- **[AI Workflow:AI工作流](https://blog.csdn.net/qq_47574956/article/details/161483036)** AI Workflow把大模型、检索、工具调用、业务规则组成可重复执行的流程
+- **[AI CLI 工具社区动态日报 2026-05-27](https://github.com/rollysys/agents-radar/issues/477)** 各大AI CLI工具竞品动态：Claude Code、OpenAI Codex、Qwen Code等
+- **[n8n 工作流实战:可视化 AI 自动化从入门到精通](https://augenstern.blog.csdn.net/article/details/161478368)** 开源工作流自动化工具，支持可视化拖拽、400+集成、LangChain原生 AI
+- **[Workflow 与 AI Agent 核心差异拆解:从底层逻辑到行业落地现状](https://www.cnblogs.com/Ktong/p/20218980)** 执行逻辑：固定剧本 vs 自主规划；容错能力：刚性执行 vs 柔性应变
