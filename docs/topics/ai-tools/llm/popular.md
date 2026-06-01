@@ -1755,3 +1755,8 @@ description: 主流大模型能力对比与选型参考
 - **[AI写小说的套路被扒光了:Claude爱平铺GPT总做梦](https://baijiahao.baidu.com/s?id=1866664285897124608)** 马里兰大学+DeepMind论文StoryScope分析61608篇故事
 - **[“AI将杀死SaaS”,可能是今年最大的误判](https://www.163.com/dy/article/KU902EV105198R91.html)** 每次GPT/Claude/Gemini更新都引发SaaS板块下跌，但最新财报显示SaaS反弹
 - **[谷歌说,别再要求Gemini思考了](https://www.163.com/dy/article/KUA7C17I05566SCS.html)** 链式思维指令对思考模型反而是干扰
+
+### 2026-06-02
+- **Grok犯下183宗罪、4天“灭国”,GPT直接把自己“饿死”!让AI“统治”社会15天,只有Claude撑到了最后**([链接](https://www.163.com/dy/article/KU457IV90511FQO9.html)) Claude 最稳定、Grok4天“灭绝”、GPT-5-mini把自己“饿死了”
+- **4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世**([链接](https://baijiahao.baidu.com/s?id=1866533303159105724&wfr=spider&for=pc)) Grok是横冲直撞的暴力,Gemini 3 Flash的世界,则是另一种瘆人。
+- **6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑**([链接](https://baijiahao.baidu.com/s?id=1866270041196087637&wfr=spider&for=pc)) GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑 (来源:51CTO技术栈) 作者| 大石...
