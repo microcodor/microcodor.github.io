@@ -11,6 +11,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-01
+- **[2026中国生成式AI大会:Token成本太高免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会在北京开幕，23位嘉宾围绕AI算力基础设施、大模型、AI智能体等热点话题
+- **[联想天禧AI 4.0发布引发市场看好股价暴涨](https://baijiahao.baidu.com/s?id=1865979175946954180)** 联想Q4营收及净利润同比大幅增长，天禧AI 4.0实现从副驾驶到主驾驶模式跃迁
+- **[2026年AI学习机市场全渠道销量达592.3万台](https://baike.baidu.com/item/AI%E5%AD%A6%E5%AD%A6%E6%9C%BA/65483942)** 销售额达190.6亿元同比增长37.6%，2000-2999元中端价位段占57.2%
+- **[英伟达Blackwell系列芯片已全部售罄](https://baike.baidu.com/item/Blackwell/64177746)** GB300销售额贡献约三分之二总收入，预计2026年底累计收入达5000亿美元
+
 ### 2026-06-02
 - **[AI写小说的套路被扒光了:Claude爱平铺 GPT总做梦 Gemini只会"他如何如何"](https://baijiahao.baidu.com/s?id=1866664285897124608)** 马里兰大学+DeepMind论文StoryScope分析61608篇故事，发现AI与人类叙事底层操作系统完全不同
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.cnblogs.com/Liuq-24/p/20238194)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
