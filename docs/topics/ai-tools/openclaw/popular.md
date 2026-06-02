@@ -19,6 +19,12 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 ### 2026-06-02
+- **[传腾讯即将为微信用户推出AI Agent](https://finance.sina.cn/stock/jdts/2026-06-02/detail-inhzysxv1765413.d.html)** 面向14亿中国用户，可在微信内完成各种任务
+- **[制糖工厂发布AI小电拼Mirror:全球首款智能体电源](https://baijiahao.baidu.com/s?id=1866763377878958592)** 支持MCP协议接入OpenClaw、Claude Code、Codex等AI智能体
+- **[英伟达发布RTX Spark，重新定义PC](https://baijiahao.baidu.com/s?id=1866803998142755574)** 黄仁勋宣布Agent PC新时代，戴尔、惠普、联想、微软齐响应
+- **[腾讯推出马维斯Agent](https://baijiahao.baidu.com/s?id=1866765127407698272)** 操作系统层级AI助手，内置6个7×24小时专项Agent
+
+### 2026-06-02
 - **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯推出"马维斯"(Marvis)，Google推出Gemini Spark，OpenAI ChatGPT接入PowerPoint
 - **[AI原生时代下,让世界适应Agent:Nanobot轻量化开源之路](http://k.sina.com.cn/article_6105753431_16bee675701901cw6q.html)** Nanobot将40万行代码压缩至约4000行，连续100天日更迭代，下载量突破20万次
 - **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发，ContextEngine插件接口落地

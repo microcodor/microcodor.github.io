@@ -11,6 +11,11 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent记忆系统架构深度拆解:三大设计哲学谁更高明?](https://baijiahao.baidu.com/s?id=1865950658161440994)** 短期记忆/长期记忆分离，情景/语义/程序记忆分类，控制策略成新维度
 
 ## 近期动态
+### 2026-06-02
+- **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，企业IT开发范式正从SOP向Agent体系迁移
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details=149342394)** LangChain、AutoGen、CrewAI、Semantic Kernel、LlamaIndex等框架对比分析
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** 从图导向到对话式到团队协作，六大编排范式深度解析
 
 ### 2026-06-01
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代

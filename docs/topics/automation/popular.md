@@ -9,6 +9,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
 - **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，自由职业者用Claude Code月入2万人民币
 - **[2026年AI智能型CRM排名:销售团队口碑最好的10款工具](https://www.fxiaoke.com/crm/information-89485.html)** 自动化工作流自动执行重复性任务，如线索分配、邮件跟进、数据更新
+### 2026-06-02
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI Agent、数据收集与报表、预测分析、项目管理、工作流管理等五大类型
+- **[Zapier AI Workflows](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** 企业级自动化，从概念到生产环境数秒完成
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 开源AI工作流自动化工具，支持Claude、Gemini、Codex集成
 
 ## 近期动态
 ### 2026-06-01
