@@ -12,6 +12,16 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-03
+- **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，企业IT开发范式正从SOP向Agent体系迁移
+- **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，RTX Spark芯片重新定义PC，个人电脑成为家庭AI超级计算机
+- **[Z Potentials|专访actAVA联创:CHI Bench揭开医疗Agent最大短板](https://news.qq.com/rain/a/20260529A04N0M00)** 医疗Agent面临真实workflow可靠性挑战，最强通用Agent在pass@1上只有28%
+- **[語意核心代理程序架構](https://learn.microsoft.com/zh-hk/semantic-kernel/frameworks/agent/)** Microsoft Learn发布Semantic Kernel Agent Framework，提供建立AI代理程序的完整平台
+- **[什么是 AI Agent Harness Engineering?](https://blog.csdn.net/2501_91492197/article/details/161495636)** AI Agent Harness Engineering是管理、调度、监控、保护、迭代AI智能体系统的工程化方法论
+- **[AI能自己开电脑干活了:The open-source infrastructure is ready](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
+- **[技术热点判断:AI Agent 框架的寒武纪大爆发](https://www.shengyayun.com/blog/tech-judgment-2026-05-28/)** 过去90天开源Agent项目新增40万Star，OpenClaw生态增长+124K
+- **[穿越规模化探索期:2025企业级AI与智能体数据底座构建指南](https://cloud.tencent.com/developer/article/2676025)** 企业级AI从概念验证期迈入规模化探索期，Agent经济引擎公式为data+ai+人类经验
+
 ### 2026-06-02
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高

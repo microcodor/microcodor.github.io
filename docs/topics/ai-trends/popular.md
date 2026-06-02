@@ -10,6 +10,16 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-06-03
+- **[算力即收入:黄仁勋2026台北GTC演讲](https://baijiahao.baidu.com/s?id=1866826195871542202)** AI从大语言模型阶段正式跨入Agentic AI时代，算力即收入成为新范式
+- **[AI终端分级国标落地,联想参编,天禧「抢跑」](https://baijiahao.baidu.com/s?id=1866876785908351060)** 《人工智能终端智能化分级》系列国家标准正式落地，覆盖手机、电脑等七类终端
+- **[云鲸沉默这一年:90后的张峻彬不着急IPO](https://baijiahao.baidu.com/s?id=1866881687421972036)** 云鲸创始人张峻彬回应IPO进展，要先找到品牌营销的"硬币"
+- **[从信创专属云到专属AI云,中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866529681961726194)** 中国电子云全面向AI转型，实现从信创专属云向专属AI云的跨越
+- **[中国电子云发布「专属AI云」产品战略](http://www.tj.xinhuanet.com/20260531/608169a659eb4dcea1613bde343f45d7/c.html)** 打造覆盖专属AI基础设施、AI平台与AI应用的全栈产品矩阵
+- **[腾讯云的「数据库+AI」产品发布会](https://baijiahao.baidu.com/s?id=1866480874443493534)** 呈现DBforAI与AIinDB双轨路径下的战略布局与全景解决方案
+- **[Operator](https://baike.baidu.com/item/Operator/65108419)** OpenAI于2025年1月推出的AI代理助理，基于Computer-Using Agent模型开发
+- **[腾讯游戏的One More Thing,是AI](https://baijiahao.baidu.com/s?id=1866384409259444481)** 腾讯发布AI渲染方案MagicDawn、模拟经营游戏及AI游戏创作平台代号Craft
+
 ### 2026-06-02
 - **[黄仁勋在GTC台北2026发表主题演讲:Vera Rubin全面量产](https://baijiahao.baidu.com/s?id=1866777489627845284)** Vera Rubin超级AI芯片正式进入全面量产阶段，OpenAI、Anthropic和SpaceX成为首批客户
 - **[算力即收入:黄仁勋2026台北GTC演讲](https://baijiahao.baidu.com/s?id=1866782795927245901)** AI从大语言模型阶段正式跨入Agentic AI时代，算力即收入成为新范式

@@ -17,6 +17,16 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-06-03
+- **[trae + spec + trae-automation-workflows+task-tool实现半agent并行峰群模式多自动化](https://zhuanlan.zhihu.com/p/2043804586616542968)** 基于Trae IDE构建的生产级自动化开发平台，真正的并行蜂群模式效率提升3-5倍
+- **[AI Workflow:AI工作流](https://blog.csdn.net/qq_47574956/article/details/161483036)** 把大模型、检索、工具调用、业务规则组织成可重复执行的流程
+- **[n8n 工作流实战:可视化 AI 自动化从入门到精通](https://augenstern.blog.csdn.net/article/details/161478368)** n8n开源工作流自动化工具，支持400+集成，原生LangChain集成
+- **[Workflow 与 AI Agent 核心差异拆解](https://www.cnblogs.com/Ktong/p/20218980)** Workflow是固定剧本，Agent是自主规划，核心差别在执行逻辑和容错能力
+- **[2024年必备AI快捷键工具实战指南](https://my.oschina.net/emacs_8004820/blog/19689724)** 深度集成AI能力到日常工作流，构建智能命令中心
+- **[OpenAI SDK 自定义 Base URL 实战](https://blog.csdn.net/weixin_46408124/article/details/161522073)** 支持Cursor / Dify / Claude，做AI Automation时特别方便
+- **[万字详解AI Agent 核心概念](https://zhuanlan.zhihu.com/p/2044328943587743048)** Agent Loop、Plan-and-Execute、A2A、Agentic Workflows、Tools注册全面解析
+- **[AI Agent 正在杀死 SaaS?](https://cloud.tencent.com/developer/article/2676394)** 从Shopify裁员20%看AI Agent对SaaS市场的影响
+
 ### 2026-06-02
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是Markdown文件，支持Copilot/Claude/Codex/Gemma订阅
 - **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 深度对比AI编程工具中五大核心模块的技术定位、功能边界与适用场景

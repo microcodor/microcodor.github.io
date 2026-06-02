@@ -19,6 +19,16 @@ description: OpenCLAW AI Agent 框架最新动态
 
 ## 近期动态
 
+### 2026-06-03
+- **[腾讯云数据库面向Agent场景全面升级](http://baijiahao.baidu.com/s?id=1866583014588400833)** 腾讯云发布Agent Memory和DatabaseClaw两款面向Agent原生场景的标杆产品
+- **[看屏幕、用键鼠,我的 OpenClaw「睁眼」了](https://baijiahao.baidu.com/s?id=1866692001014726955)** OpenClaw正式上线macOS专属桌面操控工具Peekaboo，让Agent"长出眼睛"
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](http://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccr7694215.shtml)** 构建网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理核心难题
+- **[openclaw v2026.5.28发布:Agent恢复更稳、渠道安全全面增强](https://baijiahao.baidu.com/s?id=1866722180407312567)** Agent与Codex运行时恢复能力更稳，渠道投递与会话身份更安全
+- **[Releases · openclaw/openclaw](https://github.com/openclaw/openclaw/releases)** v2026.6.1-beta.2发布，Agents和CLI-backed runtimes恢复机制加固
+- **[OpenClaw 与 Hermes:源码里的 AI Agent 架构课](https://zhuanlan.zhihu.com/p/2043727154320499415)** 从源码层面拆解两大框架的设计取舍
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://wap.chx123.cn/habit/202606/article_451278.shtml)** 89条提交、200+Bugfix，GPT-5.4、Gemini 3.1 Flash双首发
+- **[Claude Code,Codex App,Openclaw开源AI Coding课程大幅更新](https://cloud.tencent.com/developer/article/2679494)** 39篇完整教程，约80万MD格式字符数，1500+可运行代码示例
+
 ### 2026-06-02
 - **[传腾讯即将为微信用户推出AI Agent](https://finance.sina.cn/stock/jdts/2026-06-02/detail-inhzysxv1765413.d.html)** 腾讯即将推出面向14亿中国用户的微信AI Agent，帮助用户在应用程序内完成各种任务
 - **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** Coze 3.0支持接入本地Agent，云端Agent支持OpenClaw、Claude Code和Codex CLI

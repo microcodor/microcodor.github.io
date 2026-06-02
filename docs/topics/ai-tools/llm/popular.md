@@ -11,6 +11,14 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-03
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
+- **[研究人员通过API估算GPT、Claude、Gemini参数量引发社区争议](http://wap.article.mltonline.cn/merit/202606/81677_801.shtml)** 论文估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数，引发广泛争议
+- **[谷歌Gemini 3 Deep Think全面碾压Claude和GPT](http://wap.article.chx123.cn/candy/0601/82704_238.shtml)** 在人类最后的考试中取得48.4%成绩，Codeforces达3455 Elo评分排名全球前八
+- **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
+- **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+
 ### 2026-06-02
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/mobile/article/KSAOJO8G0511AQHO.html)** Meta FAIR发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
