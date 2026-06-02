@@ -10,6 +10,13 @@ description: 主流大模型能力对比与选型参考
 - **[数智周报:谷歌推出Gemini 3.5系列模型](https://baijiahao.baidu.com/s?id=1865969584158466029)** 谷歌发布Gemini 3.5系列，阿里发布Qwen3.7-Max，Meta内部文件曝光拟裁员10%全面转向AI架构
 
 ## 近期动态
+
+### 2026-06-02
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/mobile/article/KSAOJO8G0511AQHO.html)** Meta FAIR发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
+- **[2026中国生成式AI大会:Token成本太高免费模式绝对走不通?](https://baijiahao.baidu.com/s?id=1866335835766150426)** 2026中国生成式AI大会在北京开幕，23位嘉宾围绕AI算力基础设施、大模型、AI智能体等热点话题
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.cnblogs.com/Liuq-24/p/20238194)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details=161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
 ### 2026-06-02
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** Meta FAIR发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程

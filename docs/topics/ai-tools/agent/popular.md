@@ -11,6 +11,13 @@ description: 主流 Agent 框架与工具链一览
 - **[AI Agent记忆系统架构深度拆解:三大设计哲学谁更高明?](https://baijiahao.baidu.com/s?id=1865950658161440994)** 短期记忆/长期记忆分离，情景/语义/程序记忆分类，控制策略成新维度
 
 ## 近期动态
+
+### 2026-06-02
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** 六种编排范式对比：LangGraph精度最高、CrewAI 2-4小时出原型、AutoGen成本最高
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[为什么83%的企业在2025年底紧急替换AI Agent?2026年必须升级的4个底层能力清单](https://blog.csdn.net/fastcompile/article/details/161043131)** 实时多源异步状态同步失效、可验证的决策溯源链、动态工具拓扑感知、跨Agent协作可信协商
+- **[2026年AI Agent智能体开发实战:从架构设计到生产部署的完整指南](https://blog.csdn.net/huang9604/article/details=161566647)** 六层架构设计理念，阿里云峰会与Google I/O同天发布Agent战略
 ### 2026-06-02
 - **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，企业IT开发范式正从SOP向Agent体系迁移
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代

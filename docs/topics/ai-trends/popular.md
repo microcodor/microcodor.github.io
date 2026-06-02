@@ -9,6 +9,13 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[2026福布斯中国人工智能科技企业TOP 50公布](https://finance.sina.cn/2026-05-23/detail-inhyvxrs4620834.d.html)** 中国AI企业超4800家，核心产业规模6800亿元，新增五大子评选方向
 
 ## 近期动态
+
+### 2026-06-02
+- **[黄仁勋在GTC台北2026发表主题演讲:Vera Rubin全面量产](https://baijiahao.baidu.com/s?id=1866777489627845284)** Vera Rubin超级AI芯片正式进入全面量产阶段，OpenAI、Anthropic和SpaceX成为首批客户
+- **[算力即收入:黄仁勋2026台北GTC演讲](https://baijiahao.baidu.com/s?id=1866782795927245901)** AI从大语言模型阶段正式跨入Agentic AI时代，算力即收入成为新范式
+- **[AR观影迈入影院级,AI拍摄眼镜首次真正全天候](https://baijiahao.baidu.com/s?id=1866411967562722809)** Google I/O 2026发布AI智能眼镜，2025年全球AR智能眼镜出货量同比增长98%
+- **[腾讯云在上海举办数据库+AI产品发布会](https://baijiahao.baidu.com/s?id=1866480874443493534)** 腾讯云呈现DBforAI与AIinDB双轨路径下的战略布局
+- **[三星Galaxy S25发布:搭载多模态AI助理](https://baike.baidu.com/item/%E4%B8%89%E6%98%9GGalaxy%20S25/65087632)** 深度整合谷歌Gemini AI模型与端侧Galaxy AI技术，支持实时翻译、音频擦除等功能
 ### 2026-06-02
 - **[从信创专属云到专属AI云，中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 中国电子云全面向AI转型，实现从信创专属云向专属AI云的跨越
 - **[Coding拷问一切，独立大模型赛道的两年生死](https://36kr.com/p/3834814072217865)** 深度探讨智谱、月之暗面、MiniMax、阶跃星辰四小龙的发展路径

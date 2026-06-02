@@ -16,6 +16,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 开源AI工作流自动化工具，支持Claude、Gemini、Codex集成
 
 ## 近期动态
+
+### 2026-06-02
+- **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流是Markdown文件，支持Copilot/Claude/Codex/Gemma订阅
+- **[AI编程工具五大核心模块:Skill、MCP、Workflow、Rules、Memories技术差异全解析](https://developer.baidu.com/article/detail.html?id=7242198)** 深度对比AI编程工具中五大核心模块的技术定位、功能边界与适用场景
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 展示如何将AI作为胶水连接不同工具和API，构建智能化的自动化脚本
+- **[别只盯着ChatGPT和 Manus:这些小众AI工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图示、阿可AI通用Agent工作台
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Vibe Coding用自然语言描述让AI写代码，AI岗位已占Upwork平台总服务交易额8%
 ### 2026-06-01
 - **[AI工作流自动化工具marktoflow](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流就是markdown文件，支持39种集成
 - **[AI编程工具五大核心模块](https://developer.baidu.com/article/detail.html?id=7242198)** 五大模块：Skill、MCP、Workflow、Rules、Memories技术差异全解析

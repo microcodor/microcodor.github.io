@@ -18,6 +18,13 @@ description: OpenCLAW AI Agent 框架最新动态
 - **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI先后发布四大新模型
 
 ## 近期动态
+
+### 2026-06-02
+- **[传腾讯即将为微信用户推出AI Agent](https://finance.sina.cn/stock/jdts/2026-06-02/detail-inhzysxv1765413.d.html)** 腾讯即将推出面向14亿中国用户的微信AI Agent，帮助用户在应用程序内完成各种任务
+- **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** Coze 3.0支持接入本地Agent，云端Agent支持OpenClaw、Claude Code和Codex CLI
+- **[AI投研的核心是软基建,华泰殷超:研究信息暴力美学并不难实现](https://baijiahao.baidu.com/s?id=1866869261935263172)** 投研场景模型选择：逻辑推理用Claude/Gemini，投研表达用GPT，数据工具调用用千问/豆包
+- **[Token成为AI工厂新kpi,NVIDIA围绕每瓦Token展开全栈升级](https://baijiahao.baidu.com/s?id=1866877287273373627)** NVIDIA业务被重新收拢指向同一路径：让有限的能源、芯片、软件持续转化为可收费的Token产出
+- **[AI原生时代下,让世界适应Agent,而非教AI做人](http://k.sina.com.cn/article_6105753431_16bee675701901cw6q.html)** nanobot下载量突破20万次，被DeepSeek推荐为全球15个Agent之一
 ### 2026-06-02
 - **[传腾讯即将为微信用户推出AI Agent](https://finance.sina.cn/stock/jdts/2026-06-02/detail-inhzysxv1765413.d.html)** 面向14亿中国用户，可在微信内完成各种任务
 - **[制糖工厂发布AI小电拼Mirror:全球首款智能体电源](https://baijiahao.baidu.com/s?id=1866763377878958592)** 支持MCP协议接入OpenClaw、Claude Code、Codex等AI智能体
