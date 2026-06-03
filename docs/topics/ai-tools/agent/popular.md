@@ -13,6 +13,9 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-06-03
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、Pydantic-AI等11个最佳AI Agent框架深度解析
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** AutoML-Next、SwarmLearner、OmniAgent等七大框架技术解析
+- **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层、Logfire监控、多工具协作三大维度全面突破
 - **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，企业IT开发范式正从SOP向Agent体系迁移
 - **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，RTX Spark芯片重新定义PC，个人电脑成为家庭AI超级计算机
 - **[Z Potentials|专访actAVA联创:CHI Bench揭开医疗Agent最大短板](https://news.qq.com/rain/a/20260529A04N0M00)** 医疗Agent面临真实workflow可靠性挑战，最强通用Agent在pass@1上只有28%

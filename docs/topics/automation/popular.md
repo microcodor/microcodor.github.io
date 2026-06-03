@@ -18,6 +18,11 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-06-03
+- **[How AI-Powered Workflow Automation Can Boost Your Home Service Revenue in 2025](https://swiftcloud.ai/ai-powered-workflow-automation-home-service-2025/)** AI workflow automation优化效率，智能分配任务，提升营收
+- **[2025年国外最好的50个AI生产力工具是什么?附国内平替](https://blog.csdn.net/D29h1jQy3akVx/article/details/156170972)** 聊天机器人、PPT、代码助手、邮件助手等50个工具横向评测
+- **[AIWORKS:高效自动化工作流解决方案](https://www.dtstack.com/bbs/article/172105)** 数据中台、数字孪生、数字可视化，工作流自动化平台
+- **[2025 AI办公革命:五大神器重塑效率新标杆](https://cloud.baidu.com/article/3695273)** Slidegenius Pro、Omnicontrol Hub、Autodoc Assistant等技术解析
+- **[程序员2025年生存指南:掌握这九大AI技能](https://blog.csdn.net/yihanss/article/details/154955407)** 掌握Zapier、Make、n8n等AI工作流自动化工具
 - **[trae + spec + trae-automation-workflows+task-tool实现半agent并行峰群模式多自动化](https://zhuanlan.zhihu.com/p/2043804586616542968)** 基于Trae IDE构建的生产级自动化开发平台，真正的并行蜂群模式效率提升3-5倍
 - **[AI Workflow:AI工作流](https://blog.csdn.net/qq_47574956/article/details/161483036)** 把大模型、检索、工具调用、业务规则组织成可重复执行的流程
 - **[n8n 工作流实战:可视化 AI 自动化从入门到精通](https://augenstern.blog.csdn.net/article/details/161478368)** n8n开源工作流自动化工具，支持400+集成，原生LangChain集成

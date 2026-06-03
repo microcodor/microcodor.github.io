@@ -12,6 +12,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-03
+- **[AI御三家战争:革命、分裂与帝国反扑](http://k.sina.com.cn/article_1967233260_754198ec00101g55o.html)** OpenAI、Google、Anthropic三足鼎立格局全面成形
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围
+- **[谷歌说,别再要求Gemini思考了](https://www.163.com/dy/article/KUA7C17I05566SCS.html)** 从补全模型到指令模型，提示词范式正在过时
+- **[Claude 4 vs GPT-4.1 vs Gemini 2.5 Pro:2025编程能力实测横评](https://blog.csdn.net/cmzznet/article/details/159562995)** 同一测试框架公平对比三大顶级模型编程能力
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.cnblogs.com/Liuq-24/p/20238194)** 月访问量55亿vs28亿vs8亿+,增长255%对飙ChatGPT
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
 - **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 各家密集迭代，上下文窗口持续扩容，工程可靠性成为竞争焦点
 - **[研究人员通过API估算GPT、Claude、Gemini参数量引发社区争议](http://wap.article.mltonline.cn/merit/202606/81677_801.shtml)** 论文估算GPT-5.5约9万亿参数、Claude Opus 4.7约4万亿参数，引发广泛争议
