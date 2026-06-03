@@ -12,6 +12,12 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-03
+- **[Claude Opus 4.8悄然登顶反超GPT-5.5](https://baijiahao.baidu.com/s?id=1866929386994357247)** 以61.4分拿下智能指数v4.0第一，SWE-Bench Pro 69.2%碾压
+- **[Gemini 3.5 Flash体验越来越糟糕?](https://baijiahao.baidu.com/s?id=1866966915031251009)** 免费AI越用越傻成趋势，额度、路由、能力体验都拧巴
+- **[AI三国杀:Gemini3.5、Claude4.8、GPT-5.5怎么选](https://blog.csdn.net/2601_96168718/article/details=161648854)** 深度绑定办公生态选Gemini，要求精确可控选Claude
+- **[GPT“全员饿死”Grok四天灭世](http://shenyang.anhuidada.cn/wnews/50206)** Emergence World实验刷屏，Grok四天毁灭全城
+
+### 2026-06-03
 - **[AI御三家战争:革命、分裂与帝国反扑](http://k.sina.com.cn/article_1967233260_754198ec00101g55o.html)** OpenAI、Google、Anthropic三足鼎立格局全面成形
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围
 - **[谷歌说,别再要求Gemini思考了](https://www.163.com/dy/article/KUA7C17I05566SCS.html)** 从补全模型到指令模型，提示词范式正在过时

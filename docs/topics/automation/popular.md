@@ -18,6 +18,13 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 ## 近期动态
 
 ### 2026-06-03
+- **[跑一次Dynamic Workflows,才知半年subagent全浪费了](https://www.163.com/dy/article/KUF6FNVH05566SCS.html)** Anthropic Dynamic Workflows让AI自己写编排脚本，动态路由
+- **[小白程序员必看:12个AI热词入门指南](https://blog.csdn.net/weixin_72959097/article/details/161617306)** Prompt、Token、Context Window、RAG、MCP、Agent等12个核心概念
+- **[7个实战场景:用可视化AI工作流重构自动化开发](https://blog.csdn.net/gitblog_01161/article/details/161629686)** Awesome-Dify-Workflow开源可视化AI工作流集合
+- **[AI工具链协同效率提升300%](https://blog.csdn.net/pixelwander/article/details/161620835)** Notion+Cursor+Zapier实战配置，从零搭建智能工作流
+- **[为什么92%的AI工具使用停留在“伪整合”](https://blog.csdn.net/InitFlow/article/details/161656694)** 深度拆解智能成就转化率断层真相，真集成vs伪整合
+
+### 2026-06-03
 - **[How AI-Powered Workflow Automation Can Boost Your Home Service Revenue in 2025](https://swiftcloud.ai/ai-powered-workflow-automation-home-service-2025/)** AI workflow automation优化效率，智能分配任务，提升营收
 - **[2025年国外最好的50个AI生产力工具是什么?附国内平替](https://blog.csdn.net/D29h1jQy3akVx/article/details/156170972)** 聊天机器人、PPT、代码助手、邮件助手等50个工具横向评测
 - **[AIWORKS:高效自动化工作流解决方案](https://www.dtstack.com/bbs/article/172105)** 数据中台、数字孪生、数字可视化，工作流自动化平台

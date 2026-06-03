@@ -13,6 +13,13 @@ description: 主流 Agent 框架与工具链一览
 ## 近期动态
 
 ### 2026-06-03
+- **[一文读懂微软Build 2026开发者大会](https://finance.sina.cn/2026-06-03/detail-iniactak2314267.d.html)** 「Agent优先」时代到来，一口气发布七款自研MAI模型
+- **[Agent时代,网络成了最被低估的AI变量?](https://baijiahao.baidu.com/s?id=1866879184478099416)** 华为星河AI网络升级，以Token为中心的安全智联底座
+- **[阿里把AI Agent拉进工作群了](https://news.sina.cn/ai/2026-06-03-detail-iniactak2314267.d.html)** MuleRun Messages让Agent可以被@、被拉群，跨部门协作
+- **[2025 Agent元年:小厂借AI东风垂直赛道加速崛起](https://www.sohu.com/a/1031209257_121850782)** 飞猪问一问、Manus等垂直Agent突围
+- **[微软推出全新人工智能模型与英伟达达成合作](https://baijiahao.baidu.com/s?id=1866939576446466727)** 首个AI推理模型MAI-Thinking-1发布，与英伟达统一技术栈
+
+### 2026-06-03
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、AutoGen、Pydantic-AI等11个最佳AI Agent框架深度解析
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** AutoML-Next、SwarmLearner、OmniAgent等七大框架技术解析
 - **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层、Logfire监控、多工具协作三大维度全面突破
