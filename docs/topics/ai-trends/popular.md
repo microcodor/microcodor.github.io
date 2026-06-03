@@ -2069,3 +2069,9 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 - **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度推出全球首款搭载中文大模型的原生AI眼镜，45g轻量级
 - **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，基于"数据—模型—应用"闭环理念
 - **[AI小财神](https://baike.baidu.com/item/AI小财神/65222429)** 财跃星辰开发金融信息智能体，提供A股实时行情查询
+### 2026-06-03
+- **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU比例从1:8变为1:1
+- **[AI智能头盔X3](https://baike.baidu.com/item/AI智能头盔X3/66249397)** 饿了么发布AI智能头盔，内置骑手AI助手"AI小饿"
+- **[Operator](https://baike.baidu.com/item/Operator/65108419)** OpenAI于2025年1月推出的AI代理助理，基于Computer-Using Agent模型
+- **[小度AI眼镜](https://baike.baidu.com/item/小度AI眼镜/65102621)** 百度旗下小度推出全球首款搭载中文大模型的原生AI眼镜
+- **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，打破美业测肤"数据孤岛"

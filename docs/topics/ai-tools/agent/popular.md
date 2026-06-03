@@ -771,3 +771,9 @@ description: 主流 Agent 框架与工具链一览
 - **[Microsoft Agent Framework 1.0发布](https://cloud.tencent.com/developer/article/2674780)** 把代理开发链路补齐：本地调试、工具接入、记忆管理、托管运行、安全边界和可观察性
 - **[AI能自己开电脑干活了:CUA开源项目基础设施搭建好了](https://zhuanlan.zhihu.com/p/2043788643001688950)** CUA支持macOS/Linux/Windows/Android沙箱中让AI操控真实桌面，已获17k+ Star
 - **[2026年AI Agent项目开发技术全解析:从 RAG、MCP 到多 Agent 协同落地](https://blog.csdn.net/ZYHyua/article/details/161495003)** 详解AI Agent5个核心模块：LLM推理、规划、工具调用、记忆、评估
+### 2026-06-03
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代
+- **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，RTX Spark芯片重新定义PC，个人电脑成为家庭AI超级计算机
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[AI Agent大升级!2025智能个人助理新功能](https://k.sina.cn/article_7857141524_1d452771401902a5k0.html)** 多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+- **[AI早已学会反思组队记忆甚至脑中彩排](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 2025年最热AI Agent架构深度揭秘，18种架构模式

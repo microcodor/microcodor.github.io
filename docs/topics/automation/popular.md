@@ -2152,3 +2152,9 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 - **[AI CLI 工具社区动态日报 2026-05-27](https://github.com/rollysys/agents-radar/issues/477)** 各大AI CLI工具竞品动态：Claude Code、OpenAI Codex、Qwen Code等
 - **[n8n 工作流实战:可视化 AI 自动化从入门到精通](https://augenstern.blog.csdn.net/article/details/161478368)** 开源工作流自动化工具，支持可视化拖拽、400+集成、LangChain原生 AI
 - **[Workflow 与 AI Agent 核心差异拆解:从底层逻辑到行业落地现状](https://www.cnblogs.com/Ktong/p/20218980)** 执行逻辑：固定剧本 vs 自主规划；容错能力：刚性执行 vs 柔性应变
+### 2026-06-03
+- **[Automation](https://www.taskade.com/wiki/automation)** Integrate AI agents directly into automation flows，Multi-Agent Coordination、Contextual Processing、Learning Automation
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为胶水连接不同工具和API，构建智能化的自动化脚本
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent
+- **[海外远程工作新宠:用Vibe Coding接单月入2万](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作、Workflow自动化流程、Agent达成目标
