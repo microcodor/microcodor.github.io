@@ -10,6 +10,14 @@ description: 常见高频讨论的 AI 主题与它们对个人业务的意义
 
 ## 近期动态
 
+### 2026-06-04
+- **[卧安机器人惊艳亮相IFA 2025](http://k.sina.com.cn/article_7857201856_1d45362c001906bj5o.html)** 全球首款本地部署大模型的AI宠物机器人、三大核心产品Acemate/AI Pet/AI Hub发布
+- **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，1:1配比回归，单个智能体Token消耗量最高可达单轮推理的1000倍
+- **[AI智能体,"闯入"新型电力系统](https://baijiahao.baidu.com/s?id=1866985587862801074)** 蚂蚁数科能源AI产品发布，新能源资产成为"市场参与者"
+- **[AR观影迈入"影院级",AI拍摄眼镜首次真正"全天候"](https://baijiahao.baidu.com/s?id=1866411967562722809)** Google携手三星发布首款AI智能眼镜，全球AR智能眼镜出货量同比增长98%
+- **[YOGA Air X AI元启版](https://baike.baidu.com/item/YOGA%20Air%20X%20AI元启版/65433404)** 联想发布，全球首款端侧部署70亿参数DeepSeek-R1大模型的智能生产力工具
+- **[o3](https://baike.baidu.com/item/o3/65594422)** OpenAI发布新一代多模态推理模型，首次实现自动调用网页搜索、Python数据分析等功能
+
 ### 2026-06-03
 - **[卧安机器人惊艳亮相IFA 2025](http://k.sina.com.cn/article_7857201856_1d45362c001906bj5o.html)** 全球首款本地部署大模型的AI宠物机器人、三大核心产品发布
 - **[英特尔“硅岛宣言”:陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，1:1配比回归

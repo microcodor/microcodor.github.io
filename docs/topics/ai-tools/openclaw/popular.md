@@ -3,6 +3,13 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-04
+- **[OpenClaw入驻Windows背后,明略科技的Agent基础设施正在跨平台生长](https://finance.eastmoney.com/a/202606033758911683.html)** OpenClaw原生入驻Windows，深度集成MXC安全框架，Scout构建在其之上
+- **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何被迫长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，最后长出了一套企业级安全体系
+- **[2100人OpenClaw调研：中国AI Agent早期采用者的6个反直觉真相](https://baijiahao.baidu.com/s?id=1865612716355935854)** 增长黑盒联合网易智企发布首份系统性调研报告
+- **[SAP封禁OpenClaw及其他未经授权的AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入能够规划、选择或执行一系列API调用的半自主或生成式AI系统
+- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度
+
 ### 2026-06-03
 - **[OpenClaw入驻Windows背后,明略科技的Agent基础设施正在跨平台生长](https://finance.eastmoney.com/a/202606033758911683.html)** OpenClaw原生入驻Windows，深度集成MXC安全框架，Scout构建在其之上
 - **[从爆火到平淡,OpenClaw改变了什么](https://baijiahao.baidu.com/s?id=1864579958654674764)** 腾讯为QClaw增加多Agent机制和三方应用连接器功能

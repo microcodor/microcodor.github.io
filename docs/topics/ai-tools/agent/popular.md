@@ -12,6 +12,13 @@ description: 主流 Agent 框架与工具链一览
 
 ## 近期动态
 
+### 2026-06-04
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Google I/O 2026发布Gemini Intelligence，Android/iOS/HarmonyOS/Windows全面步入OS Agent时代，系统级AI Runtime成核心竞争力
+- **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，RTX Spark芯片重新定义PC，个人电脑成为家庭AI超级计算机
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，从架构设计、代码风格、性能表现三个维度展开
+- **[AI Agent大升级!2025智能个人助理新功能](https://k.sina.cn/article_7857141524_1d452771401902a5k0.md)** 多模态交互打破单一输入壁垒，智能家居联动实现全场景闭环
+- **[AI早已学会反思组队记忆甚至脑中彩排](https://blog.csdn.net/WANGJUNAIJIAO/article_details/161058629)** 2025年最热AI Agent架构深度揭秘，18种架构模式
+
 ### 2026-06-03
 - **[一文读懂微软Build 2026开发者大会](https://finance.sina.cn/2026-06-03/detail-iniactak2314267.d.html)** 「Agent优先」时代到来，一口气发布七款自研MAI模型
 - **[Agent时代,网络成了最被低估的AI变量?](https://baijiahao.baidu.com/s?id=1866879184478099416)** 华为星河AI网络升级，以Token为中心的安全智联底座

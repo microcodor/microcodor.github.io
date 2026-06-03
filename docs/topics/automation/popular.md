@@ -17,6 +17,15 @@ description: 一人公司常见自动化平台、适用场景与选型要点
 
 ## 近期动态
 
+### 2026-06-04
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade集成人工智能代理和工作流程编排，100+服务集成，104+自动化操作
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[海外远程工作新宠:用Vibe Coding接单,月入2万真实账单](https://baijiahao.baidu.com/s?id=1865572612357908970)** Andrej Karpathy提出的Vibe Coding概念成海外远程工作新宠，用Claude Code和Cursor月入2万人民币
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成一个动作，Workflow自动化一条流程，Agent达成一个目标
+- **[每日热门skill:n8n工作流自动化让它变身自动化军团](https://blog.csdn.net/weitingfu/article_details/161003687)** n8n是OpenClaw生态中的工作流设计师，可视化跨系统自动化引擎
+- **[trae+spec+trae-automation-workflows+task-tool实现半agent并行峰群模式](https://zhuanlan.zhihu.com/p/2043804586616542968)** 基于Trae IDE构建的生产级自动化开发平台，7层流水线并行蜂群模式
+
 ### 2026-06-03
 - **[跑一次Dynamic Workflows,才知半年subagent全浪费了](https://www.163.com/dy/article/KUF6FNVH05566SCS.html)** Anthropic Dynamic Workflows让AI自己写编排脚本，动态路由
 - **[小白程序员必看:12个AI热词入门指南](https://blog.csdn.net/weixin_72959097/article/details/161617306)** Prompt、Token、Context Window、RAG、MCP、Agent等12个核心概念
