@@ -13,6 +13,11 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-04
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围，Anthropic误传Mythos源码
+- **[Claude Opus 4.8悄然登顶反超GPT-5.5](https://baijiahao.baidu.com/s?id=1866929386994357247)** 以61.4分拿下智能指数v4.0第一，SWE-Bench Pro 69.2%碾压
+- **[Gemini 3.5 Flash体验越来越糟糕?](https://baijiahao.baidu.com/s?id=1866966915031251009)** 免费AI越用越傻成趋势，额度、路由、能力体验都拧巴
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
+- **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围，Anthropic误传Mythos源码
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864495012449932299)** Meta FAIR发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
 - **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT 各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** 十大模型编程领域擅长方向系统梳理，选型建议
