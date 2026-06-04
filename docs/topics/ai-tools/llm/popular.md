@@ -11,6 +11,15 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-05
+- **[GPT-5.5成功率70%测试智能体](http://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** 花1500美元让AI"黑"自己的App，GPT-5.5成功率70%，DeepSeek V4 Pro成本优势明显仅需0.19美元
+- **[Gemini体验越来越拧巴](https://www.thepaper.cn/newsDetail_forward_33303554)** 好AI越用越贵，免费AI集体降智，额度、路由、能力体验都拧巴
+- **[博通订单排达2028年](https://www.163.com/dy/article/KUIJ63D905198NMR.html)** 博通电话会：订单已排达2028年，对XPU和网络的需求难以满足，打造350亿美元算力融资平台
+- **[巨头开始"烧不动Token"了](http://app.myzanker.com/news/article.php?pk=6a2160dd8e9f091d075a0515)** 未具名科技巨头一个月AI支出高达5亿美元，Uber四个月烧光全年AI预算
+- **[65000亿史上最大AI公司要IPO](https://baijiahao.baidu.com/s?id=1867050613406899704)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
+- **[Lovable深化与Google战略合作](https://www.sohu.com/a/1032094062_362225)** Lovable将基础设施全面转向Gemini与Google Cloud
+- **[倒卖Token隐秘生意](http://app.myzaker.com/news/article.php?pk=6a212f1d8e9f0974f1392f50)** 波场孙宇晨推出AI中转站B.AI，一天补贴10万元人民币
+
 ### 2026-06-04
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围，Anthropic误传Mythos源码
 - **[Claude Opus 4.8悄然登顶反超GPT-5.5](https://baijiahao.baidu.com/s?id=1866929386994357247)** 以61.4分拿下智能指数v4.0第一，SWE-Bench Pro 69.2%碾压
