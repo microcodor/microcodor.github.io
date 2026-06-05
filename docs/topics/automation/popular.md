@@ -9,6 +9,8 @@ description: AI 自动化工作流工具
 - **[Shannon AI黑客开源](http://chenxutan.com/d/3171.html)** 自主AI黑客Shannon，XBOW基准测试成功率96.15%，开源免费版Lite已发布
 - **[企业级Agent管理平台](https://caifuhao.eastmoney.com/news/20260603224832870292520)** 企业级Agent管理平台定制开发服务商推荐，LumeValley等
 - **[Token贵只因喂给模型的垃圾太多了](http://tianjin.hsvdi.cn/gnews/36980)** 亚马逊王晓野：87%企业部署AI，仅10%获得实际生产价值
+- **[WhichLLM部署教程](https://zhuanlan.zhihu.com/p/2045851945898923670)** 构建多模型调用环境，支持OpenAI Claude Gemini等
+- **[Eino深度实战Go语言LLM应用开发](http://chenxutan.com/d/3191.html)** Go语言LLM应用开发的组件化革命，Chain/Graph/Workflow编排
 
 ### 2026-06-04
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** OpenClaw、Claude Code、Kiro等AI编程工具即将发布重磅更新

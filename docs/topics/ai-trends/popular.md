@@ -12,6 +12,8 @@ description: AI 产品发布动态
 - **[工信部发布2025人工智能产业发展成效](http://3g.article.hualahuala8.com/newslist/202606/3768909.shtml)** 企业数量超6000家，核心产业规模突破12万亿元
 - **[WWDC前瞻:Siri彻底重做](https://baijiahao.baidu.com/s?id=1867027614476438168)** 苹果Siri将以独立App形式出现，Gemini打底
 - **[字节AI四个关键命题](https://36kr.com/p/3838454229027072)** 字节跳动加大世界模型训练投入，豆包强化商业化能力
+- **[CPU重回AI算力聚光灯](https://baijiahao.baidu.com/s?id=1867021672986209553)** 英伟达Vera量产，AMD Venice量产，CPU与GPU配比从1:8演变至1:1
+- **[魅视科技AI系列收入增长212%](https://finance.eastmoney.com/a/202606043760700068.html)** 2025年公司AI系列产品实现收入2534.22万元，同比增长212.59%
 
 ### 2026-06-04
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量

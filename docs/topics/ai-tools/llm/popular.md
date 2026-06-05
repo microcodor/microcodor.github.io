@@ -19,6 +19,7 @@ description: 主流大模型能力对比与选型参考
 - **[65000亿史上最大AI公司要IPO](https://baijiahao.baidu.com/s?id=1867050613406899704)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
 - **[Lovable深化与Google战略合作](https://www.sohu.com/a/1032094062_362225)** Lovable将基础设施全面转向Gemini与Google Cloud
 - **[倒卖Token隐秘生意](http://app.myzaker.com/news/article.php?pk=6a212f1d8e9f0974f1392f50)** 波场孙宇晨推出AI中转站B.AI，一天补贴10万元人民币
+- **[AI产品经理转型方案](https://finance.sina.cn/2026-06-04/detail-iniaeyvw3849355.d.html)** AI产品经理两条活路：深度使用AI或进入AI原生产品岗位
 
 ### 2026-06-04
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围，Anthropic误传Mythos源码
