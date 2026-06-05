@@ -5,6 +5,9 @@ description: AI 产品发布动态
 
 ### 2026-06-05
 - **[Meta Business Agent发布](https://baijiahao.baidu.com/s?id=1867027617829215731)** Meta推出AI客服代理，企业可通过AI回复客户消息，超过一百万家企业已使用
+- **[WWDC前瞻:Siri彻底重做](https://baijiahao.baidu.com/s?id=1867027614476438168)** 苹果Siri将以独立App形式出现，采用Gemini定制模型
+- **[字节AI四个关键命题](https://36kr.com/p/3838454229027072)** 字节加大世界模型训练投入，豆包强化商业化能力，重点场景办公
+- **[英特尔"硅岛宣言"](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
 - **[从信创专属云到专属AI云 中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 中国电子云发布专属AI云产品战略，实现从信创专属云向全栈智能服务的跨越
 - **[Coding拷问一切,独立大模型赛道的两年生死(下篇)](https://36kr.com/p/3834814072217865)** 深度解析智谱、月之暗面、MiniMax、阶跃星辰四小龙的发展路径与市值的关联
 - **[从热搜到上手,AI 走向全民化](http://www.myzaker.com/article/6a1d2297b15ec04af53afcf8)** Seedance 2.0引发热议，头部创作者成为AI内容生产核心引擎

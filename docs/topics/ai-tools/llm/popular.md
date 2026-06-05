@@ -13,6 +13,9 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-05
 - **[GPT-5.5成功率70%测试智能体](http://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** 花1500美元让AI"黑"自己的App，GPT-5.5成功率70%，DeepSeek V4 Pro成本优势明显仅需0.19美元
+- **[巨头开始"烧不动Token"了](https://baijiahao.baidu.com/s?id=1867065773726923285)** 一未具名科技巨头月AI支出高达5亿美元，Uber四个月烧光全年AI预算
+- **[倒卖Token隐秘生意](https://baijiahao.baidu.com/s?id=1867125715163023340)** 孙宇晨推B.AI日补贴10万元，傅盛推Easyrouter，AI中转站竞争激烈
+- **[65000亿史上最大AI公司要IPO](https://baijiahao.baidu.com/s?id=1867050613406899704)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
 - **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜

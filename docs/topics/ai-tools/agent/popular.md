@@ -5,6 +5,9 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-05
 - **[COMPUTEX 2026:AI Agent时代全面到来](https://baijiahao.baidu.com/s?id=1867021357744821416)** 英伟达CEO黄仁勋、高通总裁兼CEO克里斯蒂亚诺•安蒙等巨头齐宣告2026年是AI Agent之年
+- **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** 全面对比LangChain、LangGraph、AutoGen等主流框架，解析规划、记忆、工具调用、行动四大核心能力
+- **[Bio AI Agent](https://baike.baidu.com/item/Bio%20AI%20Agent/67901201)** 多智能体架构专为实验室数据整合、决策支持及合规追溯设计，已与大型生物技术公司展开合作
+- **[2025 Agent元年:小厂借AI东风垂直崛起](https://www.sohu.com/a/1031209257_121850782)** 飞猪问一新成现象级产品，Manus精准定位通用Agent，技术门槛降低催生新竞争维度
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流AI Agent框架，提供代码示例和选型指南
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 解析AutoML-Next、SwarmLearner、OmniAgent等7个新兴框架的技术创新点
 - **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级

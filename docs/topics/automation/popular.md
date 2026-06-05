@@ -6,6 +6,9 @@ description: AI 自动化工作流工具
 ### 2026-06-05
 - **[Codex与ChatGPT合并](https://baijiahao.baidu.com/s?id=1867065773725584921)** OpenAI宣布未来几周将Codex、ChatGPT及浏览器产品Atlas整合成桌面超级应用
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI agents、数据收集报表、预测分析、项目管理等12款最佳AI自动化工具
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
+- **[2026年AI项目管理工具盘点](https://blog.csdn.net/2601_96230984/article/details/161606737)** ONES、Jira、Asana、Monday等8款平台围绕核心能力、AI适配程度横向对比
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI agents、数据收集报表、预测分析、项目管理等12款最佳AI自动化工具
 - **[Zapier AI Workflows](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** 企业级AI工作流自动化平台，从概念到生产级自动化的完整工具包
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，克服LLM输出不确定性，支持多步骤逻辑生成
 - **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
