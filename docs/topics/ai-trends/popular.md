@@ -4,6 +4,11 @@ description: AI 产品发布动态
 ---
 
 ### 2026-06-05
+- **[华清普智AI孵化器发布2025大模型API服务行业分析报告](https://m.36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
+- **[WWDC 2026前夕:Siri彻底重做](https://baijiahao.baidu.com/s?id=1867149954017842150)** 苹果Siri将以独立App形式出现，采用Gemini定制模型，转型全能AI智能体
+- **[2026智博会观察:告别参数崇拜,AI在场景里掘金](https://baijiahao.baidu.com/s?id=1867136972640092934)** 中国AI进入体系化布局、规模化应用时期，日均词元调用量突破140万亿
+- **[达实智能发布Das Agent 2.0](http://news.10jqka.com.cn/20260605/c677257466.shtml)** 1个超级智能体+5个场景智能体架构，相当于AI经理带队5个AI员工
+- **[快手发布2025年度社会责任报告](https://finance.sina.cn/2026-06-05/detail-iniaicuz1941429.d.html)** 深化AI战略带动4860万个就业机会，可灵AI视频生成超6亿个
 - **[Meta Business Agent发布](https://baijiahao.baidu.com/s?id=1867027617829215731)** Meta推出AI客服代理，企业可通过AI回复客户消息，超过一百万家企业已使用
 - **[WWDC前瞻:Siri彻底重做](https://baijiahao.baidu.com/s?id=1867027614476438168)** 苹果Siri将以独立App形式出现，采用Gemini定制模型
 - **[字节AI四个关键命题](https://36kr.com/p/3838454229027072)** 字节加大世界模型训练投入，豆包强化商业化能力，重点场景办公

@@ -4,6 +4,9 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-05
+- **[WWDC前夕!苹果批准首个iMessage AI智能体Poke](https://news.sina.cn/ai/2026-06-05/detail-iniakfhq8380814.d.html)** 首个进入Apple Messages for Business平台的第三方AI agent，可通过iMessage完成日程管理、邮件处理、智能家居控制
+- **[Anthropic预警:AI已开始自优化](https://www.163.com/dy/article/KULFH7JC05566Y1D.html)** 2025–2026智能编码AGENT成型，AGENT可独立完成代码撰写与修改，部分场景能完整编辑单个工程文件
+- **[Harness工程:AI Agent落地的关键架构](https://www.zhihu.com/question/2032742867974796493/answer/2046146598263055718)** 模型是CPU，harness是操作系统，agent是应用程序——2026年初迅速走红的架构概念
 - **[COMPUTEX 2026:AI Agent时代全面到来](https://baijiahao.baidu.com/s?id=1867021357744821416)** 英伟达CEO黄仁勋、高通总裁兼CEO克里斯蒂亚诺•安蒙等巨头齐宣告2026年是AI Agent之年
 - **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** 全面对比LangChain、LangGraph、AutoGen等主流框架，解析规划、记忆、工具调用、行动四大核心能力
 - **[Bio AI Agent](https://baike.baidu.com/item/Bio%20AI%20Agent/67901201)** 多智能体架构专为实验室数据整合、决策支持及合规追溯设计，已与大型生物技术公司展开合作

@@ -12,6 +12,13 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-05
+- **[倒卖Token隐秘的中转站生意](https://baijiahao.baidu.com/s?id=1867125715163023340)** 孙宇晨推B.AI日补贴10万元，傅盛推Easyrouter，AI中转站竞争激烈
+- **[多模型一体化工具实测:GPT/Gemini/Claude/Grok混用](https://blog.csdn.net/2602_96108846/article/details=161723236)** 写代码用Claude，图文分析用Gemini，逻辑梳理用GPT，验证前沿用Grok
+- **[AI写作软件怎么选](https://www.wps.cn/article/BhDxPXpw.html)** Claude长文本写作领先，Gemini实时搜索强，ChatGPT生态最成熟
+- **[65000亿史上最大AI公司要IPO](https://finance.sina.cn/2026-06-05/detail-iniaikay8658146.d.html)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
+- **[一个账号体验GPT-5.5、Gemini和Claude](https://www.jianshu.com/p/8384ee659a62)** 多模型聚合平台整合主流大模型，一个账号无缝切换
+
+### 2026-06-05
 - **[GPT-5.5成功率70%测试智能体](http://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** 花1500美元让AI"黑"自己的App，GPT-5.5成功率70%，DeepSeek V4 Pro成本优势明显仅需0.19美元
 - **[巨头开始"烧不动Token"了](https://baijiahao.baidu.com/s?id=1867065773726923285)** 一未具名科技巨头月AI支出高达5亿美元，Uber四个月烧光全年AI预算
 - **[倒卖Token隐秘生意](https://baijiahao.baidu.com/s?id=1867125715163023340)** 孙宇晨推B.AI日补贴10万元，傅盛推Easyrouter，AI中转站竞争激烈

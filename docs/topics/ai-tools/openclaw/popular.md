@@ -4,6 +4,10 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-05
+- **[浪潮企千虾方案升级:让AI Agent从超级员工进化为数字团队](http://finance.sina.com.cn/wm/2026-06-05/doc-iniaiqkw8588279.shtml)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
+- **[OpenClaw终于拿下Windows](http://finance.sina.com.cn/jjxw/2026-06-05/doc-iniaicva8712667.shtml)** 2026.6.1版本原生支持Windows，16亿台设备成为AI Agent运行底座
+- **[LongCat让OpenClaw提速30%](https://www.163.com/dy/article/KULIT8H505561FZW.html)** 21个可比任务平均单任务耗时2.35分钟，比对比模型快近30%
+- **[OpenClaw原生支持Windows:10分钟搞定AI本地部署](https://post.smzdm.com/p/a6z2qnk0/)]** 直接运行于Windows NT内核，调用原生Win32 API，启动更快内存更低
 - **[OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球约16亿台Windows PC成为AI Agent运行底座
 - **[网易智企全员落地OpenClaw](https://baijiahao.baidu.com/s?id=1866966810648184531)** 网易智企全员普及OpenClaw，覆盖研发、运营、销售、管理全岗位
 - **[技能工坊上线](https://baijiahao.baidu.com/s?id=1867047387589322690)** Agent可自主发起技能提议，人类审核后实现自我迭代

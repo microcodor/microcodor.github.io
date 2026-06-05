@@ -4,6 +4,11 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-05
+- **[小白程序员必看:5款Agent框架掌握大模型落地核心技术](https://blog.csdn.net/m0_48891301/article/details/161625964)** AutoGPT、LangGraph、Dify、CrewAI、AutoGen对比，Agent vs Workflow选择
+- **[商汤SenseNova-Skills全套办公技能](https://tech.ifeng.com/c/8tiBNNf9LbE)** 从凌乱数据到精美PPT直接交付，数据分析技能自动生成完整报告
+- **[一台搞定文件备份整理归档:QNAP Qu605打造超高效工作流](https://baijiahao.baidu.com/s?id=1867143578045624603)** 六盘位196TB容量，AI相册智能整理，文件工作流自动化
+- **[AI工具与智能个人整合实战手册](https://blog.csdn.net/codeink/article/details/161715747)** 2024年唯一经企业验证的私有化部署框架，意图理解引擎+工具编排器+记忆中枢
+- **[手写Mini Dify:从零构建可视化AI工作流引擎](https://blog.csdn.net/picture_share/article/details=161705702)** 工作流引擎核心架构、可视化拖拽原理、LLM调用抽象层设计
 - **[Codex与ChatGPT合并](https://baijiahao.baidu.com/s?id=1867065773725584921)** OpenAI宣布未来几周将Codex、ChatGPT及浏览器产品Atlas整合成桌面超级应用
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI agents、数据收集报表、预测分析、项目管理等12款最佳AI自动化工具
 - **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
