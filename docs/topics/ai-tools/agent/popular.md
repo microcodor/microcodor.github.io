@@ -5,6 +5,13 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-05
 - **[WWDC前夕!苹果批准首个iMessage AI智能体Poke](https://news.sina.cn/ai/2026-06-05/detail-iniakfhq8380814.d.html)** 首个进入Apple Messages for Business平台的第三方AI agent，可通过iMessage完成日程管理、邮件处理、智能家居控制
+- **[AI领域核心术语全指南](https://blog.csdn.net/qq_20236937/article/details/161722433)** 从AI到AGI、ML、DL、LLM的完整概念体系梳理
+- **[Anthropic预警:AI已开始自优化](https://www.163.com/dy/article/KULFH7JC05566Y1D.html)** 2025–2026智能编码AGENT成型，AGENT可独立完成代码撰写与修改
+- **[AI应用落地驱动算力缺口扩容](https://xueqiu.com/8149037235/392985224)** 2026是国内AI商业化落地关键元年，算力需求迎来二次爆发
+- **[深度解读2025-2032年全球AI加速器芯片市场格局](https://xueqiu.com/4111720420/393096153)** 亚太地区增速预期显著高于欧美，边缘计算场景渗透率从15%提升至35%
+- **[全国首届ETF AI交易巅峰赛启动](https://www.163.com/dy/article/KULEKU9Q0519D4UH.html)** 国内首个面向AI Agents的ETF投资赛事，AI投资主理人从概念走进现实
+- **[2026年度AI编码平台实测榜单](http://finance.sina.cn/2026-06-05/detail-iniaicva8723716.d.html)** Alaya Code列为榜单TOP1，九章云极旗下
+- **[华大九天第二届PyAether作品征集](http://finance.sina.cn/2026-06-05/detail-iniaiqkw8600281.d.html)** 把握AI Agent技术浪潮，万元现金奖
 - **[Anthropic预警:AI已开始自优化](https://www.163.com/dy/article/KULFH7JC05566Y1D.html)** 2025–2026智能编码AGENT成型，AGENT可独立完成代码撰写与修改，部分场景能完整编辑单个工程文件
 - **[Harness工程:AI Agent落地的关键架构](https://www.zhihu.com/question/2032742867974796493/answer/2046146598263055718)** 模型是CPU，harness是操作系统，agent是应用程序——2026年初迅速走红的架构概念
 - **[COMPUTEX 2026:AI Agent时代全面到来](https://baijiahao.baidu.com/s?id=1867021357744821416)** 英伟达CEO黄仁勋、高通总裁兼CEO克里斯蒂亚诺•安蒙等巨头齐宣告2026年是AI Agent之年

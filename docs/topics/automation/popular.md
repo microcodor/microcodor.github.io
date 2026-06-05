@@ -4,7 +4,15 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-05
-- **[小白程序员必看:5款Agent框架掌握大模型落地核心技术](https://blog.csdn.net/m0_48891301/article/details/161625964)** AutoGPT、LangGraph、Dify、CrewAI、AutoGen对比，Agent vs Workflow选择
+- **[小白程序员必看:5款Agent框架掌握大模型落地核心技术](https://blog.csdn.net/m0_48891301/article/details=161625964)** AutoGPT、LangGraph、Dify、CrewAI、AutoGen对比，Agent vs Workflow选择
+- **[商汤SenseNova-Skills全套办公技能](https://tech.ifeng.com/c/8tiBNNf9LbE)** 从凌乱数据到精美PPT直接交付，数据分析技能自动生成完整报告
+- **[一台搞定文件备份整理归档:QNAP Qu605打造超高效工作流](https://baijiahao.baidu.com/s?id=1867143578045624603)** 六盘位196TB容量，AI相册智能整理，文件工作流自动化
+- **[AI工具与智能个人整合实战手册](https://blog.csdn.net/codeink/article/details=161715747)** 2024年唯一经企业验证的私有化部署框架，意图理解引擎+工具编排器+记忆中枢
+- **[手写Mini Dify:从零构建可视化AI工作流引擎](https://blog.csdn.net/picture_share/article/details=161705702)** 工作流引擎核心架构、可视化拖拽原理、LLM调用抽象层设计
+- **[VT AgentX工业智能体协同系统](https://www.sohu.com/a/1032588654_121295404)** 从数据洞察到决策执行全链路闭环，工业Agent工厂
+- **[恒生电子发布6.0 AI生态架构](http://news.10jqka.com.cn/20260605/c677241173.shtml)** 向AI金融科技公司转型，LIGHT 6.0技术架构
+- **[6月5日AI日报:80%代码由AI写](https://zhuanlan.zhihu.com/p/2046183497098859668)** Anthropic内部数据：超过80%代码由Claude撰写，工程师职能向审核者迁移
+- **[Real World AI开源框架发布](http://www.chinadaily.com.cn/a/202606/05/WS6a222c77a310d6866eb4c9c1.html)** 标准化人机交互、任务集机制、人体反馈系统
 - **[商汤SenseNova-Skills全套办公技能](https://tech.ifeng.com/c/8tiBNNf9LbE)** 从凌乱数据到精美PPT直接交付，数据分析技能自动生成完整报告
 - **[一台搞定文件备份整理归档:QNAP Qu605打造超高效工作流](https://baijiahao.baidu.com/s?id=1867143578045624603)** 六盘位196TB容量，AI相册智能整理，文件工作流自动化
 - **[AI工具与智能个人整合实战手册](https://blog.csdn.net/codeink/article/details/161715747)** 2024年唯一经企业验证的私有化部署框架，意图理解引擎+工具编排器+记忆中枢

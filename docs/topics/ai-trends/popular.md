@@ -5,6 +5,13 @@ description: AI 产品发布动态
 
 ### 2026-06-05
 - **[华清普智AI孵化器发布2025大模型API服务行业分析报告](https://m.36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
+- **[从小龙虾到Harness中国AI智能体市场的演变与玩家全景](https://baijiahao.baidu.com/s?id=1866781338162228487)** OpenClaw五个月36万Star，Harness驾驭工程解决好用可靠批量落地问题
+- **[英特尔陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
+- **[中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 从信创专属云向专属AI云全面转型
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
+- **[华为DeepSeek训/推超融合一体机](https://baike.baidu.com/item/华为DeepSeek训%2F推超融合一体机/65407603)** FusionCube A3000适配DeepSeek V3&R1，4小时快速开局
+- **[o3模型](https://baike.baidu.com/item/o3/65594422)** OpenAI新一代多模态推理模型，ARC-AGI基准测试87.5%得分
+- **[华硕无畏14 2025](https://baike.baidu.com/item/华硕无畏14/65310428)** 搭载骁龙X Elite处理器，主打AI智能体验与长续航
 - **[WWDC 2026前夕:Siri彻底重做](https://baijiahao.baidu.com/s?id=1867149954017842150)** 苹果Siri将以独立App形式出现，采用Gemini定制模型，转型全能AI智能体
 - **[2026智博会观察:告别参数崇拜,AI在场景里掘金](https://baijiahao.baidu.com/s?id=1867136972640092934)** 中国AI进入体系化布局、规模化应用时期，日均词元调用量突破140万亿
 - **[达实智能发布Das Agent 2.0](http://news.10jqka.com.cn/20260605/c677257466.shtml)** 1个超级智能体+5个场景智能体架构，相当于AI经理带队5个AI员工

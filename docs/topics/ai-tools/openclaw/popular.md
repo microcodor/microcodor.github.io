@@ -7,6 +7,12 @@ description: OpenClaw 社区更新、技能与工具
 - **[浪潮企千虾方案升级:让AI Agent从超级员工进化为数字团队](http://finance.sina.com.cn/wm/2026-06-05/doc-iniaiqkw8588279.shtml)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
 - **[OpenClaw终于拿下Windows](http://finance.sina.com.cn/jjxw/2026-06-05/doc-iniaicva8712667.shtml)** 2026.6.1版本原生支持Windows，16亿台设备成为AI Agent运行底座
 - **[LongCat让OpenClaw提速30%](https://www.163.com/dy/article/KULIT8H505561FZW.html)** 21个可比任务平均单任务耗时2.35分钟，比对比模型快近30%
+- **[OpenClaw原生支持Windows:10分钟搞定AI本地部署](https://post.smzdm.com/p/a6z2qnk0/)** 直接运行于Windows NT内核，调用原生Win32 API，启动更快内存更低
+- **[全球最大Agent底座诞生:OpenClaw原生登陆16亿台Windows PC](https://soft.china.com/article/1950847.html)** 微软推出MXC安全执行层，技能工坊上线支持Agent自我迭代
+- **[OpenClaw最新版本全解析](https://wenku.baidu.com/view/4b12554cebf9aef8941ea76e58fafab069dc443e.html)** v2026.5.3到v2026.6.1版本更新详解
+- **[一行命令给AI Agent发身份证:VeriAgent OpenClaw插件](https://blog.csdn.net/2604_96137312/article/details/161713559)** Agent数字身份与X.509数字证书配置指南
+- **[AI Agent时代金融欺诈进入机器对机器阶段](http://biznews.sohu.com/a/1032694032_120932824)** OpenClaw这类AI Agent永不休息，欺诈规模化边界首次从人力上限中解放
+- **[LongCat让OpenClaw提速30%](https://www.163.com/dy/article/KULIT8H505561FZW.html)** 21个可比任务平均单任务耗时2.35分钟，比对比模型快近30%
 - **[OpenClaw原生支持Windows:10分钟搞定AI本地部署](https://post.smzdm.com/p/a6z2qnk0/)]** 直接运行于Windows NT内核，调用原生Win32 API，启动更快内存更低
 - **[OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球约16亿台Windows PC成为AI Agent运行底座
 - **[网易智企全员落地OpenClaw](https://baijiahao.baidu.com/s?id=1866966810648184531)** 网易智企全员普及OpenClaw，覆盖研发、运营、销售、管理全岗位

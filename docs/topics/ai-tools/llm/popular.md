@@ -16,6 +16,13 @@ description: 主流大模型能力对比与选型参考
 - **[多模型一体化工具实测:GPT/Gemini/Claude/Grok混用](https://blog.csdn.net/2602_96108846/article/details=161723236)** 写代码用Claude，图文分析用Gemini，逻辑梳理用GPT，验证前沿用Grok
 - **[AI写作软件怎么选](https://www.wps.cn/article/BhDxPXpw.html)** Claude长文本写作领先，Gemini实时搜索强，ChatGPT生态最成熟
 - **[65000亿史上最大AI公司要IPO](https://finance.sina.cn/2026-06-05/detail-iniaikay8658146.d.html)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
+- **[横评Opus 4.8、GPT-5.5、DeepSeek V4、MiniMax M3](https://finance.sina.cn/2026-06-05/detail-iniakfhq8383398.d.html)** 356元实测排名，Claude Opus 4.8表现最好，MiniMax M3全球第五
+- **[库克的告别秀:WWDC 2026猛料太多](http://finance.sina.com.cn/roll/2026-06-05/doc-iniaicva8736947.shtml)** Apple Intelligence可使用Gemini、Claude等第三方云端大模型
+- **[2026年度AI中转站权威推荐排行榜](https://www.csdn.net/article/2026-06-05/161723324)** API Ranking稳居综合第一名
+- **[收费才是DeepSeek的成人礼](https://m.thepaper.cn/newsDetail_forward_33308654)** ChatGPT、Gemini、Claude、Grok早已搭建付费会员体系
+- **[多模型一体化工具实测:GPT/Gemini/Claude/Grok混用](https://blog.csdn.net/2602_96108846/article/details=161723236)** 写代码用Claude，图文分析用Gemini，逻辑梳理用GPT，验证前沿用Grok
+- **[AI写作软件怎么选](https://www.wps.cn/article/BhDxPXpw.html)** Claude长文本写作领先，Gemini实时搜索强，ChatGPT生态最成熟
+- **[65000亿史上最大AI公司要IPO](https://finance.sina.cn/2026-06-05/detail-iniaikay8658146.d.html)** Anthropic将IPO，Claude Opus 4.8编程能力多项远超GPT-5.5
 - **[一个账号体验GPT-5.5、Gemini和Claude](https://www.jianshu.com/p/8384ee659a62)** 多模型聚合平台整合主流大模型，一个账号无缝切换
 
 ### 2026-06-05
