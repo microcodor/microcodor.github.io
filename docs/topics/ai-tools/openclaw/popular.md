@@ -5,6 +5,11 @@ description: OpenClaw 社区更新、技能与工具
 
 ### 2026-06-05
 - **[OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球约16亿台Windows PC成为AI Agent运行底座
+- **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构，深度对比两大框架
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，从单次问答到持续工作流，OpenClaw驱动入口重新分配
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP更新API政策限制第三方AI Agent访问，定义新的安全与稳定性边界
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** Zabbix与OpenClaw的智能运维集成实践
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://www.163.com/dy/article/KUB7LCUV051100B9.html)** 腾讯马维斯、OpenAI PowerPoint插件、Google Gemini Spark竞逐Agent市场
 - **[企千虾方案升级](http://news.10jqka.com.cn/20260604/c677230714.shtml)** 浪潮信息企千虾方案升级，打造多智能体协同"数字团队"
 - **[Microsoft Execution Containers发布](https://news.mydrivers.com/1/1127/1127236.htm)** 微软推出MXC系统级安全执行层，内置于Windows内核
 - **[技能工坊上线](https://baijiahao.baidu.com/s?id=1867047387589322690)** Agent可自主发起技能提议，人类审核后实现自我迭代

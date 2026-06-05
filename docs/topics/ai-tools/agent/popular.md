@@ -5,6 +5,11 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-05
 - **[COMPUTEX 2026:AI Agent时代全面到来](https://baijiahao.baidu.com/s?id=1867021357744821416)** 英伟达CEO黄仁勋、高通总裁兼CEO克里斯蒂亚诺•安蒙等巨头齐宣告2026年是AI Agent之年
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流AI Agent框架，提供代码示例和选型指南
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 解析AutoML-Next、SwarmLearner、OmniAgent等7个新兴框架的技术创新点
+- **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
+- **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 百度智能云发布开发指南，涵盖架构设计、工具链、多模态交互及性能优化策略
+- **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 深度解析主流AI Agent开发平台的技术实现路径与选型建议
 - **[Kimi Work内测：国产版Codex来了](http://finance.sina.cn/2026-06-04/detail-iniafvzr2549972.d.html)** 月之暗面Kimi推出面向知识工作者的通用型本地Agent，搭载专业Skills和金融、科研、法律等专业数据库
 - **[美图AI Agent赋能设计室、开拍等核心产品](https://www.163.com/dy/article/KUITO5AA051984TV.html)** 美图公司2025年度ESG报告：AI驱动用户活动超441亿次，覆盖垂直领域工作流自动化
 - **[郑州银行参与《知识服务智能体(AI Agent)能力要求》行业标准编制](https://baijiahao.baidu.com/s?id=1867049763248845772)** 被中国信息通信研究院录用，获"信创融合最佳实践奖"

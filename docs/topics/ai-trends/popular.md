@@ -5,6 +5,11 @@ description: AI 产品发布动态
 
 ### 2026-06-05
 - **[Meta Business Agent发布](https://baijiahao.baidu.com/s?id=1867027617829215731)** Meta推出AI客服代理，企业可通过AI回复客户消息，超过一百万家企业已使用
+- **[从信创专属云到专属AI云 中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 中国电子云发布专属AI云产品战略，实现从信创专属云向全栈智能服务的跨越
+- **[Coding拷问一切,独立大模型赛道的两年生死(下篇)](https://36kr.com/p/3834814072217865)** 深度解析智谱、月之暗面、MiniMax、阶跃星辰四小龙的发展路径与市值的关联
+- **[从热搜到上手,AI 走向全民化](http://www.myzaker.com/article/6a1d2297b15ec04af53afcf8)** Seedance 2.0引发热议，头部创作者成为AI内容生产核心引擎
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川举办首个重点推进产业链的产品发布会，发布"四川造"智能机器人和大模型产品
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件回顾
 - **[艾为发布AI眼镜音频方案](https://baijiahao.baidu.com/s?id=1867027936392083975)** 艾为电子发布AW88188低功耗端侧算力音频方案，专注AI眼镜市场
 - **[工匠行智能签约上亿订单](https://baijiahao.baidu.com/s?id=1867063881893222625)** 工匠行智能在K12教育、运动健康、康养等领域实现具身智能规模化落地
 - **[OpenAI官宣2026下半年推首款AI硬件](https://post.smzdm.com/p/a039exqr/)** OpenAI联合前苹果首席设计师Jony Ive团队打造无屏便携终端

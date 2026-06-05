@@ -13,6 +13,10 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-05
 - **[GPT-5.5成功率70%测试智能体](http://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** 花1500美元让AI"黑"自己的App，GPT-5.5成功率70%，DeepSeek V4 Pro成本优势明显仅需0.19美元
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月份集中发布
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** Meta FAIR联合斯坦福、哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
+- **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
+- **[4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世](https://it.sohu.com/a/1029421516_211762)** Emergence World实验刷屏，Grok四天毁灭全城，Gemini 15天683起犯罪
 - **[Gemini体验越来越拧巴](https://www.thepaper.cn/newsDetail_forward_33303554)** 好AI越用越贵，免费AI集体降智，额度、路由、能力体验都拧巴
 - **[博通订单排达2028年](https://www.163.com/dy/article/KUIJ63D905198NMR.html)** 博通电话会：订单已排达2028年，对XPU和网络的需求难以满足，打造350亿美元算力融资平台
 - **[巨头开始"烧不动Token"了](http://app.myzanker.com/news/article.php?pk=6a2160dd8e9f091d075a0515)** 未具名科技巨头一个月AI支出高达5亿美元，Uber四个月烧光全年AI预算
