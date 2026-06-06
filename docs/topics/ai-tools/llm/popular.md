@@ -13,6 +13,11 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-06
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/local/article/KSAOJO8G0511AQHO.html)** Meta FAIR联合斯坦福哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
+- **[CVPR 2026|LLM会写3D视觉代码吗?](http://finance.sina.com.cn/tech/roll/2026-06-06/doc-iniamxrt0852234.shtml)** GeoCodeBench测试Claude Opus 4.7获49.4%位列第一
+- **[请不起律师?用AI写诉状的美国人在三年里翻了一倍](http://finance.sina.cn/2026-06-06/detail-iniamxrt0844246.d.html)** AI辅助诉讼从1%升至18%，法官开始辨认AI写作风格
+- **[Gemini 3.5上下文窗口实测:200万token能装多少代码?](https://blog.csdn.net/2601_96226358/article/details/161739027)** 1M上下文窗口，Dynamic Thinking机制，编码测试76.2%
+- **[库克送Siri最后一程](http://finance.sina.cn/2026-06-06/detail-iniankfp0632139.d.html)** WWDC26将发布新Siri，采用Gemini模型，进驻灵动岛
+- **[没有法律的虚拟城镇:几十个Agent互砍成《西部世界》](https://www.163.com/dy/article/KUO60I6D05119FMA.html)** 多模型虚拟社会实验，Claude/Gemini/Grok/GPT对比
 - **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
 - **[4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世](https://it.sohu.com/a/1029421516_211762)** Emergence World实验刷屏，Grok四天毁灭全城，Gemini 15天683起犯罪
 - **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** Anthropic连夜发布Claude Opus 4.8，估值9650亿美元首超OpenAI

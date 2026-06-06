@@ -5,6 +5,11 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-06
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** 从AutoGPT、BabyAGI到OpenClaw，AI Agent具备自主性、工具调用、持久运行三大特征，欺诈规模首次从人力上限中解放
+- **[AI Agent越复杂越亏钱](https://baijiahao.baidu.com/s?id=1867214736180951365&wfr=spider&for=pc)** 单次Token消耗从2000飙到10000，成本非线性增长，企业越亏
+- **[GitHub Actions计算量2026年预计140亿次](http://kinmen.oursgroup.cn/ushow/0606/5622483.htm)** AI Agent贡献量暴增25倍，Claude Code占4.5%提交量
+- **[CAIE人工智能工程师认证值不值得考?](https://news.sina.cn/sx/2026-06-06/detail-iniamxrt0838917.d.html)** 39%核心技能变化，AI能力正从技术岗变基础能力
+- **[AI搜索排名优化:企业低成本获客路径](https://it.sohu.com/a/1032615245_100119123)** 大模型重构搜索规则，内容解决需求能力成新标准
+- **[2025ITValueSummit:WAIC现场版AI落地指南](http://i.youxiangvipp.com/inews/202606/898241_article851713.shtml)** 人力资源智能体落地，AI落地实验室共建
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高CrewAI最易上手，37.13%CAGR增至2035年1479亿美元
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态全、AutoGen多Agent协作、CrewAI轻量快速，选型看团队技术储备
 - **[AI Agent 从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details=161632613)** 解析规划、记忆、工具调用、行动四大核心能力，附LangGraph代码示例

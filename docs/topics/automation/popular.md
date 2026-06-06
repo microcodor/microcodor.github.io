@@ -5,6 +5,11 @@ description: AI 自动化工作流工具
 
 ### 2026-06-06
 - **[Edwin AI:IT团队的AI自动化运维工具](https://www.logicmonitor.com/edwin-ai/ai-automation)** 专门化AI agents关联告警、调查根因、跨工具执行，自动化从检测到执行的完整incident工作流
+- **[Anthropic交表,MiniMax冲A](https://baijiahao.baidu.com/s?id=1867238350180397049&wfr=spider&for=pc)** MiniMax M3首个集齐Frontier三件套国产开源模型
+- **[腾讯云ADP4.0发布:企业级AgentOps平台](https://baijiahao.baidu.com/s?id=1867242751742800144&wfr=spider&for=pc)** Agent与Workflow双向互调，打造企业级智能体平台
+- **[从OpenClaw切到Hermes:一篇面向AI Agent的实战教程](https://cloud.tencent.com/developer/article/2683335)** Hermes适合长期任务自动化，个人AI工具执行器
+- **[Knora 4.0:本体+大模型破解企业AI落地难题](https://finance.sina.cn/2026-06-06/detail-iniancxr0739340.d.html)** 领域本体与AI能力融合，构建可复用智能体系
+- **[AI智能体的分类及开发](https://www.sohu.com/a/1032973527_121198703)** 单智能体、多智能体、工作流智能体、自主行动智能体四大类
 - **[AI增强自动化工作流:从规则驱动到意图驱动](https://blog.csdn.net/weixin_42531579/article/details=161031865)** AI成为自动化流水线的智能决策节点，理解意图后自动执行后续操作
 - **[AI技能实战:从提示工程到自动化工作流](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
 - **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
