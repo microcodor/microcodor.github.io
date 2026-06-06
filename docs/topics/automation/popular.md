@@ -4,6 +4,11 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-06
+- **[Edwin AI:IT团队的AI自动化运维工具](https://www.logicmonitor.com/edwin-ai/ai-automation)** 专门化AI agents关联告警、调查根因、跨工具执行，自动化从检测到执行的完整incident工作流
+- **[AI增强自动化工作流:从规则驱动到意图驱动](https://blog.csdn.net/weixin_42531579/article/details=161031865)** AI成为自动化流水线的智能决策节点，理解意图后自动执行后续操作
+- **[AI技能实战:从提示工程到自动化工作流](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作、Workflow自动化流程、Agent达成目标
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI agents、数据收集报表、预测分析、项目管理等12款最佳工具
 - **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，克服LLM输出不确定性

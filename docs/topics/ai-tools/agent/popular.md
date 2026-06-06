@@ -4,6 +4,10 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-06
+- **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** 从AutoGPT、BabyAGI到OpenClaw，AI Agent具备自主性、工具调用、持久运行三大特征，欺诈规模首次从人力上限中解放
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高CrewAI最易上手，37.13%CAGR增至2035年1479亿美元
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态全、AutoGen多Agent协作、CrewAI轻量快速，选型看团队技术储备
+- **[AI Agent 从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details=161632613)** 解析规划、记忆、工具调用、行动四大核心能力，附LangGraph代码示例
 - **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，OpenClaw代表的Agent框架让AI可以处理不确定性业务流
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
 - **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details=149342394)** 全面对比LangChain、LangGraph、AutoGen、CrewAI等11个主流框架

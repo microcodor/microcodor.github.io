@@ -4,6 +4,10 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-06
+- **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw 72小时6万星两周21万星创下开源史上最快增长，AI Agent从开发者工具走向普通用户
+- **[解锁16亿PC!OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[当大模型开始为Agent"打工"](http://finance.sina.cn/cj/2026-06-04/detail-iniaffcw0548253.d.html)** Anthropic完成H轮650亿美元融资，估值9650亿美元抢先提交招股意向书
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](http://finance.sina.com.cn/jjxw/2026-06-05/doc-iniaicva8712667.shtml)** 技能工坊上线，Agent可自主发起技能提议，人类审核后实现自我迭代
 - **[浪潮信息企千虾方案全新升级:让AI Agent从超级员工进化为数字团队](http://finance.sina.com.cn/wm/2026-06-05/doc-iniaiqkw8588279.shtml)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
 - **[解锁16亿PC!OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
 - **[一文读懂微软Build 2026开发者大会:Agent优先时代到来](https://finance.sina.cn/2026-06-03/detail-iniaavwu2516398.d.html)** 微软发布七款自研模型，全面支持OpenClaw等Agent框架
