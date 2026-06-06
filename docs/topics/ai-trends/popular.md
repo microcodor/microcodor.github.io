@@ -4,6 +4,16 @@ description: AI 产品发布动态
 ---
 
 ### 2026-06-06
+- **[从信创专属云到专属AI云 中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 从信创专属云向专属AI云全面转型，打造全栈智能服务
+- **[Coding拷问一切,独立大模型赛道的两年生死(下篇)](https://36kr.com/p/3834814072217865)** 深度解析智谱、月之暗面、MiniMax、阶跃星辰四小龙的发展路径
+- **[从热搜到上手,AI 走向全民化](http://www.myzaker.com/article/6a1d2297b15ec04af53afcf8)** Seedance 2.0引发热议，头部创作者成为AI内容生产核心引擎
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
+- **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** OpenAI CEO萨姆·奥特曼公布2025年产品路线图
+- **[赛迪前瞻:从CES 2025全球消费电子展看AI终端三大趋势](https://mp.weixin.qq.com/s?__biz=MzA4NDMwNTEyNA==&mid=2649559649&idx=1&sn=2abc03381edcbc8c66ff5b418df76bf9&chksm=86dda88e2c3dd4365c259676397cec479bac1d96bd7b24a09ab7539966215d4e4c00a4a8cecb&scene=27)** 人形机器人、AI PC、智能眼镜等五大领域新品亮相
+- **[2025, AI进入“飞天”时刻](https://baijiahao.baidu.com/s?id=1821388734472928690)** 通义开源模型超越Llama成为世界第一模型群
+- **[1000件AI产品亮相!2025全球人工智能终端展将在深圳举行](https://baijiahao.baidu.com/s?id=1831914748957379513)** 全国首个人工智能终端展，2.5万平方米展览规模
+- **[天津发布2025年度人工智能十大应用标杆场景](https://baijiahao.baidu.com/s?id=1866578569308039825)** 涵盖科研、制造、医疗、康养等9大领域
 - **[从小龙虾到Harness中国AI智能体市场的演变与玩家全景](https://baijiahao.baidu.com/s?id=1866781338162228487)** OpenClaw五个月36万Star，Harness驾驭工程解决好用可靠批量落地问题
 - **[华清普智AI孵化器发布2025大模型API服务行业分析报告](https://m.36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
 - **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1

@@ -4,6 +4,15 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-06
+- **[浪潮信息企千虾方案全新升级:让AI Agent从超级员工进化为数字团队](http://finance.sina.com.cn/wm/2026-06-05/doc-iniaiqkw8588279.shtml)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
+- **[解锁16亿PC!OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[一文读懂微软Build 2026开发者大会:Agent优先时代到来](https://finance.sina.cn/2026-06-03/detail-iniaavwu2516398.d.html)** 微软发布七款自研模型，全面支持OpenClaw等Agent框架
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构深度对比
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，OpenClaw驱动入口重新分配
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://baijiahao.baidu.com/s?id=1867049007401051391)** 微软MXC安全执行层内置Windows内核，技能工坊上线支持Agent自我迭代
+- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型轻量化调度
+- **[openclaw v2026.5.28发布:Agent恢复更稳](https://baijiahao.baidu.com/s?id=1866722180407312567)** Agent与Codex运行时恢复能力加固，渠道安全全面增强，移动端焕新
 - **[解锁16亿PC!OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
 - **[网易智企更新使命:以可靠AI释放企业生产力](https://baijiahao.baidu.com/s?id=1866966810648184531)** 网易智企全员普及OpenClaw，覆盖研发、运营、销售、管理全岗位
 - **[对话微软Jatinder Mann:Agent时代Windows想重新成为开发者的"主场"](https://baijiahao.baidu.com/s?id=1867045579867626173)** 微软推出Microsoft Execution Containers(MXC)，OpenClaw已基于它落地

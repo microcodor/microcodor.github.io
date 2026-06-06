@@ -4,6 +4,16 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-06
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** AI agents、数据收集报表、预测分析、项目管理等12款最佳工具
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，克服LLM输出不确定性
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API
+- **[什么是AI工作流自动化?](https://www.jianshu.com/p/575e1508731e)** 预定义AI工作流vs AI自主规划工作流的区别
+- **[AI自动化工作流:智能驱动未来](https://blog.csdn.net/m0_55049655/article/details=159086427)** AI Workflow Automation Platform构建指南
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作，Workflow自动化流程，Agent达成目标
+- **[最佳AI工作流工具收藏](https://blog.csdn.net/aigjml/article/details=157519391)** FastGPT、Dify、n8n、ComfyUI等10款工具推荐
+- **[AI Workflow自动化流程设计与核心技术解析](https://www.dtstack.com/bbs/article/97840)** 数据处理、模型训练、任务编排、监控优化核心技术解析
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade自动化指南，100+集成与AI agents协调
 - **[Claude Opus 4.6刚发布就用Claude Code写项目](https://www.zhihu.com/question/2003015530420920707/answer/2045521117658575847)** Claude Workflow导向适合AI Coding、Autonomous Workflow等场景
 - **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** AI辅助开发工作流将重复性工作交由AI完成，开发者聚焦创造性工作

@@ -4,6 +4,14 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-06
+- **[超节点、灵衢、CANN,华为给出了智算时代的新选择](https://baijiahao.baidu.com/s?id=1866848927430765696)** 2026年是Agent应用爆发元年，OpenClaw代表的Agent框架让AI可以处理不确定性业务流
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336185964334382)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
+- **[2025年值得入坑AI Agent的11个顶级框架](https://blog.csdn.net/Datawhale/article/details=149342394)** 全面对比LangChain、LangGraph、AutoGen、CrewAI等11个主流框架
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** 深度解析LangGraph、AutoGen、CrewAI、Semantic Kernel等框架的设计模式
+- **[AI Agent:开创新质生产力新篇章](https://baijiahao.baidu.com/s?id=1841502662882564900)** IDC预测2028年33%企业软件将内置AI Agent，市场规模超270亿美元
+- **[AI Agent 2025:繁荣背后的真相](https://cloud.tencent.com/developer/article/2595736)** 海外论坛揭示AI agent核心困境：在约束环境中有效，在开放场景中失效
+- **[2025年,AI Agent 将如何变革?](https://baijiahao.baidu.com/s?id=1819845849007160102)** 2025年有望成为AI Agent商业爆发元年，应用市场将达数百亿美元
+- **[Microsoft Agent Framework入门](https://reactor.microsoft.com/zh-cn/reactor/events/26977/)** 构建实用型AI智能体，从概念到生产级智能体的完整指南
 - **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款自研MAI模型，发布Windows Agent Framework开源，整合Semantic Kernel和AutoGen
 - **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details=161632613)** 全面对比LangChain、LangGraph、AutoGen等主流框架，解析规划、记忆、工具调用、行动四大核心能力
 - **[Bio AI Agent](https://baike.baidu.com/item/Bio%20AI%20Agent/67901201)** 多智能体架构专为实验室数据整合设计，已与大型生物技术公司展开合作

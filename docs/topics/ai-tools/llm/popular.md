@@ -12,6 +12,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-06
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** Anthropic误传Mythos源码，内部路由出现claude-mythos-1-preview，三家新模型六月集中发布
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** Meta FAIR联合斯坦福哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
+- **[Cursor代码能力实测:Claude、GPT、Gemini到底谁更强](https://post.smzdm.com/p/am9wv4g4/)** 轻量需求Claude Sonnet最优，复杂项目重构Claude完胜
+- **[4大顶尖模型被扔进虚拟小镇求生!GPT全员饿死,Grok四天灭世](https://it.sohu.com/a/1029421516_211762)** Emergence World实验刷屏，Grok四天毁灭全城，Gemini 15天683起犯罪
+- **[Claude双炸,Opus4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866519825133332567)** Anthropic连夜发布Claude Opus 4.8，估值9650亿美元首超OpenAI
 - **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424)** Claude和Gemini正在夺走ChatGPT核心用户，参数竞赛终结，上下文窗口优势缩小
 - **[长文档处理谁最强?Claude、GPT-4o、Gemini 3深度对比实测](https://post.smzdm.com/p/arze8e9q/)** Claude 3.5支持1M token，Gemini 3达100万token，GPT-4o仅128K
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%
