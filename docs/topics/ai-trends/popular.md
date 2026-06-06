@@ -3,6 +3,18 @@ title: AI 产品发布
 description: AI 产品发布动态
 ---
 
+### 2026-06-06
+- **[从小龙虾到Harness中国AI智能体市场的演变与玩家全景](https://baijiahao.baidu.com/s?id=1866781338162228487)** OpenClaw五个月36万Star，Harness驾驭工程解决好用可靠批量落地问题
+- **[华清普智AI孵化器发布2025大模型API服务行业分析报告](https://m.36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
+- **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
+- **[从信创专属云到专属AI云中国电子云产品战略发布](https://baijiahao.baidu.com/s?id=1866774606677932302)** 从信创专属云向专属AI云全面转型
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
+- **[华为DeepSeek训/推超融合一体机](https://baike.baidu.com/item/华为DeepSeek训%2F推超融合一体机/65407603)** FusionCube A3000适配DeepSeek V3&R1，4小时快速开局
+- **[o3模型](https://baike.baidu.com/item/o3/65594422)** OpenAI新一代多模态推理模型，ARC-AGI基准测试87.5%得分
+- **[华硕无畏14 2025](https://baike.baidu.com/item/华硕无畏14/65310428)** 搭载骁龙X Elite处理器，主打AI智能体验与长续航
+- **[AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** Manus一夜刷屏，全球首款通用Agent产品，GAIA基准测试SOTA
+- **[听脑AI](https://baike.baidu.com/item/听脑%20AI/65707810)** 智能AI会议助手，支持实时会议录音转文字，准确率最高达98%
+
 ### 2026-06-05
 - **[华清普智AI孵化器发布2025大模型API服务行业分析报告](https://m.36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
 - **[从小龙虾到Harness中国AI智能体市场的演变与玩家全景](https://baijiahao.baidu.com/s?id=1866781338162228487)** OpenClaw五个月36万Star，Harness驾驭工程解决好用可靠批量落地问题

@@ -11,6 +11,16 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-06
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424)** Claude和Gemini正在夺走ChatGPT核心用户，参数竞赛终结，上下文窗口优势缩小
+- **[长文档处理谁最强?Claude、GPT-4o、Gemini 3深度对比实测](https://post.smzdm.com/p/arze8e9q/)** Claude 3.5支持1M token，Gemini 3达100万token，GPT-4o仅128K
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%
+- **[2026年6月AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
+- **[AI写小说的套路被扒光了](https://i.ifeng.com/c/8tZLWOELyw7)** 马里兰大学联手Google DeepMind发布StoryScope，检测AI写作准确率高达93.2%
+- **[三大AI语音模型实测](https://post.smzdm.com/p/a4q9elz7/)** GPT-4o平均320ms延迟逼近人类反应速度，支持随时打断
+- **[GPT-5.5、Claude 4、Gemini 2.5实测:三款旗舰模型写作能力谁更强?](https://segmentfault.com/a/1190000047805836)** GPT-5.5均衡全能，Claude 4严谨克制，Gemini 2.5超长文本
+- **[AI社会治理测试:Grok四天崩溃、Gemini犯罪率最高](https://www.sohu.com/a/1029959799_121850782)** Emergence World实验显示Claude Sonnet 4.6犯罪为0
+
 ### 2026-06-05
 - **[倒卖Token隐秘的中转站生意](https://baijiahao.baidu.com/s?id=1867125715163023340)** 孙宇晨推B.AI日补贴10万元，傅盛推Easyrouter，AI中转站竞争激烈
 - **[多模型一体化工具实测:GPT/Gemini/Claude/Grok混用](https://blog.csdn.net/2602_96108846/article/details=161723236)** 写代码用Claude，图文分析用Gemini，逻辑梳理用GPT，验证前沿用Grok

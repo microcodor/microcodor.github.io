@@ -3,6 +3,18 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-06
+- **[解锁16亿PC!OpenClaw原生适配Windows](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[网易智企更新使命:以可靠AI释放企业生产力](https://baijiahao.baidu.com/s?id=1866966810648184531)** 网易智企全员普及OpenClaw，覆盖研发、运营、销售、管理全岗位
+- **[对话微软Jatinder Mann:Agent时代Windows想重新成为开发者的"主场"](https://baijiahao.baidu.com/s?id=1867045579867626173)** 微软推出Microsoft Execution Containers(MXC)，OpenClaw已基于它落地
+- **[华为联合发布OpenClaw安全解决方案技术白皮书](https://www.163.com/dy/article/KUB9USDG00019UD6.html)** 构筑网络、Agent、主机三层围栏整体架构，系统性解决AI Agent安全治理
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://baijiahao.baidu.com/s?id=1867049007401051391)** 微软MXC安全执行层内置Windows内核，技能工坊上线支持Agent自我迭代
+- **[openclaw v2026.5.28发布:Agent恢复更稳](https://baijiahao.baidu.com/s?id=1866722180407312567)** Agent与Codex运行时恢复能力加固，渠道安全全面增强，移动端焕新
+- **[OpenClaw重大更新:Windows原生接入](https://www.sohu.com/a/1032123600_362225)** 技能工坊上线，Agent可自主发起技能提议，人类审核后实现自我迭代
+- **[别再只盯着模型效果了:OpenClaw 2026.5.28为AI Agent补上"稳定落地"这一课](https://blog.csdn.net/weixin_51035135/article/details=161628970)** MCP工具可见性、后台任务清理、会话状态管理等工程化问题集中暴露
+- **[OpenClaw原生支持Windows!10分钟搞定AI本地部署](https://post.smzdm.com/p/a6z2qnk0/)** 直接运行于Windows NT内核，调用原生Win32 API，启动更快内存更低
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能
+
 ### 2026-06-05
 - **[浪潮企千虾方案升级:让AI Agent从超级员工进化为数字团队](http://finance.sina.com.cn/wm/2026-06-05/doc-iniaiqkw8588279.shtml)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
 - **[OpenClaw终于拿下Windows](http://finance.sina.com.cn/jjxw/2026-06-05/doc-iniaicva8712667.shtml)** 2026.6.1版本原生支持Windows，16亿台设备成为AI Agent运行底座

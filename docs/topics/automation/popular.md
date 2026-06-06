@@ -3,6 +3,18 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-06
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade自动化指南，100+集成与AI agents协调
+- **[Claude Opus 4.6刚发布就用Claude Code写项目](https://www.zhihu.com/question/2003015530420920707/answer/2045521117658575847)** Claude Workflow导向适合AI Coding、Autonomous Workflow等场景
+- **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** AI辅助开发工作流将重复性工作交由AI完成，开发者聚焦创造性工作
+- **[豆包AI怎么创建工作流自动化?](https://www.php.cn/faq/2584081.html)** 五种路径：提示词模板、上下文锁定、批量生成、Python脚本、知识库驱动
+- **[工作流](https://baike.baidu.com/item/工作流/67902972)** 智能体技术中的自动化流程范式，从"脚本驱动"向"意图驱动"转型
+- **[职场人必备黑科技:6个自动办公的AI工具](https://m.163.com/dy/article/KUEHF10T0531QOHK.html)** 覆盖信息收集、PPT生成、会议记录等六大高频场景
+- **[今年最值得升级的生产力工具,可能是一整张AI工位](https://baijiahao.baidu.com/s?id=1867038738308976102)** Gemini深度研究整理信息、Kimi处理中文资料，AI搜索改变工作流
+- **[万字详解AI Agent核心概念](https://zhuanlan.zhihu.com/p/2044328943587743048)** Agent Loop、Plan-and-Execute、A2A、Agentic Workflows、Tools注册完整解析
+- **[OpenClaw:零代码AI Agent工作流编排平台实战指南](https://blog.csdn.net/weixin_33207473/article/details=161672471)** 对话即自动化，中文支持完善，技能库丰富
+- **[新手也能直接上手?云工作流AI自动生成框架使用指南](https://post.smzdm.com/p/a6z27pkz/)** Coze、Dify、OpenClaw、n8n主流工具对比，新手入门首选Coze
+
 ### 2026-06-05
 - **[小白程序员必看:5款Agent框架掌握大模型落地核心技术](https://blog.csdn.net/m0_48891301/article/details=161625964)** AutoGPT、LangGraph、Dify、CrewAI、AutoGen对比，Agent vs Workflow选择
 - **[商汤SenseNova-Skills全套办公技能](https://tech.ifeng.com/c/8tiBNNf9LbE)** 从凌乱数据到精美PPT直接交付，数据分析技能自动生成完整报告

@@ -3,6 +3,16 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-06
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款自研MAI模型，发布Windows Agent Framework开源，整合Semantic Kernel和AutoGen
+- **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details=161632613)** 全面对比LangChain、LangGraph、AutoGen等主流框架，解析规划、记忆、工具调用、行动四大核心能力
+- **[Bio AI Agent](https://baike.baidu.com/item/Bio%20AI%20Agent/67901201)** 多智能体架构专为实验室数据整合设计，已与大型生物技术公司展开合作
+- **[2025 Agent元年:小厂借AI东风垂直崛起](https://www.sohu.com/a/1031209257_121850782)** 飞猪问一新成现象级产品，Manus精准定位通用Agent，技术门槛降低催生新竞争维度
+- **[收藏!2026 最新 AI Agent 全解教程](https://blog.csdn.net/kaka0722ww/article/details=161592550)** 深度对比LangGraph、AutoGen、CrewAI三大开源框架，附企业落地实操路径
+- **[前端开发者必备:拥抱AI Agent](https://blog.csdn.net/Z987421/article/details=161678577)** 前端技能与Agent开发高度重合，成为大模型时代的"天选配置"
+- **[别学到过时的Agent了!2026年最新技术范式](https://blog.csdn.net/2301_80381519/article/details=161644366)** 从工具人到自进化数字员工的4个阶段完整梳理
+- **[本周人工智能科技简报](https://developer.cloud.tencent.com/article/2681661)** OpenAI将ChatGPT默认模型升级为GPT-5.5 Instant，NVIDIA推出视觉语言定位模型LocateAnything
+
 ### 2026-06-05
 - **[WWDC前夕!苹果批准首个iMessage AI智能体Poke](https://news.sina.cn/ai/2026-06-05/detail-iniakfhq8380814.d.html)** 首个进入Apple Messages for Business平台的第三方AI agent，可通过iMessage完成日程管理、邮件处理、智能家居控制
 - **[AI领域核心术语全指南](https://blog.csdn.net/qq_20236937/article/details/161722433)** 从AI到AGI、ML、DL、LLM的完整概念体系梳理
