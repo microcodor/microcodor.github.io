@@ -3,6 +3,13 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-07
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构，深度对比两大框架
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，OpenClaw驱动入口重新分配
+- **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入半自主或生成式AI系统
+- **[满血复活!五分钟重温OpenClaw](https://baijiahao.baidu.com/s?id=1864401857959430546)** Zabbix与OpenClaw的智能运维实践
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://www.163.com/dy/article/KUB7LCUV051100B9.html)** 腾讯马维斯、ChatGPT for PowerPoint、Google Gemini Spark等Agent密集发布
+
 ### 2026-06-06
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw 72小时6万星两周21万星创下开源史上最快增长，AI Agent从开发者工具走向普通用户
 - **[微软Build 2026:Windows原生AI Agent升级](https://caifuhao.eastmoney.com/news/20260606180549250345040)** 微软官宣Windows全面适配OpenClaw，16亿台设备成为底座

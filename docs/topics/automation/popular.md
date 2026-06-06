@@ -3,6 +3,13 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-07
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana等12款最佳AI自动化工具
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，克服LLM输出不确定性
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化自动化脚本
+
 ### 2026-06-06
 - **[Edwin AI:IT团队的AI自动化运维工具](https://www.logicmonitor.com/edwin-ai/ai-automation)** 专门化AI agents关联告警、调查根因、跨工具执行，自动化从检测到执行的完整incident工作流
 - **[Anthropic交表,MiniMax冲A](https://baijiahao.baidu.com/s?id=1867238350180397049&wfr=spider&for=pc)** MiniMax M3首个集齐Frontier三件套国产开源模型
