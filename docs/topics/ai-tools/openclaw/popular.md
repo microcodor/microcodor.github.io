@@ -4,6 +4,10 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-07
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，16亿台Windows设备成为AI Agent运行底座
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent可自主发起技能提议，人类审核后实现自我迭代
+- **[华为联合行业机构重磅发布OpenClaw安全解决方案技术白皮书](https://www.163.com/news/article/KUB9USDG00019UD6.html)** 构筑AI Agent智能安全防护体系，网络、Agent、主机三层围栏架构
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://baijiahao.baidu.com/s?id=1867049007401051391)** 微软MXC安全执行层内置Windows内核，技能工坊上线支持Agent自我迭代
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构，深度对比两大框架
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，OpenClaw驱动入口重新分配
 - **[SAP 封禁 OpenClaw 及其他未经授权的 AI Agent](https://baijiahao.baidu.com/s?id=1864348365093651553)** SAP限制通过API接入半自主或生成式AI系统

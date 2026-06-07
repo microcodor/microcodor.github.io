@@ -12,6 +12,9 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-07
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424)** 核心用户正转向Claude和Gemini，参数竞赛终结，上下文窗口优势缩小
+- **[长文档处理谁最强?Claude、GPT-4o、Gemini 3深度对比实测](https://post.smzdm.com/p/arze8e9q/)** Claude 3.5支持1M token，Gemini 3达100万token，GPT-4o仅128K
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨，真实体验分享
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/local/article/KSAOJO8G0511AQHO.html)** Meta FAIR联合斯坦福哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨，真实体验分享
 - **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据对Claude 4.6、GPT-5.4、Gemini 3.1 Pro做效率维度横向对比

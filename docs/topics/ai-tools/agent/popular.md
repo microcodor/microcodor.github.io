@@ -4,6 +4,10 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-07
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，16亿台Windows设备成为AI Agent运行底座
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款自研MAI模型，整合Semantic Kernel和AutoGen
+- **[机器打机器的时代来了:AI Agent重塑欺诈格局](https://www.51cto.com/article/845468.html)** OpenClaw 72小时6万星两周21万星，AI Agent完成关键身份切换
+- **[2025 Agent元年:小厂借AI东风垂直崛起](https://www.sohu.com/a/1031209257_121850782)** 飞猪问一问成为现象级产品，Manus精准定位通用Agent
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架，解析规划、记忆、工具调用、行动四大核心能力
 - **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出基于TOTA架构和ISS屏幕语义理解的Agent解决方案，打破API和数据孤岛
 - **[Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
