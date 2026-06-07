@@ -5,6 +5,10 @@ description: OpenClaw 社区更新、技能与工具
 
 ### 2026-06-08
 - **[浪潮信息企千虾方案全新升级:让AI Agent从"超级员工"进化为"数字团队"](https://finance.sina.cn/2026-06-05/detail-iniaiqkw8588279.d.html)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
+- **[当大模型开始为Agent"打工"](http://finance.sina.cn/cj/2026-06-04/detail-iniaffcw0548253.d.html)** Anthropic完成H轮650亿美元融资，估值9650亿美元抢先提交招股意向书
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://news.mydrivers.com/1/1127/1127236.htm)** 微软MXC安全执行层内置Windows内核，技能工坊上线支持Agent自我迭代
+- **[继OpenClaw养虾爆火后](https://baijiahao.baidu.com/s?id=1866964379132575190&wfr=spider&for=pc)** Hermes Agent黑马崛起，Github Star数量飙升
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw这类AI Agent永不休息，欺诈规模首次从人力上限中解放
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
 - **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯马维斯、ChatGPT for PowerPoint、Google Gemini Spark等Agent密集发布

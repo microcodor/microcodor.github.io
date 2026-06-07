@@ -5,6 +5,11 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-08
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
+- **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** 从AutoGPT、BabyAGI到OpenClaw，AI Agent具备自主性、工具调用、持久运行三大特征
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 深度解析LangGraph、AutoGen、CrewAI、Semantic Kernel等框架设计模式
+- **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 2025年AI Agent开发的核心技术与最佳实践
+- **[AI Agent 2025:繁荣背后的真相](https://cloud.tencent.com/developer/article/2595736)** 海外论坛揭示AI agent核心困境：在约束环境中有效，在开放场景中失效
+- **[2025年11大AI Agent框架全解析](https://blog.csdn.net/CSDN_430422/article/details/154985574)** 开发者必备智能系统构建指南，全面对比LangChain、Pydantic-AI等框架
 - **[AI Agent不是风口!2026实体门店标配,降本增效](https://baijiahao.baidu.com/s?id=1866802672454792772)** AI Agent月费已降至几百元，先用的门店人效提升30%-50%
 - **[MiniMax发布新一代旗舰模型,AI大模型竞争转向长上下文与智能体能力](https://www.jfdaily.com/wx/detail.do?id=1121453)** M3是国内首个同时具备"前沿Coding能力、1M超长上下文、原生多模态"三项核心能力的大模型
 - **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，PC将进化为"家庭AI超级计算机"
