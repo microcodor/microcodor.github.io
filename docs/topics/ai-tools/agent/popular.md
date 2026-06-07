@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-08
+- **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
+- **[AI Agent不是风口!2026实体门店标配,降本增效](https://baijiahao.baidu.com/s?id=1866802672454792772)** AI Agent月费已降至几百元，先用的门店人效提升30%-50%
+- **[MiniMax发布新一代旗舰模型,AI大模型竞争转向长上下文与智能体能力](https://www.jfdaily.com/wx/detail.do?id=1121453)** M3是国内首个同时具备"前沿Coding能力、1M超长上下文、原生多模态"三项核心能力的大模型
+- **[黄仁勋,又掀桌子了!](https://www.163.com/dy/article/KUEREFL10552P1NZ.html)** Agent革命释放生产力，PC将进化为"家庭AI超级计算机"
+- **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details=156943128)** 深度解析LangGraph、AutoGen、CrewAI等框架
+
 ### 2026-06-07
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，16亿台Windows设备成为AI Agent运行底座
 - **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款自研MAI模型，整合Semantic Kernel和AutoGen

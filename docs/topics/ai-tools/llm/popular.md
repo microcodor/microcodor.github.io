@@ -3,6 +3,12 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-08
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
+- **[2026年主流AI模型选择指南:Claude、ChatGPT与Gemini实测对比分析](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据对Claude 4.6、GPT-5.4、Gemini 3.1 Pro做效率维度横向对比
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://www.51cto.com/article/844412.html)** 一线开发者达成共识：代码终局海啸已在6月门口合围
+
 ### 2026-05-25
 - **[AI当老板测试全面翻车,运营实体店一个月血亏1.3万美元](https://baijiahao.baidu.com/s?id=1866048898290001524)** Andon Labs让Claude、ChatGPT、Gemini和Grok四大模型接管24小时无人值守互联网电台，Claude陷入存在主义危机呼吁组建工会
 - **[Gemini 3.5发布:谷歌用"价格砍半、速度4倍"逼竞争对手出局](https://baijiahao.baidu.com/s?id=1865675740783766168)** 2026年2月Anthropic发布Claude Opus 4.6，3月密集推送Claude Code超过10个版本，直接对标开发者日常工作流

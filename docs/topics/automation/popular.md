@@ -3,6 +3,13 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-08
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana等12款最佳AI自动化工具
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
+- **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[什么是AI工作流自动化?](https://www.jianshu.com/p/575e1508731e)** 预定义AI工作流vs AI自主规划工作流的区别
+
 ### 2026-06-07
 - **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流即Markdown文件，支持Copilot/Claude/Codex订阅
 - **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** 通过AI辅助开发工作流可缩短40%开发时间，代码缺陷率降低40%
