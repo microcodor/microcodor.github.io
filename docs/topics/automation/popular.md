@@ -6,6 +6,10 @@ description: AI 自动化工作流工具
 ### 2026-06-07
 - **[marktoflow:AI工作流自动化工具](https://www.mcpworld.com/zh/detail/2cac56eaad0cf27e4af9ed75c7f51d25)** 开源AI工作流自动化工具，工作流即Markdown文件，支持Copilot/Claude/Codex订阅
 - **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** 通过AI辅助开发工作流可缩短40%开发时间，代码缺陷率降低40%
+- **[AI这三年长出的10种企业交付能力](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始触碰办公室里最普遍的低效
+- **[AI增强自动化工作流:从规则驱动到意图驱动](https://blog.csdn.net/weixin_42531579/article/details=161031865)** AI成为自动化流水线的智能决策节点，理解意图后自动执行后续操作
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作、Workflow自动化流程、Agent达成目标
 - **[Claude Opus 4.6用Claude Code写项目注意事项](https://www.zhihu.com/question/2003015530420920707/answer/2045521117658575847)** Claude Code AI Coding Workflow Autonomous Workflow等场景
 - **[豆包AI怎么创建工作流自动化?](https://www.php.cn/faq/2584081.html)** 五种路径：提示词模板、上下文锁定、批量生成、脚本调用、知识库驱动
 - **[工作流:AI智能体时代的自动化流程范式](https://baike.baidu.com/item/工作流/67902972)** 利用大语言模型自主规划、工具调用与动态调度能力，实现从"脚本驱动"到"意图驱动"的范式转变

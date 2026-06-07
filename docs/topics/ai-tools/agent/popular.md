@@ -6,6 +6,11 @@ description: AI Agent 框架最新发展和趋势
 ### 2026-06-07
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，16亿台Windows设备成为AI Agent运行底座
 - **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款自研MAI模型，整合Semantic Kernel和AutoGen
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态全、AutoGen多Agent协作、CrewAI轻量快速，选型看团队技术储备
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式从独狼到军团，反思、记忆、规划三大核心能力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高CrewAI最易上手，37.13%CAGR增至2035年1479亿美元
+- **[为什么83%的企业在2025年底紧急替换AI Agent?](https://blog.csdn.net/fastcompile/article/details=161043131)** 2026年必须升级的四大底层能力清单
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
 - **[机器打机器的时代来了:AI Agent重塑欺诈格局](https://www.51cto.com/article/845468.html)** OpenClaw 72小时6万星两周21万星，AI Agent完成关键身份切换
 - **[2025 Agent元年:小厂借AI东风垂直崛起](https://www.sohu.com/a/1031209257_121850782)** 飞猪问一问成为现象级产品，Manus精准定位通用Agent
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架，解析规划、记忆、工具调用、行动四大核心能力

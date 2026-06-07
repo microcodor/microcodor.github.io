@@ -13,6 +13,11 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-07
 - **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424)** 核心用户正转向Claude和Gemini，参数竞赛终结，上下文窗口优势缩小
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%
+- **[AI编程助手三强争霸(2026版)](https://blog.csdn.net/xxzhaoming/article/details=161076856)** Claude、Gemini、GPT各自擅长什么，典型应用场景对比
+- **[谷歌Gemini 3.2偷跑上线!2200行代码一镜到底](https://baijiahao.baidu.com/s?id=1865492142470270257)** 单次提示狂飙2200行代码、手搓Windows 98，Flash级别模型把Pro按在地上摩擦
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://finance.sina.com.cn/wm/2026-05-26/doc-inhzhavy2584498.shtml)** 一线开发者达成共识：代码终局海啸已在6月门口合围
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
 - **[长文档处理谁最强?Claude、GPT-4o、Gemini 3深度对比实测](https://post.smzdm.com/p/arze8e9q/)** Claude 3.5支持1M token，Gemini 3达100万token，GPT-4o仅128K
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨，真实体验分享
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/local/article/KSAOJO8G0511AQHO.html)** Meta FAIR联合斯坦福哈佛发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
