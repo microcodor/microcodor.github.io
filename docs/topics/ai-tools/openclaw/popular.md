@@ -91,3 +91,7 @@ description: OpenClaw 社区更新、技能与工具
 ### 2026-06-04
 - **[OpenClaw入驻Windows背后,明略科技的Agent基础设施正在跨平台生长](https://finance.eastmoney.com/a/202606033758911683.html)** OpenClaw原生入驻Windows，深度集成MXC安全框架，Scout构建在其之上
 - **[疯狂迭代:OpenClaw 143次版本更新,安全体系是如何被迫长出来的](https://baijiahao.baidu.com/s?id=1864965008815433322)** 不到半年143次更新，最后长出了一套企业级安全体系
+
+### 2026-06-08
+- **[炸裂!中国 FDE 标准落锤,OpenClaw+RAG+Agent 席卷千行百业](https://www.163.com/dy/article/KUSMSDLG055616YL.html)** 《OpenClaw+RAG+Agent 智能体实操工作坊》版权获批，中国FDE标准正式落锤
+- **[2026主流龙虾AI Agent横评:国产平替混战,谁才是真正的真香之王](https://dy.163.com/article/KUOF0Q3M0527EOT6.html)** 科大讯飞AstronClaw作为OpenClaw国产平替标杆，综合体验、性价比、安全性断层领先

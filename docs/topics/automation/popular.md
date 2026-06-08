@@ -93,3 +93,8 @@ description: AI 自动化工作流工具
 
 ### 2026-06-04
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** OpenClaw、Claude Code、Kiro等AI编程工具即将发布重磅更新
+
+### 2026-06-08
+- **[哈工大张民团队联合阿里开源全流程AI多智能体导演框架VideoClaw](http://k.sina.com.cn/article_3996876140_ee3b7d6c0270173mw.html)** 哈工大联合阿里巴巴推出第二代多智能体高效协作视频生成框架VideoClaw，支持短剧制作与剧情无限续写
+- **[ComfyUI MixLab:革命性AI创作工作流转换器的创新突破](https://blog.csdn.net/gitblog_00574/article/details/161772456)** 将复杂工作流封装为可交互Web应用，AppInfo节点实现工作流的产品化转换
+- **[用AI快速写出高质量PRD的正确姿势](https://dy.163.com/article/KUQHN9460511805E.md)** 全程由Agent辅助完成1.7万字PRD，累计耗时不到1小时

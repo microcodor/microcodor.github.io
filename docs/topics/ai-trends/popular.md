@@ -98,3 +98,8 @@ description: AI 产品发布动态
 ### 2026-06-04
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](http://k.sina.com.cn/article_7857201856_1d45362c00190672ts.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%，三家合计72.4%流量
 - **[Claude双炸!Opus 4.8登场,估值9650亿反超OpenAI](https://baijiahao.baidu.com/s?id=1866496874439750296)** 650亿美元H轮融资，估值9650亿美元首度超越OpenAI，新增动态工作流功能
+
+### 2026-06-08
+- **[科大讯飞AI学习机2025暑期升级发布会:AI 1对1全新进化,16项功能再添](http://wap.mouding.jsxzyz.cn/page/202606/article_5709148.shtml)** 科大讯飞发布AI学习机16项全新功能，星火大模型以更小参数量实现国产大模型中最优考试成绩
+- **[钉钉ONE是什么?2025阿里钉钉重磅推出的AI办公应用深度解析](https://wenku.baidu.com/view/03ca68ac9f89680203d8ce2f0066f5335a8167cf.html)** 钉钉ONE成为统一智能工作台，深度融合通讯录、审批流、业务系统、知识库和日程管理六大模块
+- **["All in AI"再升级!中国工业第一区,深圳龙岗剑指"AI强区"](https://baijiahao.baidu.com/s?id=1867304160279142356)** 深圳龙岗发布"All in AI"战略一周年，全面推进人工智能与机器人产业发展

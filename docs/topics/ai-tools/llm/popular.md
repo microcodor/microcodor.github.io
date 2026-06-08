@@ -1888,3 +1888,8 @@ description: 主流大模型能力对比与选型参考
 ### 2026-06-03
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://baijiahao.baidu.com/s?id=1866270041196087637)** 一线开发者达成共识：代码终局海啸已在6月门口合围
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/news/article/KSAOJO8G0511AQHO.html)** Meta FAIR发布ProgramBench，所有模型0%完成率，首次逼近真正软件工程
+
+### 2026-06-08
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授Ethan Mollick指出Gemini Pro上次更新还是2026年2月，与Claude和GPT差距持续拉大
+- **[突发!Claude大面积宕机,用户竟收到"别人的对话"](https://tech.ifeng.com/c/8tkySHLCka2)** Claude API大面积宕机期间疑似发生跨租户隔离失效，用户收到其他用户的推理输出
+- **[15年最大重构!库克收官WWDC砸10亿升级Siri,接入谷歌Gemini对标ChatGPT](https://news.sohu.com/a/1033670608_120858255)** 苹果新版Siri底层搭载谷歌Gemini模型，每年投入约10亿美元用于Siri重构
