@@ -106,3 +106,10 @@ description: AI Agent 框架最新发展和趋势
 - **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/wangjunaijiao/article/details=160256685)** 深度解析LangGraph、CrewAI、OpenAI Agents SDK等主流框架设计理念
 - **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 百度智能云深度解析AI Agent开发平台的技术实现路径
+
+### 2026-06-09
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架
+- **[2025 Agent智能体框架新范式:实在智能如何打破API孤岛,重构企业数字生产力](https://blog.csdn.net/gjy_sc/article/details/157802573)** 实在智能推出基于TOTA架构和ISS屏幕语义理解的Agent解决方案
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/wangjunaijiao/article/details/160256685)** 深度解析LangGraph、CrewAI、OpenAI Agents SDK等主流框架设计理念
+- **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 百度智能云深度解析AI Agent开发平台的技术实现路径

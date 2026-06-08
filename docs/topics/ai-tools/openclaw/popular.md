@@ -104,3 +104,10 @@ description: OpenClaw 社区更新、技能与工具
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构
 - **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，驱动入口重新分配
 - **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能
+
+### 2026-06-09
+- **[浪潮信息企千虾方案全新升级:让AI Agent从"超级员工"进化为"数字团队"](https://finance.sina.cn/2026-06-05/detail-iniaiqkw8588279.d.html)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw永不休息，欺诈规模首次从人力上限中解放
+- **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯马维斯、ChatGPT for PowerPoint、Google Gemini Spark等Agent密集发布
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能

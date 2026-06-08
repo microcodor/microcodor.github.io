@@ -109,3 +109,10 @@ description: AI 产品发布动态
 - **[爱士惟点燃SNEC 2026:AI重构能源管理](https://stock.10jqka.com.cn/20260606/c677268085.shtml)** AI赋能的智慧能源管理系统，AI Mode 2.0发布
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
+
+### 2026-06-09
+- **[5月29日投资日历|腾讯云在上海举办"数据库+AI"产品发布会](https://baijiahao.baidu.com/s?id=1866480874443493534)** 腾讯云数据库在上海举办"数据库+AI"产品发布会
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
+- **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** AGI、Agents、GPT-4o升级版等核心技术产品路线图
+- **[赛迪前瞻:从CES 2025全球消费电子展看AI终端三大趋势](https://mp.weixin.qq.com/s?__biz=MzA4NDMwNTEyNA==&mid=2649559649&idx=1&sn=2abc03381edcbc8c66ff5b418df76bf9&chksm=86dda88e2c3dd4365c259676397cec479bac1d96bd7b24a09ab7539966215d4e4c00a4a8cecb&scene=27)** 人形机器人、智能眼镜、AIPC等AI终端新趋势
