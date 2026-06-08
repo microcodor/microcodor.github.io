@@ -5,6 +5,10 @@ description: OpenClaw 社区更新、技能与工具
 
 ### 2026-06-08
 - **[浪潮信息企千虾方案全新升级:让AI Agent从"超级员工"进化为"数字团队"](https://finance.sina.cn/2026-06-05/detail-iniaiqkw8588279.d.html)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来,一口气发七款自研模型](https://finance.sina.cn/2026-06-03/detail-iniaavwu2516398.d.html)** 微软发布七款自研MAI模型，整合Semantic Kernel和AutoGen
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构
 - **[当大模型开始为Agent"打工"](http://finance.sina.cn/cj/2026-06-04/detail-iniaffcw0548253.d.html)** Anthropic完成H轮650亿美元融资，估值9650亿美元抢先提交招股意向书
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
 - **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://news.mydrivers.com/1/1127/1127236.htm)** 微软MXC安全执行层内置Windows内核，技能工坊上线支持Agent自我迭代

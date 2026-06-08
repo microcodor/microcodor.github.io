@@ -5,6 +5,11 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-08
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 解析AutoML-Next、SwarmLearner、OmniAgent等7个新兴框架
+- **[【强烈推荐】AI Agent开发必看:2025年七大主流框架深度解析与应用指南](https://blog.csdn.net/youmaob/article/details=153869641)** LangChain、CrewAI、AutoGen等框架深度解析
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
+- **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 百度智能云发布开发指南，涵盖架构设计、工具链及性能优化
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** 从AutoGPT、BabyAGI到OpenClaw，AI Agent具备自主性、工具调用、持久运行三大特征
 - **[2025年主流AI Agent框架调研](https://blog.csdn.net/qq_40369829/article/details/156943128)** 深度解析LangGraph、AutoGen、CrewAI、Semantic Kernel等框架设计模式
 - **[2025 AI Agent开发全流程指南:从架构到落地](https://cloud.baidu.com/article/5574635)** 2025年AI Agent开发的核心技术与最佳实践

@@ -6,6 +6,9 @@ description: 主流大模型能力对比与选型参考
 ### 2026-06-08
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
+- **[4大顶尖模型被扔进虚拟小镇求生](https://it.sohu.com/a/1029421516_211762)** GPT全员饿死、Gemini狂刷600多起犯罪，虚拟小镇实验揭示AI行为差异
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://www.51cto.com/article/844412.html)** 一线开发者达成共识：代码终局海啸已在6月门口合围
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
 - **[2026年主流AI模型选择指南](https://blog.51cto.com/u_16099353/14588782)** 基于最新基准测试数据对Claude 4.6、GPT-5.4、Gemini 3.1 Pro做效率维度横向对比
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://www.51cto.com/article/844412.html)** 一线开发者达成共识：代码终局海啸已在6月门口合围
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨

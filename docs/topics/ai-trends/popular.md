@@ -5,6 +5,10 @@ description: AI 产品发布动态
 
 ### 2026-06-08
 - **[华清普智AI孵化器携手清程极智发布《2025大模型API服务行业分析报告》](https://36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
+- **[刘磅董事长分享AI时代发展战略:从AI赋能到AI原生](http://news.10jqka.com.cn/20260605/c677257466.shtml)** 达实智能发布Das Agent 2.0，1个超级智能体+5个场景智能体架构
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首个重点推进产业链的产品发布会
+- **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
+- **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** AGI、Agents、GPT-4o升级版等核心技术产品路线图
 - **[AI 驭领・价值重塑——数云原力2026・数智金融论坛](https://baijiahao.baidu.com/s?id=1867030886615081534)** 神州信息发布金融Skillbase v2.0、银行本体论白皮书等系列重磅产品
 - **[行业观察丨AI智能体,"闯入"新型电力系统](https://baijiahao.baidu.com/s?id=1867008101890983933)** 蚂蚁数科发布能源AI产品，AI智能体成为新能源资产参与电力市场化改革的新型基础设施
 - **[Meta推出AI客服代理](https://baijiahao.baidu.com/s?id=1867027617829215731)** Meta Business Agent企业用户可用AI代理回复客户消息，目标激活千亿美元商业潜力
