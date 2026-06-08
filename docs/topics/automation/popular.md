@@ -11,6 +11,7 @@ description: AI 自动化工作流工具
 - **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
 - **[什么是AI工作流自动化?](https://www.jianshu.com/p/575e1508731e)** 预定义AI工作流vs AI自主规划工作流的区别
 
 ### 2026-06-07
@@ -45,6 +46,7 @@ description: AI 自动化工作流工具
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，克服LLM输出不确定性
 - **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details=160870902)** 将AI作为"胶水"连接不同工具和API
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
 - **[什么是AI工作流自动化?](https://www.jianshu.com/p/575e1508731e)** 预定义AI工作流vs AI自主规划工作流的区别
 - **[AI自动化工作流:智能驱动未来](https://blog.csdn.net/m0_55049655/article/details=159086427)** AI Workflow Automation Platform构建指南
 - **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作，Workflow自动化流程，Agent达成目标

@@ -6,6 +6,9 @@ description: AI Agent 框架最新发展和趋势
 ### 2026-06-08
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架
+- **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/wangjunaijiao/article/details/160256685)** 深度解析LangGraph、CrewAI、OpenAI Agents SDK等主流框架设计理念
+- **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 百度智能云深度解析AI Agent开发平台的技术实现路径
+- **[【强烈推荐】AI Agent开发必看:2025年七大主流框架深度解析与应用指南](https://blog.csdn.net/youmaob/article/details/153869641)** LangChain、CrewAI、AutoGen等框架深度解析
 - **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details=160453493)** 解析AutoML-Next、SwarmLearner、OmniAgent等7个新兴框架
 - **[【强烈推荐】AI Agent开发必看:2025年七大主流框架深度解析与应用指南](https://blog.csdn.net/youmaob/article/details=153869641)** LangChain、CrewAI、AutoGen等框架深度解析
 - **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details=151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
