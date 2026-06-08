@@ -98,3 +98,9 @@ description: OpenClaw 社区更新、技能与工具
 ### 2026-06-08
 - **[炸裂!中国 FDE 标准落锤,OpenClaw+RAG+Agent 席卷千行百业](https://www.163.com/dy/article/KUSMSDLG055616YL.html)** 《OpenClaw+RAG+Agent 智能体实操工作坊》版权获批，中国FDE标准正式落锤
 - **[2026主流龙虾AI Agent横评:国产平替混战,谁才是真正的真香之王](https://dy.163.com/article/KUOF0Q3M0527EOT6.html)** 科大讯飞AstronClaw作为OpenClaw国产平替标杆，综合体验、性价比、安全性断层领先
+### 2026-06-08
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座
+- **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw永不休息，欺诈规模首次从人力上限中解放
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes Agent持久化技能系统 vs OpenClaw网关优先架构
+- **[OpenClaw:AI Agent新阶段入口争夺战](https://baijiahao.baidu.com/s?id=1864684610418398899)** 从GUI交互到API服务，驱动入口重新分配
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能

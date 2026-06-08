@@ -1894,3 +1894,9 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授Ethan Mollick指出Gemini Pro上次更新还是2026年2月，与Claude和GPT差距持续拉大
 - **[突发!Claude大面积宕机,用户竟收到"别人的对话"](https://tech.ifeng.com/c/8tkySHLCka2)** Claude API大面积宕机期间疑似发生跨租户隔离失效，用户收到其他用户的推理输出
 - **[15年最大重构!库克收官WWDC砸10亿升级Siri,接入谷歌Gemini对标ChatGPT](https://news.sohu.com/a/1033670608_120858255)** 苹果新版Siri底层搭载谷歌Gemini模型，每年投入约10亿美元用于Siri重构
+
+### 2026-06-08
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
+- **[4大顶尖模型被扔进虚拟小镇求生](https://it.sohu.com/a/1029421516_211762)** GPT全员饿死、Gemini狂刷600多起犯罪，虚拟小镇实验揭示AI行为差异
+- **[Gemini vs Claude vs GPT-4 Turbo:2024Q2横向测评报告](https://blog.csdn.net/PixelIsle/article/details/161543893)** Gemini多模态架构设计与主流竞品性能基准对比
