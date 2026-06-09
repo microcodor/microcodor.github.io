@@ -1915,3 +1915,12 @@ description: 主流大模型能力对比与选型参考
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](https://www.51cto.com/article/844412.html)** 一线开发者达成共识：代码终局海啸已在6月门口合围
+
+### 2026-06-09
+- **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会最后一舞](https://baijiahao.baidu.com/s?id=1867475333874426996)** 相比ChatGPT、Gemini以及Claude等新一代AI助手，Siri长期停留在语音命令执行阶段
+- **[一文看尽WWDC2026:库克谢幕之作,苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果与谷歌Gemini模型进行了合作，打造了新的苹果基础模型
+- **[库克谢幕送上了苹果AI史上最大更新,可惜咱都用不上](http://finance.sina.cn/2026-06-09/detail-iniauknz5206684.d.html)** Siri AI终于来了，苹果第一次把Gemini、Claude和ChatGPT请进了自己的系统
+- **[苹果WWDC2026前瞻:Siri换脑重生](https://baijiahao.baidu.com/s?id=1867397346904119315)** 新版Siri内部代号Campo，底层依赖谷歌Gemini模型
+- **[Claude Opus 4.8正式发布:支持算力调节、动态工作流与更强诚实性](https://www.thepaper.cn/newsDetail_forward_33337081)** 在智能体编程方面，Opus 4.8得分69.2%，显著高于Opus 4.7
+- **[库克谢幕苹果跳水](http://app.myzaker.com/news/article.php?pk=6a27f8e48e9f0978e10b9a0e)** 基于谷歌Gemini大模型深度定制的全新Siri
+- **[SpaceX上市前夕,我最感兴趣的是Grok的命运](https://new.qq.com/rain/a/20260608A06TP600)** Grok费用明显更高，模型能力明显弱一些

@@ -123,3 +123,12 @@ description: AI Agent 框架最新发展和趋势
 - **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 全新工具集抽象层、Logfire监控集成、多工具协作能力全面升级
 - **[系统拆解 AI Agent 框架设计门道,助你成为2025工程赛道领跑者](https://blog.csdn.net/wangjunaijiao/article/details/160256685)** 深度解析LangGraph、CrewAI、OpenAI Agents SDK等主流框架设计理念
 - **[2025年AI Agent开发平台全解析:技术路径与选型指南](https://cloud.baidu.com/article/5544918)** 百度智能云深度解析AI Agent开发平台的技术实现路径
+
+### 2026-06-09
+- **[抢占AI Agent高地,两家互联网大厂抱团出击](https://baijiahao.baidu.com/s?id=1867425803134352237)** 京东与腾讯将围绕AI Agent展开深度合作，京东提供商品供应链、履约服务能力，腾讯提供生态入口
+- **[当Agent重构入口:三家金融信息服务商的十字路口](https://baijiahao.baidu.com/s?id=1867403225995001509)** 万得推出WindClaw、Alice Agent、智能金融操作系统Alice 27等AI产品
+- **[Agentar-Fin-R1](https://baike.baidu.com/item/Agentar-Fin-R1/66254370)** 蚂蚁集团发布的金融推理大模型，基于通义千问Qwen3研发
+- **[智能体开发平台](https://baike.baidu.com/item/智能体开发平台/67628813)** 2025年平台功能持续深化，行业应用加速发展
+- **[化工行业AI Agent落地:安全巡检智能体的构建与部署路径](https://baijiahao.baidu.com/s?id=1867421467872163764)** 2026年将有40%的企业应用嵌入任务型AI智能体
+- **[工业AI Agent演进:从单点工具到自主决策体的范式转移](https://baijiahao.baidu.com/s?id=1867416716202124643)** AI正从边缘向核心、从辅助向主导渗透
+- **[未来智能与腾讯云达成战略合作,共筑AI Agent硬件与办公智能体新生态](http://www.wabei.cn/Home/News/355211)** 腾讯云WorkBuddy与未来智能viaim AI会议耳机深度整合

@@ -123,3 +123,15 @@ description: AI 自动化工作流工具
 - **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工具，克服LLM输出不确定性，支持多步骤逻辑生成可预测输出
 - **[AI技能实战:从提示工程到自动化工作流的开发指南](https://blog.csdn.net/weixin_26757949/article/details/160870902)** 将AI作为"胶水"连接不同工具和API，构建智能化的自动化脚本
 - **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 集成Claude、Gemini、Codex的AI任务自动化工具
+
+### 2026-06-09
+- **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与人工智能深度融合，向智能流程自动化IPA演进
+- **[2026年BPM软件厂商推荐榜单](https://www.sohu.com/a/1034074454_120743560)** 2026年AI浪潮让企业对智能流程的期待飙升至新高度
+- **[Claude递归自迭代 - 研发系统的AI自动化序章启幕](https://cloud.tencent.com/developer/article/2684372)** 把AI build itself想象成模型突然宣布重写自己并不准确
+- **[12个AI热词,让你秒懂大模型核心原理](https://blog.csdn.net/m0_65555479/article/details/161804839)** Prompt、Token、Context Window、RAG等核心概念解析
+- **[协同办公平台系统OA的AI与自动化应用](https://www.seeyon.com/News/desc/id/9331/typeid/index.html)** AI技术融入协同办公平台，从工具载体变成办公帮手
+- **[派评|近期值得关注的App](https://sspai.com/post/110874)** Dockside成macOS效率工具，文件置物架
+- **[面试官必问:AI Agent vs Workflow,到底怎么选?](https://blog.csdn.net/2401_84204413/article/details/161801258)** Agent和Workflow的本质区别在于执行任务的控制权在谁手里
+- **[国内主流大盘点,适配国内环境的AI工作流平台有哪些](https://news.sohu.com/a/1033622326_122658088)** Appian、棱镜AI、Zapier三大平台
+- **[2026年AI驱动型CRM解析:七款智能预测与自动化产品实测](https://m.163.com/dy/article/KUT45B720518FS2U.html)** AI驱动型CRM从加分功能升级为标配工具
+- **[真正的跨平台AI自动化框架,甚至还支持鸿蒙](https://zhuanlan.zhihu.com/p/2045905153694381051)** agent-device是专门为AI Agent设计的设备自动化CLI工具

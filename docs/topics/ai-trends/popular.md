@@ -126,3 +126,12 @@ description: AI 产品发布动态
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
 - **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** AGI、Agents、GPT-4o升级版等核心技术产品路线图
 - **[赛迪前瞻:从CES 2025全球消费电子展看AI终端三大趋势](https://mp.weixin.qq.com/s?__biz=MzA4NDMwNTEyNA==&mid=2649559649&idx=1&sn=2abc03381edcbc8c66ff5b418df76bf9&chksm=86dda88e2c3dd4365c259676397cec479bac1d96bd7b24a09ab7539966215d4e4c00a4a8cecb&scene=27)** 人形机器人、智能眼镜、AIPC等AI终端新趋势
+
+### 2026-06-09
+- **[From AI, For AI:艾利特如何让机器人成为AI产业的关键推动者](https://baijiahao.baidu.com/s?id=1867420675120630140)** 聚焦AI Terminal、AI for Science、AI Infra三大核心方向
+- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演入口大战](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 豆包月活1.72亿、DeepSeek月活1.45亿
+- **[盈康生命正式携手华为云,AI战略落地进入快车道](https://baijiahao.baidu.com/s?id=1867392175499232978)** 华为云赋能盈康生命搭建肿瘤领域核心AI技术体系
+- **[金山办公正式发布AI笔记产品WPS笔记](https://baijiahao.baidu.com/s?id=1867402065518328119)** AI不当作者只当搬运工和整理员
+- **[钉钉悟空进钢厂,中国最硬的产业,正在被AI穿透](https://mp.weixin.qq.com/s?__biz=MzA5ODIwOTAxNw==)** 沙钢集团与钉钉悟空共建数字底座
+- **[松鼠Ai主导国标编制,定义AI教育新标准](https://baijiahao.baidu.com/s?id=1867424984930881981)** 松鼠Ai参与GB/T 46348-2025国家标准制定
+- **[一个机柜60000核至强6+重构Agentic AI智算中心](https://baijiahao.baidu.com/s?id=1867400035434970537)** CPU与GPU配比从1:8演变至1:2

@@ -121,3 +121,12 @@ description: OpenClaw 社区更新、技能与工具
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](https://news.iresearch.cn/yx/2026/06/557227.shtml)** OpenClaw永不休息，欺诈规模首次从人力上限中解放
 - **[Agent集体进化!腾讯谷歌们加码,AI打工人要普及了?](https://baijiahao.baidu.com/s?id=1866763389928956134)** 腾讯马维斯、ChatGPT for PowerPoint、Google Gemini Spark等Agent密集发布
 - **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 技能工坊上线，Agent开始自己给自己写技能
+
+### 2026-06-09
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 从黄仁勋重新定义AI PC到微软Build 2026喊出Agent优先
+- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** 2026年OpenClaw等AI Agent产品的规模化应用
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://soft.china.com/article/1950847.html)** 微软宣布Windows化身Agent操作系统，OpenClaw原生支持Windows平台
+- **[OpenClaw原生入驻Windows:16亿PC变Agent底座,但安全治理远未跟上](https://blog.csdn.net/WL_ZHG/article/details/161788844)** 微软推出Microsoft Execution Containers安全执行层
+- **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://3g.bjhy.shop/align/0608/7836_4011.shtml)** GPT-5.4、Gemini 3.1 Flash双首发，ContextEngine插件接口落地
+- **[阿里云计算巢部署OpenClaw AI Agent完整步骤实操流程](https://developer.aliyun.com/article/1740313)** 阿里云计算巢一键部署OpenClaw
+- **[用OpenClaw Agent构建智能任务跟踪系统:技术实现全过程](https://blog.csdn.net/qq_34192961/article/details/161802681)** 用OpenClaw构建智能任务跟踪系统
