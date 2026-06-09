@@ -4,6 +4,11 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-09
+- **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注四维度
+- **[苹果终于承认,Siri 老了](https://baijiahao.baidu.com/s?id=1867527095460512655)** 苹果WWDC2026重构Siri AI，与Google Gemini深度合作
+- **[AI Agent 核心概念:Agent Loop、Context Engineering、Tools 注册](https://gitcode.csdn.net/6a2810b5662f9a54cb7bbcd7.html)** Agent Loop是核心、Context Engineering管理上下文、Tools注册离不开Schema和MCP
+- **[Scrapling部署教程:打造高性能数据采集环境](https://zhuanlan.zhihu.com/p/2047688399793004868)** Scrapling是现代化Python网页抓取框架，适合AI Workflow和自动化采集
+- **[SpaceX上市前夕,我最感兴趣的是Grok的命运](https://baijiahao.baidu.com/s?id=1867480462812047391)** 马斯克将xAI并入SpaceX，AI业务潜在市场规模达26.5万亿美元
 - **[SpaceX上市前夕,我最感兴趣的是Grok的命运](https://new.qq.com/rain/a/20260608A06TP600)** 马斯克将xAI并入SpaceX，AI业务潜在市场规模达26.5万亿美元
 - **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** AI辅助开发可缩短40%开发时间，代码缺陷率降低40%
 - **[跑一次Dynamic Workflows,才知半年subagent全浪费了上下文](https://www.163.com/dy/article/KUF6FNVH05566SCS.html)** Anthropic发布Dynamic Workflows，AI自主编写编排脚本

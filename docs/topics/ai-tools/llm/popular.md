@@ -4,6 +4,11 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ### 2026-06-09
+- **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会"最后一舞"](https://baijiahao.baidu.com/s?id=1867475333874426996)** 苹果WWDC2026发布Siri AI，与Google Gemini合作打造基础模型
+- **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合，底层模型+中间层个人情境+最上层Siri架构
+- **[Claude 和 Gemini 和 ChatGPT 谁更强?](https://www.zhihu.com/question/1903107430696588546/answer/2047563185071317732)** 2026年三强格局：ChatGPT全能均衡、Claude长文本工程代码封神、Gemini多模态实时
+- **[OpenAI vs Anthropic vs Google:2026年AI大模型竞争格局](https://developer.cloud.tencent.com/article/2684953)** GPT持续进化、Claude主打安全企业市场、Gemini强调原生多模态
+- **[2026 AI 模型终极对比:豆包、DeepSeek](http://k.sina.com.cn/article_7857201856_1d45362c001906fshq.html)** Gemini与谷歌生态深度联动，适合海外办公、科研计算、图像视频内容创作
 - **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://developer.cloud.tencent.com/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
 - **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
 - **[别再问追没追上:中美大模型的真实差距在这里](https://baijiahao.baidu.com/s?id=1867427086584573256)** 中国模型在开源、本地部署、中文语境已接近领先，闭源前沿仍有差距

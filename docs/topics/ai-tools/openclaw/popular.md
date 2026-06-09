@@ -4,6 +4,11 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-09
+- **[浪潮信息元脑企千虾方案升级 支持多智能体协作打造AI精英团队](http://news.10jqka.com.cn/20260609/c677329924.shtml)** 支持OpenClaw与Hermes双Agent协同运行，引入Leader-Worker智能编排
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw框架打造，生产力场景成竞争焦点
+- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** 2026年OpenClaw等AI Agent产品的规模化应用标志着AI完成商业化落地闭环
+- **[阿里云计算巢部署OpenClaw AI Agent 完整步骤实操流程](https://developer.aliyun.com/article/1740313)** 阿里云计算巢部署OpenClaw完整步骤实操，低代码部署AI智能体服务
+- **[OpenClaw 阿里云部署与Token Plan配置全教程](https://developer.aliyun.com/article/1740290)** Token Plan实现调用配额、访问权限精细化管理
 - **[解锁16亿PC!OpenClaw原生适配Windows,AI Agent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为运行底座
 - **[OpenClaw漏洞暴露AI代理已成企业定时炸弹](https://www.163.com/dy/article/KUU2LN1Q05561FZU.html)** 74%企业计划两年内部署代理式AI，仅21%建立成熟治理模型，安全风险凸显
 - **[炸裂!中国FDE标准落锤,OpenClaw+RAG+Agent席卷千行百业](https://www.163.com/dy/article/KUSMSDLG055616YL.html)** 中国FDE标准正式落锤，2-4周必落地生产级智能体

@@ -4,6 +4,11 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-09
+- **[京东与腾讯深化AI Agent合作共建超级AI入口](https://www.donews.com/news/detail/4/6587962.html)** 京东与腾讯宣布围绕AI Agent展开深度合作，依托微信生态打造跨场景智能化服务新范式
+- **[2025: AI元年 闹了半年 当前到底什么、Agent能用](http://wap.lffmgs.cc/pbhysx/70101_805050.shtml)** 2025年被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展
+- **[一键生成网页,不再是空壳子!阿里Agent平台上新](https://news.sina.cn/ai/2026-06-09/detail-iniauzkv1870776.d.html)** 阿里MuleRun发布Pages数据库模式，用户可自然语言生成带数据存储的全栈Web应用
+- **[微信AI 助手最新进展梳理](https://xueqiu.com/7483304635/393752884)** 微信AI智能体2026年度最高战略优先级，依托14亿用户打造AI超级入口
+- **[AI Agent全面进场,Newline如何打通"落地"最后一公里?](https://finance.sina.cn/tech/2026-06-09/detail-iniavmyp4946750.d.html)** Newline携NX系列云会议平板，为Agent提供高质量语音输入与多模态交互
 - **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** 全面解析规划、记忆、工具调用、行动四大核心能力，对比LangChain、AutoGen、CrewAI等主流框架
 - **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来,一口气发七款自研模型](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款MAI自研模型，整合Semantic Kernel和AutoGen，Agentic AI改写CPU游戏规则
 - **[Google Beyond Zero深度解析:AI Agent时代零信任架构的范式革命](https://blog.csdn.net/weixin_42376192/article/details/161762523)** 全球68%财富500强已部署AI Agent，15%部署超100个，企业AI进入治理时代
