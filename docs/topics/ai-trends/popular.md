@@ -4,10 +4,14 @@ description: AI 产品发布动态
 ---
 
 ### 2026-06-09
-- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演“入口大战”](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 豆包月活1.72亿、DeepSeek月活1.45亿，字节腾讯阿里激战入口
+- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演"入口大战"](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 豆包月活1.72亿、DeepSeek月活1.45亿，字节腾讯阿里激战入口
 - **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布
-- **[英特尔“硅岛宣言”:陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
-- **[新品密集迭代,AI眼镜仍需一个“杀手级”应用](https://baijiahao.baidu.com/s?id=1866983233419706228)** 2025年全球智能眼镜出货1477万台，中国同比增87.1%
+- **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
+- **[新品密集迭代,AI眼镜仍需一个"杀手级"应用](https://baijiahao.baidu.com/s?id=1866983233419706228)** 2025年全球智能眼镜出货1477万台，中国同比增87.1%
+- **[苹果打出最强AI战略:Siri全新升级](https://baijiahao.baidu.com/s?id=1867478430442824312)** 库克称"生涯高光时刻之一"，Siri全面重构为跨平台AI助手
+- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演"入口大战"](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 豆包月活1.72亿、DeepSeek月活1.45亿，入口大战愈演愈烈
+- **[腾讯举办2026AI产业应用大会](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
+- **[英伟达发布NVIDIA Cosmos 3与Nemotron 3 Ultra](https://baijiahao.baidu.com/s?id=1867403782552885671)** 面向物理AI的开放世界基础模型，打通视觉推理与世界生成
 
 ### 2026-06-08
 - **[华清普智AI孵化器携手清程极智发布《2025大模型API服务行业分析报告》](https://36kr.com/p/3839993435863942)** 头部模型呈少数主导格局，AI Ping平台可实现37.8%成本降低、90%吞吐提升
@@ -16,7 +20,7 @@ description: AI 产品发布动态
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
 - **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** AGI、Agents、GPT-4o升级版等核心技术产品路线图
 - **[赛迪前瞻:从CES 2025全球消费电子展看AI终端三大趋势](https://mp.weixin.qq.com/s?__biz=MzA4NDMwNTEyNA==&mid=2649559649&idx=1&sn=2abc03381edcbc8c66ff5b418df76bf9&chksm=86dda88e2c3dd4365c259676397cec479bac1d96bd7b24a09ab7539966215d4e4c00a4a8cecb&scene=27)** 人形机器人加速落地、智能眼镜、AIPC等AI终端新趋势
-- **[AI 驭领・价值重塑——数云原力2026・数智金融论坛](https://baijiahao.baidu.com/s?id=1867030886615081534)** 神州信息发布金融Skillbase v2.0、银行本体论白皮书等系列重磅产品
+- **[AI 驭领・价值重塑--数云原力2026・数智金融论坛](https://baijiahao.baidu.com/s?id=1867030886615081534)** 神州信息发布金融Skillbase v2.0、银行本体论白皮书等系列重磅产品
 - **[行业观察丨AI智能体,"闯入"新型电力系统](https://baijiahao.baidu.com/s?id=1867008101890983933)** 蚂蚁数科发布能源AI产品，AI智能体成为新能源资产参与电力市场化改革的新型基础设施
 - **[Meta推出AI客服代理](https://baijiahao.baidu.com/s?id=1867027617829215731)** Meta Business Agent企业用户可用AI代理回复客户消息，目标激活千亿美元商业潜力
 - **[36氪独家|2026年字节AI的四个关键命题](https://36kr.com/p/3838454229027072)** 字节AI加大对世界模型训练投入，豆包DAU达2亿，强化商业化能力
@@ -56,7 +60,7 @@ description: AI 产品发布动态
 - **[2025年AI领域十大事件:技术跃迁驱动产业融合](https://baijiahao.baidu.com/s?id=1851902307811854526)** DeepSeek-R1、宇树科技人形机器人、Manus等十大标志性事件
 - **[OpenAI公布2025年将发布的技术产品:AGI、Agents、GPT-4o升级版](https://baijiahao.baidu.com/s?id=1819913419605734779)** OpenAI CEO萨姆·奥特曼公布2025年产品路线图
 - **[赛迪前瞻:从CES 2025全球消费电子展看AI终端三大趋势](https://mp.weixin.qq.com/s?__biz=MzA4NDMwNTEyNA==&mid=2649559649&idx=1&sn=2abc03381edcbc8c66ff5b418df76bf9&chksm=86dda88e2c3dd4365c259676397cec479bac1d96bd7b24a09ab7539966215d4e4c00a4a8cecb&scene=27)** 人形机器人、AI PC、智能眼镜等五大领域新品亮相
-- **[2025, AI进入“飞天”时刻](https://baijiahao.baidu.com/s?id=1821388734472928690)** 通义开源模型超越Llama成为世界第一模型群
+- **[2025, AI进入"飞天"时刻](https://baijiahao.baidu.com/s?id=1821388734472928690)** 通义开源模型超越Llama成为世界第一模型群
 - **[1000件AI产品亮相!2025全球人工智能终端展将在深圳举行](https://baijiahao.baidu.com/s?id=1831914748957379513)** 全国首个人工智能终端展，2.5万平方米展览规模
 - **[天津发布2025年度人工智能十大应用标杆场景](https://baijiahao.baidu.com/s?id=1866578569308039825)** 涵盖科研、制造、医疗、康养等9大领域
 - **[从小龙虾到Harness中国AI智能体市场的演变与玩家全景](https://baijiahao.baidu.com/s?id=1866781338162228487)** OpenClaw五个月36万Star，Harness驾驭工程解决好用可靠批量落地问题

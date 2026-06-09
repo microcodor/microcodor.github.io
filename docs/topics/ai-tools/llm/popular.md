@@ -8,6 +8,10 @@ description: 主流大模型能力对比与选型参考
 - **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
 - **[别再问追没追上:中美大模型的真实差距在这里](https://baijiahao.baidu.com/s?id=1867427086584573256)** 中国模型在开源、本地部署、中文语境已接近领先，闭源前沿仍有差距
 - **[Gemini也叛变了,付费用户变小丑](https://cloud.tencent.com/developer/article/2682850)** Gemini改算力消耗制引众怒，付费用户权益缩水
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424/)** 核心用户正转向Claude和Gemini，参数竞赛终结，上下文窗口优势缩小
+- **[AI编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude Opus 4.7、Gemini 3.1 Pro、GPT-5.5三足鼎立，全面对比
+- **[模型进入「日更时代」:GPT-5.6泄露、Claude 4.8逼近、Gemini 3.5上线](https://blog.csdn.net/weixin_64160021/article/details/161489896)** GPT-5.6上下文150万Token，Claude 4.8支持200万+Token
+- **[2026年6月AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨
 
 ### 2026-06-08
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程

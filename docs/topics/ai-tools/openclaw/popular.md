@@ -8,6 +8,10 @@ description: OpenClaw 社区更新、技能与工具
 - **[OpenClaw漏洞暴露AI代理已成企业定时炸弹](https://www.163.com/dy/article/KUU2LN1Q05561FZU.html)** 74%企业计划两年内部署代理式AI，仅21%建立成熟治理模型，安全风险凸显
 - **[炸裂!中国FDE标准落锤,OpenClaw+RAG+Agent席卷千行百业](https://www.163.com/dy/article/KUSMSDLG055616YL.html)** 中国FDE标准正式落锤，2-4周必落地生产级智能体
 - **[百元主机也能跑AI代理,树莓派被OpenClaw意外带飞](https://dy.163.com/article/KUP5F67Q05119734.html)** 树莓派半年股价翻四倍，出货超400万台，OpenClaw带飞硬件生态
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw打造，生产力场景成竞争焦点
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 2026.6.1版本原生节点托管，Windows设备可直接入网
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** 架构理念对比，OpenClaw网关优先vs Hermes持久化学习循环
+- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP自动故障转移、多Agent协作增强、本地模型调度
 
 ### 2026-06-08
 - **[浪潮信息企千虾方案全新升级:让AI Agent从"超级员工"进化为"数字团队"](https://finance.sina.cn/2026-06-05/detail-iniaiqkw8588279.d.html)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同

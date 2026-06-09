@@ -8,6 +8,10 @@ description: AI 自动化工作流工具
 - **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** AI辅助开发可缩短40%开发时间，代码缺陷率降低40%
 - **[跑一次Dynamic Workflows,才知半年subagent全浪费了上下文](https://www.163.com/dy/article/KUF6FNVH05566SCS.html)** Anthropic发布Dynamic Workflows，AI自主编写编排脚本
 - **[新手也能直接上手?云工作流AI自动生成框架使用指南](https://post.smzdm.com/p/a6z27pkz/)** Coze、Dify、OpenClaw、n8n四大工具对比，新手入门首选Coze
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** AIaW项目让AI成为自动化流水线的智能决策节点
+- **[AI工具、Workflow、Agent三者本质区别是什么?](https://zhuanlan.zhihu.com/p/2036561140470244987)** AI工具完成动作、Workflow自动化流程、Agent达成目标
+- **[每日热门skill:n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details/161003687)** OpenClaw生态中的"工作流设计师"，拖拽式界面
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 典型工具如n8n提供开源自托管部署，支持跨平台服务集成
 
 ### 2026-06-08
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana等12款最佳AI自动化工具

@@ -9,6 +9,9 @@ description: AI Agent 框架最新发展和趋势
 - **[Google Beyond Zero深度解析:AI Agent时代零信任架构的范式革命](https://blog.csdn.net/weixin_42376192/article/details/161762523)** 全球68%财富500强已部署AI Agent，15%部署超100个，企业AI进入治理时代
 - **[深度拆解三大AI核心协议:MCP、ACP、A2A](https://cloud.tencent.com/developer/article/2654269)** MCP解决云端数据接入、ACP专注边缘协同、A2A实现跨平台互通，构建全域通信体系
 - **[AI Agent生产化避坑指南:治理能力才是落地生死线](https://blog.csdn.net/weixin_33783283/article/details=161761291)** 90%企业AI项目失败原因不在模型，在治理能力缺失
+- **[为什么83%的企业在2025年底紧急替换AI Agent?2026年必须升级的4个底层能力清单](https://blog.csdn.net/fastcompile/article/details/161043131)** 实时多源异步状态同步失效、决策溯源链、动态工具拓扑感知、跨Agent协作可信协商四大能力缺口
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
+- **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** 全面解析规划、记忆、工具调用、行动四大核心能力
 
 ### 2026-06-08
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
