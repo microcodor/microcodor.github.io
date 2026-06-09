@@ -3,6 +3,12 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-09
+- **[解锁16亿PC!OpenClaw原生适配Windows,AI Agent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为运行底座
+- **[OpenClaw漏洞暴露AI代理已成企业定时炸弹](https://www.163.com/dy/article/KUU2LN1Q05561FZU.html)** 74%企业计划两年内部署代理式AI，仅21%建立成熟治理模型，安全风险凸显
+- **[炸裂!中国FDE标准落锤,OpenClaw+RAG+Agent席卷千行百业](https://www.163.com/dy/article/KUSMSDLG055616YL.html)** 中国FDE标准正式落锤，2-4周必落地生产级智能体
+- **[百元主机也能跑AI代理,树莓派被OpenClaw意外带飞](https://dy.163.com/article/KUP5F67Q05119734.html)** 树莓派半年股价翻四倍，出货超400万台，OpenClaw带飞硬件生态
+
 ### 2026-06-08
 - **[浪潮信息企千虾方案全新升级:让AI Agent从"超级员工"进化为"数字团队"](https://finance.sina.cn/2026-06-05/detail-iniaiqkw8588279.d.html)** 双Runtime引擎、统一控制平面、Leader-Worker智能编排，实现多Agent协同
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，告别WSL与容器，16亿台Windows设备成为AI Agent运行底座

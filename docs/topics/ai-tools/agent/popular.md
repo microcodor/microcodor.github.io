@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-09
+- **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** 全面解析规划、记忆、工具调用、行动四大核心能力，对比LangChain、AutoGen、CrewAI等主流框架
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来,一口气发七款自研模型](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款MAI自研模型，整合Semantic Kernel和AutoGen，Agentic AI改写CPU游戏规则
+- **[Google Beyond Zero深度解析:AI Agent时代零信任架构的范式革命](https://blog.csdn.net/weixin_42376192/article/details/161762523)** 全球68%财富500强已部署AI Agent，15%部署超100个，企业AI进入治理时代
+- **[深度拆解三大AI核心协议:MCP、ACP、A2A](https://cloud.tencent.com/developer/article/2654269)** MCP解决云端数据接入、ACP专注边缘协同、A2A实现跨平台互通，构建全域通信体系
+- **[AI Agent生产化避坑指南:治理能力才是落地生死线](https://blog.csdn.net/weixin_33783283/article/details=161761291)** 90%企业AI项目失败原因不在模型，在治理能力缺失
+
 ### 2026-06-08
 - **[Agent化的OS:拼的不是AI,是底盘](https://baijiahao.baidu.com/s?id=1866336662722152353)** Android、iOS、HarmonyOS、Windows步入Agent时代，OS厂商拼的是三层能力底
 - **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** 全面对比LangChain、Pydantic-AI、AutoML-Next等11个主流框架

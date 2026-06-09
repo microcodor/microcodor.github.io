@@ -3,6 +3,12 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-09
+- **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://developer.cloud.tencent.com/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
+- **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
+- **[别再问追没追上:中美大模型的真实差距在这里](https://baijiahao.baidu.com/s?id=1867427086584573256)** 中国模型在开源、本地部署、中文语境已接近领先，闭源前沿仍有差距
+- **[Gemini也叛变了,付费用户变小丑](https://cloud.tencent.com/developer/article/2682850)** Gemini改算力消耗制引众怒，付费用户权益缩水
+
 ### 2026-06-08
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://baijiahao.baidu.com/s?id=1864496364756907969)** 所有模型0%完成率，首次逼近真正软件工程
 - **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速、Claude出团队版、Gemini代码能力暴涨

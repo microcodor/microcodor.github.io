@@ -3,6 +3,12 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-09
+- **[SpaceX上市前夕,我最感兴趣的是Grok的命运](https://new.qq.com/rain/a/20260608A06TP600)** 马斯克将xAI并入SpaceX，AI业务潜在市场规模达26.5万亿美元
+- **[AI辅助开发工作流:基于TRAE的审批系统开发实践指南](https://developer.baidu.com/article/detail.html?id=7404512)** AI辅助开发可缩短40%开发时间，代码缺陷率降低40%
+- **[跑一次Dynamic Workflows,才知半年subagent全浪费了上下文](https://www.163.com/dy/article/KUF6FNVH05566SCS.html)** Anthropic发布Dynamic Workflows，AI自主编写编排脚本
+- **[新手也能直接上手?云工作流AI自动生成框架使用指南](https://post.smzdm.com/p/a6z27pkz/)** Coze、Dify、OpenClaw、n8n四大工具对比，新手入门首选Coze
+
 ### 2026-06-08
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana等12款最佳AI自动化工具
 - **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，企业级AI工作流自动化平台
