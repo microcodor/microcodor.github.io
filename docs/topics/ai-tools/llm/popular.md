@@ -1924,3 +1924,10 @@ description: 主流大模型能力对比与选型参考
 - **[Claude Opus 4.8正式发布:支持算力调节、动态工作流与更强诚实性](https://www.thepaper.cn/newsDetail_forward_33337081)** 在智能体编程方面，Opus 4.8得分69.2%，显著高于Opus 4.7
 - **[库克谢幕苹果跳水](http://app.myzaker.com/news/article.php?pk=6a27f8e48e9f0978e10b9a0e)** 基于谷歌Gemini大模型深度定制的全新Siri
 - **[SpaceX上市前夕,我最感兴趣的是Grok的命运](https://new.qq.com/rain/a/20260608A06TP600)** Grok费用明显更高，模型能力明显弱一些
+
+### 2026-06-10
+- **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员花费超1500美元实测十余款主流大模型攻击能力，GPT-5.5以70%成功率排名第一
+- **[一文看尽WWDC2026:库克“谢幕之作”,苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果与谷歌Gemini合作打造全新Apple Intelligence架构，Siri全面重构升级为全能AI助手
+- **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://cloud.tencent.com/developer/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article?id=17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
+- **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** DeepSeek V4 Pro排名第二但成本优势明显，平均一次测试仅需0.19美元

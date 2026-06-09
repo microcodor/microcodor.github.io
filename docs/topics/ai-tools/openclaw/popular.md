@@ -130,3 +130,10 @@ description: OpenClaw 社区更新、技能与工具
 - **[OpenClaw 3.7 Beta:插件化上下文+双引擎首发](http://3g.bjhy.shop/align/0608/7836_4011.shtml)** GPT-5.4、Gemini 3.1 Flash双首发，ContextEngine插件接口落地
 - **[阿里云计算巢部署OpenClaw AI Agent完整步骤实操流程](https://developer.aliyun.com/article/1740313)** 阿里云计算巢一键部署OpenClaw
 - **[用OpenClaw Agent构建智能任务跟踪系统:技术实现全过程](https://blog.csdn.net/qq_34192961/article/details/161802681)** 用OpenClaw构建智能任务跟踪系统
+
+### 2026-06-10
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 从微软到OpenAI到腾讯，大厂Agent竞争围绕场景、生态、深度展开，不再提OpenClaw因已成通用方案
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本原生支持Windows，16亿台Windows设备成为AI Agent运行底座
+- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** OpenClaw等AI Agent产品的规模化应用，标志着AI技术完成从实验室验证到商业化落地的完整闭环
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 基于全新MXC框架实现Windows原生支持，技能工坊让Agent开始自己给自己写技能
+- **[OpenClaw重大更新:Windows原生接入,AI Agent开启7×24h进化新纪元](https://www.sohu.com/a/1032123600_362225)** 178个核心提交实现跨平台原生部署、自主技能进化、企业级协作，技能库每周自动扩展速度提升4.2倍

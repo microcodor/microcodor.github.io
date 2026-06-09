@@ -135,3 +135,10 @@ description: AI 自动化工作流工具
 - **[国内主流大盘点,适配国内环境的AI工作流平台有哪些](https://news.sohu.com/a/1033622326_122658088)** Appian、棱镜AI、Zapier三大平台
 - **[2026年AI驱动型CRM解析:七款智能预测与自动化产品实测](https://m.163.com/dy/article/KUT45B720518FS2U.html)** AI驱动型CRM从加分功能升级为标配工具
 - **[真正的跨平台AI自动化框架,甚至还支持鸿蒙](https://zhuanlan.zhihu.com/p/2045905153694381051)** agent-device是专门为AI Agent设计的设备自动化CLI工具
+
+### 2026-06-10
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade推出Intelligent Process Automation，100+服务集成和104+自动化动作，支持企业级工作流编排
+- **[物流AI的下一站,不是更多系统,而是更多“可执行的工作”](https://news.qq.com/rain/a/20260604A08ARA00)** CuberAI提出AI Digital Employee，区别于传统自动化工具执行任务vs执行工作
+- **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI、云计算深度融合向IPA演进，应用覆盖金融、医疗、制造等行业
+- **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** 2026年BPM选型需避开5大坑，真正AI应能理解非结构化数据、自主判断审批路径
+- **[今年最值得升级的生产力工具,可能是一整张AI工位](https://baijiahao.baidu.com/s?id=1867038738308976102)** 从Gemini深度研究到Kimi，AI搜索让工作流效率大幅提升，知识库成为AI理解用户的入口

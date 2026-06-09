@@ -132,3 +132,10 @@ description: AI Agent 框架最新发展和趋势
 - **[化工行业AI Agent落地:安全巡检智能体的构建与部署路径](https://baijiahao.baidu.com/s?id=1867421467872163764)** 2026年将有40%的企业应用嵌入任务型AI智能体
 - **[工业AI Agent演进:从单点工具到自主决策体的范式转移](https://baijiahao.baidu.com/s?id=1867416716202124643)** AI正从边缘向核心、从辅助向主导渗透
 - **[未来智能与腾讯云达成战略合作,共筑AI Agent硬件与办公智能体新生态](http://www.wabei.cn/Home/News/355211)** 腾讯云WorkBuddy与未来智能viaim AI会议耳机深度整合
+
+### 2026-06-10
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来,一口气发七款自研模型](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款MAI自研模型，从零开始训练拒绝蒸馏，MAI-Thinking-1在软件工程测试中可与最佳模型打平
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 2026年AI Agent进入落地之年， Gartner预测年底超40%企业级应用将内置AI Agent能力
+- **[2026深度解析:AI Agent智能体架构设计与生产落地实战](https://blog.csdn.net/weixin_45820015/article/details/161738818)** 深度解析ReAct、Planning、Multi-Agent、Reflexion四种主流架构范式
+- **[机器打机器的时代来了:AI Agent重塑欺诈格局,金融风控如何接招](https://www.51cto.com/article/845468.html)** OpenClaw 72小时6万星两周21万星，AI Agent完成关键身份切换走向普通用户
+- **[自愿的边界:白宫最新人工智能行政令的政策折中与安全回摆](https://fddi.fudan.edu.cn/f0/39/c18965a782393/page.htm)** 特朗普签署AI行政令引入联邦安全评估，在松绑框架下出现安全回摆

@@ -135,3 +135,10 @@ description: AI 产品发布动态
 - **[钉钉悟空进钢厂,中国最硬的产业,正在被AI穿透](https://mp.weixin.qq.com/s?__biz=MzA5ODIwOTAxNw==)** 沙钢集团与钉钉悟空共建数字底座
 - **[松鼠Ai主导国标编制,定义AI教育新标准](https://baijiahao.baidu.com/s?id=1867424984930881981)** 松鼠Ai参与GB/T 46348-2025国家标准制定
 - **[一个机柜60000核至强6+重构Agentic AI智算中心](https://baijiahao.baidu.com/s?id=1867400035434970537)** CPU与GPU配比从1:8演变至1:2
+
+### 2026-06-10
+- **[苹果打出最强AI战略,库克称“生涯高光时刻之一](https://baijiahao.baidu.com/s?id=1867484599012434818)** WWDC 2026推出新一代Apple Intelligence和重构Siri AI，iOS 27等全系系统深度融入AI功能
+- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演“入口大战”](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 字节豆包月活1.72亿、DeepSeek月活1.45亿、腾讯元宝3286万，AI应用进入入口争夺战
+- **[华清普智AI孵化器携手清程极智发布《2025大模型API服务行业分析报告](https://36kr.com/p/3839993435863942)** 报告指出大模型产业进入质量竞争转型期，AI Ping平台可实现37.8%成本降低
+- **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
+- **[6G创新发展部省协同试点专项行动将启动](https://baijiahao.baidu.com/s?id=1867110538084148399)** 工信部发布通知，2029年形成一批自主创新6G技术方案和新型终端产品
