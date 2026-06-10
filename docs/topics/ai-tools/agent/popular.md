@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-10
+- **[京东与腾讯深化AI Agent合作共建超级AI入口](https://www.donews.com/news/detail/4/6587962.html)** 京东与腾讯宣布围绕AI Agent展开深度合作，依托京东的商品供应链、履约服务能力及腾讯微信等生态入口优势，共同打造跨场景智能化服务新范式
+- **[2025: AI元年 闹了半年 当前到底什么、Agent能用](http://wap.lffmgs.cc/pbhysx/70101_805050.shtml)** 2025年被称为国内AI应用元年，诸多Agent平台和智能体产品涌现在市场，DeepResearch、Manus、扣子空间等智能体蓬勃发展
+- **[一键生成网页,不再是空壳子!阿里Agent平台上新](https://news.sina.cn/ai/2026-06-09/detail-iniauzkv1870776.d.html)** 阿里Agent平台MuleRun发布Pages数据库模式，用户通过自然语言描述需求，即可同时生成前端页面、后端接口和数据库
+- **[微信AI 助手最新进展梳理](https://xueqiu.com/7483304635/393752884)** 微信AI智能体原型曝光，腾讯列为2026年度最高战略优先级，依托14亿用户打造AI超级入口
+- **[AI Agent全面进场,Newline如何打通"落地"最后一公里?](https://finance.sina.cn/tech/2026-06-09/detail-iniavmyp4946750.d.html)** Newline携NX系列专业云会议平板深度亮相2026腾讯云AI产业应用大会，为Agent提供高质量输入与高效枢纽
+
 ### 2026-06-09
 - **[京东与腾讯深化AI Agent合作共建超级AI入口](https://www.donews.com/news/detail/4/6587962.html)** 京东与腾讯宣布围绕AI Agent展开深度合作，依托微信生态打造跨场景智能化服务新范式
 - **[2025: AI元年 闹了半年 当前到底什么、Agent能用](http://wap.lffmgs.cc/pbhysx/70101_805050.shtml)** 2025年被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展

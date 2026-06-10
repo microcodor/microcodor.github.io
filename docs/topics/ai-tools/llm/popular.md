@@ -3,6 +3,13 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-10
+- **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会"最后一舞"](https://baijiahao.baidu.com/s?id=1867475333874426996)** 苹果WWDC2026发布Siri AI，与Google Gemini合作打造基础模型，Siri全面重构
+- **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合打造新Apple Intelligence架构
+- **[Claude 和 Gemini 和 ChatGPT 谁更强?](https://www.zhihu.com/question/1903107430696588546/answer/2047563185071317732)** 2026年三强格局：ChatGPT全能均衡、Claude长文本工程代码封神、Gemini多模态实时
+- **[OpenAI vs Anthropic vs Google:2026年AI大模型竞争格局](https://developer.cloud.tencent.com/article/2684953)** GPT持续进化、Claude主打安全企业市场、Gemini强调原生多模态
+- **[2026 AI 模型终极对比:豆包、DeepSeek](http://k.sina.com.cn/article_7857201856_1d45362c001906fshq.html)** Gemini与谷歌生态深度联动，适合海外办公、科研计算、图像视频内容创作
+
 ### 2026-06-09
 - **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会"最后一舞"](https://baijiahao.baidu.com/s?id=1867475333874426996)** 苹果WWDC2026发布Siri AI，与Google Gemini合作打造基础模型
 - **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合，底层模型+中间层个人情境+最上层Siri架构
