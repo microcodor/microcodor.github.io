@@ -161,9 +161,9 @@ description: AI Agent 框架最新发展和趋势
 - **[自愿的边界:白宫最新人工智能行政令的政策折中与安全回摆](https://fddi.fudan.edu.cn/f0/39/c18965a782393/page.htm)** 特朗普签署AI行政令引入联邦安全评估，在松绑框架下出现安全回摆
 
 ### 2026-06-11
-- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent协作、CrewAI轻量快速，选型看团队技术储备
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent原生方案、CrewAI轻量角色驱动，选型直接影响开发效率
 - **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式从独狼到军团，反思、记忆、规划三大核心能力
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高CrewAI最易上手，37.13%CAGR增至2035年1479亿美元
-- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
 - **[agent](https://baike.baidu.com/item/agent/19703571)** Microsoft Agent 2025年发展最新动态解析
 
