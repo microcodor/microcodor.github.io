@@ -5,6 +5,9 @@ description: AI 自动化工作流工具
 
 ### 2026-06-10
 - **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注技术架构、数据互通等四维度
+- **[物流AI的下一站,不是更多系统,而是更多"可执行的工作"](https://news.qq.com/rain/a/20260604A08ARA00)** CuberAI定义AI Digital Employee，执行工作而非自动化任务
+- **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进，云原生部署加速
+- **[今年最值得升级的生产力工具,可能是一整张AI工位](https://baijiahao.baidu.com/s?id=1867038738308976102)** 爱范儿评测推荐：Gemini深度研究处理开放性问题，Kimi适合中文资料
 - **[苹果终于承认,Siri 老了](https://baijiahao.baidu.com/s?id=1867527095460512655)** 苹果WWDC2026重构Siri AI，与Google Gemini深度合作
 - **[AI Agent 核心概念:Agent Loop、Context Engineering、Tools 注册](https://gitcode.csdn.net/6a2810b5662f9a54cb7bbcd7.html)** Agent Loop是核心、Context Engineering管理上下文、Tools注册离不开Schema和MCP
 - **[Scrapling部署教程:打造高性能数据采集环境](https://zhuanlan.zhihu.com/p/2047688399793004868)** Scrapling是现代化Python网页抓取框架，适合AI Workflow和自动化采集

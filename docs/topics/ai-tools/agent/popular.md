@@ -5,6 +5,9 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-10
 - **[京东与腾讯深化AI Agent合作共建超级AI入口](https://www.donews.com/news/detail/4/6587962.html)** 京东与腾讯宣布围绕AI Agent展开深度合作，依托京东的商品供应链、履约服务能力及腾讯微信等生态入口优势，共同打造跨场景智能化服务新范式
+- **[2026深度解析:AI Agent智能体架构设计与生产落地实战](https://blog.csdn.net/weixin_45820015/article/details/161738818)** Gartner报告称2026年底超40%企业级应用将内置AI Agent，详解ReAct/Planning/Multi-Agent/Reflexion四大架构范式
+- **[AI Agent重塑欺诈格局,金融风控如何接招](https://www.51cto.com/article/845468.html)** OpenClaw在GitHub两周突破21万星标，AI Agent完成关键身份切换走向普通用户
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款MAI自研模型，零蒸馏从零开始训练，计算规模已增长一万亿倍
 - **[2025: AI元年 闹了半年 当前到底什么、Agent能用](http://wap.lffmgs.cc/pbhysx/70101_805050.shtml)** 2025年被称为国内AI应用元年，诸多Agent平台和智能体产品涌现在市场，DeepResearch、Manus、扣子空间等智能体蓬勃发展
 - **[一键生成网页,不再是空壳子!阿里Agent平台上新](https://news.sina.cn/ai/2026-06-09/detail-iniauzkv1870776.d.html)** 阿里Agent平台MuleRun发布Pages数据库模式，用户通过自然语言描述需求，即可同时生成前端页面、后端接口和数据库
 - **[微信AI 助手最新进展梳理](https://xueqiu.com/7483304635/393752884)** 微信AI智能体原型曝光，腾讯列为2026年度最高战略优先级，依托14亿用户打造AI超级入口

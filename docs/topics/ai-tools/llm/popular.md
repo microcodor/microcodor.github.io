@@ -5,6 +5,9 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-10
 - **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会"最后一舞"](https://baijiahao.baidu.com/s?id=1867475333874426996)** 苹果WWDC2026发布Siri AI，与Google Gemini合作打造基础模型，Siri全面重构
+- **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://cloud.tencent.com/developer/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
+- **[花1500美元,让AI"黑"自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
+- **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合打造新Apple Intelligence架构
 - **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合打造新Apple Intelligence架构
 - **[Claude 和 Gemini 和 ChatGPT 谁更强?](https://www.zhihu.com/question/1903107430696588546/answer/2047563185071317732)** 2026年三强格局：ChatGPT全能均衡、Claude长文本工程代码封神、Gemini多模态实时
 - **[OpenAI vs Anthropic vs Google:2026年AI大模型竞争格局](https://developer.cloud.tencent.com/article/2684953)** GPT持续进化、Claude主打安全企业市场、Gemini强调原生多模态

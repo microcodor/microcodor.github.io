@@ -7,6 +7,9 @@ description: OpenClaw 社区更新、技能与工具
 - **[浪潮信息元脑企千虾方案升级 支持多智能体协作打造AI精英团队](http://news.10jqka.com.cn/20260609/c677329924.shtml)** 支持OpenClaw与Hermes双Agent协同运行，引入Leader-Worker智能编排与统一管理平台
 - **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw框架打造，生产力场景成为竞争焦点
 - **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** 2026年OpenClaw等AI Agent产品的规模化应用标志着AI完成商业化落地闭环
+- **[OpenClaw重大更新:Windows原生接入,AI Agent开启7×24h进化新纪元](https://www.sohu.com/a/1032123600_362225)** 2026.6.1版本实现Windows原生支持，技能工坊让Agent自主生成新技能
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw框架打造，生产力场景成为竞争焦点
+- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** 2026年OpenClaw等AI Agent产品的规模化应用标志着AI完成商业化落地闭环
 - **[阿里云计算巢部署OpenClaw AI Agent 完整步骤实操流程](https://developer.aliyun.com/article/1740313)** 阿里云计算巢部署OpenClaw完整步骤实操，低代码部署AI智能体服务
 - **[OpenClaw 阿里云部署与Token Plan配置全教程](https://developer.aliyun.com/article/1740290)** Token Plan实现调用配额、访问权限精细化管理
 
