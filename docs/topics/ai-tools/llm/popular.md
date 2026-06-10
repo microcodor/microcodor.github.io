@@ -1950,3 +1950,11 @@ description: 主流大模型能力对比与选型参考
 - **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://cloud.tencent.com/developer/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
 - **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article?id=17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
 - **[花1500美元,让AI“黑”自己的App:GPT-5.5成功率70%](https://finance.sina.cn/2026-06-04/detail-iniafvzs9337874.d.html)** DeepSeek V4 Pro排名第二但成本优势明显，平均一次测试仅需0.19美元
+
+### 2026-06-11
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** Gemini占比29.9%、Claude 9.8%，ChatGPT仍超60%但持续下滑
+- **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude编程、Gemini多模态、GPT均衡全能，2026选型指南
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424)** 核心用户转向Claude和Gemini，参数竞赛终结
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://aicoding.csdn.net/6a22a560662f9a54cb7a06e8.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.163.com/dy/article/KV2F3G8U05568W0A.html)** 三家合计72.4%流量，市场格局趋于稳定
+

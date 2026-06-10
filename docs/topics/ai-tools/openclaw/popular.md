@@ -156,3 +156,11 @@ description: OpenClaw 社区更新、技能与工具
 - **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** OpenClaw等AI Agent产品的规模化应用，标志着AI技术完成从实验室验证到商业化落地的完整闭环
 - **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 基于全新MXC框架实现Windows原生支持，技能工坊让Agent开始自己给自己写技能
 - **[OpenClaw重大更新:Windows原生接入,AI Agent开启7×24h进化新纪元](https://www.sohu.com/a/1032123600_362225)** 178个核心提交实现跨平台原生部署、自主技能进化、企业级协作，技能库每周自动扩展速度提升4.2倍
+
+### 2026-06-11
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
+- **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI发布四大新模型
+- **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw 60天打破React十年Star纪录，安全风险引担忧
+- **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes持久化技能系统 vs OpenClaw网关优先架构
+- **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 扣子3.0支持本地Agent接入，组建Agent团队
+

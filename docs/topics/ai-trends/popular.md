@@ -161,3 +161,11 @@ description: AI 产品发布动态
 - **[华清普智AI孵化器携手清程极智发布《2025大模型API服务行业分析报告](https://36kr.com/p/3839993435863942)** 报告指出大模型产业进入质量竞争转型期，AI Ping平台可实现37.8%成本降低
 - **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
 - **[6G创新发展部省协同试点专项行动将启动](https://baijiahao.baidu.com/s?id=1867110538084148399)** 工信部发布通知，2029年形成一批自主创新6G技术方案和新型终端产品
+
+### 2026-06-11
+- **[英特尔“硅岛宣言”:陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
+- **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 创新奇智发布多款AI产品，ChatCAD、AEMS、ChatRobot升级
+- **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025发布四款AI Mini PC参考设计
+- **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖全平台，CaaS模式趋于成熟
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677368283.shtml)** 与ARM、高通、微软、英特尔、联想等保持紧密合作
+

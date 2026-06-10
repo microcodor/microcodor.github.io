@@ -161,3 +161,11 @@ description: AI 自动化工作流工具
 - **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI、云计算深度融合向IPA演进，应用覆盖金融、医疗、制造等行业
 - **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** 2026年BPM选型需避开5大坑，真正AI应能理解非结构化数据、自主判断审批路径
 - **[今年最值得升级的生产力工具,可能是一整张AI工位](https://baijiahao.baidu.com/s?id=1867038738308976102)** 从Gemini深度研究到Kimi，AI搜索让工作流效率大幅提升，知识库成为AI理解用户的入口
+
+### 2026-06-11
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** AIaW项目让AI成为自动化流水线的智能决策节点
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 典型工具如n8n提供开源自托管部署，Flowith实现市场营销自动化
+- **[每日热门skill:n8n工作流自动化让它变身“自动化军团“](https://blog.csdn.net/weitingfu/article/details/161003687)** OpenClaw生态中的"工作流设计师"，拖拽式界面
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA结合AI从规则驱动转向智能决策驱动
+
