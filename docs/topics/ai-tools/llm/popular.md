@@ -4,6 +4,10 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ### 2026-06-10
+- **[花1500美元,让AI"黑"自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
+- **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合，底层模型+中间层个人情境+最上层Siri架构
+- **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://cloud.tencent.com/developer/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article?id=17737)** Whartorn教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
 - **[突然跳水,苹果市值一夜蒸发超5700亿元!库克开发者大会"最后一舞"](https://baijiahao.baidu.com/s?id=1867475333874426996)** 苹果WWDC2026发布Siri AI，与Google Gemini合作打造基础模型，Siri全面重构
 - **[大模型三巨头同日亮牌:GPT-5、Gemini 3.0、Claude 5扎堆发布](https://cloud.tencent.com/developer/article/2684140)** GPT-5、Gemini 3.0、Claude 5同周发布，百度文心5.0硬刚，AI竞争进入全栈激战
 - **[花1500美元,让AI"黑"自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先

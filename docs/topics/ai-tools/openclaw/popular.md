@@ -4,6 +4,10 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-10
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
+- **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 告别WSL与容器，Windows设备作为原生节点加入集群，个人电脑可化身AI算力单元
+- **[OpenClaw重大更新:Windows原生接入,AI Agent开启7×24h进化新纪元](https://www.sohu.com/a/1032123600_362225)** 技能工坊让Agent自主生成新技能，178个核心提交实现跨平台原生部署
+- **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw框架打造，生产力场景成为竞争焦点
 - **[浪潮信息元脑企千虾方案升级 支持多智能体协作打造AI精英团队](http://news.10jqka.com.cn/20260609/c677329924.shtml)** 支持OpenClaw与Hermes双Agent协同运行，引入Leader-Worker智能编排与统一管理平台
 - **[大厂的Agent之争在沿着四条主线演变](https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauknz5272654.d.html)** 微软Scout基于OpenClaw框架打造，生产力场景成为竞争焦点
 - **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867517331633837822)** 2026年OpenClaw等AI Agent产品的规模化应用标志着AI完成商业化落地闭环

@@ -4,6 +4,11 @@ description: AI Agent 框架最新发展和趋势
 ---
 
 ### 2026-06-10
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
+- **[2026深度解析:AI Agent智能体架构设计与生产落地实战](https://blog.csdn.net/weixin_45820015/article/details/161738818)** Gartner报告称2026年底超40%企业级应用将内置AI Agent，详解ReAct/Planning/Multi-Agent/Reflexion四大架构范式
+- **[AI Agent重塑欺诈格局,金融风控如何接招](https://www.51cto.com/article/845468.html)** OpenClaw在GitHub两周突破21万星标，AI Agent完成关键身份切换走向普通用户
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软推出七款MAI自研模型，零蒸馏从零开始训练，计算规模已增长一万亿倍
+- **[AI Agent（百度百科）](https://baike.baidu.com/item/AI%20Agent/63546393)** 系统解析AI Agent核心特征：主动思考与跨工具操作能力，由感知、规划、记忆与工具使用模块构成
 - **[京东与腾讯深化AI Agent合作共建超级AI入口](https://www.donews.com/news/detail/4/6587962.html)** 京东与腾讯宣布围绕AI Agent展开深度合作，依托京东的商品供应链、履约服务能力及腾讯微信等生态入口优势，共同打造跨场景智能化服务新范式
 - **[2026深度解析:AI Agent智能体架构设计与生产落地实战](https://blog.csdn.net/weixin_45820015/article/details/161738818)** Gartner报告称2026年底超40%企业级应用将内置AI Agent，详解ReAct/Planning/Multi-Agent/Reflexion四大架构范式
 - **[AI Agent重塑欺诈格局,金融风控如何接招](https://www.51cto.com/article/845468.html)** OpenClaw在GitHub两周突破21万星标，AI Agent完成关键身份切换走向普通用户
