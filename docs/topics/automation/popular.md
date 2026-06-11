@@ -3,8 +3,15 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-12
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始能先理解界面再执行动作
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** AIaW将人工智能与自动化工作流结合，AI成为智能决策节点
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA结合AI后从规则驱动转向智能决策驱动，能处理非结构化数据
+- **[基于n8n快速搭建自动化办公与AI Workflow编排平台-百度智能云](https://cloud.baidu.com/opc/n8n.html)** 百度智能云n8n方案，内置多种AI助手常见能力
+
 ### 2026-06-11
-- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)**
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)**
 - **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)**
 - **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n工作流自动化工具
 - **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)**- **[给Agent装上"顺风耳":一家AI公司如何用录音硬件重构人机协作](https://new.qq.com/rain/a/20260609A0AYVU00)** 明略科技推出AI原生录音硬件Octic，为Agent装上"顺风耳"，1400多名员工"养"了3100多只"虾"

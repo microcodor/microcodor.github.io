@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-12
+- **[AI Agent 发展趋势:从工具到智能体](http://news.10jqka.com.cn/20260611/c677383948.shtml)** 从规则系统到生成式智能体，2023年多模态技术突破让Agent具备图像、语音等多模态理解能力
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent原生方案、CrewAI轻量角色驱动，选型直接影响开发效率
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details/161058629)** 18种Agent架构模式从独狼到军团，反思、记忆、规划三大核心能力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高CrewAI最易上手，37.13%CAGR增至2035年1479亿美元
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
+
 ### 2026-06-11
 - **[AI Agent商业化元年,恒生科技指数迎"应用层兑现"窗口](https://finance.eastmoney.com/a/202606103766673630.html)** 2025年是AI模型参数竞赛年，2026年焦点已转向商业场景。快手可灵AI全球用户破亿，单季营收超6.5亿元
 - **[Anthropic发布Mythos系列新模型 AIAgent仍是最重要方向之一](https://www.163.com/dy/article/KV21SBF705198CJN.html)** Anthropic发布Claude Fable 5，性能超越以往所有模型，AI Agent仍是最重要方向

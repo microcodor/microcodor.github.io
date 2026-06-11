@@ -3,6 +3,13 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-12
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
+- **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 支持接入本地Agent，组建Agent团队，支持OpenClaw、Claude Code等主流框架
+- **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** OpenClaw网关优先，Hermes持久化系统，两者从相反方向解决同一个问题
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://baijiahao.baidu.com/s?id=1865509317415357800)** 中美Agent走不同赛道，中国特色：生态整合、国产替代、合规本土化
+- **[MIAOYUN|每周AI新鲜事儿 260515](https://baijiahao.baidu.com/s?id=1865489823567677534)** 阶跃星辰、面壁智能、蚂蚁百灵、Jina AI先后发布实时语音、端侧多模态等新模型
+
 ### 2026-06-11
 - **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)**
 - **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)**- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867574288619523234)** 2026年OpenClaw等AI Agent产品的规模化应用，标志着AI技术完成从实验室验证到商业化落地的完整闭环

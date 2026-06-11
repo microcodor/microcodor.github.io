@@ -3,6 +3,13 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-12
+- **[公开版Mythos上线,Claude最强模型开始分层发售](https://baijiahao.baidu.com/s?id=1867572425545156300)** Fable 5面向普通用户开放，Mythos 5继续限制在安全合作伙伴范围内，定价输入10美元/百万token
+- **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Claude Fable 5可让之前需要几个月完成的软件工程压缩到几天完成，一天完成5000万行代码
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比微升至29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude适合工程代码、Gemini多模态实时、GPT全能均衡
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424/)** Claude和Gemini持续蚕食ChatGPT市场份额，核心用户正转向竞品
+
 ### 2026-06-11
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比微升至29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
 - **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Anthropic发布Claude Fable 5，可让之前需要几个月完成的软件工程压缩到几天完成
