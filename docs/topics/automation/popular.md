@@ -4,7 +4,10 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-11
-- **[给Agent装上"顺风耳":一家AI公司如何用录音硬件重构人机协作](https://new.qq.com/rain/a/20260609A0AYVU00)** 明略科技推出AI原生录音硬件Octic，为Agent装上"顺风耳"，1400多名员工"养"了3100多只"虾"
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)**
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)**
+- **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n工作流自动化工具
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)**- **[给Agent装上"顺风耳":一家AI公司如何用录音硬件重构人机协作](https://new.qq.com/rain/a/20260609A0AYVU00)** 明略科技推出AI原生录音硬件Octic，为Agent装上"顺风耳"，1400多名员工"养"了3100多只"虾"
 - **[苹果终于承认,Siri 老了](http://app.myzaker.com/news/article.php?pk=6a2917b68e9f095c7e13d75c)** 苹果WWDC2026重塑Siri为Siri AI，与Google Gemini深度合作，发布五个Apple Foundation Models
 - **[微盟WAI完成技术升级:AI+SaaS推动从"卖工具"到"卖结果"](https://www.donews.com/news/detail/4/6589860.html)** Skill调度提升经营体验，AI能力边界从"有限交互"拓展到"无限可能"
 - **[Claude Code爆火背后的Agent Harness底层逻辑](https://baijiahao.baidu.com/s?id=1867585528144937541)** UIUC、Meta、斯坦福102页综述《Code as Agent Harness》深度解读Agent Harness底层逻辑
@@ -170,7 +173,10 @@ description: AI 自动化工作流工具
 - **[今年最值得升级的生产力工具,可能是一整张AI工位](https://baijiahao.baidu.com/s?id=1867038738308976102)** 从Gemini深度研究到Kimi，AI搜索让工作流效率大幅提升，知识库成为AI理解用户的入口
 
 ### 2026-06-11
-- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** AIaW项目让AI成为自动化流水线的智能决策节点
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)**
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)**
+- **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n工作流自动化工具
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)**- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details/161031865)** AIaW项目让AI成为自动化流水线的智能决策节点
 - **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent
 - **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 典型工具如n8n提供开源自托管部署，Flowith实现市场营销自动化
 - **[每日热门skill:n8n工作流自动化让它变身“自动化军团“](https://blog.csdn.net/weitingfu/article/details/161003687)** OpenClaw生态中的"工作流设计师"，拖拽式界面

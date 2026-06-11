@@ -9,6 +9,11 @@ description: AI Agent 框架最新发展和趋势
 - **[AI Agent仍是最重要方向!去年智能体相关专利申请暴涨143%](https://baijiahao.baidu.com/s?id=1867593846439493371)** 中国企业级AI智能体市场2025年已达212亿元，预计2026年将增至449亿元
 - **[2025 AI元年 当前到底什么Agent能用](http://3g.binzhou.coojia.cc/shentx/21923_894319.shtml)** 2025被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展
 - **[AI Agent 执行路径规划深度研究](https://deepseek.csdn.net/6a28bac910ee7a33f279f106.html)** 执行路径规划深度研究：从经典符号规划到LLM驱动的推理-行动融合
+- **[抢占AI Agent高地,两家互联网大厂抱团出击](https://baijiahao.baidu.com/s?id=1867425803134352237)** 京东与腾讯将围绕AI Agent展开深度合作，京东提供商品供应链、履约服务能力，腾讯提供生态入口
+- **[当Agent重构入口:三家金融信息服务商的十字路口](https://baijiahao.baidu.com/s?id=1867403225995001509)** 万得推出WindClaw、Alice Agent、智能金融操作系统Alice 27等AI产品
+- **[HarmonyOS 7.0 最大变化曝光,AI Agent全面上车,6月12日全球首发](https://baijiahao.baidu.com/s?id=1866975845465872196)** 
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent原生方案、CrewAI轻量角色驱动
+- **[AI早已学会反思组队记忆甚至脑中彩排!2025年最热AI Agent架构深度揭秘](https://blog.csdn.net/WANGJUNAIJIAO/article/details=161058629)** 18种Agent架构模式从独狼到军团，反思、记忆、规划三大核心能力
 
 ### 2026-06-10
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
