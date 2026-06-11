@@ -1966,3 +1966,9 @@ description: 主流大模型能力对比与选型参考
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://aicoding.csdn.net/6a22a560662f9a54cb7a06e8.html)** ChatGPT月访问量55亿、Claude增长255%、Gemini增长584%
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://www.163.com/dy/article/KV2F3G8U05568W0A.html)** 三家合计72.4%流量，市场格局趋于稳定
 
+
+### 2026-06-11 (新增)
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** 90%职业开发者使用AI编程工具，Claude适合工程代码、Gemini多模态实时、GPT全能均衡
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424/)** Claude Opus 4.8可替代人类完成工作，代码缺陷漏网可能性降低四倍
+- **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://aicoding.csdn.net/6a22a560662f9a54cb7a06e8.html)** ChatGPT月访问量55亿，Claude以255%环比增速成为全球增长最快网站

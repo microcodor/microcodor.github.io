@@ -182,3 +182,10 @@ description: AI 自动化工作流工具
 - **[每日热门skill:n8n工作流自动化让它变身“自动化军团“](https://blog.csdn.net/weitingfu/article/details/161003687)** OpenClaw生态中的"工作流设计师"，拖拽式界面
 - **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA结合AI从规则驱动转向智能决策驱动
 
+
+### 2026-06-11 (新增)
+- **[AI增强自动化工作流:从规则驱动到意图驱动的智能决策实践](https://blog.csdn.net/weixin_42531579/article/details=161031865)** AIaW项目将AI与自动化工作流结合，让AI成为"智能决策节点"
+- **[别只盯着 ChatGPT 和 Manus:这些小众 AI 工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** n8n提供开源自托管部署，Flowith实现市场营销自动化与DevOps流程构建
+- **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的"工作流设计师"，可视化拖拽界面
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA从规则驱动转向智能决策驱动，结合AI处理非结构化数据

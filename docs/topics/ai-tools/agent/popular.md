@@ -179,3 +179,10 @@ description: AI Agent 框架最新发展和趋势
 - **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
 - **[agent](https://baike.baidu.com/item/agent/19703571)** Microsoft Agent 2025年发展最新动态解析
 
+
+### 2026-06-11 (新增)
+- **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://baijiahao.baidu.com/s?id=1867692647266583734)** 《人工智能安全治理框架》2.0版发布，首次明确"智能体演进"趋势，提出"熔断机制"与"一键管控"硬性监管要求
+- **[AI Agent 发展趋势:从工具到智能体](http://news.10jqka.com.cn/20260611/c677383948.shtml)** 2024年全球AI智能体市场规模将达450亿美元，预计2027年将达1200亿美元
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details=161383231)** 从ReAct到Multi-Agent，自主任务分解、规划执行、工具调用三大核心能力
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时即可出原型，37.13%CAGR增至2035年1479亿美元
+- **[agent](https://baike.baidu.com/item/agent/19703571)** Microsoft Agent 2025年推出开源框架，整合Semantic Kernel和AutoGen统一智能体开发

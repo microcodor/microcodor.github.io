@@ -177,3 +177,9 @@ description: AI 产品发布动态
 - **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖全平台，CaaS模式趋于成熟
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677368283.shtml)** 与ARM、高通、微软、英特尔、联想等保持紧密合作
 
+
+### 2026-06-11 (新增)
+- **[英特尔“硅岛宣言”:陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI阶段CPU与GPU比例从1:8改为1:1，2026年底前AI推理工作负载占数据中心40%
+- **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、AEAM、ChatRobot等多款AI产品
+- **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计
+- **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖PC、移动及主机全平台，"作弊即服务"模式趋于成熟

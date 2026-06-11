@@ -173,3 +173,9 @@ description: OpenClaw 社区更新、技能与工具
 - **[Hermes Agent vs OpenClaw:2026年哪个AI Agent框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes持久化技能系统 vs OpenClaw网关优先架构
 - **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 扣子3.0支持本地Agent接入，组建Agent团队
 
+
+### 2026-06-11 (新增)
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
+- **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw相关公开漏洞达258个，约20%的Skills被检测出包含恶意代码
+- **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是"与你一同成长的Agent"，通过结构化学习循环累积能力
+- **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 扣子3.0支持接入本地Agent，可将Claude Code、OpenClaw等工具接入
