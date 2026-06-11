@@ -3,6 +3,11 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-11
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比微升至29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Anthropic发布Claude Fable 5，可让之前需要几个月完成的软件工程压缩到几天完成
+- **[公开版Mythos上线,Claude最强模型开始分层发售](https://baijiahao.baidu.com/s?id=1867572425545156300)** Fable 5面向普通用户开放，Mythos 5继续限制在安全合作伙伴范围内
+
 ### 2026-06-10
 - **[花1500美元,让AI"黑"自己的App:GPT-5.5成功率70%](https://www.163.com/dy/article/KUJCBHK80511FQO9.html)** 安全研究员实测十余款主流大模型攻击能力，GPT-5.5以70%成功率领先
 - **[一文看尽WWDC2026:库克"谢幕之作",苹果AI大更新](https://baijiahao.baidu.com/s?id=1867476197159147431)** 苹果自研基础模型与Gemini联合，底层模型+中间层个人情境+最上层Siri架构

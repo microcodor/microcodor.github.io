@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-11
+- **[AI Agent商业化元年,恒生科技指数迎"应用层兑现"窗口](https://finance.eastmoney.com/a/202606103766673630.html)** 2025年是AI模型参数竞赛年，2026年焦点已转向商业场景。快手可灵AI全球用户破亿，单季营收超6.5亿元
+- **[Anthropic发布Mythos系列新模型 AIAgent仍是最重要方向之一](https://www.163.com/dy/article/KV21SBF705198CJN.html)** Anthropic发布Claude Fable 5，性能超越以往所有模型，AI Agent仍是最重要方向
+- **[AI Agent仍是最重要方向!去年智能体相关专利申请暴涨143%](https://baijiahao.baidu.com/s?id=1867593846439493371)** 中国企业级AI智能体市场2025年已达212亿元，预计2026年将增至449亿元
+- **[2025 AI元年 当前到底什么Agent能用](http://3g.binzhou.coojia.cc/shentx/21923_894319.shtml)** 2025被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展
+- **[AI Agent 执行路径规划深度研究](https://deepseek.csdn.net/6a28bac910ee7a33f279f106.html)** 执行路径规划深度研究：从经典符号规划到LLM驱动的推理-行动融合
+
 ### 2026-06-10
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** OpenClaw 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
 - **[2026深度解析:AI Agent智能体架构设计与生产落地实战](https://blog.csdn.net/weixin_45820015/article/details/161738818)** Gartner报告称2026年底超40%企业级应用将内置AI Agent，详解ReAct/Planning/Multi-Agent/Reflexion四大架构范式

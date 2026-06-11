@@ -3,6 +3,12 @@ title: AI 产品发布
 description: AI 产品发布动态
 ---
 
+### 2026-06-11
+- **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台
+- **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，助力行业客户快速打造AI PC产品
+- **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动的外挂已覆盖PC、移动及主机全平台，攻防对抗复杂度达历史峰值
+- **[TurboX AI眼镜](https://baike.baidu.com/item/TurboX%20AI眼镜/67791529)** 中科创达推出智能眼镜产品，采用双芯分布式架构，2025年7月正式向全球市场推出
+
 ### 2026-06-10
 - **[苹果打出最强AI战略,库克称"生涯高光时刻之一"](https://baijiahao.baidu.com/s?id=1867484599012434818)** 苹果WWDC2026发布新一代Apple智能，Siri全面重构为跨平台全能AI助手
 - **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年

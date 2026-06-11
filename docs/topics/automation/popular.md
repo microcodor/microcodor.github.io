@@ -3,6 +3,13 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-11
+- **[给Agent装上"顺风耳":一家AI公司如何用录音硬件重构人机协作](https://new.qq.com/rain/a/20260609A0AYVU00)** 明略科技推出AI原生录音硬件Octic，为Agent装上"顺风耳"，1400多名员工"养"了3100多只"虾"
+- **[苹果终于承认,Siri 老了](http://app.myzaker.com/news/article.php?pk=6a2917b68e9f095c7e13d75c)** 苹果WWDC2026重塑Siri为Siri AI，与Google Gemini深度合作，发布五个Apple Foundation Models
+- **[微盟WAI完成技术升级:AI+SaaS推动从"卖工具"到"卖结果"](https://www.donews.com/news/detail/4/6589860.html)** Skill调度提升经营体验，AI能力边界从"有限交互"拓展到"无限可能"
+- **[Claude Code爆火背后的Agent Harness底层逻辑](https://baijiahao.baidu.com/s?id=1867585528144937541)** UIUC、Meta、斯坦福102页综述《Code as Agent Harness》深度解读Agent Harness底层逻辑
+- **[ComfyUI 教程合集|AI绘图、ControlNet、Lora、IPAdapter、视频生成全攻略](https://blog.csdn.net/m0_37988015/article/details/160917095)** ComfyUI是基于节点式工作流的Stable Diffusion图形界面工具
+
 ### 2026-06-10
 - **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注技术架构、数据互通等四维度
 - **[物流AI的下一站,不是更多系统,而是更多"可执行的工作"](https://news.qq.com/rain/a/20260604A08ARA00)** CuberAI定义AI Digital Employee，执行工作而非自动化任务

@@ -3,6 +3,13 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-11
+- **[面向后摩尔时代系统级集成,奥芯明聚焦先进封装应用创新](https://baijiahao.baidu.com/s?id=1867574288619523234)** 2026年OpenClaw等AI Agent产品的规模化应用，标志着AI技术完成从实验室验证到商业化落地的完整闭环
+- **[从OpenClaw到Hermes Agent:安装、迁移、配置、实战演示](https://developer.aliyun.com/article/1740740)** 详解从OpenClaw迁移到Hermes Agent的全过程，Hermes是Nous Research推出的自进化AI Agent
+- **[2026年阿里云OpenClaw/Hermes Agent配置Token Plan安装详细解读](https://weibo.com/ttarticle/p/show?id=2309405308378615513098)** 阿里云轻量服务器一键部署OpenClaw/Hermes，零代码自动化、模块化技能扩展
+- **[2026年阿里云OpenClaw/Hermes Agent配置Token Plan集成一看就会](https://blog.csdn.net/yunfuuwqi/article/details/161866187)** OpenClaw是开源的个人AI助手，零代码门槛、多端适配、生态扩展、智能决策
+- **[阿里云ECS云服务器部署OpenClaw与Hermes Agent配置百炼Token Plan全流程](https://developer.aliyun.com/article/1740668)** 阿里云ECS部署OpenClaw/Hermes，搭配百炼Token Plan完成全流程配置
+
 ### 2026-06-10
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
 - **[OpenClaw终于拿下Windows!全球龙虾党狂欢](https://baijiahao.baidu.com/s?id=1867047387589322690)** 告别WSL与容器，Windows设备作为原生节点加入集群，个人电脑可化身AI算力单元
