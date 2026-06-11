@@ -4,7 +4,10 @@ description: AI 产品发布动态
 ---
 
 ### 2026-06-12
-- **[英特尔“硅岛宣言”:陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，训练阶段CPU:GPU为1:8，智能体阶段变为1:1
+- **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台
+- **[联想集团跻身中国科创企业创新力TOP500前十](https://baijiahao.baidu.com/s?id=1867696767148358696)** 牵头制定智能体标准发布实施，10款L3级终端集中亮相，天禧个人超级智能体入选
+- **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 阿里云内部创业AI Agent产品MuleRun，2025年发布钉钉8.0 AI钉钉1.0版本
+- **[英特尔"硅岛宣言":陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，训练阶段CPU:GPU为1:8，智能体阶段变为1:1
 - **[中科创达:公司是AIPC产业全栈产品和技术提供商,早在CES2025宣布推出四款AI Mini PC参考设计](http://news.10jqka.com.cn/20260610/c677366574.shtml)** AI Mini PC G1 Elite等多款产品，助力快速打造AI PC创新性产品
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、ChatRobot等多款产品，入选国家工信部专精特新小巨人企业
 - **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首届重点产业链产品发布会，集中发布智能机器人和大模型产品
@@ -14,7 +17,7 @@ description: AI 产品发布动态
 - **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，助力行业客户快速打造AI PC产品
 - **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动的外挂已覆盖PC、移动及主机全平台，攻防对抗复杂度达历史峰值
 - **[TurboX AI眼镜](https://baike.baidu.com/item/TurboX%20AI眼镜/67791529)** 中科创达推出智能眼镜产品，采用双芯分布式架构，2025年7月正式向全球市场推出
-- **[英特尔“硅岛宣言”:陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)**
+- **[英特尔"硅岛宣言":陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)**
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)**
 
 ### 2026-06-10
@@ -170,14 +173,14 @@ description: AI 产品发布动态
 - **[一个机柜60000核至强6+重构Agentic AI智算中心](https://baijiahao.baidu.com/s?id=1867400035434970537)** CPU与GPU配比从1:8演变至1:2
 
 ### 2026-06-10
-- **[苹果打出最强AI战略,库克称“生涯高光时刻之一](https://baijiahao.baidu.com/s?id=1867484599012434818)** WWDC 2026推出新一代Apple Intelligence和重构Siri AI，iOS 27等全系系统深度融入AI功能
-- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演“入口大战”](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 字节豆包月活1.72亿、DeepSeek月活1.45亿、腾讯元宝3286万，AI应用进入入口争夺战
+- **[苹果打出最强AI战略,库克称"生涯高光时刻之一](https://baijiahao.baidu.com/s?id=1867484599012434818)** WWDC 2026推出新一代Apple Intelligence和重构Siri AI，iOS 27等全系系统深度融入AI功能
+- **[盘点2025:从模型到硬件,从烧钱到造血,AI应用上演"入口大战"](http://k.sina.com.cn/article_7857201856_1d45362c001906fidu.html)** 字节豆包月活1.72亿、DeepSeek月活1.45亿、腾讯元宝3286万，AI应用进入入口争夺战
 - **[华清普智AI孵化器携手清程极智发布《2025大模型API服务行业分析报告](https://36kr.com/p/3839993435863942)** 报告指出大模型产业进入质量竞争转型期，AI Ping平台可实现37.8%成本降低
 - **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
 - **[6G创新发展部省协同试点专项行动将启动](https://baijiahao.baidu.com/s?id=1867110538084148399)** 工信部发布通知，2029年形成一批自主创新6G技术方案和新型终端产品
 
 ### 2026-06-11
-- **[英特尔“硅岛宣言”:陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
+- **[英特尔"硅岛宣言":陈立武的五重信号](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI改写CPU游戏规则，CPU与GPU配比从1:8演变至1:1
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 创新奇智发布多款AI产品，ChatCAD、AEMS、ChatRobot升级
 - **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025发布四款AI Mini PC参考设计
 - **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖全平台，CaaS模式趋于成熟
@@ -185,7 +188,7 @@ description: AI 产品发布动态
 
 
 ### 2026-06-11 (新增)
-- **[英特尔“硅岛宣言”:陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI阶段CPU与GPU比例从1:8改为1:1，2026年底前AI推理工作负载占数据中心40%
+- **[英特尔"硅岛宣言":陈立武的五重信号,和一场尚未完成的手术](https://baijiahao.baidu.com/s?id=1866942713080142501)** Agentic AI阶段CPU与GPU比例从1:8改为1:1，2026年底前AI推理工作负载占数据中心40%
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、AEAM、ChatRobot等多款AI产品
 - **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计
 - **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖PC、移动及主机全平台，"作弊即服务"模式趋于成熟

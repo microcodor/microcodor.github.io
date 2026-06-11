@@ -4,6 +4,10 @@ description: OpenClaw 社区更新、技能与工具
 ---
 
 ### 2026-06-12
+- **[浪潮企业级OpenClaw解决方案企千虾打造AI数字团队](http://news.10jqka.com.cn/field/sr/20260610/58446367.shtml)** 升级双Runtime引擎，实现短周期即时任务与长流程持续任务互补，Leader-Worker智能编排
+- **[OpenAI将迎来重大改版,奥特曼要造"超级应用"](http://www.cb.com.cn/index/show/zj/cv/cv135373051265)** Codex接入90多个插件，覆盖JIRA、GitLab、Figma、Salesforce等，6个新角色插件
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式智能网络
 - **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 支持接入本地Agent，组建Agent团队，支持OpenClaw、Claude Code等主流框架
 - **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** OpenClaw网关优先，Hermes持久化系统，两者从相反方向解决同一个问题
