@@ -13,6 +13,12 @@ description: 主流大模型能力对比与选型参考
 - **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
 
+### 2026-06-13
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[Claude"神话"模型登场!自主科研成果超《科学》论文水平](https://baijiahao.baidu.com/s?id=1867578929653304519)** Claude Fable 5和Mythos 5发布，性能超越以往所有模型
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
+
 ### 2026-06-12
 - **[公开版Mythos上线,Claude最强模型开始分层发售](https://baijiahao.baidu.com/s?id=1867572425545156300)** Fable 5面向普通用户开放，Mythos 5继续限制在安全合作伙伴范围内，定价输入10美元/百万token
 - **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Claude Fable 5可让之前需要几个月完成的软件工程压缩到几天完成，一天完成5000万行代码

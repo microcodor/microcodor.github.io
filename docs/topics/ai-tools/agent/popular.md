@@ -14,6 +14,13 @@ description: AI Agent 框架最新发展和趋势
 - **[AI Agent 发展趋势:从工具到智能体](http://news.10jqka.com.cn/20260611/c677383948.shtml)** 从规则系统到生成式智能体，2023年多模态技术突破让Agent具备图像、语音等多模态理解能力
 - **[AI Agent 实现框架深度调研](https://blog.csdn.net/tony_4539/article/details/161868539)** LangChain、AutoGen、CrewAI等支流框架技术解析，选型发起
 
+### 2026-06-13
+- **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
+- **[阿里云:《AI Agent开发新范式合集》企业AI应用落地范式](https://baijiahao.baidu.com/s?id=1867684584606828464)** LLM+AI Agent双引擎架构，MCP是AI时代的"USB-C"，存量业务0代码改造为MCP Server
+- **[AI Agent（百度百科）](https://baike.baidu.com/item/AI%20Agent/63546393)** 系统解析AI Agent核心特征：主动思考与跨工具操作能力，2026年多款产品发布
+- **[AI Agent 发展趋势:从工具到智能体](http://news.10jqka.com.cn/20260611/c677383948.shtml)** 从规则系统到生成式智能体，2023年多模态技术突破让Agent具备图像、语音等多模态理解能力
+- **[AI Agent 实现框架深度调研](https://blog.csdn.net/tony_4539/article/details/161868539)** LangChain、AutoGen、CrewAI等支流框架技术解析，选型发起
+
 ### 2026-06-12
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](http://hainan.ifeng.com/c/8tmmIePq0Il)** OpenClaw两周突破21万星标，AI Agent从开发者工具走向普通用户，欺诈规模化边界首次解放

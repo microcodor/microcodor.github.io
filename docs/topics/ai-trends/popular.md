@@ -14,6 +14,13 @@ description: AI 产品发布动态
 - **[高通发布数据中心新品牌Dragonfly,安蒙:2026是AI智能体元年](https://baijiahao.baidu.com/s?id=1867306580533559859)** 智能体正成为AI Token需求核心驱动力，重新定义未来AI架构与经济模式
 
 ## 近期动态
+### 2026-06-13
+- **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
+- **[破局AI焦虑,美图秀秀获评2025最佳影像编辑应用](https://baijiahao.baidu.com/s?id=1867488409181157424)** 2025年最佳图像与视频编辑应用奖项，AI视觉创新能力与市场表现获认可
+- **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
+- **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
+
 ### 2026-06-12
 - **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台
 - **[联想集团跻身中国科创企业创新力TOP500前十](https://baijiahao.baidu.com/s?id=1867696767148358696)** 牵头制定智能体标准发布实施，10款L3级终端集中亮相，天禧个人超级智能体入选

@@ -15,6 +15,14 @@ description: AI 自动化工作流工具
 - **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
 - **[2026年新发布workbuddy哪家便宜又靠谱?](https://www.zgswcn.com/shangxun/news.html?aid=774164)** 精打细算选AI助手，2026年新发布WorkBuddy推荐
 
+### 2026-06-13
+- **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
+- **[AI生产力手术刀:精准切开信息过载、决策延迟与执行断层](https://bbs.csdn.net/weixin_33761747/article/details/100132391)** AI精准切开生产力链条中最顽固的三个结点
+- **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
+- **[2026年新发布workbuddy哪家便宜又靠谱?](https://www.zgswcn.com/shangxun/news.html?aid=774164)** 精打细算选AI助手，2026年新发布WorkBuddy推荐
+
 ### 2026-06-12
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
 - **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进，云原生部署加速
