@@ -4,6 +4,13 @@ description: 主流大模型能力对比与选型参考
 ---
 
 ### 2026-06-12
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
+- **[模型进入「日更时代」:GPT-5.6 泄露、Claude 4.8 逼近、Gemini 3.5 上线、国产杀疯了](https://blog.csdn.net/weixin_64160021/article/details/161489896)** 上下文突破150万Token，工程可靠性再升级
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑](http://k.sina.com.cn/article_5953740931_162dee08306703aqs0.html)** Anthropic Mythos新模型代码泄露，Claude Security仪表盘成型
+- **[2026年6月,AI大模型又卷出新高度](https://zhuanlan.zhihu.com/p/2044827069998269302)** ChatGPT限速倒逼付费，Claude Team版上线，共享知识库功能
+- **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://m.163.com/news/article/KSAOJO8G0511AQHO.html)** ProgramBench评测：所有模型无法完整重建软件项目
+
+### 2026-06-12
 - **[公开版Mythos上线,Claude最强模型开始分层发售](https://baijiahao.baidu.com/s?id=1867572425545156300)** Fable 5面向普通用户开放，Mythos 5继续限制在安全合作伙伴范围内，定价输入10美元/百万token
 - **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Claude Fable 5可让之前需要几个月完成的软件工程压缩到几天完成，一天完成5000万行代码
 - **[GPT-5正式发布:与Claude 4、Gemini 2.5等大模型谁更胜一筹?](http://k.sina.com.cn/article_7857201856_1d45362c001906l4rk.html)** GPT-5支持400K token上下文长度，集成思维链推理能力

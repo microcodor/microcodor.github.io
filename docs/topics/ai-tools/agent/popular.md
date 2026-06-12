@@ -5,6 +5,13 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-12
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** LangChain、CrewAI、AutoGen等11大框架全面对比，附代码示例
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** AutoML-Next、SwarmLearner、OmniAgent等7大框架技术解析
+- **[【强烈推荐】AI Agent开发必看:2025年七大主流框架深度解析与应用指南](https://blog.csdn.net/youmaob/article/details/153869641)** Dify、Coze、LangChain、CrewAI、Semantic Kernel选型指南
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** 工具链系统重构、Logfire监控集成、多工具协作能力
+
+### 2026-06-12
+- **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 - **[AI Agent时代来临:金融欺诈进入"机器对机器"阶段](http://hainan.ifeng.com/c/8tmmIePq0Il)** OpenClaw两周突破21万星标，AI Agent从开发者工具走向普通用户，欺诈规模化边界首次解放
 - **[阿里云:《AI Agent开发新范式合集》企业AI应用落地范式](https://baijiahao.baidu.com/s?id=1867684584606828464)** LLM+AI Agent双引擎架构，MCP是AI时代的"USB-C"，存量业务0代码改造为MCP Server
 - **[AI Agent（百度百科）](https://baike.baidu.com/item/AI%20Agent/63546393)** 系统解析AI Agent核心特征：主动思考与跨工具操作能力，2026年多款产品发布

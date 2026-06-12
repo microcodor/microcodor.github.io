@@ -4,6 +4,13 @@ description: AI 自动化工作流工具
 ---
 
 ### 2026-06-12
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Zapier AI Workflows，30天安装3.4万工作小时，丰田、Slate等企业案例
+- **[TaskPilotSignal](https://www.microsoft.com/zh-cn/p/taskpilotsignal/9nmhf1jz0q87)** 使用第三方服务和AI Provider CLI账户的自动化工具
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出的工作流工具，支持多步骤逻辑生成可预测输出
+- **[什么是 AI 工作流自动化?](https://www.jianshu.com/p/575e1508731e)** 预定义AI工作流 vs AI自主规划工作流的区别
+
+### 2026-06-12
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
 - **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注技术架构等四维度
 - **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2046399711356138320)** Skill是"我能做什么"清单，MCP是"手上能拿到什么工具"，Workflow是串起它们的线
