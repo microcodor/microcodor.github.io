@@ -196,3 +196,9 @@ description: OpenClaw 社区更新、技能与工具
 - **[龙虾盒子C端狂奔,一家深圳公司要做AI Agent时代的「入口与安全基座」](https://baijiahao.baidu.com/s?id=1864966575628107570)** OpenClaw相关公开漏洞达258个，约20%的Skills被检测出包含恶意代码
 - **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是"与你一同成长的Agent"，通过结构化学习循环累积能力
 - **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** 扣子3.0支持接入本地Agent，可将Claude Code、OpenClaw等工具接入
+
+### 2026-06-12
+- **[浪潮企业级OpenClaw解决方案企千虾打造AI数字团队](http://news.10jqka.com.cn/field/sr/20260610/58446367.shtml)** 升级双Runtime引擎，实现短周期即时任务与长流程持续任务互补，Leader-Worker智能编排
+- **[OpenAI将迎来重大改版,奥特曼要造"超级应用"](http://www.cb.com.cn/index/show/zj/cv/cv135373051265)** Codex接入90多个插件，覆盖JIRA、GitLab、Figma、Salesforce等，6个新角色插件
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化

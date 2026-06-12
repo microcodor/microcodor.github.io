@@ -207,3 +207,9 @@ description: AI 自动化工作流工具
 - **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** n8n提供开源自托管部署，Flowith实现市场营销自动化与DevOps流程构建
 - **[每日热门skill:你的AI助手还在"单兵作战"?n8n工作流自动化让它变身"自动化军团"](https://blog.csdn.net/weitingfu/article/details=161003687)** n8n是OpenClaw生态中的"工作流设计师"，可视化拖拽界面
 - **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA从规则驱动转向智能决策驱动，结合AI处理非结构化数据
+
+### 2026-06-12
+- **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
+- **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注技术架构等四维度
+- **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2046399711356138320)** Skill是"我能做什么"清单，MCP是"手上能拿到什么工具"，Workflow是串起它们的线
+- **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进，云原生部署加速

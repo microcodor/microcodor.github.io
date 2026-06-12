@@ -198,3 +198,9 @@ description: AI 产品发布动态
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、AEAM、ChatRobot等多款AI产品
 - **[中科创达:公司是AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计
 - **[腾讯发布《2025游戏安全白皮书》:AI外挂席卷全平台](https://www.donews.com/news/detail/8/6589824.html)** AI驱动外挂覆盖PC、移动及主机全平台，"作弊即服务"模式趋于成熟
+
+### 2026-06-12
+- **[联想集团跻身中国科创企业创新力TOP500前十](https://baijiahao.baidu.com/s?id=1867696767148358696)** 牵头制定智能体标准发布实施，10款L3级终端集中亮相，天禧个人超级智能体入选
+- **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 阿里云内部创业AI Agent产品MuleRun，2025年发布钉钉8.0 AI钉钉1.0版本
+- **[星河AI园区网络](https://baike.baidu.com/item/星河AI园区网络/67828673)** 华为发布星河AI园区网络等产品，连续第四年入选Gartner领导者象限
+- **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台

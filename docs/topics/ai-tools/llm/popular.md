@@ -1990,3 +1990,10 @@ description: 主流大模型能力对比与选型参考
 - **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details=161076856)** 90%职业开发者使用AI编程工具，Claude适合工程代码、Gemini多模态实时、GPT全能均衡
 - **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424/)** Claude Opus 4.8可替代人类完成工作，代码缺陷漏网可能性降低四倍
 - **[2026年AI大模型三足鼎立:ChatGPT、Claude、Gemini终极对比与选型指南](https://aicoding.csdn.net/6a22a560662f9a54cb7a06e8.html)** ChatGPT月访问量55亿，Claude以255%环比增速成为全球增长最快网站
+
+### 2026-06-12
+- **[公开版Mythos上线,Claude最强模型开始分层发售](https://baijiahao.baidu.com/s?id=1867572425545156300)** Fable 5面向普通用户开放，Mythos 5继续限制在安全合作伙伴范围内，定价输入10美元/百万token
+- **[Claude 新模型炸翻全网!网友慌了:以后更有钱的更聪明](https://baijiahao.baidu.com/s?id=1867670893558907830)** Claude Fable 5可让之前需要几个月完成的软件工程压缩到几天完成，一天完成5000万行代码
+- **[GPT-5正式发布:与Claude 4、Gemini 2.5等大模型谁更胜一筹?](http://k.sina.com.cn/article_7857201856_1d45362c001906l4rk.html)** GPT-5支持400K token上下文长度，集成思维链推理能力
+- **[Grok选择暴力,Claude走向独裁:AI的虚拟社会有多可怕](https://36kr.com/p/3847303426315272)** AI生存实验：Claude管理的社会15天零犯罪，Grok社会因暴力毁灭
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比微升至29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
