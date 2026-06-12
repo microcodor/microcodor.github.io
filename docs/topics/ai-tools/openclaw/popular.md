@@ -7,6 +7,13 @@ description: OpenClaw 社区更新、技能与工具
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式网络
 
 ## 近期动态
+### 2026-06-13
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
+- **[AI Agent进阶:从OpenClaw迁移至Hermes Agent全教程](https://developer.aliyun.com/article/1740787)** 从OpenClaw迁移至Hermes Agent完整指南，零基础用户也可完成
+- **[OpenClaw生态日报 2026-06-08](https://github.com/kakapez/agents-radar/issues/244)** 过去24小时OpenClaw项目保持极高活跃度，累计产生299条Issue更新、500条PR更新
+- **[从零上手阿里云AI智能体部署](https://zhuanlan.zhihu.com/p/2047020542314681502)** 2026年OpenClaw、Hermes Agent安装与Token Plan配置详解
+
 ### 2026-06-12
 - **[浪潮企业级OpenClaw解决方案企千虾打造AI数字团队](http://news.10jqka.com.cn/field/sr/20260610/58446367.shtml)** 升级双Runtime引擎，实现短周期即时任务与长流程持续任务互补，Leader-Worker智能编排
 - **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
