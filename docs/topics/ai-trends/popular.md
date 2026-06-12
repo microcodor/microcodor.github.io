@@ -5,6 +5,12 @@ description: AI 产品发布动态
 
 ### 2026-06-12
 - **[高通发布数据中心新品牌Dragonfly,安蒙:2026是AI智能体元年](https://baijiahao.baidu.com/s?id=1867306580533559859)** 智能体正成为AI Token需求核心驱动力，重新定义未来AI架构与经济模式
+
+## 近期动态
+### 2026-06-12
+- **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台
+- **[联想集团跻身中国科创企业创新力TOP500前十](https://baijiahao.baidu.com/s?id=1867696767148358696)** 牵头制定智能体标准发布实施，10款L3级终端集中亮相，天禧个人超级智能体入选
+- **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 阿里云内部创业AI Agent产品MuleRun，2025年发布钉钉8.0 AI钉钉1.0版本
 - **[「数智周报」DeepSeek计划首轮融资约70亿美元,估值590亿美元](https://baijiahao.baidu.com/s?id=1867306580533559859)** Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元
 - **[AI的下一场革命,智源「押注」世界模型](http://m.bjnews.com.cn/detail/1781226560129167.html)** 世界模型预测"下一个物理状态"，而非"下一个Token"
 - **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 阿里云内部创业AI Agent产品MuleRun，2025年发布钉钉8.0 AI钉钉1.0版本
