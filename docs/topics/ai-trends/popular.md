@@ -235,3 +235,10 @@ description: AI 产品发布动态
 - **[光象科技发布Phi-Bot X1:行业首个工业级自进化具身智能机器人](https://baijiahao.baidu.com/s?id=1867772125634049458)** 具备"一机多能、快速上岗、自我学习"三大核心能力，部署周期从6个月缩短至周级，质检效率提升51%
 - **[智能体AI竞争进入新维度!AMD先发红利还能保持多久?](https://baijiahao.baidu.com/s?id=1867774578841580301)** AMD锐龙AI Max系列已推35款智能体主机，英伟达RTX Spark入局PC AI，128GB统一内存运行千亿参数模型
 - **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利，五大巨头入局
+
+### 2026-06-13 (百度搜索新增)
+- **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"
+- **[破局AI焦虑,美图秀秀获评2025最佳影像编辑应用](https://baijiahao.baidu.com/s?id=1867488409181157424)** 2025年最佳图像与视频编辑应用奖项
+- **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
+- **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布

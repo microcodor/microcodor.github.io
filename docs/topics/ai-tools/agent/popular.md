@@ -8,6 +8,12 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 ### 2026-06-13
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
+- **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
+- **[AI Agent元年:Gartner预言40%企业被智能体接管](https://www.163.com/dy/article/KUSTNQRK0531CXC9.html)** Gartner预测2026年底40%企业应用将嵌入AI Agent能力，而2025年仅为不到5%
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 2026年多款产品发布，联想、理想、百度等厂商展示AI Agent落地成果
+- **[企业级AI Agent技术架构设计:从原型到生产的可实操指南](https://blog.csdn.net/m0_37988015/article/details/161917425)** 企业级AI Agent技术架构设计五层框架，涵盖基础设施到上层治理
+### 2026-06-13
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent原生方案、CrewAI轻量角色驱动，选型直接影响开发效率
 - **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，荣获2025年度软件行业先进性科技成果
 - **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时即可出原型，37.13%CAGR增至2035年1479亿美元
@@ -256,3 +262,7 @@ description: AI Agent 框架最新发展和趋势
 - **[不懂Skill的人,等于不懂2026年的AI Agent](https://www.163.com/dy/article/KV8C71BK05118E4U.html)** Skill是能力包，不只是API调用，包含场景规范、节奏把控和流程知识，2025年从工具化进入能力包时代
 - **[应用到应用](https://baike.baidu.com/item/应用到应用/18748593)** A2A协议实现Agent间安全协作，通过"智能体名片"进行能力发现，已获超50家技术合作伙伴支持
 - **[深度融合Agent与语义建模 长亮科技DataMind开启金融数智化开发新阶段](https://baijiahao.baidu.com/s?id=1867775797540784415)** DataMind通过语义建模与Agent深度融合，数据开发效率提升70%，六大能力构建企业级Agent运行底座
+
+### 2026-06-13 (百度搜索新增)
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details=161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化

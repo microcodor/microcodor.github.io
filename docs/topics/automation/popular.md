@@ -246,3 +246,10 @@ description: AI 自动化工作流工具
 - **[三款国产AI工作流平台深度横评:小白选Coze,开发者选n8n,AI原生选Dify](https://post.smzdm.com/p/a95x2dpo/)** Coze零代码5分钟上手，n8n支持1200+节点适合复杂业务，Dify聚焦RAG和Agent构建
 - **[字节Coze 3.0悄悄上线没人聊,真正的对手根本不是Dify和n8n](https://www.163.com/dy/article/KV83VVM1055616YL.html)** AI编程Agent(如Claude Code)用自然语言替代拖拽工作流，但企业核心业务仍需确定性Workflow
 - **[新媒体AI客服工具成降本主旋律,让企业告别夜间加班倒班](https://www.sohu.com/a/1035714159_122734986)** 基于大模型智能体的动态推理与场景化路由架构，需集成RAG与模型对抗性场景训练解决幻觉问题
+
+### 2026-06-13 (百度搜索新增)
+- **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** 高性价比GEO监测工具推荐
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务
+- **[AI生产力手术刀:精准切开信息过载、决策延迟与执行断层](https://bbs.csdn.net/weixin_33761747/article/details=100132391)** AI精准切开生产力链条中最顽固的三个结点
+- **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
+- **[2026年新发布workbuddy哪家便宜又靠谱?](https://www.zgswcn.com/shangxun/news.html?aid=774164)** 精打细算选AI助手

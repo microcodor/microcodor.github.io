@@ -2016,3 +2016,8 @@ description: 主流大模型能力对比与选型参考
 - **[端侧AI三强对决:苹果认输、谷歌死磕、中国堆参数,谁赢了?](http://finance.sina.com.cn/cj/2026-06-13/doc-inicfkww9786531.shtml)** 苹果WWDC26将Siri改为统一模型路由层，承认自研模型不如Gemini/Claude；谷歌Gemini Nano直接写入Tensor G5硬件
 - **[6月AI史诗级混战:Claude登顶估值榜,GPT-5.6紧急救场](https://news.sohu.com/a/1035456719_121869969)** Claude Fable 5估值9650亿美元超越OpenAI，SWE-bench Pro得分80.3%碾压GPT-5.5的58.6%，Stripe用其将5个月项目缩至几天
 - **[2026年上半年语音AI大事记:从GPT-Realtime-2到MAI-Voice-2](http://k.sina.com.cn/article_7857141524_1d45277140190377k8.html)** GPT-Realtime-2引入推理能力，Gemini Live API全双工架构支持Proactive Audio，70+语言实时翻译
+
+### 2026-06-13 (百度搜索新增)
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[Claude"神话"模型登场!自主科研成果超《科学》论文水平](https://baijiahao.baidu.com/s?id=1867578929653304519)** Claude Fable 5和Mythos 5发布，性能超越以往所有模型
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大

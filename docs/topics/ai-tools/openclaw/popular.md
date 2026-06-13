@@ -8,6 +8,9 @@ description: OpenClaw 社区更新、技能与工具
 
 ## 近期动态
 ### 2026-06-13
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
+### 2026-06-13
 - **[OpenClaw凉了吗?我们和它的核心开发者聊了聊](https://baijiahao.baidu.com/s?id=1865453302560159443)** 开发者眼中的OpenClaw爆火之后，大厂纷纷开始入局Agent
 - **[对谈高德&理想:Agent如何改变汽车的未来](https://baijiahao.baidu.com/s?id=1865575228227439693)** 高德推出汽车出行AI Agent，Agent上车成为战略级选择
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式网络
@@ -233,3 +236,9 @@ description: OpenClaw 社区更新、技能与工具
 - **[OpenClaw GitHub星标突破30万:2026现象级AI Agent框架核心优势全景拆解](https://news.sohu.com/a/1035993708_122802957)** 6个月从10万星到30万星，5400+技能插件远超Coze/Dify，Skill化设计是核心架构创新
 - **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://hub.baai.ac.cn/view/55475)** 中科院发布首个OpenClaw综述，提出四大"开放性原则"，指出26.1%社区工具存在安全漏洞
 - **[2026年AI Agent框架全景横评:OpenClaw生态9款产品场景选型指南](https://blog.csdn.net/xyghehehehe/article/details/161947601)** OpenClaw(71K+Stars)催生MaxClaw、KimiClaw、AutoClaw等9款衍生产品，覆盖云服务/本地/企业安全/办公场景
+
+### 2026-06-13 (百度搜索新增)
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details=161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
+- **[AI Agent进阶:从OpenClaw迁移至Hermes Agent全教程](https://developer.aliyun.com/article/1740787)** 从OpenClaw迁移至Hermes Agent完整指南
+- **[OpenClaw生态日报 2026-06-08](https://github.com/kakapez/agents-radar/issues/244)** 过去24小时299条Issue更新、500条PR更新
