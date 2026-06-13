@@ -8,6 +8,12 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 ### 2026-06-13
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain生态最全、AutoGen多Agent原生方案、CrewAI轻量角色驱动，选型直接影响开发效率
+- **[对话式智能表格获认可!葡萄城获2025年度软件行业先进性科技成果](https://www.163.com/dy/article/KT7UMHNL0531LAKM.html)** 基于SpreadJS实现的对话式智能表格AI Agent框架，荣获2025年度软件行业先进性科技成果
+- **[2025年AI Agent编排框架深度调研:从62.7亿到1479亿美元的市场进化](https://zhuanlan.zhihu.com/p/2038289679036977658)** LangGraph精度最高但学习曲线陡峭，CrewAI 2-4小时即可出原型，37.13%CAGR增至2035年1479亿美元
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，三阶段技术演进完整梳理
+
+### 2026-06-13
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 - **[阿里云:《AI Agent开发新范式合集》企业AI应用落地范式](https://baijiahao.baidu.com/s?id=1867684584606828464)** LLM+AI Agent双引擎架构，MCP是AI时代的"USB-C"，存量业务0代码改造为MCP Server
 - **[AI Agent（百度百科）](https://baike.baidu.com/item/AI%20Agent/63546393)** 系统解析AI Agent核心特征：主动思考与跨工具操作能力，2026年多款产品发布

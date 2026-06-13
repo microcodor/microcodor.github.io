@@ -8,6 +8,12 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 ### 2026-06-13
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始先理解界面再执行动作
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
+- **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 典型工具如n8n提供开源自托管部署，Flowith实现市场营销自动化与DevOps流程构建
+- **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA从规则驱动转向智能决策驱动，结合AI处理非结构化数据
+
+### 2026-06-13
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流

@@ -9,6 +9,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 ### 2026-06-13
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[AI 编程助手三强争霸(2026版):Claude、Gemini、GPT各自擅长什么?](https://blog.csdn.net/xxzhaoming/article/details/161076856)** Claude适合工程代码、Gemini多模态实时、GPT全能均衡
+- **[OpenAI警惕:Claude和Gemini蚕食ChatGPT市场份额](https://m.sohu.com/a/1030937352_121956424/)** Claude和Gemini持续蚕食ChatGPT市场份额，核心用户正转向竞品
+
+### 2026-06-13
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
 - **[Claude"神话"模型登场!自主科研成果超《科学》论文水平](https://baijiahao.baidu.com/s?id=1867578929653304519)** Claude Fable 5和Mythos 5发布，性能超越以往所有模型
 - **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Wharton教授指出Gemini Pro上次更新为2026年2月，与Claude和GPT性能差距持续拉大
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
