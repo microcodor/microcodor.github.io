@@ -228,3 +228,8 @@ description: OpenClaw 社区更新、技能与工具
 - **[OpenAI将迎来重大改版,奥特曼要造"超级应用"](http://www.cb.com.cn/index/show/zj/cv/cv135373051265)** Codex接入90多个插件，覆盖JIRA、GitLab、Figma、Salesforce等，6个新角色插件
 - **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
 - **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
+
+### 2026-06-13
+- **[OpenClaw GitHub星标突破30万:2026现象级AI Agent框架核心优势全景拆解](https://news.sohu.com/a/1035993708_122802957)** 6个月从10万星到30万星，5400+技能插件远超Coze/Dify，Skill化设计是核心架构创新
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://hub.baai.ac.cn/view/55475)** 中科院发布首个OpenClaw综述，提出四大"开放性原则"，指出26.1%社区工具存在安全漏洞
+- **[2026年AI Agent框架全景横评:OpenClaw生态9款产品场景选型指南](https://blog.csdn.net/xyghehehehe/article/details/161947601)** OpenClaw(71K+Stars)催生MaxClaw、KimiClaw、AutoClaw等9款衍生产品，覆盖云服务/本地/企业安全/办公场景

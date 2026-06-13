@@ -251,3 +251,8 @@ description: AI Agent 框架最新发展和趋势
 - **[AI Agent（百度百科）](https://baike.baidu.com/item/AI%20Agent/63546393)** 系统解析AI Agent核心特征：主动思考与跨工具操作能力，2026年多款产品发布
 - **[AI Agent 发展趋势:从工具到智能体](http://news.10jqka.com.cn/20260611/c677383948.shtml)** 从规则系统到生成式智能体，2023年多模态技术突破让Agent具备图像、语音等多模态理解能力
 - **[AI Agent 实现框架深度调研](https://blog.csdn.net/tony_4539/article/details/161868539)** LangChain、AutoGen、CrewAI等支流框架技术解析，选型发起
+
+### 2026-06-13
+- **[不懂Skill的人,等于不懂2026年的AI Agent](https://www.163.com/dy/article/KV8C71BK05118E4U.html)** Skill是能力包，不只是API调用，包含场景规范、节奏把控和流程知识，2025年从工具化进入能力包时代
+- **[应用到应用](https://baike.baidu.com/item/应用到应用/18748593)** A2A协议实现Agent间安全协作，通过"智能体名片"进行能力发现，已获超50家技术合作伙伴支持
+- **[深度融合Agent与语义建模 长亮科技DataMind开启金融数智化开发新阶段](https://baijiahao.baidu.com/s?id=1867775797540784415)** DataMind通过语义建模与Agent深度融合，数据开发效率提升70%，六大能力构建企业级Agent运行底座

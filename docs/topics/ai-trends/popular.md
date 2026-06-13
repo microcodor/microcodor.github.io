@@ -230,3 +230,8 @@ description: AI 产品发布动态
 - **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 阿里云内部创业AI Agent产品MuleRun，2025年发布钉钉8.0 AI钉钉1.0版本
 - **[星河AI园区网络](https://baike.baidu.com/item/星河AI园区网络/67828673)** 华为发布星河AI园区网络等产品，连续第四年入选Gartner领导者象限
 - **[工信部发文推动AI终端发展 华为小米vivo等加速布局AI手机](https://www.donews.com/news/detail/4/6591341.html)** 工信部印发AI+信息通信创新发展实施意见，2026年中国AI手机出货量预计达1.47亿台
+
+### 2026-06-13
+- **[光象科技发布Phi-Bot X1:行业首个工业级自进化具身智能机器人](https://baijiahao.baidu.com/s?id=1867772125634049458)** 具备"一机多能、快速上岗、自我学习"三大核心能力，部署周期从6个月缩短至周级，质检效率提升51%
+- **[智能体AI竞争进入新维度!AMD先发红利还能保持多久?](https://baijiahao.baidu.com/s?id=1867774578841580301)** AMD锐龙AI Max系列已推35款智能体主机，英伟达RTX Spark入局PC AI，128GB统一内存运行千亿参数模型
+- **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利，五大巨头入局

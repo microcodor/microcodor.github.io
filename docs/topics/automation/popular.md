@@ -241,3 +241,8 @@ description: AI 自动化工作流工具
 - **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://www.sohu.com/a/1034074454_120743560)** BPM从流程图工具进化为AI智能体，2026年选型需关注技术架构等四维度
 - **[AI编程工具里的 Skill、MCP、Workflow、Rules、Memories到底有什么区别?](https://www.zhihu.com/question/2004180484448609824/answer/2046399711356138320)** Skill是"我能做什么"清单，MCP是"手上能拿到什么工具"，Workflow是串起它们的线
 - **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进，云原生部署加速
+
+### 2026-06-13
+- **[三款国产AI工作流平台深度横评:小白选Coze,开发者选n8n,AI原生选Dify](https://post.smzdm.com/p/a95x2dpo/)** Coze零代码5分钟上手，n8n支持1200+节点适合复杂业务，Dify聚焦RAG和Agent构建
+- **[字节Coze 3.0悄悄上线没人聊,真正的对手根本不是Dify和n8n](https://www.163.com/dy/article/KV83VVM1055616YL.html)** AI编程Agent(如Claude Code)用自然语言替代拖拽工作流，但企业核心业务仍需确定性Workflow
+- **[新媒体AI客服工具成降本主旋律,让企业告别夜间加班倒班](https://www.sohu.com/a/1035714159_122734986)** 基于大模型智能体的动态推理与场景化路由架构，需集成RAG与模型对抗性场景训练解决幻觉问题
