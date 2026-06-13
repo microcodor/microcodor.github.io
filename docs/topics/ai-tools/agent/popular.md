@@ -7,6 +7,14 @@ description: AI Agent 框架最新发展和趋势
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 
 ## 近期动态
+### 2026-06-14
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
+- **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
+- **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 2026年多款产品发布，联想、理想、百度等厂商展示AI Agent落地成果
+- **[2025 AI元年 闹了半年 当前到底什么:Agent(能|用)](http://3g.daqing.tocton.vip/thopx/22130_513509.shtml)** 2025年被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展
+- **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
+
+## 近期动态
 ### 2026-06-13
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
