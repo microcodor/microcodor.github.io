@@ -9,8 +9,11 @@ description: OpenClaw 社区更新、技能与工具
 ## 近期动态
 ### 2026-06-14
 - **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
-- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
+- **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article_details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化
 - **[AI Agent进阶:从OpenClaw迁移至Hermes Agent全教程](https://developer.aliyun.com/article/1740787)** 从OpenClaw迁移至Hermes Agent完整指南，零基础用户也可完成
+- **[Windows终于能原生跑OpenClaw!2分钟部署教程](https://zhuanlan.zhihu.com/p/2048465873120257551)** v2026.6.1版本发布，Windows原生支持，全球16亿Windows PC可直接成为AI Agent运行节点
+- **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw 6.1稳定版和6.5 beta发布，Skill Workshop技能工坊、Workboard工作看板
+
 ### 2026-06-13
 - **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://dy.163.com/article/KV5FSCSG0511ABV6.html)** 中科院发布首个OpenClaw系统性综述，提出四大"开放性原则"
 - **[OpenClaw v2026.6.1 正式版更新解析](https://blog.csdn.net/weixin_47431459/article/details/161770407)** Agent/CLI Recovery、多通道交付、有界请求、Skill Workshop与Chat/UI稳定性优化

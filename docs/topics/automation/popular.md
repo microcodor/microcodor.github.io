@@ -12,6 +12,10 @@ description: AI 自动化工作流工具
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
 - **[工作流自动化工具](https://baike.baidu.com/item/工作流自动化工具/18784468)** 典型工具如n8n提供开源自托管部署，Flowith实现市场营销自动化与DevOps流程构建
 - **[AI办公的核心要素:自动化工作流](https://blog.51cto.com/u_17035323/14626656)** RPA从规则驱动转向智能决策驱动，结合AI处理非结构化数据
+- **[MaaS巨头收入百亿的背后:钛动科技如何蹚出AI营销的ROI闭环?](https://baijiahao.baidu.com/s?id=1867762962859998208)** 阿里百炼MaaS平台ARR破80亿，火山引擎目标150亿，AI商业化回报周期
+- **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** GEO成AI营销必争之地，2026年超60%中大型品牌已将GEO监测纳入营销标配
+- **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
+- **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进
 
 ### 2026-06-13
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化

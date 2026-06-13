@@ -20,7 +20,8 @@ description: AI 产品发布动态
 - **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、ChatRobot等多款AI产品，入选国家工信部专精特新小巨人企业
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
-- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首届重点产业链产品发布会，集中发布智能机器人和大模型产品
+- **[阿里闯入一场大考](https://baijiahao.baidu.com/s?id=1867781524032328778)** 千问APP高考产品发布会，阿里AI to C支点，ATH事业群核心板块
+- **[荣耀Magic V5](https://baike.baidu.com/item/荣耀Magic%20V5/65796501)** 2025年7月发布，轻薄AI折叠屏手机，搭载骁龙8至尊版旗舰芯片
 
 ### 2026-06-13
 - **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
