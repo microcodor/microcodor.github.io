@@ -44,6 +44,13 @@ description: AI 自动化工作流工具
 - **[工作流](https://baike.baidu.com/item/工作流/67902972)** AI智能体工作流通过自然语言交互、动态任务分解实现从"脚本驱动"到"意图驱动"的范式转变
 - **[GitHub - bj-qizhi/trigix: AI-native workflow automation platform](https://github.com/bj-qizhi/trigix/tree/master)** Rust执行引擎，137种节点类型，视觉画布AI原生工作流自动化平台
 
+### 2026-06-15
+- **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** GEO成AI营销必争之地，2026年超60%中大型品牌已将GEO监测纳入营销标配
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
+- **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化的深度评测
+- **[2026年BPM软件厂商推荐榜单:破解流程僵化与AI智能化的选型指南](https://news.sohu.com/a/1034074454_120743560)** 2026年BPM选型指南，AI智能体融入真实业务流程
+
 ### 2026-06-13
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比

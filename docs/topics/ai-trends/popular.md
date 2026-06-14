@@ -32,6 +32,13 @@ description: AI 产品发布动态
 - **[o3](https://baike.baidu.com/item/o3/65594422)** OpenAI新一代多模态推理模型，首次实现自动调用搜索、数据分析、视觉推理等功能
 - **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，整合美业测肤数据打破"数据孤岛"
 - **[钉钉8.0发布会](https://baike.baidu.com/item/钉钉8.0发布会/67939653)** 钉钉十周年发布AI 1.0版本，主题"AI时代的工作方式"
+
+### 2026-06-15
+- **[消息称亚马逊AWS为降低AI推理成本,有望采购高通AI200芯片](https://baijiahao.baidu.com/s?id=1867967275936304471)** 富国银行报告指出AWS有望采购高通AI200芯片，单颗芯片可支持高达768GB内存
+- **[破局AI焦虑,美图秀秀获评2025最佳影像编辑应用](https://baijiahao.baidu.com/s?id=1867488409181157424)** 2025年最佳图像与视频编辑应用奖项，AI视觉创新能力与市场表现获认可
+- **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利
+- **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
 ### 2026-06-14
 - **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
 - **[破局AI焦虑,美图秀秀获评2025最佳影像编辑应用](https://baijiahao.baidu.com/s?id=1867488409181157424)** 2025年最佳图像与视频编辑应用奖项，AI视觉创新能力与市场表现获认可

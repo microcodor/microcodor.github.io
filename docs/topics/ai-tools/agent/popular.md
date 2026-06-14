@@ -9,6 +9,13 @@ description: AI Agent 框架最新发展和趋势
 ## 近期动态
 
 ### 2026-06-15
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
+- **[东软睿驰AI汽车全栈产品亮相2025上海国际车展](https://k.sina.cn/article_7857141524_v1d4527714019039b9w.html)** NeuSAR AI Framework中间件为AI Agent提供便捷开发框架，Agent开发效率以周甚至月为单位提升
+- **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
+- **[2025 AI元年 闹了半年 当前到底什么:Agent(能|用)](http://3g.daqing.tocton.vip/thopx/22130_513509.shtml)** 2025年被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展
+- **[AI Agent实现框架深度调研](https://blog.csdn.net/tony_4539/article/details/161868539)** 2024-2026年AI Agent框架爆发期，LangChain、AutoGen、CrewAI等框架深度对比
+
+### 2026-06-15
 - **[AI Agent进阶:从OpenClaw迁移至Hermes Agent全教程:安装、配置与实战及避坑指南](https://developer.aliyun.com/article/1740787)** 从OpenClaw迁移至Hermes Agent完整教程，零基础用户也可完成平滑迁移
 - **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw升级到2026.6.5 beta，Hermes v0.16.0发布桌面应用
 - **[Windows终于能原生跑OpenClaw!2分钟部署教程](https://zhuanlan.zhihu.com/p/2048465873120257551)** v2026.6.1版本发布，Windows原生支持，全球16亿Windows PC可直接成为AI Agent运行节点
