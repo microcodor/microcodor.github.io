@@ -8,6 +8,11 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-15
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
+- **[端侧AI三强对决:苹果认输、谷歌死磕、中国堆参数,谁赢了?](http://finance.sina.com.cn/cj/2026-06-13/doc-inicfkww9786531.shtml)** 苹果WWDC26推出Foundation Models Framework升级版，Gemini 1.2万亿参数成Siri大脑
+- **[2026年上半年语音AI大事记:从GPT-Realtime-2到MAI-Voice-2,再到Gemini驱动的Siri](http://k.sina.com.cn/article_7857141524_1d45277140190377k8.html)** GPT-Realtime-2、MAI-Voice-2、 Gemini驱动的Siri密集发布
+
 ### 2026-06-14
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT从超90%下滑至60%
 - **[端侧AI三强对决:苹果认输、谷歌死磕、中国堆参数,谁赢了?](http://finance.sina.com.cn/cj/2026-06-13/doc-inicfkww9786531.shtml)** 苹果WWDC26推出Foundation Models Framework升级版，Gemini 1.2万亿参数成Siri大脑

@@ -8,6 +8,11 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 
+### 2026-06-15
+- **[AI Agent进阶:从OpenClaw迁移至Hermes Agent全教程:安装、配置与实战及避坑指南](https://developer.aliyun.com/article/1740787)** 从OpenClaw迁移至Hermes Agent完整教程，零基础用户也可完成平滑迁移
+- **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw升级到2026.6.5 beta，Hermes v0.16.0发布桌面应用
+- **[Windows终于能原生跑OpenClaw!2分钟部署教程](https://zhuanlan.zhihu.com/p/2048465873120257551)** v2026.6.1版本发布，Windows原生支持，全球16亿Windows PC可直接成为AI Agent运行节点
+
 ### 2026-06-14
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱

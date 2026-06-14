@@ -10,6 +10,11 @@ description: AI 产品发布动态
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
 - **[腾讯举办2026AI产业应用大会;千寻智能获15亿元A+轮融资](https://baijiahao.baidu.com/s?id=1867403782552885671)** OpenAI首席财务官透露AI硬件预计2026年底前发布，苹果智能眼镜推迟至2029年
 
+### 2026-06-15
+- **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利，五大巨头入局
+- **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
+
 ### 2026-06-12
 - **[高通发布数据中心新品牌Dragonfly,安蒙:2026是AI智能体元年](https://baijiahao.baidu.com/s?id=1867306580533559859)** 智能体正成为AI Token需求核心驱动力，重新定义未来AI架构与经济模式
 

@@ -8,6 +8,12 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 
+### 2026-06-15
+- **[MaaS巨头收入百亿的背后:钛动科技如何蹚出AI营销的ROI闭环?](https://baijiahao.baidu.com/s?id=1867762962859998208)** 阿里百炼MaaS平台ARR破80亿，火山引擎目标150亿，AI商业化回报周期
+- **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** GEO成AI营销必争之地，2026年超60%中大型品牌已将GEO监测纳入营销标配
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
+- **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
+
 ### 2026-06-14
 - **[MaaS巨头收入百亿的背后:钛动科技如何蹚出AI营销的ROI闭环?](https://baijiahao.baidu.com/s?id=1867762962859998208)** 阿里百炼MaaS平台ARR破80亿，火山引擎目标150亿，AI商业化回报周期
 - **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** GEO成AI营销必争之地，2026年超60%中大型品牌已将GEO监测纳入营销标配
