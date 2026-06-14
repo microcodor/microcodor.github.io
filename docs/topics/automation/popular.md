@@ -17,6 +17,14 @@ description: AI 自动化工作流工具
 - **[RTK部署教程:构建稳定AI Workflow环境](https://www.bilibili.com/read/cv50269480)** 构建稳定AI Workflow环境，适合长期运行AI Agent
 - **[机器人流程自动化](https://baike.baidu.com/item/机器人流程自动化/60095992)** RPA正与AI深度融合向智能流程自动化IPA演进
 
+## 近期动态
+
+### 2026-06-14
+- **[工作流驱动AI智能体成主流:企业自动化从"对话"走向"闭环执行"](https://news.sohu.com/a/1030869606_122440928)** 2026成规模化部署关键年，工作流编排能力决定智能体能否真正替代人类完成复杂业务流程
+- **[Closed-Loop AI Automation for ITOps](https://www.logicmonitor.com/edwin-ai/ai-automation)** Edwin AI关联告警、识别根因、执行治理修复，缩短MTTR
+- **[工作流](https://baike.baidu.com/item/工作流/67902972)** AI智能体工作流通过自然语言交互、动态任务分解实现从"脚本驱动"到"意图驱动"的范式转变
+- **[GitHub - bj-qizhi/trigix: AI-native workflow automation platform](https://github.com/bj-qizhi/trigix/tree/master)** Rust执行引擎，137种节点类型，视觉画布AI原生工作流自动化平台
+
 ### 2026-06-13
 - **[重构内容价值链:掌阅科技基于腾讯云的AI全链路Workflow升级实践](https://cloud.tencent.com/developer/article/2686581)** 掌阅科技AI全链路内容生态平台"泡漫"累计产出上百万成片，实现IP资产多维度转化
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
