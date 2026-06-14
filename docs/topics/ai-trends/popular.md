@@ -16,6 +16,12 @@ description: AI 产品发布动态
 ## 近期动态
 ### 2026-06-14
 - **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** 四川首届重点产业链产品发布会，集中发布智能机器人和大模型产品
+- **[o3](https://baike.baidu.com/item/o3/65594422)** OpenAI新一代多模态推理模型，首次实现自动调用搜索、数据分析、视觉推理等功能
+- **[美业AI大模型](https://baike.baidu.com/item/美业AI大模型/67258238)** 美图宜肤发布美业AI大模型，整合美业测肤数据打破"数据孤岛"
+- **[钉钉8.0发布会](https://baike.baidu.com/item/钉钉8.0发布会/67939653)** 钉钉十周年发布AI 1.0版本，主题"AI时代的工作方式"
+### 2026-06-14
+- **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
 - **[破局AI焦虑,美图秀秀获评2025最佳影像编辑应用](https://baijiahao.baidu.com/s?id=1867488409181157424)** 2025年最佳图像与视频编辑应用奖项，AI视觉创新能力与市场表现获认可
 - **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
 - **[创新奇智(02121.HK)2025年度ESG报告解读](https://baijiahao.baidu.com/s?id=1867120131544637196)** 发布ChatCAD、AEMS、ChatRobot等多款AI产品，入选国家工信部专精特新小巨人企业

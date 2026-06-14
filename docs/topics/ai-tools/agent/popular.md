@@ -8,6 +8,11 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 ### 2026-06-14
+- **[微软Build 2026:AI Agent重塑Windows生态 PC不再只是工具](http://k.sina.com.cn/article_7857141524_1d4527714019038ct2.html)** OpenClaw原生入驻Windows生态，MXC容器保障安全边界
+- **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式网络
+- **[Hermes Agent vs OpenClaw:2026 年哪个 AI Agent 框架胜出?](https://baijiahao.baidu.com/s?id=1865596471805879419)** Hermes是"与你一同成长的Agent"，OpenClaw网关优先，两者从相反方向解决同一个问题
+- **[2026年OpenClaw时代中国Agent研报:GEO优化与生态重构](https://baijiahao.baidu.com/s?id=1865509317415357800)** 中美Agent生态走不同赛道，中国特色：生态整合、国产替代、合规本土化
+### 2026-06-14
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
 - **[AI Agent](https://baike.baidu.com/item/AI%20Agent/63546393)** 2026年多款产品发布，联想、理想、百度等厂商展示AI Agent落地成果
