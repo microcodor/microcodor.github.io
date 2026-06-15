@@ -28,6 +28,10 @@ description: AI 产品发布动态
 ### 2026-06-16
 - **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品
+
+### 2026-06-16
+- **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品
 - **[2025-2026有哪些好用的AI客服产品?](https://k.sina.cn/article_1747383115_6826f34b02003gt7g.html)** 瓴羊Quick Service、网易七鱼、环信、Shulex、云起未来等支流产品深度对比
 - **[loomos AI](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极科技发布AI眼镜L1与S1，2026年第三季度上市
 - **[荣耀Magic V5](https://baike.baidu.com/item/荣耀Magic%20V5/65796501)** 荣耀发布折叠屏手机，搭载骁龙8至尊版，支持端侧语音大模型

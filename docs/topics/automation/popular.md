@@ -14,6 +14,12 @@ description: AI 自动化工作流工具
 - **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化深度评测
 - **[开源免费的桌面自动化神器AutoFlow Studio](https://www.cnblogs.com/isme-cn/p/archive/2026/06/12)** AI一句话生成工作流，批量点击、填表、截图，定时执行任务
 
+### 2026-06-16
+- **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化深度评测
+- **[开源免费的桌面自动化神器AutoFlow Studio](https://www.cnblogs.com/isme-cn/p/archive/2026/06/12)** AI一句话生成工作流，批量点击、填表、截图，定时执行任务
+
 ### 2026-06-15
 - **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
 - **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始先理解界面再执行动作

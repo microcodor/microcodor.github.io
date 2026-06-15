@@ -15,6 +15,13 @@ description: AI Agent 框架最新发展和趋势
 - **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://baijiahao.baidu.com/s?id=1867692647266583734&wfr=spider&for=pc)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 
+### 2026-06-16
+- **[鸿蒙智能体框架](https://baike.baidu.com/item/鸿蒙智能体框架/65804003)** 华为发布Harmony Agent Framework，赋能第三方生态应用智能化升级，基于盘古与DeepSeek大模型
+- **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
+- **[阿里云:《AI Agent开发新范式合集》企业AI应用落地范式](https://baijiahao.baidu.com/s?id=1867684584606828464&wfr=spider&for=pc)** AI应用=AI Agent+LLM双引擎，MCP是AI时代的"USB-C"，存量业务0代码改造为MCP Server
+- **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
+- **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://baijiahao.baidu.com/s?id=1867692647266583734&wfr=spider&for=pc)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
+
 ### 2026-06-15
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，选型直接影响开发效率和上线周期

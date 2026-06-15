@@ -12,6 +12,10 @@ description: 主流大模型能力对比与选型参考
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
 - **[2026 五大 AI 模型实测横评:GPT/Gemini/Claude/Grok 性能量化对比](https://blog.csdn.net/cslooo/article/details/161979174)** GPT-5.4 Pro代码开发领先，Claude长文档解析最强，Gemini多模态最佳，Grok响应最快
 
+### 2026-06-16
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
+- **[2026 五大 AI 模型实测横评:GPT/Gemini/Claude/Grok 性能量化对比](https://blog.csdn.net/cslooo/article/details/161979174)** GPT-5.4 Pro代码开发领先，Claude长文档解析最强，Gemini多模态最佳，Grok响应最快
+
 ### 2026-06-15
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
 - **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑,大模型混战要来了](https://www.51cto.com/article/844412.html)** GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑，大模型混战即将爆发
