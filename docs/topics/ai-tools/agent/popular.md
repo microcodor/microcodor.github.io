@@ -13,6 +13,10 @@ description: AI Agent 框架最新发展和趋势
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，选型直接影响开发效率
 - **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，AI Agent发展经历三个主要阶段
 - **[一文读懂微软Build 2026:「Agent优先」时代到来](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软发布七款自研MAI模型，拒绝蒸馏，从零训练
+- **[收藏必备:2025年最适合开发者的11大AI智能体(Agent)框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details/159545427)** AI Agent框架是软件平台，使开发者能够构建具备自主决策、工具使用、规划和执行能力的系统
+- **[2025年AI Agent框架:机器学习工作流新趋势](https://blog.csdn.net/weixin_36311421/article/details/160453493)** 2025年AI Agent框架从实验室概念演进为生产环境核心组件，自主决策、动态编排和多模态协同
+- **[【强烈推荐】AI Agent开发必看:2025年七大主流框架深度解析与应用指南](https://blog.csdn.net/youmaob/article/details/153869641)** AI Agent框架是一套标准化工具集，通过预构建组件和抽象层简化智能体构建、部署与管理
+- **[2025终极升级:Pydantic-AI v0.2.6重构Agent工具链与交互体验](https://blog.csdn.net/gitblog_01099/article/details/151544837)** Pydantic-AI v0.2.6带来全面重构的工具链系统和革命性的交互体验提升
 - **[AI Agent从入门到实战:2025年最值得关注的智能体框架](https://blog.csdn.net/danga0500/article/details/161632613)** LangChain/LangGraph、AutoGen、CrewAI主流框架深度对比
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[东软睿驰AI汽车全栈产品亮相2025上海国际车展](https://k.sina.cn/article_7857141524_v1d4527714019039b9w.html)** NeuSAR AI Framework中间件为AI Agent提供便捷开发框架，Agent开发效率以周甚至月为单位提升

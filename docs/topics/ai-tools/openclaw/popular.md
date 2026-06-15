@@ -14,6 +14,7 @@ description: OpenClaw 社区更新、技能与工具
 - **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw升级到2026.6.5 beta，Hermes v0.16.0发布桌面应用
 - **[Windows终于能原生跑OpenClaw!2分钟部署教程](https://zhuanlan.zhihu.com/p/2048465873120257551)** v2026.6.1版本发布，Windows原生支持，全球16亿Windows PC可直接成为AI Agent运行节点
 - **[从OpenClaw到Hermes Agent:安装、迁移、配置、实战演示](https://developer.aliyun.com/article/1740972)** Hermes Agent是Nous Research打造的自进化AI Agent，内置学习闭环
+- **[全球最大Agent底座诞生!OpenClaw原生登陆16亿台Windows PC](https://baijiahao.baidu.com/s?id=1867049007401051391)** 微软Build 2026大会上宣布Windows化身Agent操作系统，开源AI Agent系统OpenClaw原生支持Windows平台
 
 ### 2026-06-15
 - **[微软Build 2026:AI Agent重塑Windows生态 PC不再只是工具](http://k.sina.com.cn/article_7857141524_1d4527714019038ct2.html)** OpenClaw原生入驻Windows生态，MXC容器保障安全边界
