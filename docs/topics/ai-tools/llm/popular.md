@@ -10,6 +10,11 @@ description: 主流大模型能力对比与选型参考
 
 ### 2026-06-15
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
+- **[6月硅谷要变天?GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑,大模型混战要来了](https://www.51cto.com/article/844412.html)** GPT-5.6、Claude-Mythos-1、Gemini3.5泄露线索拼凑，大模型混战即将爆发
+- **[谷歌Gemini3.2偷跑!2200行代码封神,GPT/Claude慌了](https://3g.163.com/news/article/KT7E2T17051181RS.html)** Gemini 3.2 Flash单次生成2200行完整可运行代码，编码能力推到行业天花板
+
+### 2026-06-15
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
 - **[2026年上半年语音AI大事记:从GPT-Realtime-2到MAI-Voice-2,再到Gemini驱动的Siri](http://k.sina.com.cn/article_7857141524_1d45277140190377k8.html)** GPT-Realtime-2、MAI-Voice-2、Gemini驱动的Siri密集发布
 
 ### 2026-06-15

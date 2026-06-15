@@ -10,6 +10,12 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-15
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，选型直接影响开发效率和上线周期
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** 从ReAct到Multi-Agent，AI Agent发展经历三个主要阶段
+- **[一文读懂微软Build 2026开发者大会:「Agent优先」时代到来,一口气发七款自研模型](https://baijiahao.baidu.com/s?id=1866993249054284970)** 微软发布七款自研MAI模型，拒绝蒸馏从零训练，计算规模已增长一万亿倍
+
+### 2026-06-15
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent正在被黑客当成"自动武器"，国家级黑客组织利用Claude Code对全球30余家高价值机构发动网络间谍活动
 - **[东软睿驰AI汽车全栈产品亮相2025上海国际车展](https://k.sina.cn/article_7857141524_v1d4527714019039b9w.html)** NeuSAR AI Framework中间件为AI Agent提供便捷开发框架，Agent开发效率以周甚至月为单位提升
 - **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具
 - **[2025 AI元年 闹了半年 当前到底什么:Agent(能|用)](http://3g.daqing.tocton.vip/thopx/22130_513509.shtml)** 2025年被称为国内AI应用元年，DeepResearch、Manus、扣子空间等智能体蓬勃发展

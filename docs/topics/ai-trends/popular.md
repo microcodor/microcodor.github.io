@@ -12,6 +12,9 @@ description: AI 产品发布动态
 
 ### 2026-06-15
 - **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利，五大巨头入局
+- **[2025-2026有哪些好用的AI客服产品?全渠道与自动化对比不踩坑](https://k.sina.cn/article_1747383115_6826f34b02003gt7g.html)** 瓴羊Quick Service、网易七鱼、环信、Shulex、云起未来等支流产品深度对比
+- **[TeslaAI](https://baike.baidu.com/item/TeslaAI/66740350)** 特斯拉官方微博账号发布Optimus 3人形机器人，计划2026年量产规模达5万-10万台
+- **[互联网巨头涌入AI制药:字节、百度……](https://baijiahao.baidu.com/s?id=1867786434300584625)** 字节AI制药业务启动拆分独立融资，阿里健康发布"氢离子"，腾讯公开AI设计GLP-1减肥药专利，五大巨头入局
 - **[Agentic AI潮头下明略科技-W的三级产品矩阵](https://baijiahao.baidu.com/s?id=1867497084493321914)** 开源端侧GUI-VLA智能体模型Mano-P、发布AI Native硬件Octic、Octo平台
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025宣布推出四款AI Mini PC参考设计
 - **[92年技术极客接棒钉钉,无招2.0时代结束了](https://cj.sina.com.cn/articles/view/3640176021/d8f8ad9500101qytm)** 2025年阿里云内部创业研发AI Agent产品MuleRun，陈宇森执掌钉钉

@@ -9,6 +9,12 @@ description: AI 自动化工作流工具
 ## 近期动态
 
 ### 2026-06-15
+- **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始先理解界面再执行动作
+- **[Everything You Need to Know About AI Workflow Automation](https://www.wrike.com/workflow-guide/ai-workflow-automation/)** AI workflow automation引入机器学习、自然语言处理和预测分析，超越传统规则自动化
+- **[基于n8n快速搭建自动化办公与AI Workflow编排平台-百度智能云](https://cloud.baidu.com/product/opc/n8n.html)** 百度智能云提供基于n8n的自动化办公与AI Workflow编排平台
+
+### 2026-06-15
 - **[MaaS巨头收入百亿的背后:钛动科技如何蹚出AI营销的ROI闭环?](https://baijiahao.baidu.com/s?id=1867762962859998208)** 阿里百炼MaaS平台ARR破80亿，火山引擎目标150亿，AI商业化回报周期
 - **[2026AI营销新风口 性价比GEO监测工具有哪些](https://baijiahao.baidu.com/s?id=1867501648704498330)** GEO成AI营销必争之地，2026年超60%中大型品牌已将GEO监测纳入营销标配
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+集成服务、跨平台工作流
