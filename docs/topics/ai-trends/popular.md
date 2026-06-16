@@ -28,6 +28,10 @@ description: AI 产品发布动态
 ### 2026-06-16
 - **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品
+- **[loomos AI](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极科技发布AI眼镜L1与S1，2026年第三季度上市，搭载"凤凰架构"
+- **[TurboX AI眼镜](https://baike.baidu.com/item/TurboX%20AI眼镜/67791529)** 中科创达推出智能眼镜，采用高通Wear 5100+MCU平台，双芯分布式架构
+- **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度发布新一代AI芯片，针对超大规模多模态大模型训练和推理，2027年上市
+- **[星河AI园区网络](https://baike.baidu.com/item/星河AI园区网络/67828673)** 华为发布星河AI园区网络，2025年Q4园区交换机市场份额38.7%
 
 ### 2026-06-16
 - **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼

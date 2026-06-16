@@ -11,6 +11,8 @@ description: 主流大模型能力对比与选型参考
 ### 2026-06-16
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
 - **[2026 五大 AI 模型实测横评:GPT/Gemini/Claude/Grok 性能量化对比](https://blog.csdn.net/cslooo/article/details/161979174)** GPT-5.4 Pro代码开发领先，Claude长文档解析最强，Gemini多模态最佳，Grok响应最快
+- **[GPT-5正式发布:与Claude 4、Gemini 2.5等大模型谁更胜一筹?](http://k.sina.com.cn/article_7857201856_1d45362c001906l4rk.html)** GPT-5支持400K token上下文长度，集成思维链推理能力，与Claude 4、Gemini 2.5展开竞争
+- **[Gemini 3 Pro](https://baike.baidu.com/item/Gemini%203%20Pro/67034271)** 谷歌发布多模态大模型，100万Tokens上下文窗口，MoE架构，代码能力SWE-bench得分76.2%
 
 ### 2026-06-16
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
