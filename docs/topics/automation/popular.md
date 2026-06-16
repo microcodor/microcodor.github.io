@@ -8,6 +8,13 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 
+### 2026-06-17
+- **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器
+- **[Automation Workflow设计:让AI自己跑起来](https://duanzhihua.blog.csdn.net/article/details/162032291)** 人类需要休息，AI不需要，自进化Automation Workflow实现7×24自主运转
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details=161969770)** 线索评分、对话式AI与工作流自动化深度评测
+- **[AI 自动化工作流搭建:从零散工具到编排引擎](https://blog.csdn.net/weixin_49475940/article/details=161999857)** 从零散工具到编排引擎，开发者生产力的系统化提升
+
 ### 2026-06-16
 - **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器

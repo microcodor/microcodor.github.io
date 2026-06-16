@@ -8,6 +8,13 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 
+### 2026-06-17
+- **[银行迈入"AI+"时代](https://finance.eastmoney.com/a/202606163773051185.html)** 2025年AI Agent元年开启，Agent成为海内外大厂兵家必争之地
+- **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
+- **[全球顶级CRO已验证、AI Agent就绪:魔方网表是新药研发数字化底座正确答案](https://baijiahao.baidu.com/s?id=1868044567846309799&wfr=spider&for=pc)** FDA部署Agentic AI能力，药企必须拥抱AI Agent但需合规操作可追溯
+- **[AI Agent如何重构商业逻辑|聊懂新"新三样"](https://baijiahao.baidu.com/s?id=1868054162547338279&wfr=spider&for=pc)** 2026年行业讨论重点从技术概念走向大众认知
+- **[Agent Zero](https://baike.baidu.com/item/Agent%20Zero/67467617)** 基于Python的开源AI智能体框架，构建动态有机增长的个人AI助手
+
 ### 2026-06-16
 - **[鸿蒙智能体框架](https://baike.baidu.com/item/鸿蒙智能体框架/65804003)** 华为发布Harmony Agent Framework，赋能第三方生态应用智能化升级，基于盘古与DeepSeek大模型
 - **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** 从"聊天框"到"行动派"的跨越，2025年Agent技术已演进为主动的生产力工具

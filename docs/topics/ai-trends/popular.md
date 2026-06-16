@@ -25,6 +25,13 @@ description: AI 产品发布动态
 
 ## 近期动态
 
+### 2026-06-17
+- **[钉钉换帅:无招的"功过",陈宇森的"担子"](https://baijiahao.baidu.com/s?id=1868017408701455396&wfr=spider&for=pc)** 无招回归后四个月分析1850项用户需求，8个月发布AI钉钉1.0/1.0/2.0三代
+- **[钉钉的产品"悖论":做AI,CEO先"失业"](https://baijiahao.baidu.com/s?id=1868085147215875674&wfr=spider&for=pc)** 7.5万字《置身钉内》揭露高压管理、无招被拿下、陈宇森接任
+- **[新势力车企盈利破局 多元布局AI业务谋增长](http://k.sina.com.cn/article_7857141524_1d452771401903apyq.html)** 理想汽车、零跑汽车、蔚来加速布局AI眼镜、人形机器人等具身智能
+- **[loomos AI](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极科技发布AI眼镜L1与S1，2026年第三季度上市
+- **[荣耀Magic V5](https://baike.baidu.com/item/荣耀Magic%20V5/65796501)** 荣耀发布折叠屏手机，搭载骁龙8至尊版，支持端侧语音大模型
+
 ### 2026-06-16
 - **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品

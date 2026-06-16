@@ -8,6 +8,13 @@ description: OpenClaw 社区更新、技能与工具
 
 ## 近期动态
 
+### 2026-06-17
+- **[别再死磕提示词了!2026 AI 新范式Loo…](https://baijiahao.baidu.com/s?id=1868161276632377042&wfr=spider&for=pc)** OpenClaw创始人单篇内容斩获820万阅读，AI Agent应设计循环来指挥
+- **[当AI Agent开始工作,安全该如何跟上?AgentDoG 1.5开源发布](https://baijiahao.baidu.com/s?id=1868149347952798842&wfr=spider&for=pc)** AI Agent正在从聊天助手走向工作伙伴，安全问题变得更加复杂
+- **[扣子3.0上线专业自媒体Skill](https://baijiahao.baidu.com/s?id=1868048676561397428&wfr=spider&for=pc)** 扣子3.0可一键接入Claude Code、OpenClaw等本地AI工具
+- **[2026智源大会热议Agent最前沿趋势](https://news.qq.com/rain/a/20260613A075GX00?adChannelId=tech)** OpenClaw宣告大模型从云端聊天助手进入工作场域
+- **[AI智能体走出实验室!中科院等机构联合发布首个OpenClaw系统性综述](https://www.163.com/dy/article/KV5FSCSG0511ABV6.html)** 首个OpenClaw系统性综述发布，26.1%社区工具存在安全漏洞
+
 ### 2026-06-16
 - **[AI Agent如何重构商业逻辑|聊懂新"新三样"](https://baijiahao.baidu.com/s?id=1868054162547338279&wfr=spider&for=pc)** OpenClaw推动AI Agent从内容生成走向个人助手，对产业具有标志性意义
 - **[微软Build 2026:AI Agent重塑Windows生态 PC不再只是工具](http://k.sina.com.cn/article_7857141524_1d4527714019038ct2.html)** OpenClaw原生入驻Windows生态，MXC容器保障安全边界

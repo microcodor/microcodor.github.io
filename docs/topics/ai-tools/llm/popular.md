@@ -8,6 +8,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-17
+- **[Sensor Tower:ChatGPT全球市场份额首次跌破50%](https://baijiahao.baidu.com/s?id=1868164514587407521&wfr=spider&for=pc)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[端侧智能的全球化落地:云端的"强",解不了端侧的"痛"](https://baijiahao.baidu.com/s?id=1868146175858431426&wfr=spider&for=pc)** 云端能力越强，行业反而开始重注端侧，解决落地痛点才是关键
+- **[ChatGPT全球月活破11亿但份额首跌破50% Gemini与Claude加速追赶](https://www.163.com/dy/article/KVINMIKO0511BLFD.html)** 截至5月底ChatGPT份额46.4%，Gemini 27.7%，Claude 10.3%
+- **[Claude、GPT、Gemini 三大模型怎么选?2026 年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details/161930109)** Claude、GPT、Gemini三家走出不同路线，各有侧重点按场景选型
+- **[端侧AI三强对决:苹果认输、谷歌死磕、中国堆参数,谁赢了?](https://news.sohu.com/a/1035961720_116132)** 苹果WWDC26推Foundation Models升级版，Gemini成Siri大脑
+
 ### 2026-06-16
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%，ChatGPT市场份额从超90%下滑至60%
 - **[2026 五大 AI 模型实测横评:GPT/Gemini/Claude/Grok 性能量化对比](https://blog.csdn.net/cslooo/article/details/161979174)** GPT-5.4 Pro代码开发领先，Claude长文档解析最强，Gemini多模态最佳，Grok响应最快
