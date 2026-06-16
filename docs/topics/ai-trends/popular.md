@@ -28,6 +28,11 @@ description: AI 产品发布动态
 ### 2026-06-16
 - **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
 - **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品
+- **[2025四川省人工智能标志性产品发布会](https://baike.baidu.com/item/2025四川省人工智能标志性产品发布会/65495271)** "开启大模型·遇见机器人"2025四川省人工智能标志性产品发布会在成都举行
+- **[新势力车企盈利破局 多元布局AI业务谋增长](http://k.sina.com.cn/article_7857141524_1d452771401903apyq.html)** 理想汽车、零跑汽车、蔚来等新势力车企加速布局AI眼镜、人形机器人等具身智能新兴领域
+- **[o3](https://baike.baidu.com/item/o3/65594422)** OpenAI新一代多模态推理模型，首次实现自动调用搜索、数据分析、视觉推理等功能
+- **[科大讯飞27周年:让自主可控的国产AI走向行业深处](https://baijiahao.baidu.com/s?id=1867594513985453117&wfr=spider&for=pc)** 讯飞星火坚持全国产算力路线，2026年高考成绩公布，三方测评表现亮眼
+- **[中科创达:AIPC产业全栈产品和技术提供商](http://news.10jqka.com.cn/20260610/c677366574.shtml)** CES2025推出四款AI Mini PC参考设计，AI Mini PC G1 Elite等多款产品
 - **[loomos AI](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极科技发布AI眼镜L1与S1，2026年第三季度上市，搭载"凤凰架构"
 - **[TurboX AI眼镜](https://baike.baidu.com/item/TurboX%20AI眼镜/67791529)** 中科创达推出智能眼镜，采用高通Wear 5100+MCU平台，双芯分布式架构
 - **[昆仑芯M300](https://baike.baidu.com/item/昆仑芯M300/66989628)** 百度发布新一代AI芯片，针对超大规模多模态大模型训练和推理，2027年上市

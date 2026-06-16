@@ -11,6 +11,11 @@ description: AI 自动化工作流工具
 ### 2026-06-16
 - **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details=161969770)** 线索评分、对话式AI与工作流自动化深度评测
+- **[开源免费的桌面自动化神器AutoFlow Studio](https://www.cnblogs.com/isme-cn/p/archive/2026/06/12)** AI一句话生成工作流，批量点击、填表、截图，定时执行任务
+- **[2026年中,如何选择一家靠谱且性价比高的AI自动化办公平台?](https://www.zgswcn.com/shangxun/news.html?aid=919946)** WorkBuddy平台免部署，下载即用，基于MCP协议无缝接入企业微信、飞书、钉钉
+- **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器
 - **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化深度评测
 - **[开源免费的桌面自动化神器AutoFlow Studio](https://www.cnblogs.com/isme-cn/p/archive/2026/06/12)** AI一句话生成工作流，批量点击、填表、截图，定时执行任务
 - **[2026年中,如何选择一家靠谱且性价比高的AI自动化办公平台?](https://www.zgswcn.com/shangxun/news.html?aid=919946)** WorkBuddy平台免部署，下载即用，基于MCP协议无缝接入企业微信、飞书、钉钉

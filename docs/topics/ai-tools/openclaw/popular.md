@@ -14,6 +14,11 @@ description: OpenClaw 社区更新、技能与工具
 - **[扣子3.0上线专业自媒体Skill](https://baijiahao.baidu.com/s?id=1868048676561397428&wfr=spider&for=pc)** 扣子3.0可一键接入Claude Code、OpenClaw等本地AI工具
 - **[2026智源大会热议Agent最前沿趋势](https://news.qq.com/rain/a/20260613A075GX00?adChannelId=tech)** OpenClaw宣告大模型从云端聊天助手进入工作场域
 - **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw升级到2026.6.5 beta，新增Skill Workshop和Workboard
+- **[AI Agent如何重构商业逻辑|聊懂新"新三样"](https://baijiahao.baidu.com/s?id=1868054162547338279&wfr=spider&for=pc)** OpenClaw推动AI Agent从内容生成走向个人助手，对产业具有标志性意义
+- **[微软Build 2026:AI Agent重塑Windows生态 PC不再只是工具](http://k.sina.com.cn/article_7857141524_1d4527714019038ct2.html)** OpenClaw原生入驻Windows生态，MXC容器保障安全边界
+- **[扣子3.0上线专业自媒体Skill](https://baijiahao.baidu.com/s?id=1868048676561397428&wfr=spider&for=pc)** 扣子3.0可一键接入Claude Code、OpenClaw等本地AI工具
+- **[2026智源大会热议Agent最前沿趋势](https://news.qq.com/rain/a/20260613A075GX00?adChannelId=tech)** OpenClaw宣告大模型从云端聊天助手进入工作场域
+- **[OpenClaw和Hermes齐发大招,AI Agent框架从极客走向大众](https://www.aiddithome.com/p/5c0524227c8fe.html)** OpenClaw升级到2026.6.5 beta，新增Skill Workshop和Workboard
 - **[Windows终于能原生跑OpenClaw!2分钟部署教程](https://zhuanlan.zhihu.com/p/2048465873120257551)** v2026.6.1版本发布，Windows原生支持，全球16亿Windows PC可直接成为AI Agent运行节点
 - **[从OpenClaw到Hermes Agent:安装、迁移、配置、实战演示](https://zhuanlan.zhihu.com/p/2048531535683392035)** Hermes Agent内置学习闭环，技能"长"出来而非写出来，支持远程Gateway连接
 
