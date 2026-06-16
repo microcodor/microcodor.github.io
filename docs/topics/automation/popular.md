@@ -9,7 +9,11 @@ description: AI 自动化工作流工具
 ## 近期动态
 
 ### 2026-06-17
-- **[豆包AI怎么创建工作流自动化?](http://k.sina.com.cn/article_7857201856_1d45362c001906snq0.html)** 豆包AI工作流自动化可通过五种路径实现：角色-任务-格式提示词模板、上下文锁定、批量生成等
+- **[Automation Workflow设计:让AI自己跑起来](https://duanzhihua.blog.csdn.net/article/details/162032291)** 人类需要休息AI不需要，自进化Automation Workflow实现7×24自主运转
+- **[Agentic ERP转型路线图](https://www.163.com/dy/article/KVIDFAOQ05118ARK.html)** 95%的Agentic AI项目卡在Pilot地狱，三大模型教你规划落地
+- **[从"Agent入职"到组织重构](https://baijiahao.baidu.com/s?id=1868135857120408985&wfr=spider&for=pc)** 易点天下AI-native实践方法论，把AI当"角色"而非"功能"
+- **[AI全面入局618:谁在收割，谁在建仓](https://baijiahao.baidu.com/s?id=1868149130985541450&wfr=spider&for=pc)** 头部品牌借AI越跑越快，中小商家仍在流量困境中挣扎
+- **[全新AI规范驱动开发工作流OpenSpec OPSX](https://blog.csdn.net/m0_37988015/article/details/160690126)** 打破阶段锁定，用行动来组织整个开发过程
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流、33+自动化连接器
 - **[Automation Workflow设计:让AI自己跑起来](https://duanzhihua.blog.csdn.net/article/details/162032291)** 人类需要休息，AI不需要，自进化Automation Workflow实现7×24自主运转
 - **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details=161969770)** 线索评分、对话式AI与工作流自动化深度评测

@@ -26,7 +26,11 @@ description: AI 产品发布动态
 ## 近期动态
 
 ### 2026-06-17
-- **[钉钉换帅:无招的"功过",陈宇森的"担子"](https://baijiahao.baidu.com/s?id=1868017408701455396&wfr=spider&for=pc)** 无招回归后四个月分析1850项用户需求，8个月发布AI钉钉1.0/1.0/2.0三代
+- **[高通CEO预言"AI智能体取代App"](https://baijiahao.baidu.com/s?id=1868141428257281543&wfr=spider&for=pc)** 高通研发超过40款新AI智能终端设备设计，押注AI智能体超级浪潮
+- **[杨植麟最新演讲:2027年AI将主导研究](https://baijiahao.baidu.com/s?id=1868141727039307245&wfr=spider&for=pc)** Kimi K2.7 Code编程模型发布，Token效率是下一个方向
+- **[物理AI诞生00后10亿俱乐部](https://m.thepaper.cn/newsDetail_forward_33388739)** 新"梁文锋"们正在到来，00后创始人融资占比达34%
+- **[2026中国出口跨境电商发展趋势白皮书发布](https://baijiahao.baidu.com/s?id=1868144635808607437&wfr=spider&for=pc)** 亚马逊发布"AI驱动跨境电商全球化"，AI智能体覆盖五大能力模块
+- **[2026中国国产AI芯片厂商能力象限发布](https://www.sohu.com/a/1037424575_711053)** 海光、昇腾、寒武纪三强领跑，国产AI芯片进入放量期
 - **[钉钉的产品"悖论":做AI,CEO先"失业"](https://baijiahao.baidu.com/s?id=1868085147215875674&wfr=spider&for=pc)** 7.5万字《置身钉内》揭露高压管理、无招被拿下、陈宇森接任
 - **[新势力车企盈利破局 多元布局AI业务谋增长](http://k.sina.com.cn/article_7857141524_1d452771401903apyq.html)** 理想汽车、零跑汽车、蔚来加速布局AI眼镜、人形机器人等具身智能
 - **[loomos AI](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极科技发布AI眼镜L1与S1，2026年第三季度上市

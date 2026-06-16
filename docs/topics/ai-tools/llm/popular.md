@@ -9,7 +9,11 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-17
-- **[Sensor Tower:ChatGPT全球市场份额首次跌破50%](https://baijiahao.baidu.com/s?id=1868164514587407521&wfr=spider&for=pc)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[Sensor Tower:ChatGPT全球市场份额首次跌破50%](https://baijiahao.baidu.com/s?id=1868163794170702070&wfr=spider&for=pc)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[全球最大AI聚合平台上线"拼好模"](https://www.163.com/dy/article/KVIBCPN80511B8LM.html)** Fusion模式以约Claude Fable 5一半成本实现跑分接近
+- **[美团LongCat团队发布MineExplorer评测基准](http://stock.10jqka.com.cn/20260616/c677490841.shtml)** 揭示顶级多模态大模型在动态世界探索中存在能力断层，成功率从1跳77%降至4跳12%
+- **[阿里发布首个具身大模型Qwen-Robot系列](https://tech.ifeng.com/c/8u09SHNVnSZ)** 包含VLA操作模型、VLN移动模型和世界模型三大模型
+- **[端侧智能的全球化落地](https://baijiahao.baidu.com/s?id=1868146175858431426&wfr=spider&for=pc)** 云端能力越强，行业反而重注端侧，解决落地痛点才是关键
 - **[端侧智能的全球化落地:云端的"强",解不了端侧的"痛"](https://baijiahao.baidu.com/s?id=1868146175858431426&wfr=spider&for=pc)** 云端能力越强，行业反而开始重注端侧，解决落地痛点才是关键
 - **[ChatGPT全球月活破11亿但份额首跌破50% Gemini与Claude加速追赶](https://www.163.com/dy/article/KVINMIKO0511BLFD.html)** 截至5月底ChatGPT份额46.4%，Gemini 27.7%，Claude 10.3%
 - **[Claude、GPT、Gemini 三大模型怎么选?2026 年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details/161930109)** Claude、GPT、Gemini三家走出不同路线，各有侧重点按场景选型
