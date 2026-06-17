@@ -9,6 +9,16 @@ description: OpenClaw 社区更新、技能与工具
 ## 近期动态
 
 ### 2026-06-17
+- **[别再死磕提示词了!2026 AI 新范式Loop Engineering](https://baijiahao.baidu.com/s?id=1868161276632377042)** OpenClaw创始人单篇内容斩获820万阅读，AI Agent应设计循环来指挥
+- **[当AI Agent开始工作,安全该如何跟上?](https://baijiahao.baidu.com/s?id=1868149347952798842)** AgentDoG 1.5开源发布，AI Agent正在从聊天助手走向工作伙伴
+- **[OpenClaw深度实战:从30万Star到生产级完全指南](https://www.chenxutan.com/d/3617.html)** 2026年完整部署教程，跨平台部署、技能开发、MCP集成
+- **[零基础实操指南:阿里云服务器搭建OpenClaw](https://zhuanlan.zhihu.com/p/2050334339565724045)** 阿里云服务器部署OpenClaw与百炼Token Plan配置
+- **[手把手教你OpenClaw接入QQ机器人](https://cloud.tencent.com/developer/article/2690520)** 腾讯官方给OpenClaw开QQ机器人入口，扫码即用
+- **[当AI Agent开始工作,安全该如何跟上?AgentDoG 1.5开源发布](https://baijiahao.baidu.com/s?id=1868149347952798842)** AI Agent正在从聊天助手走向工作伙伴，安全问题变得更加复杂
+- **[扣子3.0上线专业自媒体Skill](https://baijiahao.baidu.com/s?id=1868048676561397428)** 扣子3.0可一键接入Claude Code、OpenClaw等本地AI工具
+- **[2026智源大会热议Agent最前沿趋势](https://news.qq.com/rain/a/20260613A075GX00)** OpenClaw宣告大模型从云端聊天助手进入工作场域
+
+### 2026-06-17
 - **[别再死磕提示词了!2026 AI 新范式Loop Engineering](https://baijiahao.baidu.com/s?id=1868161276632377042&wfr=spider&for=pc)** OpenClaw创始人单篇内容斩获820万阅读，AI Agent应设计循环来指挥
 - **[当AI Agent开始工作,安全该如何跟上?](https://baijiahao.baidu.com/s?id=1868149347952798842&wfr=spider&for=pc)** AgentDoG 1.5开源发布，AI Agent正在从聊天助手走向工作伙伴
 - **[OpenClaw深度实战:从30万Star到生产级完全指南](https://www.chenxutan.com/d/3617.html)** 2026年完整部署教程，跨平台部署、技能开发、MCP集成
