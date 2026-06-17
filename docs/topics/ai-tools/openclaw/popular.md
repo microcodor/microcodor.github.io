@@ -8,6 +8,13 @@ description: OpenClaw 社区更新、技能与工具
 
 ## 近期动态
 
+### 2026-06-18
+- **[OpenClaw 2026.6.8 更新一览](https://www.scensmart.com/news/update-list-of-openclaw-2026-6-8/)** 221个合入PR，3个Beta版本，10天迭代周期，韧性与体验成核心关键词
+- **[AI Agent部署新选择:腾讯云手机构建智能体执行环境](https://cloud.tencent.com/developer/article/2691993)** 腾讯云手机为AI Agent提供执行环境，从AutoGPT到OpenClaw，AI Agent正在以惊人速度渗透各行各业
+- **[阿里云AI Agent落地全链路拆解:打通大模型推理,构建具备自主执行能力的业务智能体](https://zhuanlan.zhihu.com/p/2050555936423653916)** 阿里云部署AI Agent基于百炼平台千问系列大模型，搭配OpenClaw等主流Agent运行框架
+- **[元宝失宠了,腾讯AI"换太子"](https://finance.sina.cn/2026-06-17/detail-inicsrqs9040060.d.html)** 面向开发者由Open AI推出的桌面办公智能体Codex周活突破500万
+- **[云手机未来发展趋势:AI+云手机,智能体部署新范式](https://cloud.tencent.com/developer/article/2692031)** AI Agent部署新范式：自主性、交互性、持续性三大特征
+
 ### 2026-06-17
 - **[别再死磕提示词了!2026 AI新范式Loop Engineering](https://baijiahao.baidu.com/s?id=1868161276632377042)** OpenCLAW创始人单篇内容斩获820万阅读，AI Agent应设计循环来指挥
 - **[当AI Agent开始工作,安全该如何跟上?](https://baijiahao.baidu.com/s?id=1868149347952798842)** AgentDoG 1.5开源发布，AI Agent正在从聊天助手走向工作伙伴

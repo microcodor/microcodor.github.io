@@ -8,6 +8,13 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 
+### 2026-06-18
+- **[别再只做 Demo 了:独立开发者该去哪里找用户?](https://new.qq.com/rain/a/20260617A00TF000)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
+- **[聚焦"构建AI原生组织",数据同学会第9站走进海尔智家](https://qd.ifeng.com/c/8u1ioyHT7X0)** 海尔智家H-work"四个统一"搭建AI底层支撑，统一入口、能力、数据、架构
+- **[深度剖析AI Agent体系:主流工作流、四类架构模式与演进方向解析](https://zhuanlan.zhihu.com/p/2050594565145605061)** AI Agent四大核心能力：环境感知与自适应、决策闭环优化、任务执行与结果反馈、自主进化
+- **[Bun 深度实战:当 JavaScript 运行时从 Zig 迁移到 Rust](https://www.chenxutan.com/d/3650.html)** Bun约6天完成近百万行代码从Zig到Rust的重写，提交数达6755次
+- **[从高考数学满分到AI辅助填志愿,国产大模型走到哪一步了?](https://finance.sina.cn/2026-06-17/detail-inictnum7014254.d.html)** 2026高考AI实测：元宝数学150分满分，国产大模型开始逼近全球第一梯队
+
 ### 2026-06-17
 - **[Automation Workflow设计:让AI自己跑起来](https://duanzhihua.blog.csdn.net/article/details/162032291)** 人类需要休息AI不需要，自进化Automation Workflow实现7×24自主运转
 - **[Agentic ERP转型路线图](https://www.163.com/dy/article/KVIDFAOQ05118ARK.html)** 95%的Agentic AI项目卡在Pilot地狱，三大模型教你规划落地

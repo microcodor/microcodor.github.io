@@ -8,6 +8,13 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 
+### 2026-06-18
+- **[AIEC 2026:今天起,Agent开始成为企业里的「新员工」](https://www.163.com/dy/article/KVKJ6S580511AQHO.html)** AIEC 2026大会上，Harness概念走红，模型是引擎，Harness是让引擎跑在路上的整车，一切向实用和落地服务
+- **[2025年必看:7款热门AI Agent平台横评](https://www.sohu.com/a/1037838601_122635041)** 字节跳动Coze(扣子)、Dify等7款主流AI Agent平台详细评测
+- **[2025 年必备的 15 款开源 AI 测试工具](https://developer.cloud.tencent.com/article/2691409)** AI Testing Agent等15款开源AI测试工具，专为软件测试设计的开源AI代理
+- **[10亿AI人口背后,Agent改写App](https://m.thepaper.cn/newsDetail_forward_33396415)** AI版支付宝推出"阿宝"，Agent正从聊天框走向办事入口，超级App开启AI化改造
+- **[AI Agent Harness Engineering 创业赛道图谱:2026 年最值得布局的 5 个垂直领域](https://blog.csdn.net/2501_91590464/article/details/162077706)** 2026年AI Agent创业赛道图谱，5个垂直领域值得布局
+
 ### 2026-06-17
 - **[别再只做Demo了:独立开发者该去哪里找用户?](https://m.huxiu.com/article/4867931.html)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
 - **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始先理解界面再执行动作
