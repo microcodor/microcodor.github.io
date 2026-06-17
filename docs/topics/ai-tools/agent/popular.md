@@ -9,6 +9,13 @@ description: AI Agent 框架最新发展和趋势
 ## 近期动态
 
 ### 2026-06-17
+- **[别再只做Demo了:独立开发者该去哪里找用户?](https://m.huxiu.com/article/4867931.html)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
+- **[AI这三年长出的10种企业交付能力,正在拉开差距](https://view.inews.qq.com/a/20260520A04MO900)** Computer Use降低跨系统操作成本，AI开始先理解界面再执行动作
+- **[Top 10 AI Automation Platforms to Transform Your Business in 2026](https://www.domo.com/learn/article/ai-automation-platforms)** AI自动化平台结合机器学习、NLP和工作流编排，自动化传统规则工具无法处理的任务
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/rv3308/article/details/162041977)** 自进化Automation Workflow实现7×24自主运转，感知能力、自适应能力、自进化能力三大本质区别
+- **[别只盯着ChatGPT和Manus:这些小众AI工具反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow语音输入、Granola会议纪要、Napkin AI文字转图、阿可AI通用Agent工作台
+
+### 2026-06-17
 - **[10亿AI人口背后，Agent改写App](https://baijiahao.baidu.com/s?id=1868171452444748350)** AI版支付宝推出"阿宝"，Agent正从聊天框走向办事入口，超级App开启AI化改造
 - **[双第一!火山引擎领跑中国智能体开发平台市场](http://news.10jqka.com.cn/20260616/c677495772.shtml)** 火山引擎以17.8%份额领跑私有化市场、19.3%领跑公有云市场
 - **[Meta全面推出Business Agent](https://tech.ifeng.com/c/8u0ScWZctN4)** Meta发布AI赋能业务消息解决方案，让每家企业轻松拥有懂业务、能交易的AI智能体
