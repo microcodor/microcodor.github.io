@@ -9,6 +9,13 @@ description: AI Agent 框架最新发展和趋势
 ## 近期动态
 
 ### 2026-06-17
+- **[银行迈入"AI+"时代](https://finance.eastmoney.com/a/202606163773051185.html)** 2025年AI Agent元年开启，Agent成为海内外大厂兵家必争之地
+- **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
+- **[全球顶级CRO已验证、AI Agent就绪:魔方网表是新药研发数字化底座正确答案](https://baijiahao.baidu.com/s?id=1868044567846309799&wfr=spider&for=pc)** FDA部署Agentic AI能力，药企必须拥抱AI Agent但需合规操作可追溯
+- **[AI Agent如何重构商业逻辑|聊懂新"新三样"](https://baijiahao.baidu.com/s?id=1868054162547338279&wfr=spider&for=pc)** 2026年行业讨论重点从技术概念走向大众认知
+- **[Agent Zero](https://baike.baidu.com/item/Agent%20Zero/67467617)** 基于Python的开源AI智能体框架，构建动态有机增长的个人AI助手
+
+### 2026-06-17
 - **[10亿AI人口背后，Agent改写App](https://baijiahao.baidu.com/s?id=1868171452444748350&wfr=spider&for=pc)** AI版支付宝推出"阿宝"，Agent正从聊天框走向办事入口，超级App开启AI化改造
 - **[双第一!火山引擎领跑中国智能体开发平台市场](http://news.10jqka.com.cn/20260616/c677495772.shtml)** 火山引擎以17.8%份额领跑私有化市场、19.3%领跑公有云市场
 - **[Meta全面推出Business Agent](https://tech.ifeng.com/c/8u0ScWZctN4)** Meta发布AI赋能业务消息解决方案，让每家企业轻松拥有懂业务、能交易的AI智能体
