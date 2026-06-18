@@ -9,10 +9,10 @@ description: OpenClaw 社区更新、技能与工具
 ## 近期动态
 
 ### 2026-06-18
-- **[招商证券:AI Agent破圈推动智能体商业化加速落地](http://app.myzaker.com/news/article.php?pk=6a3356678e9f09638b582ad6)** OpenClaw类产品破圈，推动行业概念革新
-- **[MIAOYUN|每周AI新鲜事儿 260515](http://k.sina.com.cn/article_7857141524_1d452771401903da5m.html)** 阶跃星辰、面壁智能、蚂蚁百灵发布新模型
-- **[OpenClaw原生适配Windows,微软让PC成为AI Agent运行底座](https://n.znds.com/article/69491.html)** 2026.6.1版本实现Windows原生支持
-- **[OpenClaw 2026.5.12:17项新功能+20+安全加固](https://post.smzdm.com/p/a034nmqz/)** ACP故障转移、多Agent协作增强、本地模型调度
+- **[当AI Agent开始工作,安全该如何跟上?AgentDoG 1.5开源发布](https://baijiahao.baidu.com/s?id=1868149347952798842&wfr=spider&for=pc)** AI Agent安全框架开源
+- **[🦞 OpenClaw 生态日报 2026-06-15](https://github.com/kakapez/agents-radar/issues/344)** Telegram渠道增强，全新SQLite会话存储
+- **[告别Docker!OpenClaw v2026.6.1 Windows原生安装全攻略](https://weibo.com/ttarticle/p/show?id=2309405308991671763023)** Windows原生支持，16亿台设备加入
+- **[OpenClaw 2026.6.8 更新一览](https://www.scensmart.com/news/update-list-of-openclaw-2026-6-8/)** 221个PR合入，三大核心稳定性能提升
 
 ### 2026-06-18
 - **[OpenClaw 2026.6.8 更新一览](https://www.scensmart.com/news/update-list-of-openclaw-2026-6-8/)** 221个合入PR，3个Beta版本，10天迭代周期

@@ -28,6 +28,8 @@ description: AI 产品发布动态
 ### 2026-06-18
 - **[蚂蚁彭翼捷:AI时代,技术不仅要走向远方,更要抵达每一个具体的人](https://baijiahao.baidu.com/s?id=1868249619099953787)** 蚂蚁集团发布2025可持续发展报告，三力一底座行动框架
 - **[跨境电商进入"效率焦虑"深水区,LinkFox AI将推系统级人效解决方案](http://finance.sina.com.cn/tech/roll/2026-06-17/doc-inictaer7036125.shtml)** LinkFox AI 2026产品发布会聚焦运营自动化
+- **[成本传导叠加供需缺口,国产AI芯片涨价窗口开启](https://baijiahao.baidu.com/s?id=1868217268113197872&wfr=spider&for=pc)** 国产AI芯片正迎来涨价窗口
+- **[云鲸亮相AWE 2025:发布AI活水履带洗地机器人逍遥002](https://k.sina.cn/article_7857141524_1d452771401903cshm.html)** 云鲸发布6款智能清洁产品
 - **[成本传导叠加供需缺口,国产AI芯片涨价窗口开启](https://baijiahao.baidu.com/s?id=1868217268113197872)** 国产AI芯片正迎来涨价窗口，2025-2027存在供需缺口
 - **[云鲸亮相AWE 2025:发布AI活水履带洗地机器人逍遥002等6款智能清洁产品](https://k.sina.cn/article_7857141524_1d452771401903cshm.html)** 云鲸发布6款智能清洁产品，海外营收同比增长近7倍
 - **[科创芯片ETF博时(588990)涨超2%冲击3连涨](https://baijiahao.baidu.com/s?id=1868225165009442667)** 阿里云真武AI芯片在金融行业部署规模突破10万卡

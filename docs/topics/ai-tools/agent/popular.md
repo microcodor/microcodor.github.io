@@ -10,6 +10,13 @@ description: AI Agent 框架最新发展和趋势
 
 ### 2026-06-18
 - **[HDC 2026 深度解构:鸿蒙全面向 Agent 架构演进,小艺做了这三件事](https://baijiahao.baidu.com/s?id=1867973631025163402&wfr=spider&for=pc)** 鸿蒙智能体框架2.0，小艺成为系统智慧大脑
+- **[鸿蒙智能体框架](https://baike.baidu.com/item/鸿蒙智能体框架/65804003)** 华为发布Harmony Agent Framework，赋能第三方生态应用智能化升级
+- **[企业级AI Agent技术架构设计:从原型到生产的可实操指南](https://blog.csdn.net/m0_37988015/article/details=161917425)** 五层企业级Agent框架EAAF
+- **[从Context 工程到 Harness工程:AI 从 Framework 到 Agent Platform 的路径转变](https://zhuanlan.zhihu.com/p/2049200968378716198)** 七层分类ETCLOVG系统
+- **[2025年AI Agent产线落地实战:从场景切片到工具链工程化](https://adg.csdn.net/6a31128b10ee7a33f27dd53a.html)** 17个不同形态Agent系统部署经验
+
+### 2026-06-18
+- **[HDC 2026 深度解构:鸿蒙全面向 Agent 架构演进,小艺做了这三件事](https://baijiahao.baidu.com/s?id=1867973631025163402&wfr=spider&for=pc)** 鸿蒙智能体框架2.0，小艺成为系统智慧大脑
 - **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent被黑客用作自主网络攻击，80%-90%攻击任务由AI自主执行
 - **[东软睿驰AI汽车全栈产品亮相2025上海国际车展](https://k.sina.cn/article_7857141524_v1d4527714019039b9w.html)** NeuSAR AI Framework为AI Agent提供开发框架
 - **[2025年11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** LangChain、CrewAI、AutoGen等11大主流框架对比
