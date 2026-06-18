@@ -9,6 +9,14 @@ description: AI Agent 框架最新发展和趋势
 ## 近期动态
 
 ### 2026-06-18
+- **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
+- **[AI Agent智能体技术发展报告(2026)](https://blog.csdn.net/Trb701012/article/details/162026564)** 中国工业互联网研究院发布《AI Agent智能体技术发展报告》，四大模块与协同系统
+- **[全球顶级CRO已验证、AI Agent就绪:魔方网表是新药研发数字化底座正确答案](https://baijiahao.baidu.com/s?id=1868044567846309799)** FDA部署Agentic AI能力，药企必须拥抱AI Agent但需合规操作可追溯
+- **[2025年必看:7款热门AI Agent平台横评](https://www.sohu.com/a/1037838601_122635041)** 字节跳动Coze(扣子)、Dify等7款主流AI Agent平台详细评测
+- **[彻底搞懂AI Agent:从原理、主流框架到到实战落地](https://zhuanlan.zhihu.com/p/2048693713447151422)** AI Agent核心公式与主流框架对比
+- **[AI Agent 跃迁:从聊天助手到自主行动者,2026年40%企业将拥抱变革](https://blog.csdn.net/2401_85343303/article/details/161961139)** 三层协议栈MCP、A2A、AG-UI成为Agent通信标准
+
+### 2026-06-18
 - **[AIEC 2026:今天起,Agent开始成为企业里的「新员工」](https://www.163.com/dy/article/KVKJ6S580511AQHO.html)** AIEC 2026大会上，Harness概念走红，模型是引擎，Harness是让引擎跑在路上的整车，一切向实用和落地服务
 - **[2025年必看:7款热门AI Agent平台横评](https://www.sohu.com/a/1037838601_122635041)** 字节跳动Coze(扣子)、Dify等7款主流AI Agent平台详细评测
 - **[2025 年必备的 15 款开源 AI 测试工具](https://developer.cloud.tencent.com/article/2691409)** AI Testing Agent等15款开源AI测试工具，专为软件测试设计的开源AI代理

@@ -9,6 +9,14 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-18
+- **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
+- **[ChatGPT市场份额首次跌破50%](https://www.163.com/dy/article/KVM7JTVN05561FZH.html)** Sensor Tower数据ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[Claude、GPT、Gemini 三大模型怎么选?2026年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details/161930109)** Claude、GPT、Gemini三家走出不同路线，按场景选型
+- **[6月AI史诗级混战:Claude登顶估值榜,GPT-5.6紧急救场](https://news.sohu.com/a/1035456719_121869969)** Anthropic估值达9650亿美元，Claude Fable 5发布
+- **[2026年三模型协同工作法:Gemini+GPT+Claude如何一站式解决复杂任务](https://www.elecfans.com/d/7988682.html)** 三模型各司其职，交叉验证优势互补
+- **[2026年6月AI四大模型最新排名:别看跑分了,看场景](https://zhuanlan.zhihu.com/p/2049775079383360182)** Claude Opus 4.8 Agent场景登顶，DeepSeek性价比碾压
+
+### 2026-06-18
 - **[ChatGPT市占率首次跌破50%:受Gemini、Claude崛起冲击](https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicthnr3818084.shtml)** Sensor Tower报告称ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
 - **[ChatGPT月活份额首次跌破50% 谷歌、Anthropic快速瓜分市场](https://news.mydrivers.com/1/1130/1130313.htm)** Gemini受益于谷歌生态系统的全面整合，Claude凭借生产力场景口碑，用户留存率正不断逼近ChatGPT
 - **[Sensor Tower:2026年全球AI助手市场ChatGPT份额首跌破50%降至46.4%](http://finance.sina.com.cn/tech/roll/2026-06-17/doc-inictnur5982071.shtml)** 市场格局的真正变化在于用户习惯——不再默认只打开一个AI助手，而是在ChatGPT、Gemini、Claude等产品之间灵活切换

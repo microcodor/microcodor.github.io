@@ -9,6 +9,14 @@ description: OpenClaw 社区更新、技能与工具
 ## 近期动态
 
 ### 2026-06-18
+- **[OpenClaw 2026.6.8 更新一览](https://www.scensmart.com/news/update-list-of-openclaw-2026-6-8/)** 221个合入PR，3个Beta版本，10天迭代周期
+- **[🦞 OpenClaw 生态日报 2026-06-15](https://github.com/kakapez/agents-radar/issues/344)** Telegram渠道交付增强，全新SQLite会话存储
+- **[告别Docker!OpenClaw v2026.6.1 Windows原生安装全攻略](https://weibo.com/ttarticle/p/show?id=2309405308991671763023)** Windows原生支持，16亿台设备加入AI Agent网络
+- **[OpenClaw + GLM 5.1 = 免费 AI Agent](https://cloud.tencent.com/developer/article/2689480)** Ollama+GLM-5.1+OpenClaw免费搭建AI助手
+- **[3月爆火,6月OpenClaw就没人用了?](https://zhuanlan.zhihu.com/p/2049447488424302509)** OpenClaw持续更新，v2026.5.28版本发布
+- **[OpenClaw GitHub星标突破30万:2026现象级AI Agent框架核心优势全景拆解](https://www.sohu.com/a/1035993708_122802957)** 5400+技能插件，6个月从10万星到30万星
+
+### 2026-06-18
 - **[OpenClaw 2026.6.8 更新一览](https://www.scensmart.com/news/update-list-of-openclaw-2026-6-8/)** 221个合入PR，3个Beta版本，10天迭代周期，韧性与体验成核心关键词
 - **[AI Agent部署新选择:腾讯云手机构建智能体执行环境](https://cloud.tencent.com/developer/article/2691993)** 腾讯云手机为AI Agent提供执行环境，从AutoGPT到OpenClaw，AI Agent正在以惊人速度渗透各行各业
 - **[阿里云AI Agent落地全链路拆解:打通大模型推理,构建具备自主执行能力的业务智能体](https://zhuanlan.zhihu.com/p/2050555936423653916)** 阿里云部署AI Agent基于百炼平台千问系列大模型，搭配OpenClaw等主流Agent运行框架

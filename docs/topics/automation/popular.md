@@ -9,6 +9,16 @@ description: AI 自动化工作流工具
 ## 近期动态
 
 ### 2026-06-18
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/rv3308/article/details/162041977)** 自进化Automation Workflow实现7×24自主运转，感知/自适应/自进化三大本质
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化深度评测
+- **[AI 选品工作流怎么搭?Claude Code + Cursor + n8n + Sorftime](https://zhuanlan.zhihu.com/p/2049923367113864142)** 4层架构+5步流水线，79个MCP工具覆盖六大平台
+- **[AI 自动化工作流搭建:从零散工具到编排引擎](https://blog.csdn.net/weixin_49475940/article/details/161999857)** 从零散工具到编排引擎，开发者生产力的系统化提升
+- **[零成本搭建AI工作流的5大工具对比表](http://www.qib.cn/articles/7768-ai-5.html)** Google Apps Script、Zapier、Airtable等5款零成本工具对比
+- **[AI重塑SOC:当90%的告警实现全自动处理](https://www.163.com/dy/article/KVF9M8B90511ALHJ.html)** 智能工作流实现从数据摄入到审计追踪的全链路闭环
+- **[豆包AI怎么创建工作流自动化?](https://k.sina.cn/article_7857201856_1d45362c001906snq0.html)** 五种路径实现工作流自动化
+
+### 2026-06-18
 - **[别再只做 Demo 了:独立开发者该去哪里找用户?](https://new.qq.com/rain/a/20260617A00TF000)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
 - **[聚焦"构建AI原生组织",数据同学会第9站走进海尔智家](https://qd.ifeng.com/c/8u1ioyHT7X0)** 海尔智家H-work"四个统一"搭建AI底层支撑，统一入口、能力、数据、架构
 - **[深度剖析AI Agent体系:主流工作流、四类架构模式与演进方向解析](https://zhuanlan.zhihu.com/p/2050594565145605061)** AI Agent四大核心能力：环境感知与自适应、决策闭环优化、任务执行与结果反馈、自主进化
