@@ -14,6 +14,12 @@ description: OpenClaw 社区更新、技能与工具
 
 ## 近期动态
 
+### 2026-06-19
+- **[招商证券:AI Agent破圈推动智能体商业化加速落地](http://app.myzaker.com/news/article.php?pk=6a3356678e9f09638b582ad6)** "龙虾"类产品破圈推动行业概念革新，OpenClaw开源生态引发更新
+- **[字节跳动AI Agent平台扣子Coze上线3.0版本:支持Openclaw、Claude Code一键接入](https://baijiahao.baidu.com/s?id=1866845907246278034)** Coze 3.0支持接入OpenClaw、Claude Code等本地Agent
+- **[OpenClaw原生适配Windows,微软让PC成为AI Agent运行底座](https://n.znds.com/article/69491.html)** 2026.6.1版本实现Windows原生支持，全球16亿Windows PC成为AI Agent运行底座
+- **[开源Agent先驱OpenClaw退潮:不是伪需求,而是被大厂"器官移植"了](https://news.qq.com/rain/a/20260616A0216L00)** OpenClaw为OpenAI、Claude等大厂探路，揭示AI时代残酷法则
+
 ### 2026-06-18
 - **[当AI Agent开始工作,安全该如何跟上?AgentDoG 1.5开源发布](https://baijiahao.baidu.com/s?id=1868149347952798842&wfr=spider&for=pc)** AI Agent安全框架开源
 - **[🦞 OpenClaw 生态日报 2026-06-15](https://github.com/kakapez/agents-radar/issues/344)** Telegram渠道增强，全新SQLite会话存储

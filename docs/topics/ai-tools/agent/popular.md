@@ -15,6 +15,13 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 
+### 2026-06-19
+- **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，选型直接影响开发效率
+- **[2025-2026全球AI Agent框架深度解析:告别概念验证,拥抱工程化未来](https://agent.csdn.net/6a3005d2662f9a54cb7f7f1e.html)** 全球主流框架分层，四大梯队格局形成
+- **[AI Agent技术架构与规模化应用:2025年技术深度解析](https://blog.csdn.net/shaobingj126/article/details/161383231)** AI Agent四大核心能力：规划、记忆、工具调用、行动
+- **[迈向协作时代:2025 AI Agent技术生态与架构全景解析](http://www.gameyeah.net/articles/06-10-迈向协作时代-2025-AI-Agent-技术生态与架构全景解析.html)** Subagent vs Agent Team两种协作模式对比
+- **[2025 AI Agent五大可落地工作流模式](https://blog.csdn.net/weixin_30296995/article/details/161848114)** 自主性、可观察性与可干预性实战指南
+
 ### 2026-06-18
 - **[HDC 2026 深度解构:鸿蒙全面向 Agent 架构演进,小艺做了这三件事](https://baijiahao.baidu.com/s?id=1867973631025163402&wfr=spider&for=pc)** 鸿蒙智能体框架2.0，小艺成为系统智慧大脑
 - **[鸿蒙智能体框架](https://baike.baidu.com/item/鸿蒙智能体框架/65804003)** 华为发布Harmony Agent Framework，赋能第三方生态应用智能化升级

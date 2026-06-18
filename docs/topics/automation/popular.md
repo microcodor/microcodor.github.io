@@ -15,6 +15,13 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 
+### 2026-06-19
+- **[别再只做Demo了:独立开发者该去哪里找用户?](https://news.qq.com/rain/a/20260617A00TF000)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
+- **[Top 10 AI Automation Platforms to Transform Your Business in 2026](https://www.domo.com/learn/article/ai-automation-platforms)** AI自动化平台结合机器学习、NLP和工作流编排
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/2501_94271330/article/details/162056512)** 自进化Automation Workflow实现7×24自主运转
+- **[别只盯着ChatGPT和Manus:这些小众AI工具,反而更适合日常工作](https://zhuanlan.zhihu.com/p/2040744397206181612)** Wispr Flow、Granola、Napkin AI等小众工具推荐
+- **[AI智能体正在被滥用:很多产品其实只是工作流](https://www.sohu.com/a/1027400511_122067411)** Workflow vs Agent核心差距：执行流程 vs 完成目标
+
 ### 2026-06-18
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作
 - **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/rv3308/article/details=162041977)** 自进化Automation Workflow实现7×24自主运转

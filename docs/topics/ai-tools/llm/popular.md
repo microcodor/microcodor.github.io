@@ -14,6 +14,12 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 
+### 2026-06-19
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%
+- **[Sensor Tower:ChatGPT全球份额跌破50%,Gemini与Claude加速追赶](https://baijiahao.baidu.com/s?id=1868205585701747295)** ChatGPT份额跌破50%，Gemini 27.7%，Claude 10.3%
+- **[Claude、GPT、Gemini 三大模型怎么选?2026年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details/161930109)** Claude、GPT、Gemini三家走出不同路线，按场景选型
+- **[Gemini Pro迭代速度落后Claude与GPT,Google AI性能差距扩大](https://www.tmtpost.com/agent/ai-article/17737)** Gemini Pro上次更新为2月3.1 Pro版本，迭代速度落后
+
 ### 2026-06-18
 - **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
 - **[ChatGPT市场份额首次跌破50%](https://www.163.com/dy/article/KVM7JTVN05561FZH.html)** Sensor Tower数据ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
