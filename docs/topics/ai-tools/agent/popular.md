@@ -14,6 +14,12 @@ description: AI Agent 框架最新发展和趋势
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 
 ## 近期动态
+### 2026-06-19
+- **[知道创宇入局企业AI Agent 网安厂商能否凭数据安全、AI攻防开辟差异化赛道?](https://baijiahao.baidu.com/s?id=1868346842095041096)** 2025年国内活跃企业智能体已接近200万个，市场规模从212亿元跃升至449亿元
+- **[2025生成式人工智能行业网络数据安全风险评估工作手册](https://zhuanlan.zhihu.com/p/2049423503686907104)** 生成式AI的安全风险从理论威胁变成真实攻击面，提示注入、Agent权限滥用纳入评估
+- **[Harness Engineering:解锁大模型潜力的缰绳工程](https://cloud.tencent.com/developer/article/2692845)** 超过40%的职场人表示AI工具输出质量存在显著波动
+- **[2026美图影像节:Agent交付成果,美图打开AI应用变现新通道](https://baijiahao.baidu.com/s?id=1868335539897459842)** 一口气推出Picchi、Artflo等四款新品
+- **[人形机器人将拥有身份证，2025年全国活跃数据总量同比增长28.46%](https://baijiahao.baidu.com/s?id=1868326706676579760)** 两部门启动2026年度人形机器人与具身智能实景实训专项行动
 
 ### 2026-06-19
 - **[2025年三大AI Agent框架选型:谁更适合你的项目](https://www.163.com/dy/article/KTBNC11905561FZE.html)** LangChain、AutoGen、CrewAI三大主流框架对比，选型直接影响开发效率

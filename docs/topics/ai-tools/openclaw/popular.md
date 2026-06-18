@@ -13,6 +13,12 @@ description: OpenClaw 社区更新、技能与工具
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式网络
 
 ## 近期动态
+### 2026-06-19
+- **[OpenClaw.NET 重大更新:Goal 机制登场](https://www.cnblogs.com/shanyou/p/20642014)** 首次为.NET生态带来会话级持久化目标管理，解决Agent半途而废问题
+- **[招商证券:AI Agent破圈推动智能体商业化加速落地](https://news.sohu.com/a/1038236736_122021998)** 2026年初OpenClaw破圈推动行业概念革新
+- **[OpenClaw 升级翻车实录:12个AI员工集体罢工](https://cloud.tencent.com/developer/article/2693038)** 旧版本Clawdbot残魂不散，Gateway缓存配置问题
+- **[OpenClaw MetaSKILLs 系统深度解析:AI Agent正在学会自己给自己写技能](https://news.sohu.com/a/1038153176_121124363)** 42,551行新增代码、83个文件、35个commits
+- **[大厂裁员后,我发现一个人干不过5个AI同事](https://cloud.tencent.com/developer/article/2693187)** 40+老登实测Agent Teams，一个人查bug vs 5个AI一起查
 
 ### 2026-06-19
 - **[招商证券:AI Agent破圈推动智能体商业化加速落地](http://app.myzaker.com/news/article.php?pk=6a3356678e9f09638b582ad6)** "龙虾"类产品破圈推动行业概念革新，OpenClaw开源生态引发更新

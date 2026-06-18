@@ -14,6 +14,12 @@ description: AI 自动化工作流工具
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
 
 ## 近期动态
+### 2026-06-19
+- **[揭秘Vibe Workflow:朱啸虎领投,前coze核心团队产品](https://cloud.tencent.com/developer/article/2693124)** AI工作流工具特点与门槛，n8n、Dify、Coze对比
+- **[腾讯来了!BAT再度聚齐网盘赛道,只为做Agent时代的个人数据中心](https://baijiahao.baidu.com/s?id=1868313968873029478)** 腾讯网盘六项能力，多应用数据互通、OneID统一身份
+- **[怎么用AI生成模特商拍图?电商AI模特商拍工具分享](https://www.bilibili.com/read/cv50669242/)** 易可图、Lalaland.ai等实用工具
+- **[Genesis AI 发了一款三折叠机器人](https://baijiahao.baidu.com/s?id=1868321678616900706)** Eno通用机器人，身体是可折叠、可调节的躯干结构
+- **[AI漫剧工业化:腾讯WorkRally以智能流水线攻克精品内容产能瓶颈](https://cloud.tencent.com/developer/article/2693080)** 端到端自动生成平台，可控生成与工业化调用
 
 ### 2026-06-19
 - **[别再只做Demo了:独立开发者该去哪里找用户?](https://news.qq.com/rain/a/20260617A00TF000)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键

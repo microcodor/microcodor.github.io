@@ -13,6 +13,12 @@ description: 主流大模型能力对比与选型参考
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
 
 ## 近期动态
+### 2026-06-19
+- **[突发!谷歌Gemini联席负责人被OpenAI挖了](https://www.163.com/dy/article/KVN0DFMQ051180F7.html)** Transformer之父Noam Shazeer加入OpenAI担任架构研究负责人
+- **[人工智能赋能数学研究的边界](http://www.xinhuanet.com/liangzi/20260618/6743dba7a2c44bf4a900022c1d09cbc1/c.html)** 诸多技术突破都依托GPT、Gemini、Claude等通用大语言模型实现
+- **[别再纠结用哪个 AI 了:GPT5.5、Claude、Gemini、DeepSeek 多模型分工实战指南](https://developer.cloud.tencent.com/article/2693117)** 国内网络环境下可以直接访问主流AI能力
+- **[突发!Transformer之父告别谷歌,转投OpenAI](https://baijiahao.baidu.com/s?id=1868300575334328220)** 今天每一个大模型底层全部脱胎于Transformer论文
+- **[27亿美元都没留住!Transformer之父再别谷歌](https://baijiahao.baidu.com/s?id=1868313804279844756)** OpenAI CEO称我等了他10年
 
 ### 2026-06-19
 - **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude提升至9.8%
