@@ -3,6 +3,12 @@ title: 大模型评测清单
 description: 主流大模型能力对比与选型参考
 ---
 
+### 2026-06-18
+- **[ChatGPT市场份额首次跌破50%](https://www.163.com/dy/article/KVM7JTVN05561FZH.html)** Sensor Tower报告ChatGPT份额降至46.4%，Gemini达27.7%，Claude为10.3%
+- **[Claude Fable 5发布](https://news.sohu.com/a/1035456719_121869969)** Claude Fable 5发布，Anthropic估值9650亿美元反超OpenAI
+- **[2026主流AI大模型深度横评](https://g.pconline.com.cn/ai/article/1601350.html)** GPT、Claude、Gemini、国产模型实测对比
+- **[AI四大模型最新排名:别看跑分了,看场景](https://zhuanlan.zhihu.com/p/2049775079383360182)** Claude Opus 4.8编程领先，Agent场景Claude反超登顶
+
 ### 2026-06-12
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
 

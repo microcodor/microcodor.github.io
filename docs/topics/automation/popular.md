@@ -3,6 +3,13 @@ title: 自动化工具
 description: AI 自动化工作流工具
 ---
 
+### 2026-06-18
+- **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/rv3308/article/details/162041977)** 自进化Automation Workflow实现7×24自主运转
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化
+- **[AI 选品工作流怎么搭?Claude Code + Cursor + n8n + Sorftime](https://zhuanlan.zhihu.com/p/2049923367113864142)** 4层架构+5步流水线
+- **[AI 自动化工作流搭建:从零散工具到编排引擎](https://blog.csdn.net/weixin_49475940/article/details/161999857)** 从零散工具到编排引擎
+
 ### 2026-06-12
 - **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
 

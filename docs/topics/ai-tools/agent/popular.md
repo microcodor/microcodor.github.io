@@ -3,6 +3,13 @@ title: Agent 框架动态
 description: AI Agent 框架最新发展和趋势
 ---
 
+### 2026-06-18
+- **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场
+- **[AI Agent智能体技术发展报告(2026)](https://blog.csdn.net/Trb701012/article/details/162026564)** 中国工业互联网研究院发布AI Agent技术发展报告
+- **[彻底搞懂AI Agent:从原理、主流框架到实战落地](https://zhuanlan.zhihu.com/p/2048693713447151422)** AI Agent核心公式与主流框架对比
+- **[AI Agent 跃迁:从聊天助手到自主行动者,2026年40%企业将拥抱变革](https://blog.csdn.net/2401_85343303/article/details/161961139)** 三层协议栈MCP、A2A、AG-UI成为Agent通信标准
+- **[2025年必看:7款热门AI Agent平台横评](https://www.sohu.com/a/1037838601_122635041)** 字节跳动Coze(扣子)、Dify等7款主流平台评测
+
 ### 2026-06-12
 - **[工业AI Agent安全边界:权限控制、决策审计与人机协同机制](https://www.163.com/dy/article/KV5L19210556ANB7.html)** 我国政府构建工业AI Agent安全的"顶层设计"，权限控制、决策审计与人机协同三大核心支柱
 

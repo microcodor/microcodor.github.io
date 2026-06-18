@@ -3,6 +3,12 @@ title: OpenClaw 生态动态
 description: OpenClaw 社区更新、技能与工具
 ---
 
+### 2026-06-18
+- **[招商证券:AI Agent破圈推动智能体商业化加速落地](http://app.myzaker.com/news/article.php?pk=6a3356678e9f09638b582ad6)** "龙虾"类产品破圈推动行业概念革新，OpenClaw开源生态引发行业更新
+- **[🦞 OpenClaw 生态日报 2026-06-15](https://github.com/kakapez/agents-radar/issues/344)** Telegram渠道增强，全新SQLite会话存储
+- **[告别Docker!OpenClaw v2026.6.1 Windows原生安装全攻略](https://weibo.com/ttarticle/p/show?id=2309405308991671763023)** Windows原生支持，16亿台设备加入AI Agent网络
+- **[OpenClaw + GLM 5.1 = 免费 AI Agent](https://cloud.tencent.com/developer/article/2689480)** Ollama+GLM-5.1+OpenClaw免费搭建AI助手
+
 ### 2026-06-12
 - **[解锁16亿PC!OpenClaw原生适配Windows,AIAgent彻底破圈](https://baijiahao.baidu.com/s?id=1867045180421943161)** 2026.6.1版本实现Windows原生支持，全球16亿Windows设备首次纳入分布式网络
 
