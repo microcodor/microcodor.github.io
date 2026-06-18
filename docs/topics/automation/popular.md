@@ -9,6 +9,13 @@ description: AI 自动化工作流工具
 ## 近期动态
 
 ### 2026-06-18
+- **[12 Best AI Automation Tools for 2026](https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows)** Agentforce、Trello、Zapier、Asana、HubSpot等12款工具横向对比
+- **[Go from concept to enterprise-ready automation in seconds](https://go.microsoft.com/fwlink/p/?linkid=2219915&country=tw)** Microsoft AI Workflows自动化高级工作流
+- **[AI Workflow](https://baike.baidu.com/item/AI%20Workflow/67605285)** Dify推出AI Workflow，克服LLM输出不确定性
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/2501_94148835/article/details=162039073)** 自进化Automation Workflow实现7×24自主运转
+- **[Automation Workflow设计:让AI自己跑起来](https://zhuanlan.zhihu.com/p/2050193702392423417)** 感知能力、自适应能力、自进化能力三大本质区别
+
+### 2026-06-18
 - **[Automation](https://www.taskade.com/wiki/automation)** Taskade支持AI Agentic Workflows、104+离散动作、跨平台工作流
 - **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/rv3308/article/details/162041977)** 自进化Automation Workflow实现7×24自主运转，感知/自适应/自进化三大本质
 - **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化深度评测

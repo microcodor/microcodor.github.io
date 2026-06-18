@@ -9,6 +9,13 @@ description: 主流大模型能力对比与选型参考
 ## 近期动态
 
 ### 2026-06-18
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额,后者占比从90%高点降至60%](https://www.163.com/dy/article/KV2FCQJ10519QIKK.html)** 5月Gemini占比29.9%，Claude达9.8%，ChatGPT降至60%
+- **[突发!谷歌Gemini联席负责人,被OpenAI挖了](https://news.sina.cn/ai/2026-06-18-detail-inicuyvv3309659.d.html)** Noam Shazeer加入OpenAI担任架构研究负责人
+- **[Claude、GPT、Gemini 三大模型怎么选?2026年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details=161930109)** 三家走出不同路线，按场景选型
+- **[法巴AI追踪:Gemini与Claude持续蚕食ChatGPT份额](https://m.163.com/dy/article/KV2F3G8U05568W0A.html)** ChatGPT份额从超90%持续下滑
+- **[ChatGPT市场份额首次跌破50%](https://www.163.com/dy/article/KVM7JTVN05561FZH.html)** Sensor Tower数据ChatGPT份额降至46.4%
+
+### 2026-06-18
 - **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
 - **[ChatGPT市场份额首次跌破50%](https://www.163.com/dy/article/KVM7JTVN05561FZH.html)** Sensor Tower数据ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
 - **[Claude、GPT、Gemini 三大模型怎么选?2026年主流大模型侧重点深度解析](https://blog.csdn.net/2601_96321166/article/details/161930109)** Claude、GPT、Gemini三家走出不同路线，按场景选型

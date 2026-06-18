@@ -9,6 +9,13 @@ description: AI Agent 框架最新发展和趋势
 ## 近期动态
 
 ### 2026-06-18
+- **[HDC 2026 深度解构:鸿蒙全面向 Agent 架构演进,小艺做了这三件事](https://baijiahao.baidu.com/s?id=1867973631025163402&wfr=spider&for=pc)** 鸿蒙智能体框架2.0，小艺成为系统智慧大脑
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent被黑客用作自主网络攻击，80%-90%攻击任务由AI自主执行
+- **[东软睿驰AI汽车全栈产品亮相2025上海国际车展](https://k.sina.cn/article_7857141524_v1d4527714019039b9w.html)** NeuSAR AI Framework为AI Agent提供开发框架
+- **[2025年11大AI智能体框架全面对比与实战指南](https://blog.csdn.net/2401_85325557/article/details=159545427)** LangChain、CrewAI、AutoGen等11大主流框架对比
+- **[2025年七大主流AI Agent框架深度解析](https://blog.csdn.net/youmaob/article/details=153869641)** Dify、Coze、LangChain框架深度解析
+
+### 2026-06-18
 - **[AI Agent Skills新拐点:Harness治理框架才是Agent拉开差距的核心](https://zhuanlan.zhihu.com/p/2048716383815472727)** 模型性能触顶，Harness治理框架成为Agent竞争新主战场，工具求精不求多
 - **[AI Agent智能体技术发展报告(2026)](https://blog.csdn.net/Trb701012/article/details/162026564)** 中国工业互联网研究院发布《AI Agent智能体技术发展报告》，四大模块与协同系统
 - **[全球顶级CRO已验证、AI Agent就绪:魔方网表是新药研发数字化底座正确答案](https://baijiahao.baidu.com/s?id=1868044567846309799)** FDA部署Agentic AI能力，药企必须拥抱AI Agent但需合规操作可追溯
