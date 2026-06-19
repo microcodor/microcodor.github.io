@@ -14,6 +14,13 @@ description: 主流大模型能力对比与选型参考
 
 ## 近期动态
 ### 2026-06-19
+- **[ChatGPT全球月活破11亿但份额首跌破50%](https://m.163.com/dy/article/KVINMIKO0511BLFD.html)** ChatGPT份额首次跌破50%，Gemini与Claude加速追赶
+- **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
+- **[2026年三模型协同工作法:Gemini+GPT+Claude如何一站式解决复杂任务](https://www.elecfans.com/d/7988682.html)** 三模型各司其职，交叉验证优势互补
+- **[Sensor Tower报告:ChatGPT全球市场份额首次跌破50%](https://www.sohu.com/a/1037799823_122396381)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[大模型API调用合规指南:GPT-4o、Gemini 1.5与Claude 3.5安全接入实践](https://blog.csdn.net/weixin_32487565/article/details/162053232)** 安全合规接入实践指南
+
+### 2026-06-19
 - **[突发!谷歌Gemini联席负责人被OpenAI挖了](https://www.163.com/dy/article/KVN0DFMQ051180F7.html)** Transformer之父Noam Shazeer加入OpenAI担任架构研究负责人
 - **[人工智能赋能数学研究的边界](http://www.xinhuanet.com/liangzi/20260618/6743dba7a2c44bf4a900022c1d09cbc1/c.html)** 诸多技术突破都依托GPT、Gemini、Claude等通用大语言模型实现
 - **[别再纠结用哪个 AI 了:GPT5.5、Claude、Gemini、DeepSeek 多模型分工实战指南](https://developer.cloud.tencent.com/article/2693117)** 国内网络环境下可以直接访问主流AI能力

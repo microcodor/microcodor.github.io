@@ -15,6 +15,13 @@ description: AI 自动化工作流工具
 
 ## 近期动态
 ### 2026-06-19
+- **[别再只做Demo了:独立开发者该去哪里找用户?](https://news.qq.com/rain/a/20260617A00TF000)** AI产品供给已放大，用户注意力未放大，需求入口才是增长关键
+- **[Automation Workflow设计:让AI自己跑起来](https://blog.csdn.net/2301_76923712/article/details/162056381)** 自进化Automation Workflow实现7×24自主运转
+- **[AI CRM实战指南:线索评分、对话式AI与工作流自动化的深度评测](https://blog.csdn.net/weixin_30467861/article/details/161969770)** 线索评分、对话式AI与工作流自动化
+- **[揭秘Vibe Workflow:朱啸虎领投,前coze核心团队产品](https://cloud.tencent.com/developer/article/2693124)** AI工作流工具特点与门槛，n8n、Dify、Coze对比
+- **[AI 选品工作流怎么搭?Claude Code + Cursor + n8n + Sorftime](https://zhuanlan.zhihu.com/p/2049923367113864142)** 4层架构+5步流水线
+
+### 2026-06-19
 - **[揭秘Vibe Workflow:朱啸虎领投,前coze核心团队产品](https://cloud.tencent.com/developer/article/2693124)** AI工作流工具特点与门槛，n8n、Dify、Coze对比
 - **[腾讯来了!BAT再度聚齐网盘赛道,只为做Agent时代的个人数据中心](https://baijiahao.baidu.com/s?id=1868313968873029478)** 腾讯网盘六项能力，多应用数据互通、OneID统一身份
 - **[怎么用AI生成模特商拍图?电商AI模特商拍工具分享](https://www.bilibili.com/read/cv50669242/)** 易可图、Lalaland.ai等实用工具

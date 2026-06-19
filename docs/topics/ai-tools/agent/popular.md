@@ -15,6 +15,13 @@ description: AI Agent 框架最新发展和趋势
 
 ## 近期动态
 ### 2026-06-19
+- **[AI Agent正在被黑客当成"自动武器",你的企业准备好了吗?](https://cj.sina.com.cn/articles/view/6363067504/17b44b47000101ekmy)** AI Agent被黑客用作自主网络攻击，80%-90%攻击任务由AI自主执行
+- **[2025-2026全球AI Agent框架深度解析:告别概念验证,拥抱工程化未来](https://agent.csdn.net/6a3005d2662f9a54cb7f7f1e.html)** 全球主流框架分层，四大梯队格局形成
+- **[AI Agent智能体技术发展报告(2026)](https://blog.csdn.net/Trb701012/article/details/162026564)** 中国工业互联网研究院发布《AI Agent智能体技术发展报告》
+- **[2026年AI Agent时代下如何打造新一代研发体系](https://cloud.tencent.com/developer/article/2692408)** 从熵增困境到智能工厂的范式重构
+- **[全球顶级CRO已验证、AI Agent就绪:魔方网表是新药研发数字化底座正确答案](https://baijiahao.baidu.com/s?id=1868044567846309799)** FDA部署Agentic AI能力
+
+### 2026-06-19
 - **[知道创宇入局企业AI Agent 网安厂商能否凭数据安全、AI攻防开辟差异化赛道?](https://baijiahao.baidu.com/s?id=1868346842095041096)** 2025年国内活跃企业智能体已接近200万个，市场规模从212亿元跃升至449亿元
 - **[2025生成式人工智能行业网络数据安全风险评估工作手册](https://zhuanlan.zhihu.com/p/2049423503686907104)** 生成式AI的安全风险从理论威胁变成真实攻击面，提示注入、Agent权限滥用纳入评估
 - **[Harness Engineering:解锁大模型潜力的缰绳工程](https://cloud.tencent.com/developer/article/2692845)** 超过40%的职场人表示AI工具输出质量存在显著波动

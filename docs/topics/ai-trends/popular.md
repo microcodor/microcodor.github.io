@@ -31,6 +31,13 @@ description: AI 产品发布动态
 
 ## 近期动态
 ### 2026-06-19
+- **[3亿美元融资、20亿美元估值背后,中国AI应用第一次跑出"产品矩阵"](https://baijiahao.baidu.com/s?id=1868344919912094060)** 演语科技LiblibAI完成近3亿美元B+轮融资，ARR达3亿美元
+- **[万亿企服赛道迎AI"新军",商业咨询首款垂类AI在郑首发](https://baijiahao.baidu.com/s?id=1868341487375200580)** 硕果科技发布商业咨询首款垂类AI产品
+- **[蚂蚁彭翼捷:AI时代,技术不仅要走向远方,更要抵达每一个具体的人](https://baijiahao.baidu.com/s?id=1868234130563487586)** 蚂蚁集团发布2025可持续发展报告
+- **[暴涨!AI智能体大火!机构资金出手抄底这些概念股](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品Manus发布
+- **[跨境电商进入"效率焦虑"深水区,LinkFox AI将推系统级人效解决方案](https://news.yesky.com/hotnews/345/357845.shtml)** LinkFox AI 2026产品发布会
+
+### 2026-06-19
 - **[3亿美元融资、20亿美元估值背后,中国AI应用第一次跑出产品矩阵](https://baijiahao.baidu.com/s?id=1868344919912094060)** 演语科技LiblibAI完成近3亿美元B+轮融资，ARR达3亿美元
 - **[万亿企服赛道迎AI新军,商业咨询首款垂类AI在郑首发](https://baijiahao.baidu.com/s?id=1868341487375200580)** 硕果科技发布商业咨询首款垂类AI产品
 - **[高调牵手华为云、全面转型AI 盈康生命要起飞?](https://baijiahao.baidu.com/s?id=1868298296547150305)** 从AI创新应用平台到肿瘤全周期管理智能体
