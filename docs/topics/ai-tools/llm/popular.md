@@ -13,6 +13,14 @@ description: 主流大模型能力对比与选型参考
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
 
 ## 近期动态
+### 2026-06-19 (百度搜索)
+- **[ChatGPT全球月活破11亿但份额首跌破50%](https://m.163.com/dy/article/KVINMIKO0511BLFD.html)** ChatGPT份额首次跌破50%，Gemini与Claude加速追赶
+- **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
+- **[2026年三模型协同工作法:Gemini+GPT+Claude如何一站式解决复杂任务](https://www.elecfans.com/d/7988682.html)** 三模型各司其职，交叉验证优势互补
+- **[Sensor Tower报告:ChatGPT全球市场份额首次跌破50%](https://www.sohu.com/a/1037799823_122396381)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[突发!谷歌Gemini联席负责人被OpenAI挖了](https://www.163.com/dy/article/KVN0DFMQ051180F7.html)** Transformer之父Noam Shazeer加入OpenAI担任架构研究负责人
+- **[Transformer之父告别谷歌,转投OpenAI](https://baijiahao.baidu.com/s?id=1868300575334328220)** 今天每一个大模型底层全部脱胎于Transformer论文
+
 ### 2026-06-19
 - **[ChatGPT全球月活破11亿但份额首跌破50%](https://m.163.com/dy/article/KVINMIKO0511BLFD.html)** ChatGPT份额首次跌破50%，Gemini与Claude加速追赶
 - **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
