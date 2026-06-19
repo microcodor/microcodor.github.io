@@ -12,6 +12,13 @@ description: 主流大模型能力对比与选型参考
 ### 2026-06-12
 - **[Claude、GPT、Gemini 全灭,SWE-Bench作者新作把AI圈干沉默了](https://www.163.com/dy/article/KV5L19210556ANB7.html)** Meta FAIR发布ProgramBench，所有一线模型0%完成率，AI不会做软件工程
 
+### 2026-06-19
+- **[2026主流AI大模型深度横评:GPT、Claude、Gemini、国产模型实测对比](https://g.pconline.com.cn/ai/article/1601350.html)** 2026支主流大模型横评，豆包成为国产模型实用黑马
+- **[ChatGPT全球月活破11亿但份额首跌破50% Gemini与Claude加速追赶](https://m.163.com/dy/article/KVINMIKO0511BLFD.html)** ChatGPT份额首次跌破50%，Gemini达27.7%，Claude达10.3%
+- **[2026年三模型协同工作法:Gemini+GPT+Claude如何一站式解决复杂任务](https://www.elecfans.com/d/7988682.html)** 三模型各司其职，交叉验证优势互补
+- **[Sensor Tower报告:ChatGPT全球市场份额首次跌破50%](https://www.sohu.com/a/1037799823_122396381)** ChatGPT份额降至46.4%，Gemini达27.7%，Claude达10.3%
+- **[2026年6月AI四大模型最新排名:别看跑分了,看场景](https://zhuanlan.zhihu.com/p/2049775079383360182)** Claude Opus 4.8编程领先，Agent场景Claude反超登顶
+
 ## 近期动态
 ### 2026-06-19 (百度搜索)
 - **[ChatGPT全球月活破11亿但份额首跌破50%](https://m.163.com/dy/article/KVINMIKO0511BLFD.html)** ChatGPT份额首次跌破50%，Gemini与Claude加速追赶

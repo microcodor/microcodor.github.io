@@ -5,9 +5,18 @@ description: AI 产品发布动态
 
 ### 2026-06-18
 - **[蚂蚁彭翼捷:AI时代,技术不仅要走向远方,更要抵达每一个具体的人](https://baijiahao.baidu.com/s?id=1868249619099953787)** 蚂蚁集团发布2025可持续发展报告，三力一底座行动框架
-- **[跨境电商进入“效率焦虑”深水区,LinkFox AI将推系统级人效解决方案](http://finance.sina.com.cn/tech/roll/2026-06-17/doc-inictaer7036125.shtml)** LinkFox AI 2026产品发布会聚焦运营自动化
+- **[跨境电商进入"效率焦虑"深水区,LinkFox AI将推系统级人效解决方案](http://finance.sina.com.cn/tech/roll/2026-06-17/doc-inictaer7036125.shtml)** LinkFox AI 2026产品发布会聚焦运营自动化
 - **[成本传导叠加供需缺口,国产AI芯片涨价窗口开启](https://baijiahao.baidu.com/s?id=1868217268113197872)** 国产AI芯片正迎来涨价窗口
 - **[云鲸亮相AWE 2025:发布AI活水履带洗地机器人逍遥002](https://k.sina.cn/article_7857141524_1d452771401903cshm.html)** 云鲸发布6款智能清洁产品，海外营收同比增长近7倍
+
+### 2026-06-19
+- **[3亿美元融资、20亿美元估值背后,中国AI应用第一次跑出"产品矩阵"](https://baijiahao.baidu.com/s?id=1868344919912094060)** 演语科技ARR达3亿美元，LiblibAI、星流、LibTV构建产品矩阵
+- **[万亿企服赛道迎AI"新军",商业咨询首款垂类AI在郑首发](https://baijiahao.baidu.com/s?id=1868341487375200580)** 硕果科技发布商业咨询垂类AI，"脑手分离"架构
+- **[蚂蚁彭翼捷:AI时代,技术不仅要走向远方,更要抵达每一个具体的人](https://baijiahao.baidu.com/s?id=1868234130563487586)** 蚂蚁集团发布2025可持续发展报告
+- **[Manus一夜刷屏:全球首款通用型AI Agent产品发布](https://wap.eastmoney.com/a/202503063338348120.html)** 全球首款通用Agent产品，性能超越同层次大模型
+- **[云鲸亮相AWE 2025:发布AI活水履带洗地机器人逍遥002等6款智能清洁产品](https://k.sina.cn/article_7857141524_1d452771401903cshm.html)** 云鲸发布6款智能清洁产品，海外营收同比增长近7倍
+- **[loomos AI闪极科技发布AI眼镜产品系列](https://baike.baidu.com/item/loomos%20AI/67146175)** 闪极发布L1与S1两款AI眼镜新品
+- **[夸克AI眼镜 G1正式发布](https://baike.baidu.com/item/夸克AI眼镜%20G1/67033183)** 夸克发布S1、G1两个系列共六款单品
 
 ### 2026-06-13
 - **[AI的下一场革命,智源「押注」世界模型](https://baijiahao.baidu.com/s?id=1867759099730503630)** 世界模型预测"下一个物理状态"而非"下一个Token"，智源研究院提出新方向
